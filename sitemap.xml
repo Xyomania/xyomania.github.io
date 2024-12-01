@@ -2,42 +2,42 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://www.example.com/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
     
       <lastmod>2024-11-30T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://www.example.com/id/sitemap.xml</loc>
+    <loc>http://localhost:1313/id/sitemap.xml</loc>
     
       <lastmod>2024-11-30T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://www.example.com/ja/sitemap.xml</loc>
+    <loc>http://localhost:1313/ja/sitemap.xml</loc>
     
       <lastmod>2024-11-30T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://www.example.com/ru/sitemap.xml</loc>
+    <loc>http://localhost:1313/ru/sitemap.xml</loc>
     
       <lastmod>2024-11-30T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://www.example.com/zh-cn/sitemap.xml</loc>
+    <loc>http://localhost:1313/zh-cn/sitemap.xml</loc>
     
       <lastmod>2024-11-30T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://www.example.com/zh-tw/sitemap.xml</loc>
+    <loc>http://localhost:1313/zh-tw/sitemap.xml</loc>
     
       <lastmod>2024-11-30T00:00:00+00:00</lastmod>
     

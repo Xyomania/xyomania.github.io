@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SEO on AIXWIM</title>
-    <link>http://www.example.com/tags/seo/</link>
+    <link>http://localhost:1313/tags/seo/</link>
     <description>Recent content in SEO on AIXWIM</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/tags/seo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/seo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Make Your Blogging Website Stand Out in 2024</title>
-      <link>http://www.example.com/posts/blogging-tips-2024/</link>
+      <link>http://localhost:1313/posts/blogging-tips-2024/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/blogging-tips-2024/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;blogging tips 2024&#34; src=&#34;http://www.example.com/images/blogging-tips-2024.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Creating a successful blogging website takes more than just a great idea. In today’s oversaturated digital landscape, with countless blogs competing for attention, it’s crucial to distinguish your site from the crowd. Whether you’re launching a new blog or revamping an existing one, the key to building a memorable and engaging platform lies in finding your niche and delivering value in a way that no one else does. Here’s how to craft a blogging website that stands out and attracts loyal readers.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/blogging-tips-2024/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;blogging tips 2024&#34; src=&#34;http://localhost:1313/images/blogging-tips-2024.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Creating a successful blogging website takes more than just a great idea. In today’s oversaturated digital landscape, with countless blogs competing for attention, it’s crucial to distinguish your site from the crowd. Whether you’re launching a new blog or revamping an existing one, the key to building a memorable and engaging platform lies in finding your niche and delivering value in a way that no one else does. Here’s how to craft a blogging website that stands out and attracts loyal readers.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

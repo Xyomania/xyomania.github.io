@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>コンテンツ制作 on AIXWIM</title>
-    <link>http://www.example.com/ja/tags/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E5%88%B6%E4%BD%9C/</link>
+    <link>http://localhost:1313/ja/tags/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E5%88%B6%E4%BD%9C/</link>
     <description>Recent content in コンテンツ制作 on AIXWIM</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/ja/tags/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E5%88%B6%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E5%88%B6%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024年にブログサイトを際立たせる方法</title>
-      <link>http://www.example.com/ja/posts/blogging-tips-2024/</link>
+      <link>http://localhost:1313/ja/posts/blogging-tips-2024/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/ja/posts/blogging-tips-2024/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;blogging tips 2024&#34; src=&#34;http://www.example.com/images/blogging-tips-2024.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;成功するブログサイトを作るには、優れたアイデアだけでは不十分です。今日の飽和したデジタル環境では、無数のブログが注目を集めようと競い合っています。そのため、あなたのサイトを他と差別化することが重要です。新しいブログを立ち上げる場合でも、既存のブログを改善する場合でも、印象的で魅力的なプラットフォームを構築する鍵は、自分のニッチを見つけ、他にはない価値を提供することにあります。以下は、ブログサイトを際立たせ、忠実な読者を惹きつけるための方法です。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/ja/posts/blogging-tips-2024/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;blogging tips 2024&#34; src=&#34;http://localhost:1313/images/blogging-tips-2024.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;成功するブログサイトを作るには、優れたアイデアだけでは不十分です。今日の飽和したデジタル環境では、無数のブログが注目を集めようと競い合っています。そのため、あなたのサイトを他と差別化することが重要です。新しいブログを立ち上げる場合でも、既存のブログを改善する場合でも、印象的で魅力的なプラットフォームを構築する鍵は、自分のニッチを見つけ、他にはない価値を提供することにあります。以下は、ブログサイトを際立たせ、忠実な読者を惹きつけるための方法です。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

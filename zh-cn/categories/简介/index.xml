@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>简介 on AIXWIM</title>
-    <link>http://www.example.com/zh-cn/categories/%E7%AE%80%E4%BB%8B/</link>
+    <link>http://localhost:1313/zh-cn/categories/%E7%AE%80%E4%BB%8B/</link>
     <description>Recent content in 简介 on AIXWIM</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/zh-cn/categories/%E7%AE%80%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/categories/%E7%AE%80%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于我</title>
-      <link>http://www.example.com/zh-cn/about/</link>
+      <link>http://localhost:1313/zh-cn/about/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/zh-cn/about/</guid>
+      <guid>http://localhost:1313/zh-cn/about/</guid>
       <description>&lt;p&gt;欢迎来到我的博客！&lt;/p&gt;&#xA;&lt;p&gt;这个博客是我分享信息、故事和对各种有趣且有用主题的看法的个人空间。我相信，分享知识能帮助每个人学习和成长。&lt;/p&gt;&#xA;&lt;h2 id=&#34;我讨论的话题&#34;&gt;&#xA;  我讨论的话题&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%88%91%e8%ae%a8%e8%ae%ba%e7%9a%84%e8%af%9d%e9%a2%98&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;在这个博客中，您会发现涵盖各种主题的文章，包括：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;购物&lt;/strong&gt;：聪明购物的技巧、产品推荐和在线购物评价。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;商业与金融&lt;/strong&gt;：商业创意、财务管理、投资等。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;游戏&lt;/strong&gt;：最新游戏讨论、游戏玩法技巧以及有趣的游戏推荐。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;宠物与动物&lt;/strong&gt;：宠物护理以及关于动物世界的故事。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;娱乐&lt;/strong&gt;：电影、音乐、书籍和其他娱乐形式。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;兴趣与休闲&lt;/strong&gt;：休闲活动的灵感和探索新兴趣的建议。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;法律与政府&lt;/strong&gt;：法律问题、法规以及政府政策的信息。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;气候&lt;/strong&gt;：关于环境和气候变化的讨论。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;美容与时尚&lt;/strong&gt;：美容趋势、自我护理技巧和最新时尚风格。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;健康&lt;/strong&gt;：保持健康、健身和整体健康的建议。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;其他&lt;/strong&gt;：不属于主要分类但值得探索的主题。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;美食与饮品&lt;/strong&gt;：食谱、美食评论和烹饪技巧。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;运动&lt;/strong&gt;：对喜爱运动的见解和讨论。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;汽车与交通工具&lt;/strong&gt;：汽车新闻、保养技巧等。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;工作与教育&lt;/strong&gt;：职业发展、学习技巧和教育见解。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;政治&lt;/strong&gt;：对当前政治问题的意见和看法。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;科学&lt;/strong&gt;：关于科学世界的新闻和讨论。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;科技&lt;/strong&gt;：最新的科技产品、软件和技术创新。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;旅行与交通&lt;/strong&gt;：旅行目的地、旅行建议和交通选项。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;博客的目的&#34;&gt;&#xA;  博客的目的&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e5%8d%9a%e5%ae%a2%e7%9a%84%e7%9b%ae%e7%9a%84&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;通过这个博客，我希望分享有价值的见解并启发读者。如果您有任何想法，请随时留言或通过联系页面与我联系。&lt;/p&gt;&#xA;&lt;p&gt;感谢您的访问，希望您喜欢这里的文章！&lt;/p&gt;</description>
     </item>
   </channel>
