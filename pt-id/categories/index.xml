@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on AIXWIM</title>
+    <link>http://localhost:1313/pt-id/categories/</link>
+    <description>Recent content in Categories on AIXWIM</description>
+    <generator>Hugo</generator>
+    <language>pt-id</language>
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pt-id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Profil</title>
+      <link>http://localhost:1313/pt-id/categories/profil/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-id/categories/profil/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
