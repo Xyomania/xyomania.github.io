@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/</link>
+    <link>http://www.aixwim.cloud/id/tags/</link>
     <description>Recent content in Tags on AIXWIM</description>
     <generator>Hugo</generator>
     <language>id</language>
     <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.aixwim.cloud/id/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog Pribadi</title>
-      <link>http://localhost:1313/id/tags/blog-pribadi/</link>
+      <link>http://www.aixwim.cloud/id/tags/blog-pribadi/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/tags/blog-pribadi/</guid>
+      <guid>http://www.aixwim.cloud/id/tags/blog-pribadi/</guid>
       <description></description>
     </item>
     <item>
       <title>Blogging</title>
-      <link>http://localhost:1313/id/tags/blogging/</link>
+      <link>http://www.aixwim.cloud/id/tags/blogging/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/tags/blogging/</guid>
+      <guid>http://www.aixwim.cloud/id/tags/blogging/</guid>
       <description></description>
     </item>
     <item>
       <title>Pemasaran Digital</title>
-      <link>http://localhost:1313/id/tags/pemasaran-digital/</link>
+      <link>http://www.aixwim.cloud/id/tags/pemasaran-digital/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/tags/pemasaran-digital/</guid>
+      <guid>http://www.aixwim.cloud/id/tags/pemasaran-digital/</guid>
       <description></description>
     </item>
     <item>
       <title>Pembuatan Konten</title>
-      <link>http://localhost:1313/id/tags/pembuatan-konten/</link>
+      <link>http://www.aixwim.cloud/id/tags/pembuatan-konten/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/tags/pembuatan-konten/</guid>
+      <guid>http://www.aixwim.cloud/id/tags/pembuatan-konten/</guid>
       <description></description>
     </item>
     <item>
       <title>SEO</title>
-      <link>http://localhost:1313/id/tags/seo/</link>
+      <link>http://www.aixwim.cloud/id/tags/seo/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/tags/seo/</guid>
+      <guid>http://www.aixwim.cloud/id/tags/seo/</guid>
       <description></description>
     </item>
     <item>
       <title>Tentang Saya</title>
-      <link>http://localhost:1313/id/tags/tentang-saya/</link>
+      <link>http://www.aixwim.cloud/id/tags/tentang-saya/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/tags/tentang-saya/</guid>
+      <guid>http://www.aixwim.cloud/id/tags/tentang-saya/</guid>
       <description></description>
     </item>
   </channel>
