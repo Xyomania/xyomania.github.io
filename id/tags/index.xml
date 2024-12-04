@@ -1,13 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on AIXWIM</title>
+    <title>Tag on AIXWIM</title>
     <link>http://www.aixwim.cloud/id/tags/</link>
-    <description>Recent content in Tags on AIXWIM</description>
+    <description>Recent content in Tag on AIXWIM</description>
     <generator>Hugo</generator>
     <language>id</language>
-    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alat Developer</title>
+      <link>http://www.aixwim.cloud/id/tags/alat-developer/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/tags/alat-developer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cash Back</title>
+      <link>http://www.aixwim.cloud/id/tags/cash-back/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/tags/cash-back/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://www.aixwim.cloud/id/tags/hugo/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kartu Kredit</title>
+      <link>http://www.aixwim.cloud/id/tags/kartu-kredit/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/tags/kartu-kredit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nasihat Keuangan</title>
+      <link>http://www.aixwim.cloud/id/tags/nasihat-keuangan/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/tags/nasihat-keuangan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pembuat Situs Statis</title>
+      <link>http://www.aixwim.cloud/id/tags/pembuat-situs-statis/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/tags/pembuat-situs-statis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pengembangan Web</title>
+      <link>http://www.aixwim.cloud/id/tags/pengembangan-web/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/tags/pengembangan-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perangkat Lunak Blogging</title>
+      <link>http://www.aixwim.cloud/id/tags/perangkat-lunak-blogging/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/tags/perangkat-lunak-blogging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skor Kredit</title>
+      <link>http://www.aixwim.cloud/id/tags/skor-kredit/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/tags/skor-kredit/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blog Pribadi</title>
       <link>http://www.aixwim.cloud/id/tags/blog-pribadi/</link>
