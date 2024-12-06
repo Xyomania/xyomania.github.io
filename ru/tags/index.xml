@@ -7,7 +7,6 @@
     <generator>Hugo</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
-<<<<<<< HEAD
     <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/ru/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -46,11 +45,6 @@
       <description></description>
     </item>
     <item>
-=======
-    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ru/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
       <title>Hugo</title>
       <link>http://www.aixwim.cloud/ru/tags/hugo/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
@@ -148,15 +142,5 @@
       <guid>http://www.aixwim.cloud/ru/tags/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0/</guid>
       <description></description>
     </item>
-<<<<<<< HEAD
-=======
-    <item>
-      <title>Цифровой Маркетинг</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</guid>
-      <description></description>
-    </item>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
   </channel>
 </rss>

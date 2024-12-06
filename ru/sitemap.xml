@@ -3,11 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.aixwim.cloud/ru/authors/aixwim/</loc>
-<<<<<<< HEAD
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-=======
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,11 +36,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/ru/</loc>
-<<<<<<< HEAD
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-=======
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -77,11 +69,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/ru/authors/</loc>
-<<<<<<< HEAD
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-=======
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -113,7 +101,6 @@
                 href="http://www.aixwim.cloud/ru/authors/"
                 />
   </url><url>
-<<<<<<< HEAD
     <loc>http://www.aixwim.cloud/ru/posts/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -267,8 +254,6 @@
     <loc>http://www.aixwim.cloud/ru/tags/%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
-=======
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
     <loc>http://www.aixwim.cloud/ru/tags/hugo/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -302,78 +287,6 @@
                 href="http://www.aixwim.cloud/ru/tags/hugo/"
                 />
   </url><url>
-<<<<<<< HEAD
-=======
-    <loc>http://www.aixwim.cloud/ru/posts/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.aixwim.cloud/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://www.aixwim.cloud/id/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://www.aixwim.cloud/ja/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://www.aixwim.cloud/ru/posts/"
-                />
-  </url><url>
-    <loc>http://www.aixwim.cloud/ru/series/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.aixwim.cloud/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://www.aixwim.cloud/id/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://www.aixwim.cloud/ja/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://www.aixwim.cloud/ru/series/"
-                />
-  </url><url>
-    <loc>http://www.aixwim.cloud/ru/categories/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B8-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-  </url><url>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
     <loc>http://www.aixwim.cloud/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -422,42 +335,6 @@
     <loc>http://www.aixwim.cloud/ru/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-=======
-    <loc>http://www.aixwim.cloud/ru/categories/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.aixwim.cloud/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://www.aixwim.cloud/id/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://www.aixwim.cloud/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://www.aixwim.cloud/ru/categories/"
-                />
-  </url><url>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
     <loc>http://www.aixwim.cloud/ru/tags/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D1%8B/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -629,12 +506,6 @@
     <loc>http://www.aixwim.cloud/ru/series/%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B3/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-=======
-    <loc>http://www.aixwim.cloud/ru/tags/%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</loc>
-    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
-  </url><url>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
     <loc>http://www.aixwim.cloud/ru/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link

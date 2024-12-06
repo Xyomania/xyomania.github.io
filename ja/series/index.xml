@@ -7,7 +7,6 @@
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
-<<<<<<< HEAD
     <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/ja/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,11 +17,6 @@
       <description></description>
     </item>
     <item>
-=======
-    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ja/series/index.xml" rel="self" type="application/rss+xml" />
-    <item>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
       <title>ウェブ開発ツール</title>
       <link>http://www.aixwim.cloud/ja/series/%E3%82%A6%E3%82%A7%E3%83%96%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>

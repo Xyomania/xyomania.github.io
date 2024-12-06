@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< HEAD
     <loc>http://www.aixwim.cloud/id/tags/affiliate-marketing/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -18,10 +17,6 @@
   </url><url>
     <loc>http://www.aixwim.cloud/id/authors/aixwim/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-=======
-    <loc>http://www.aixwim.cloud/id/authors/aixwim/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,11 +49,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/id/</loc>
-<<<<<<< HEAD
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-=======
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -90,19 +81,8 @@
                 href="http://www.aixwim.cloud/id/"
                 />
   </url><url>
-<<<<<<< HEAD
     <loc>http://www.aixwim.cloud/id/authors/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-=======
-    <loc>http://www.aixwim.cloud/id/tags/alat-developer/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.aixwim.cloud/id/series/alat-pengembangan-web/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.aixwim.cloud/id/authors/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -135,7 +115,6 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</loc>
-<<<<<<< HEAD
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.aixwim.cloud/id/tags/digital-marketing/</loc>
@@ -299,8 +278,6 @@
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.aixwim.cloud/id/series/alat-pengembangan-web/</loc>
-=======
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.aixwim.cloud/id/tags/cash-back/</loc>
@@ -352,42 +329,6 @@
     <loc>http://www.aixwim.cloud/id/tags/kartu-kredit/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-=======
-    <loc>http://www.aixwim.cloud/id/categories/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.aixwim.cloud/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://www.aixwim.cloud/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://www.aixwim.cloud/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://www.aixwim.cloud/id/categories/"
-                />
-  </url><url>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
     <loc>http://www.aixwim.cloud/id/series/literasi-keuangan/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -469,75 +410,6 @@
     <loc>http://www.aixwim.cloud/id/tags/perangkat-lunak-blogging/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-=======
-    <loc>http://www.aixwim.cloud/id/posts/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.aixwim.cloud/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://www.aixwim.cloud/ja/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://www.aixwim.cloud/ru/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://www.aixwim.cloud/id/posts/"
-                />
-  </url><url>
-    <loc>http://www.aixwim.cloud/id/series/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.aixwim.cloud/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://www.aixwim.cloud/ja/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://www.aixwim.cloud/ru/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://www.aixwim.cloud/id/series/"
-                />
-  </url><url>
->>>>>>> 1bdbb8f74f6d3fba1531b9ac90966eff508ed221
     <loc>http://www.aixwim.cloud/id/tags/skor-kredit/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
