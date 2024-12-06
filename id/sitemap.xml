@@ -2,8 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.aixwim.cloud/id/posts/affiliate-marketing-tips-survive-online/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.aixwim.cloud/posts/affiliate-marketing-tips-survive-online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://www.aixwim.cloud/ja/posts/affiliate-marketing-tips-survive-online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://www.aixwim.cloud/ru/posts/affiliate-marketing-tips-survive-online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://www.aixwim.cloud/zh-cn/posts/affiliate-marketing-tips-survive-online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://www.aixwim.cloud/zh-tw/posts/affiliate-marketing-tips-survive-online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://www.aixwim.cloud/id/posts/affiliate-marketing-tips-survive-online/"
+                />
+  </url><url>
     <loc>http://www.aixwim.cloud/id/tags/affiliate-marketing/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +49,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/id/authors/aixwim/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,7 +82,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/id/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -82,7 +115,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/id/authors/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -115,10 +148,10 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.aixwim.cloud/id/tags/digital-marketing/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -130,11 +163,8 @@
                 href="http://www.aixwim.cloud/id/tags/digital-marketing/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/id/tags/hari-hari-pemasaran/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.aixwim.cloud/id/categories/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -166,11 +196,14 @@
                 href="http://www.aixwim.cloud/id/categories/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/id/tags/kerja-dari-rumah/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <loc>http://www.aixwim.cloud/id/series/kesuksesan-affiliate-marketing/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/id/tags/pemasaran-online/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.aixwim.cloud/id/posts/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -201,6 +234,61 @@
                 hreflang="id"
                 href="http://www.aixwim.cloud/id/posts/"
                 />
+  </url><url>
+    <loc>http://www.aixwim.cloud/id/series/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.aixwim.cloud/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://www.aixwim.cloud/ja/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://www.aixwim.cloud/ru/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://www.aixwim.cloud/zh-cn/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://www.aixwim.cloud/zh-tw/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://www.aixwim.cloud/id/series/"
+                />
+  </url><url>
+    <loc>http://www.aixwim.cloud/id/tags/tips-affiliate/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/id/tags/web-marketing/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.aixwim.cloud/tags/web-marketing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://www.aixwim.cloud/id/tags/web-marketing/"
+                />
+  </url><url>
+    <loc>http://www.aixwim.cloud/id/tags/hari-hari-pemasaran/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/id/tags/kerja-dari-rumah/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.aixwim.cloud/id/posts/affiliate-marketer-day-in-life/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
@@ -233,39 +321,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="http://www.aixwim.cloud/id/posts/affiliate-marketer-day-in-life/"
-                />
-  </url><url>
-    <loc>http://www.aixwim.cloud/id/series/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.aixwim.cloud/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://www.aixwim.cloud/ja/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://www.aixwim.cloud/ru/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://www.aixwim.cloud/id/series/"
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/id/series/sukses-affiliate-marketing/</loc>

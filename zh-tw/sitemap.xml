@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.aixwim.cloud/zh-tw/authors/aixwim/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,7 +36,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/zh-tw/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,7 +69,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/zh-tw/authors/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -102,7 +102,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/zh-tw/posts/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -135,7 +135,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/zh-tw/series/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -168,7 +168,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/zh-tw/categories/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -200,6 +200,60 @@
                 href="http://www.aixwim.cloud/zh-tw/categories/"
                 />
   </url><url>
+    <loc>http://www.aixwim.cloud/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E8%B2%A1%E7%B6%93/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/zh-tw/tags/%E7%B6%B2%E8%B7%AF%E8%A1%8C%E9%8A%B7/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/zh-tw/tags/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/zh-tw/posts/affiliate-marketing-tips-survive-online/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.aixwim.cloud/posts/affiliate-marketing-tips-survive-online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://www.aixwim.cloud/id/posts/affiliate-marketing-tips-survive-online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://www.aixwim.cloud/ja/posts/affiliate-marketing-tips-survive-online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://www.aixwim.cloud/ru/posts/affiliate-marketing-tips-survive-online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://www.aixwim.cloud/zh-cn/posts/affiliate-marketing-tips-survive-online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://www.aixwim.cloud/zh-tw/posts/affiliate-marketing-tips-survive-online/"
+                />
+  </url><url>
+    <loc>http://www.aixwim.cloud/zh-tw/tags/%E7%B7%9A%E4%B8%8A%E8%A1%8C%E9%8A%B7/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/zh-tw/tags/%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/zh-tw/series/%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7%E6%88%90%E5%8A%9F%E4%B9%8B%E9%81%93/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/zh-tw/tags/%E8%81%AF%E7%9B%9F%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.aixwim.cloud/zh-tw/tags/%E5%9C%A8%E5%AE%B6%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -217,12 +271,6 @@
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.aixwim.cloud/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E9%87%91%E8%9E%8D/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.aixwim.cloud/zh-tw/tags/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.aixwim.cloud/zh-tw/tags/%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.aixwim.cloud/zh-tw/series/%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7%E6%88%90%E5%8A%9F/</loc>
@@ -260,9 +308,6 @@
                 hreflang="zh-tw"
                 href="http://www.aixwim.cloud/zh-tw/posts/affiliate-marketer-day-in-life/"
                 />
-  </url><url>
-    <loc>http://www.aixwim.cloud/zh-tw/tags/%E8%81%AF%E7%9B%9F%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.aixwim.cloud/zh-tw/tags/hugo/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
