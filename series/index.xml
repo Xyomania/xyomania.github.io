@@ -6,29 +6,27 @@
     <description>Recent content in Series on AIXWIM</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>user@example.com (Hugo Author)</managingEditor>
-    <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Financial Literacy</title>
       <link>http://www.aixwim.cloud/series/financial-literacy/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/series/financial-literacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development Tools</title>
       <link>http://www.aixwim.cloud/series/web-development-tools/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/series/web-development-tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Blogging Success</title>
       <link>http://www.aixwim.cloud/series/blogging-success/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/series/blogging-success/</guid>
       <description></description>
     </item>

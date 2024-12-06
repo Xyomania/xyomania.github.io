@@ -1,19 +1,27 @@
 <!DOCTYPE html>
-<html lang="zh-tw" dir="ltr">
+<html lang="zh-tw">
+
 <head>
-  <title>Posts :: AIXWIM - Example site for hugo-theme-tailwind</title>
-  
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta
-  name="description"
-  content=""
-/>
-<meta
-  name="keywords"
-  content="blog,personal"
-/>
-<meta name="robots" content="noodp" /><link rel="manifest" href="/manifest.json" /><meta property="og:url" content="http://www.aixwim.cloud/zh-tw/posts/">
+  <title>
+  文章 · AIXWIM
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="description" content="Aixwim personal blog">
+<meta name="keywords" content="blog,personal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Posts">
+  <meta name="twitter:description" content="Aixwim personal blog">
+
+<meta property="og:url" content="http://www.aixwim.cloud/zh-tw/posts/">
   <meta property="og:site_name" content="AIXWIM">
   <meta property="og:title" content="Posts">
   <meta property="og:description" content="Aixwim personal blog">
@@ -21,18 +29,19 @@
   <meta property="og:type" content="website">
 
 
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Posts">
-  <meta name="twitter:description" content="Aixwim personal blog">
 
 
-<link rel="canonical" href="http://www.aixwim.cloud/zh-tw/posts/" />
-
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="stylesheet" href="/css/index.min.c860e17f20d9f258820c02bf7ab3f57c9595d0bc21dede7eda08ccd63ba3f4cc.css">
+<link rel="canonical" href="http://www.aixwim.cloud/zh-tw/posts/">
 
 
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
 
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.ed30115a76cdaa62f2229e973d5b1c89b2d3dd4b1d9c07a729baad06aa3b0cbe.css" integrity="sha256-7TARWnbNqmLyIp6XPVscibLT3UsdnAenKbqtBqo7DL4=" crossorigin="anonymous" media="screen" />
 
 
 
@@ -40,924 +49,229 @@
 
 
   
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+<link rel="alternate" type="application/rss+xml" href="/zh-tw/posts/index.xml" title="AIXWIM" />
+
+
+
+
+
+
+
 </head>
-<body class="flex flex-col min-h-screen w-full bg-slate-50 dark:bg-gray-800"><header class="flex flex-none justify-center z-10">
-    <div class="flex flex-row gap justify-between w-full max-w-4xl lg:max-w-5xl h-12 mt-3">
-  <div class="flex-none ml-2 md:ml-0">
-    <a href="/zh-tw/" class="">
-      <img class="h-12 w-12 rounded-full object-cover bg-gray-100" src="/images/avatar.jpg" alt="logo">
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
     </a>
-  </div>
-  <div class="flex-1"></div>
-  <div class="flex-none">
-    
+</div>
 
 
-
-<nav class="h-full static">
-  <button id="navbar-menu-toggle" type="button" class="inline-flex items-center p-2 text-sm text-slate-800 dark:text-slate-200 rounded-lg md:hidden" aria-controls="navbar-menu" aria-expanded="false">
-    <span class="sr-only">Open main menu</span>
-    <i class="w-8 h-8">
-      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-menu-2" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M4 6l16 0" />
-  <path d="M4 12l16 0" />
-  <path d="M4 18l16 0" />
-</svg>
-
-    </i>
-  </button>
-  <div class="absolute md:static top-16 left-0 right-0 z-50 hidden w-full md:block md:w-auto" id="navbar-menu">
-    <ul class="flex flex-col mx-2 md:mx-0 md:flex-row md:border-0 rounded-sm md:rounded-full px-3 text-base font-medium text-slate-800 dark:text-slate-200 shadow-lg bg-white dark:bg-gray-600 shadow-slate-800/5 dark:shadow-slate-200/5 ring-1 ring-slate-900/5 dark:ring-slate-100/5">
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
     
-        <li id="" class="">
-          <a class="block px-3 py-3 hover:text-emerald-600"
-            href="/about/" title="關於">關於</a>
-        </li>
-      
+    <a class="navigation-title" href="http://www.aixwim.cloud/zh-tw/">
+      AIXWIM
+    </a>
     
-        <li id="" class="">
-          <a class="block px-3 py-3 hover:text-emerald-600"
-            href="/posts/" title="部落格">部落格</a>
-        </li>
-      
     
-        <li id="" class="">
-          <a class="block px-3 py-3 hover:text-emerald-600"
-            href="/contact/" title="聯絡我">聯絡我</a>
-        </li>
-      
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/zh-tw/about/">關於</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/zh-tw/posts/">部落格</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/zh-tw/contact/">聯絡我</a>
+            </li>
+          
+        
+        
+          
+          
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="/posts/">English</a>
+              </li>
+            
+          
+            
+              
+              <li class="navigation-item">
+                <a href="/id/posts/">Indonesia</a>
+              </li>
+            
+          
+            
+              
+              <li class="navigation-item">
+                <a href="/ja/posts/">日本語</a>
+              </li>
+            
+          
+            
+              
+              <li class="navigation-item">
+                <a href="/ru/posts/">Русский</a>
+              </li>
+            
+          
+            
+              
+              <li class="navigation-item">
+                <a href="/zh-cn/posts/">中文 (简体)</a>
+              </li>
+            
+          
+        
+      </ul>
     
-    </ul>
-  </div>
+  </section>
 </nav>
 
 
-  </div>
-  
-  <div class="flex-none">
-    <div class="h-full static">
-      <button id="navbar-lang-toggle" type="button" class="inline-flex items-center p-2 text-sm text-slate-800 dark:text-slate-200 rounded-lg" aria-controls="navbar-menu" aria-expanded="false">
-        <span class="sr-only">Open language switcher</span>
-        <i class="w-8 h-8">
-          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M4 5h7" />
-  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
-  <path d="M5 9c0 2.144 2.952 3.908 6.7 4" />
-  <path d="M12 20l4 -9l4 9" />
-  <path d="M19.1 18h-6.2" />
-</svg>
-
-        </i>
-      </button>
-      <div class="absolute hidden top-16 z-50" id="navbar-lang">
-        <ul class="flex flex-col rounded-sm px-3 text-base font-medium text-slate-800 dark:text-slate-200 shadow-lg bg-white dark:bg-gray-600 shadow-slate-800/5 dark:shadow-slate-200/5 ring-1 ring-slate-900/5 dark:ring-slate-100/5">
-          <li class="">
-            <a class="block px-3 py-3 hover:text-emerald-600"
-              href="/posts/" title="English">English</a></li>
-        
-          <li class="">
-            <a class="block px-3 py-3 hover:text-emerald-600"
-              href="/id/posts/" title="Indonesia">Indonesia</a></li>
-        
-          <li class="">
-            <a class="block px-3 py-3 hover:text-emerald-600"
-              href="/ja/posts/" title="日本語">日本語</a></li>
-        
-          <li class="">
-            <a class="block px-3 py-3 hover:text-emerald-600"
-              href="/ru/posts/" title="Русский">Русский</a></li>
-        
-          <li class="">
-            <a class="block px-3 py-3 hover:text-emerald-600"
-              href="/zh-cn/posts/" title="中文 (简体)">中文 (简体)</a></li>
-        
-          <li class="">
-            <span class="block px-3 py-3 cursor-default hover:text-emerald-600">中文 (繁體)</span>
-            </li>
-        
-        </ul>
-      </div>
-    </div>
-  </div>
-  
-  <div class="flex-none md:hidden">
-    <a href=/zh-tw/search/ class="inline-flex items-center p-2 text-sm text-slate-800 dark:text-slate-200 rounded-lg" aria-controls="navbar-menu" aria-expanded="false">
-      <span class="sr-only">Search</span>
-      <i class="w-8 h-8">
-        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-    <path d="M10 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
-    <path d="M21 21l-6 -6" />
-</svg>
-
-      </i>
-    </a>
-  </div>
-  <div class="darkmode-toggle flex flex-none mr-2 md:mr-0">
-    <label for="darkmode-toggle" class="flex items-center px-3 cursor-pointer rounded-full bg-gray-100 dark:bg-gray-600" title="Toggle dark mode">
-      <input name="darkmode-toggle" id="darkmode-toggle" type="checkbox" class="sr-only peer" aria-label="Toggle dark mode">
-      <div class="group flex flex-row gap-1 justify-center h-8 px-1 rounded-full bg-white dark:bg-gray-700">
-        <i class="h-6 w-6 flex-none rounded-full bg-yellow-400 place-self-center peer-checked:group-[]:invisible">
-          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brightness-down" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M12 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"></path>
-   <path d="M12 5l0 .01"></path>
-   <path d="M17 7l0 .01"></path>
-   <path d="M19 12l0 .01"></path>
-   <path d="M17 17l0 .01"></path>
-   <path d="M12 19l0 .01"></path>
-   <path d="M7 17l0 .01"></path>
-   <path d="M5 12l0 .01"></path>
-   <path d="M7 7l0 .01"></path>
-</svg>
-
-        </i>
-        <i class="h-6 w-6 flex-none rounded-full place-self-center invisible peer-checked:group-[]:visible">
-          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-moon-stars" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z"></path>
-   <path d="M17 4a2 2 0 0 0 2 2a2 2 0 0 0 -2 2a2 2 0 0 0 -2 -2a2 2 0 0 0 2 -2"></path>
-   <path d="M19 11h2m-1 -1v2"></path>
-</svg>
-
-        </i>
-      </div>
-    </label>
-  </div>
-</div>
-
-  </header>
-  <main class="flex flex-auto justify-center">
-    
-
-  
-  
-
-  
-  
-  
-  
-
-  <div class="flex flex-col w-full max-w-4xl lg:max-w-5xl relative">
-    <div class="flex flex-row">
-      <section class="flex flex-col w-full md:w-2/3">
-        
-          <article class="flex flex-col mt-6 mx-2 md:mx-0 rounded-lg overflow-hidden shadow-md bg-white dark:bg-gray-700">
-            <div>
-              <a href="/zh-tw/posts/cash-back-credit-cards/">
-                
-              </a>
-            </div>
-            <div class="flex flex-col gap-y-3 p-6">
-              <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
-                <a href="/zh-tw/posts/cash-back-credit-cards/">了解現金回饋信用卡：好主意還是壞主意？</a>
-              </h2>
-
-              
-  <div class="my-4 text-large text-slate-600 dark:text-slate-300">
-    深入探討現金回饋信用卡的運作方式，並根據您的信用評分和消費習慣，評估它們是好選擇還是壞選擇。
-  </div>
-
-
-              
-  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
-    
+    <div class="content">
       
-      <li>
-        <a href="/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E9%87%91%E8%9E%8D/"
-          class="text-sm mr-2 px-2 py-1 rounded border border-emerald-800 bg-emerald-800 text-slate-50">
-          商業與金融
+  <section class="container list">
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="http://www.aixwim.cloud/zh-tw/posts/">
+          文章
         </a>
-      </li>
-      
+      </h1>
+    </header>
     
+    <ul><li>
+  <span class="date">December 4, 2024</span>
+  <a class="title" href="/zh-tw/posts/cash-back-credit-cards/">了解現金回饋信用卡：好主意還是壞主意？</a>
+</li>
+<li>
+  <span class="date">December 4, 2024</span>
+  <a class="title" href="/zh-tw/posts/best-hugo-blogging-software/">為什麼 Hugo 是 2024 年開發者最佳的部落格平台</a>
+</li>
+<li>
+  <span class="date">November 30, 2024</span>
+  <a class="title" href="/zh-tw/posts/blogging-tips-2024/">如何讓你的博客在2024年脫穎而出</a>
+</li>
+</ul>
+
     
-      
-      <li>
-        <a href="/zh-tw/tags/%E7%8F%BE%E9%87%91%E5%9B%9E%E9%A5%8B/"
-          class="flex flex-row text-sm mr-2 py-1">
-          <i class="h-5 w-5 flex-none">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
 
-          </i>
-          <span class="ml-0">現金回饋</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/zh-tw/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1/"
-          class="flex flex-row text-sm mr-2 py-1">
-          <i class="h-5 w-5 flex-none">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
 
-          </i>
-          <span class="ml-0">信用卡</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/zh-tw/tags/%E7%90%86%E8%B2%A1%E5%BB%BA%E8%AD%B0/"
-          class="flex flex-row text-sm mr-2 py-1">
-          <i class="h-5 w-5 flex-none">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
 
-          </i>
-          <span class="ml-0">理財建議</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/zh-tw/tags/%E4%BF%A1%E7%94%A8%E8%A9%95%E5%88%86/"
-          class="flex flex-row text-sm mr-2 py-1">
-          <i class="h-5 w-5 flex-none">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
 
-          </i>
-          <span class="ml-0">信用評分</span>
-        </a>
-      </li>
-      
-    
-  </ul>
 
 
+  </section>
 
-              <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
-  
-  
-  <div class="flex flex-row text-base gap-x-1">
-    <i class="h-6 w-6 flex-none">
-      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
-   <path d="M16 3v4"></path>
-   <path d="M8 3v4"></path>
-   <path d="M4 11h16"></path>
-   <path d="M11 15h1"></path>
-   <path d="M12 15v3"></path>
-</svg>
-
-    </i>
-    <time datetime="2024-12-04T00:00:00&#43;00:00">
-      2024-12-04
-    </time>
-  </div>
-
-  <div class="flex flex-row text-base gap-x-1">
-    <i class="h-6 w-6 flex-none">
-      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M6.5 7h11"></path>
-   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
-   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
-</svg>
-
-    </i>
-    <span>
-      閱讀時間 1 分鐘
-    </span>
-  </div>
-</div>
-
-              
-            </div>
-          </article>
-        
-          <article class="flex flex-col mt-6 mx-2 md:mx-0 rounded-lg overflow-hidden shadow-md bg-white dark:bg-gray-700">
-            <div>
-              <a href="/zh-tw/posts/best-hugo-blogging-software/">
-                
-              </a>
-            </div>
-            <div class="flex flex-col gap-y-3 p-6">
-              <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
-                <a href="/zh-tw/posts/best-hugo-blogging-software/">為什麼 Hugo 是 2024 年開發者最佳的部落格平台</a>
-              </h2>
-
-              
-  <div class="my-4 text-large text-slate-600 dark:text-slate-300">
-    探索為什麼 Hugo 是 2024 年最快、最靈活的靜態網站生成器之一，了解其功能、效能，以及為何它是開發者的理想選擇。
-  </div>
-
-
-              
-  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
-    
-      
-      <li>
-        <a href="/zh-tw/categories/%E6%8A%80%E8%A1%93/"
-          class="text-sm mr-2 px-2 py-1 rounded border border-emerald-800 bg-emerald-800 text-slate-50">
-          技術
-        </a>
-      </li>
-      
-    
-    
-      
-      <li>
-        <a href="/zh-tw/tags/hugo/"
-          class="flex flex-row text-sm mr-2 py-1">
-          <i class="h-5 w-5 flex-none">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
-
-          </i>
-          <span class="ml-0">Hugo</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E5%B9%B3%E5%8F%B0/"
-          class="flex flex-row text-sm mr-2 py-1">
-          <i class="h-5 w-5 flex-none">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
-
-          </i>
-          <span class="ml-0">部落格平台</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/zh-tw/tags/%E9%9D%9C%E6%85%8B%E7%B6%B2%E7%AB%99%E7%94%9F%E6%88%90%E5%99%A8/"
-          class="flex flex-row text-sm mr-2 py-1">
-          <i class="h-5 w-5 flex-none">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
-
-          </i>
-          <span class="ml-0">靜態網站生成器</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/zh-tw/tags/%E7%B6%B2%E9%A0%81%E9%96%8B%E7%99%BC/"
-          class="flex flex-row text-sm mr-2 py-1">
-          <i class="h-5 w-5 flex-none">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
-
-          </i>
-          <span class="ml-0">網頁開發</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/zh-tw/tags/%E9%96%8B%E7%99%BC%E8%80%85%E5%B7%A5%E5%85%B7/"
-          class="flex flex-row text-sm mr-2 py-1">
-          <i class="h-5 w-5 flex-none">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
-
-          </i>
-          <span class="ml-0">開發者工具</span>
-        </a>
-      </li>
-      
-    
-  </ul>
-
-
-
-              <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
-  
-  
-  <div class="flex flex-row text-base gap-x-1">
-    <i class="h-6 w-6 flex-none">
-      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
-   <path d="M16 3v4"></path>
-   <path d="M8 3v4"></path>
-   <path d="M4 11h16"></path>
-   <path d="M11 15h1"></path>
-   <path d="M12 15v3"></path>
-</svg>
-
-    </i>
-    <time datetime="2024-12-04T00:00:00&#43;00:00">
-      2024-12-04
-    </time>
-  </div>
-
-  <div class="flex flex-row text-base gap-x-1">
-    <i class="h-6 w-6 flex-none">
-      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M6.5 7h11"></path>
-   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
-   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
-</svg>
-
-    </i>
-    <span>
-      閱讀時間 1 分鐘
-    </span>
-  </div>
-</div>
-
-              
-            </div>
-          </article>
-        
-          <article class="flex flex-col mt-6 mx-2 md:mx-0 rounded-lg overflow-hidden shadow-md bg-white dark:bg-gray-700">
-            <div>
-              <a href="/zh-tw/posts/blogging-tips-2024/">
-                
-              </a>
-            </div>
-            <div class="flex flex-col gap-y-3 p-6">
-              <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
-                <a href="/zh-tw/posts/blogging-tips-2024/">如何讓你的博客在2024年脫穎而出</a>
-              </h2>
-
-              
-  <div class="my-4 text-large text-slate-600 dark:text-slate-300">
-    一份完整指南，幫助你在競爭激烈的市場中打造獨特且成功的博客網站。
-  </div>
-
-
-              
-  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
-    
-      
-      <li>
-        <a href="/zh-tw/categories/%E8%81%B7%E6%B6%AF%E8%88%87%E6%95%99%E8%82%B2/"
-          class="text-sm mr-2 px-2 py-1 rounded border border-emerald-800 bg-emerald-800 text-slate-50">
-          職涯與教育
-        </a>
-      </li>
-      
-    
-    
-      
-      <li>
-        <a href="/zh-tw/tags/%E5%8D%9A%E5%AE%A2/"
-          class="flex flex-row text-sm mr-2 py-1">
-          <i class="h-5 w-5 flex-none">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
-
-          </i>
-          <span class="ml-0">博客</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/zh-tw/tags/seo/"
-          class="flex flex-row text-sm mr-2 py-1">
-          <i class="h-5 w-5 flex-none">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
-
-          </i>
-          <span class="ml-0">SEO</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/zh-tw/tags/%E5%85%A7%E5%AE%B9%E5%89%B5%E4%BD%9C/"
-          class="flex flex-row text-sm mr-2 py-1">
-          <i class="h-5 w-5 flex-none">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
-
-          </i>
-          <span class="ml-0">內容創作</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/zh-tw/tags/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7/"
-          class="flex flex-row text-sm mr-2 py-1">
-          <i class="h-5 w-5 flex-none">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
-
-          </i>
-          <span class="ml-0">數位行銷</span>
-        </a>
-      </li>
-      
-    
-  </ul>
-
-
-
-              <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
-  
-  
-  <div class="flex flex-row text-base gap-x-1">
-    <i class="h-6 w-6 flex-none">
-      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
-   <path d="M16 3v4"></path>
-   <path d="M8 3v4"></path>
-   <path d="M4 11h16"></path>
-   <path d="M11 15h1"></path>
-   <path d="M12 15v3"></path>
-</svg>
-
-    </i>
-    <time datetime="2024-11-30T00:00:00&#43;00:00">
-      2024-11-30
-    </time>
-  </div>
-
-  <div class="flex flex-row text-base gap-x-1">
-    <i class="h-6 w-6 flex-none">
-      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M6.5 7h11"></path>
-   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
-   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
-</svg>
-
-    </i>
-    <span>
-      閱讀時間 1 分鐘
-    </span>
-  </div>
-</div>
-
-              
-            </div>
-          </article>
-        
-      </section>
-      <aside class="hidden md:flex flex-col md:w-1/3 ml-3 top-0 sticky self-start">
-        <section class="pl-6 mt-6 w-full max-w-4xl lg:max-w-5xl">
-  <form class="" action=/zh-tw/search/ method="get">
-    <div class="flex">
-      <input type="text" name="search" id="search-input" required placeholder="Search..." class="rounded-none rounded-s-lg border border-gray-300 text-slate-800 focus:outline-none focus:ring-blue-500 focus:border-blue-500 block flex-1 min-w-0 w-full text-sm p-3  dark:bg-slate-700 dark:border-slate-600 dark:placeholder-slate-400 dark:text-slate-200 dark:focus:ring-blue-500 dark:focus:border-blue-500">
-      <button class="inline-flex items-center px-3 text-sm text-slate-900 bg-slate-200 border border-e-0 border-gray-300 rounded-e-lg dark:bg-slate-600 dark:text-slate-400 dark:border-slate-600">
-        <i class="h-6 w-6 flex-none">
-          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-    <path d="M10 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
-    <path d="M21 21l-6 -6" />
-</svg>
-
-        </i>
-      </button>
-    </div>
-  </form>
-</section>
-
-
-  
-
-<section class="flex flex-col w-full gap-y-3 pl-6 py-3 mt-6 text-slate-800 dark:text-slate-200">
-  <div class="flex flex-row">
-    <a class="flex flex-row" href='/zh-tw/authors/'>
-      <i class="h-6 w-6 flex-none">
-        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tags" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M3 8v4.172a2 2 0 0 0 .586 1.414l5.71 5.71a2.41 2.41 0 0 0 3.408 0l3.592 -3.592a2.41 2.41 0 0 0 0 -3.408l-5.71 -5.71a2 2 0 0 0 -1.414 -.586h-4.172a2 2 0 0 0 -2 2z"></path>
-   <path d="M18 19l1.592 -1.592a4.82 4.82 0 0 0 0 -6.816l-4.592 -4.592"></path>
-   <path d="M7 10h-.01"></path>
-</svg>
-
-      </i>
-      <h2 class="pl-1 uppercase">
-        
-      </h2>
-    </a>
-  </div>
-
-  <ul class="flex flex-row flex-wrap">
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/authors/aixwim/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        Aixwim
-      </a>
-    </li>
-    
-  </ul>
-</section>
-
-  
-
-  
-
-<section class="flex flex-col w-full gap-y-3 pl-6 py-3 mt-6 text-slate-800 dark:text-slate-200">
-  <div class="flex flex-row">
-    <a class="flex flex-row" href='/zh-tw/categories/'>
-      <i class="h-6 w-6 flex-none">
-        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-category-2" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M14 4h6v6h-6z"></path>
-   <path d="M4 14h6v6h-6z"></path>
-   <path d="M17 17m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"></path>
-   <path d="M7 7m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"></path>
-</svg>
-
-      </i>
-      <h2 class="pl-1 uppercase">
-        Categories
-      </h2>
-    </a>
-  </div>
-
-  <ul class="flex flex-row flex-wrap">
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E9%87%91%E8%9E%8D/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        商業與金融
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/categories/%E6%8A%80%E8%A1%93/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        技術
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/categories/%E7%B0%A1%E4%BB%8B/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        簡介
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/categories/%E8%81%B7%E6%B6%AF%E8%88%87%E6%95%99%E8%82%B2/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        職涯與教育
-      </a>
-    </li>
-    
-  </ul>
-</section>
-
-  
-
-  
-
-<section class="flex flex-col w-full gap-y-3 pl-6 py-3 mt-6 text-slate-800 dark:text-slate-200">
-  <div class="flex flex-row">
-    <a class="flex flex-row" href='/zh-tw/series/'>
-      <i class="h-6 w-6 flex-none">
-        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tags" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M3 8v4.172a2 2 0 0 0 .586 1.414l5.71 5.71a2.41 2.41 0 0 0 3.408 0l3.592 -3.592a2.41 2.41 0 0 0 0 -3.408l-5.71 -5.71a2 2 0 0 0 -1.414 -.586h-4.172a2 2 0 0 0 -2 2z"></path>
-   <path d="M18 19l1.592 -1.592a4.82 4.82 0 0 0 0 -6.816l-4.592 -4.592"></path>
-   <path d="M7 10h-.01"></path>
-</svg>
-
-      </i>
-      <h2 class="pl-1 uppercase">
-        Series
-      </h2>
-    </a>
-  </div>
-
-  <ul class="flex flex-row flex-wrap">
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/series/%E6%88%90%E5%8A%9F%E7%B6%93%E7%87%9F%E5%8D%9A%E5%AE%A2/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        成功經營博客
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/series/%E7%B6%B2%E9%A0%81%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        網頁開發工具
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/series/%E8%B2%A1%E5%8B%99%E7%9F%A5%E8%AD%98/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        財務知識
-      </a>
-    </li>
-    
-  </ul>
-</section>
-
-  
-
-  
-
-<section class="flex flex-col w-full gap-y-3 pl-6 py-3 mt-6 text-slate-800 dark:text-slate-200">
-  <div class="flex flex-row">
-    <a class="flex flex-row" href='/zh-tw/tags/'>
-      <i class="h-6 w-6 flex-none">
-        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M5 9l14 0"></path>
-   <path d="M5 15l14 0"></path>
-   <path d="M11 4l-4 16"></path>
-   <path d="M17 4l-4 16"></path>
-</svg>
-
-      </i>
-      <h2 class="pl-1 uppercase">
-        Tags
-      </h2>
-    </a>
-  </div>
-
-  <ul class="flex flex-row flex-wrap">
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/tags/hugo/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        Hugo
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/tags/seo/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        SEO
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        信用卡
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/tags/%E4%BF%A1%E7%94%A8%E8%A9%95%E5%88%86/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        信用評分
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/tags/%E5%80%8B%E4%BA%BA%E5%8D%9A%E5%AE%A2/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        個人博客
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/tags/%E5%85%A7%E5%AE%B9%E5%89%B5%E4%BD%9C/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        內容創作
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/tags/%E5%8D%9A%E5%AE%A2/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        博客
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/tags/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        數位行銷
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/tags/%E7%8F%BE%E9%87%91%E5%9B%9E%E9%A5%8B/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        現金回饋
-      </a>
-    </li>
-    
-    <li class="mt-2 mr-2">
-      <a href="/zh-tw/tags/%E7%90%86%E8%B2%A1%E5%BB%BA%E8%AD%B0/"
-        class="rounded px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur bg-slate-50 dark:bg-gray-700">
-        理財建議
-      </a>
-    </li>
-    
-  </ul>
-</section>
-
-  
-
-
-      </aside>
     </div>
 
+    <footer class="footer">
+  <section class="container">
+    ©
     
-
-  </div>
+    2024
+    
+    ·
+    
+    技術支援 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
 
   </main>
-  <footer class="flex flex-none justify-center">
-    <section class="flex flex-col md:flex-row mx-2 md:mx-0 gap-2 md:gap-0 justify-between w-full max-w-4xl lg:max-w-5xl py-6 text-slate-500 dark:text-slate-300">
-  <div class="flex flex-row">
-    
+
+  
+
   
   
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
   
+
   
-  
-  
-  
-  
-  
-  
+
   
 
 
-  </div>
-  <div class="grow"></div>
-  <div class="flex flex-row">
-    <i class="h-6 w-6 flex-none"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path>
-   <path d="M14 9.75a3.016 3.016 0 0 0 -4.163 .173a2.993 2.993 0 0 0 0 4.154a3.016 3.016 0 0 0 4.163 .173"></path>
-</svg>
-</i> 2024 Aixwim
-    
-  </div>
   
-</section>
 
-  </footer>
-  <script src="/main.min.65ca5b0808abf278fcec5d424701ebf0b4bc46a737129cd5e57fdb739f463e79.js"></script>
+  
 
+  
 
+  
 
+  
 
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
 </body>
+
 </html>

@@ -6,17 +6,15 @@
     <description>Recent content in Hugo on AIXWIM</description>
     <generator>Hugo</generator>
     <language>ru</language>
-    <managingEditor>user@example.com (Hugo Author)</managingEditor>
-    <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/ru/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Почему Hugo - лучшая платформа для блогеров-разработчиков в 2024 году</title>
       <link>http://www.aixwim.cloud/ru/posts/best-hugo-blogging-software/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/ru/posts/best-hugo-blogging-software/</guid>
-      <description>&lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;&#xA;&lt;figure&gt;&#xA;    &lt;img src=&#34;http://www.aixwim.cloud/images/featured/hugo-blogging-software.webp&#34;&#xA;      alt=&#34;Hugo Blogging Software&#34; &#xA;      loading=&#34;lazy&#34;&#xA;    &gt;&#xA;  &lt;/figure&gt;&lt;/div&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; быстро завоевал популярность среди разработчиков и блогеров благодаря своей скорости и гибкости. В 2024 году Hugo продолжает оставаться одним из самых популярных инструментов для создания блогов. В отличие от традиционных систем управления контентом (CMS), Hugo генерирует статические HTML-страницы, которые загружаются мгновенно и легко развертываются.&lt;/p&gt;&#xA;&lt;h2 id=&#34;почему-hugo-выделяется-в-2024-году&#34;&gt;Почему Hugo выделяется в 2024 году?&lt;/h2&gt;&#xA;&lt;p&gt;Привлекательность Hugo заключается в его скорости, гибкости и минимальной настройке. Как генератор статических сайтов, Hugo берет контент, написанный в Markdown, и преобразует его в полностью функциональный сайт без необходимости использования базы данных или серверной обработки. Этот подход значительно улучшает производительность и делает ваш блог быстрым и масштабируемым.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Hugo Blogging Software&#34; src=&#34;http://www.aixwim.cloud/images/featured/hugo-blogging-software.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; быстро завоевал популярность среди разработчиков и блогеров благодаря своей скорости и гибкости. В 2024 году Hugo продолжает оставаться одним из самых популярных инструментов для создания блогов. В отличие от традиционных систем управления контентом (CMS), Hugo генерирует статические HTML-страницы, которые загружаются мгновенно и легко развертываются.&lt;/p&gt;&#xA;&lt;h2 id=&#34;почему-hugo-выделяется-в-2024-году&#34;&gt;&#xA;  Почему Hugo выделяется в 2024 году?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%d0%bf%d0%be%d1%87%d0%b5%d0%bc%d1%83-hugo-%d0%b2%d1%8b%d0%b4%d0%b5%d0%bb%d1%8f%d0%b5%d1%82%d1%81%d1%8f-%d0%b2-2024-%d0%b3%d0%be%d0%b4%d1%83&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Ссылка на заголовок&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Ссылка на заголовок&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Привлекательность Hugo заключается в его скорости, гибкости и минимальной настройке. Как генератор статических сайтов, Hugo берет контент, написанный в Markdown, и преобразует его в полностью функциональный сайт без необходимости использования базы данных или серверной обработки. Этот подход значительно улучшает производительность и делает ваш блог быстрым и масштабируемым.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

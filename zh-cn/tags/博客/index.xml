@@ -6,17 +6,15 @@
     <description>Recent content in 博客 on AIXWIM</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <managingEditor>user@example.com (Hugo Author)</managingEditor>
-    <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/zh-cn/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何让你的博客在2024年脱颖而出</title>
       <link>http://www.aixwim.cloud/zh-cn/posts/blogging-tips-2024/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/zh-cn/posts/blogging-tips-2024/</guid>
-      <description>&lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;&#xA;&lt;figure&gt;&#xA;    &lt;img src=&#34;http://www.aixwim.cloud/images/featured/blogging-tips-2024.webp&#34;&#xA;      alt=&#34;blogging tips 2024&#34; &#xA;      loading=&#34;lazy&#34;&#xA;    &gt;&#xA;  &lt;/figure&gt;&lt;/div&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;成功创建一个博客网站不仅仅需要一个好点子。在如今过于饱和的数字环境中，无数博客争相吸引注意力，因此区分你的网站尤为重要。无论你是在启动一个新博客还是重新设计现有博客，关键在于找到你的细分领域，并以独特的方式为读者提供价值。以下是一些打造独特博客网站并吸引忠实读者的建议。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;blogging tips 2024&#34; src=&#34;http://www.aixwim.cloud/images/featured/blogging-tips-2024.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;成功创建一个博客网站不仅仅需要一个好点子。在如今过于饱和的数字环境中，无数博客争相吸引注意力，因此区分你的网站尤为重要。无论你是在启动一个新博客还是重新设计现有博客，关键在于找到你的细分领域，并以独特的方式为读者提供价值。以下是一些打造独特博客网站并吸引忠实读者的建议。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
