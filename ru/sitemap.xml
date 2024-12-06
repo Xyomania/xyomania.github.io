@@ -2,558 +2,606 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.aixwim.cloud/ru/authors/aixwim/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/authors/aixwim/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/authors/aixwim/"
+                href="http://localhost:1313/authors/aixwim/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/authors/aixwim/"
+                href="http://localhost:1313/id/authors/aixwim/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/authors/aixwim/"
+                href="http://localhost:1313/ja/authors/aixwim/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/authors/aixwim/"
+                href="http://localhost:1313/zh-cn/authors/aixwim/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/authors/aixwim/"
+                href="http://localhost:1313/zh-tw/authors/aixwim/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/authors/aixwim/"
+                href="http://localhost:1313/ru/authors/aixwim/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/"
+                href="http://localhost:1313/id/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/"
+                href="http://localhost:1313/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/"
+                href="http://localhost:1313/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/"
+                href="http://localhost:1313/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/"
+                href="http://localhost:1313/ru/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/authors/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/authors/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/authors/"
+                href="http://localhost:1313/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/authors/"
+                href="http://localhost:1313/id/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/authors/"
+                href="http://localhost:1313/ja/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/authors/"
+                href="http://localhost:1313/zh-cn/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/authors/"
+                href="http://localhost:1313/zh-tw/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/authors/"
+                href="http://localhost:1313/ru/authors/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/hugo/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/posts/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/tags/hugo/"
+                href="http://localhost:1313/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/tags/hugo/"
+                href="http://localhost:1313/id/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/tags/hugo/"
+                href="http://localhost:1313/ja/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/tags/hugo/"
+                href="http://localhost:1313/zh-cn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/tags/hugo/"
+                href="http://localhost:1313/zh-tw/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/tags/hugo/"
+                href="http://localhost:1313/ru/posts/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/posts/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/series/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/posts/"
+                href="http://localhost:1313/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/posts/"
+                href="http://localhost:1313/id/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/posts/"
+                href="http://localhost:1313/ja/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/posts/"
+                href="http://localhost:1313/zh-cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/posts/"
+                href="http://localhost:1313/zh-tw/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/posts/"
+                href="http://localhost:1313/ru/series/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/series/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/tags/%D0%B0%D1%84%D1%84%D0%B8%D0%BB%D0%B8%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/categories/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B8-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/categories/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/series/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/series/"
+                href="http://localhost:1313/id/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/series/"
+                href="http://localhost:1313/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/series/"
+                href="http://localhost:1313/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/series/"
+                href="http://localhost:1313/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/series/"
+                href="http://localhost:1313/ru/categories/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/categories/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B8-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/tags/%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B4%D0%B5%D0%BD%D1%8C/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.aixwim.cloud/ru/posts/cash-back-credit-cards/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/posts/affiliate-marketer-day-in-life/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/posts/cash-back-credit-cards/"
+                href="http://localhost:1313/posts/affiliate-marketer-day-in-life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/posts/cash-back-credit-cards/"
+                href="http://localhost:1313/id/posts/affiliate-marketer-day-in-life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/posts/cash-back-credit-cards/"
+                href="http://localhost:1313/ja/posts/affiliate-marketer-day-in-life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/posts/cash-back-credit-cards/"
+                href="http://localhost:1313/zh-cn/posts/affiliate-marketer-day-in-life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/posts/cash-back-credit-cards/"
+                href="http://localhost:1313/zh-tw/posts/affiliate-marketer-day-in-life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/posts/cash-back-credit-cards/"
+                href="http://localhost:1313/ru/posts/affiliate-marketer-day-in-life/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/series/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/tags/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%B8%D0%B7-%D0%B4%D0%BE%D0%BC%D0%B0/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/tags/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D0%B0%D1%84%D1%84%D0%B8%D0%BB%D0%B8%D0%B0%D1%82%D1%83/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/categories/</loc>
+    <loc>http://localhost:1313/ru/series/%D1%83%D1%81%D0%BF%D0%B5%D1%85-%D0%B2-%D0%B0%D1%84%D1%84%D0%B8%D0%BB%D0%B8%D0%B0%D1%82-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%B5/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/tags/%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/tags/hugo/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/categories/"
+                href="http://localhost:1313/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/categories/"
+                href="http://localhost:1313/id/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/categories/"
+                href="http://localhost:1313/ja/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/categories/"
+                href="http://localhost:1313/zh-cn/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/categories/"
+                href="http://localhost:1313/zh-tw/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/categories/"
+                href="http://localhost:1313/ru/tags/hugo/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D1%8B/</loc>
+    <loc>http://localhost:1313/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/</loc>
+    <loc>http://localhost:1313/ru/tags/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/%D0%BA%D1%8D%D1%88%D0%B1%D1%8D%D0%BA/</loc>
+    <loc>http://localhost:1313/ru/tags/%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/posts/best-hugo-blogging-software/</loc>
+    <loc>http://localhost:1313/ru/posts/cash-back-credit-cards/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/posts/best-hugo-blogging-software/"
+                href="http://localhost:1313/posts/cash-back-credit-cards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/posts/best-hugo-blogging-software/"
+                href="http://localhost:1313/id/posts/cash-back-credit-cards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/posts/best-hugo-blogging-software/"
+                href="http://localhost:1313/ja/posts/cash-back-credit-cards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/posts/best-hugo-blogging-software/"
+                href="http://localhost:1313/zh-cn/posts/cash-back-credit-cards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/posts/best-hugo-blogging-software/"
+                href="http://localhost:1313/zh-tw/posts/cash-back-credit-cards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/posts/best-hugo-blogging-software/"
+                href="http://localhost:1313/ru/posts/cash-back-credit-cards/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</loc>
+    <loc>http://localhost:1313/ru/series/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/series/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</loc>
+    <loc>http://localhost:1313/ru/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B5-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B/</loc>
+    <loc>http://localhost:1313/ru/tags/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D1%8B/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/seo/</loc>
+    <loc>http://localhost:1313/ru/tags/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/tags/%D0%BA%D1%8D%D1%88%D0%B1%D1%8D%D0%BA/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/posts/best-hugo-blogging-software/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/best-hugo-blogging-software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/id/posts/best-hugo-blogging-software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/posts/best-hugo-blogging-software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/posts/best-hugo-blogging-software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://localhost:1313/zh-tw/posts/best-hugo-blogging-software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/ru/posts/best-hugo-blogging-software/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ru/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/series/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/tags/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B5-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/tags/seo/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/tags/seo/"
+                href="http://localhost:1313/tags/seo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/tags/seo/"
+                href="http://localhost:1313/id/tags/seo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/tags/seo/"
+                href="http://localhost:1313/ja/tags/seo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/tags/seo/"
+                href="http://localhost:1313/zh-cn/tags/seo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/tags/seo/"
+                href="http://localhost:1313/zh-tw/tags/seo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/tags/seo/"
+                href="http://localhost:1313/ru/tags/seo/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B3/</loc>
+    <loc>http://localhost:1313/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B3/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/posts/blogging-tips-2024/</loc>
+    <loc>http://localhost:1313/ru/posts/blogging-tips-2024/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/posts/blogging-tips-2024/"
+                href="http://localhost:1313/posts/blogging-tips-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/posts/blogging-tips-2024/"
+                href="http://localhost:1313/id/posts/blogging-tips-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/posts/blogging-tips-2024/"
+                href="http://localhost:1313/ja/posts/blogging-tips-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/posts/blogging-tips-2024/"
+                href="http://localhost:1313/zh-cn/posts/blogging-tips-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/posts/blogging-tips-2024/"
+                href="http://localhost:1313/zh-tw/posts/blogging-tips-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/posts/blogging-tips-2024/"
+                href="http://localhost:1313/ru/posts/blogging-tips-2024/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
+    <loc>http://localhost:1313/ru/tags/%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/about/</loc>
+    <loc>http://localhost:1313/ru/about/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/about/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/about/"
+                href="http://localhost:1313/id/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/about/"
+                href="http://localhost:1313/ja/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/about/"
+                href="http://localhost:1313/zh-cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/about/"
+                href="http://localhost:1313/zh-tw/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/about/"
+                href="http://localhost:1313/ru/about/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5/</loc>
+    <loc>http://localhost:1313/ru/tags/%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/categories/%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C/</loc>
+    <loc>http://localhost:1313/ru/categories/%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/categories/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%B8-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
+    <loc>http://localhost:1313/ru/categories/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%B8-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0/</loc>
+    <loc>http://localhost:1313/ru/tags/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/series/%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B3/</loc>
+    <loc>http://localhost:1313/ru/series/%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B3/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</loc>
-    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.aixwim.cloud/ru/authors/hugo-authors/</loc>
+    <loc>http://localhost:1313/ru/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/authors/hugo-authors/"
+                href="http://localhost:1313/authors/hugo-authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/authors/hugo-authors/"
+                href="http://localhost:1313/id/authors/hugo-authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/authors/hugo-authors/"
+                href="http://localhost:1313/ja/authors/hugo-authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/authors/hugo-authors/"
+                href="http://localhost:1313/zh-cn/authors/hugo-authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/authors/hugo-authors/"
+                href="http://localhost:1313/zh-tw/authors/hugo-authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/authors/hugo-authors/"
+                href="http://localhost:1313/ru/authors/hugo-authors/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/tags/</loc>
+    <loc>http://localhost:1313/ru/tags/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/tags/"
+                href="http://localhost:1313/id/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/tags/"
+                href="http://localhost:1313/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/tags/"
+                href="http://localhost:1313/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/tags/"
+                href="http://localhost:1313/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/tags/"
+                href="http://localhost:1313/ru/tags/"
                 />
   </url><url>
-    <loc>http://www.aixwim.cloud/ru/contact/</loc>
+    <loc>http://localhost:1313/ru/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.aixwim.cloud/contact/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://www.aixwim.cloud/id/kontak/"
+                href="http://localhost:1313/id/kontak/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.aixwim.cloud/ja/contact/"
+                href="http://localhost:1313/ja/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/contact/"
+                href="http://localhost:1313/zh-cn/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/contact/"
+                href="http://localhost:1313/zh-tw/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.aixwim.cloud/ru/contact/"
+                href="http://localhost:1313/ru/contact/"
                 />
   </url>
 </urlset>

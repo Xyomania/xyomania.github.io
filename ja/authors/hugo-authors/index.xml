@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugoの著者 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ja/authors/hugo-authors/</link>
+    <link>http://localhost:1313/ja/authors/hugo-authors/</link>
     <description>Recent content in Hugoの著者 on AIXWIM</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ja/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

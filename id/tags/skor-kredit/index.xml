@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Skor Kredit on AIXWIM</title>
-    <link>http://www.aixwim.cloud/id/tags/skor-kredit/</link>
+    <link>http://localhost:1313/id/tags/skor-kredit/</link>
     <description>Recent content in Skor Kredit on AIXWIM</description>
     <generator>Hugo</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/id/tags/skor-kredit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/tags/skor-kredit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mengenal Kartu Kredit Cash Back: Ide Bagus atau Buruk?</title>
-      <link>http://www.aixwim.cloud/id/posts/cash-back-credit-cards/</link>
+      <link>http://localhost:1313/id/posts/cash-back-credit-cards/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/posts/cash-back-credit-cards/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;kartu kredit cash back&#34; src=&#34;http://www.aixwim.cloud/images/featured/cash-back-credit-cards.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mendapatkan kartu kredit yang menawarkan cash back selalu terdengar seperti ide yang bagus. Apa yang bisa lebih baik daripada mendapatkan uang kembali untuk setiap pembelian yang Anda lakukan dengan kartu kredit Anda? Terdengar terlalu bagus untuk menjadi kenyataan, bukan?&lt;/p&gt;&#xA;&lt;p&gt;Ada kartu yang memberikan uang gratis, tetapi biasanya hanya sekitar 1% cash back. Namun, uang gratis tetaplah uang gratis, bukan? Terkadang, memang begitu.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/id/posts/cash-back-credit-cards/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;kartu kredit cash back&#34; src=&#34;http://localhost:1313/images/featured/cash-back-credit-cards.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mendapatkan kartu kredit yang menawarkan cash back selalu terdengar seperti ide yang bagus. Apa yang bisa lebih baik daripada mendapatkan uang kembali untuk setiap pembelian yang Anda lakukan dengan kartu kredit Anda? Terdengar terlalu bagus untuk menjadi kenyataan, bukan?&lt;/p&gt;&#xA;&lt;p&gt;Ada kartu yang memberikan uang gratis, tetapi biasanya hanya sekitar 1% cash back. Namun, uang gratis tetaplah uang gratis, bukan? Terkadang, memang begitu.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

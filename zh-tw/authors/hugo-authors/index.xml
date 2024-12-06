@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo的作者 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/authors/hugo-authors/</link>
+    <link>http://localhost:1313/zh-tw/authors/hugo-authors/</link>
     <description>Recent content in Hugo的作者 on AIXWIM</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

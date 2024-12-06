@@ -2,116 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Теги on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ru/tags/</link>
+    <link>http://localhost:1313/ru/tags/</link>
     <description>Recent content in Теги on AIXWIM</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo</title>
-      <link>http://www.aixwim.cloud/ru/tags/hugo/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/hugo/</guid>
+      <title>Аффилиатный Маркетинг</title>
+      <link>http://localhost:1313/ru/tags/%D0%B0%D1%84%D1%84%D0%B8%D0%BB%D0%B8%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D0%B0%D1%84%D1%84%D0%B8%D0%BB%D0%B8%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</guid>
       <description></description>
     </item>
     <item>
-      <title>Блоговая Платформа</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0/</guid>
+      <title>Маркетинговый День</title>
+      <link>http://localhost:1313/ru/tags/%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B4%D0%B5%D0%BD%D1%8C/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B4%D0%B5%D0%BD%D1%8C/</guid>
       <description></description>
     </item>
     <item>
-      <title>Веб-Разработка</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</guid>
+      <title>Работа Из Дома</title>
+      <link>http://localhost:1313/ru/tags/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%B8%D0%B7-%D0%B4%D0%BE%D0%BC%D0%B0/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%B8%D0%B7-%D0%B4%D0%BE%D0%BC%D0%B0/</guid>
       <description></description>
     </item>
     <item>
-      <title>Генератор Статических Сайтов</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Инструменты Для Разработчиков</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Кредитные Карты</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D1%8B/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D1%8B/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Кредитный Рейтинг</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Кэшбэк</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D0%BA%D1%8D%D1%88%D0%B1%D1%8D%D0%BA/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D0%BA%D1%8D%D1%88%D0%B1%D1%8D%D0%BA/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Финансовые Советы</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B5-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B5-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SEO</title>
-      <link>http://www.aixwim.cloud/ru/tags/seo/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/seo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Блогинг</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B3/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Личный Блог</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BB%D0%BE%D0%B3/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BB%D0%BE%D0%B3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Обо Мне</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Создание Контента</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0/</guid>
+      <title>Советы По Аффилиату</title>
+      <link>http://localhost:1313/ru/tags/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D0%B0%D1%84%D1%84%D0%B8%D0%BB%D0%B8%D0%B0%D1%82%D1%83/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D0%B0%D1%84%D1%84%D0%B8%D0%BB%D0%B8%D0%B0%D1%82%D1%83/</guid>
       <description></description>
     </item>
     <item>
       <title>Цифровой Маркетинг</title>
-      <link>http://www.aixwim.cloud/ru/tags/%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</link>
+      <link>http://localhost:1313/ru/tags/%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/ru/tags/hugo/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Блоговая Платформа</title>
+      <link>http://localhost:1313/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Веб-Разработка</title>
+      <link>http://localhost:1313/ru/tags/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Генератор Статических Сайтов</title>
+      <link>http://localhost:1313/ru/tags/%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Инструменты Для Разработчиков</title>
+      <link>http://localhost:1313/ru/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Кредитные Карты</title>
+      <link>http://localhost:1313/ru/tags/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D1%8B/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D1%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Кредитный Рейтинг</title>
+      <link>http://localhost:1313/ru/tags/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Кэшбэк</title>
+      <link>http://localhost:1313/ru/tags/%D0%BA%D1%8D%D1%88%D0%B1%D1%8D%D0%BA/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D0%BA%D1%8D%D1%88%D0%B1%D1%8D%D0%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Финансовые Советы</title>
+      <link>http://localhost:1313/ru/tags/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B5-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B5-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SEO</title>
+      <link>http://localhost:1313/ru/tags/seo/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/tags/%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</guid>
+      <guid>http://localhost:1313/ru/tags/seo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Блогинг</title>
+      <link>http://localhost:1313/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B3/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Личный Блог</title>
+      <link>http://localhost:1313/ru/tags/%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BB%D0%BE%D0%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Обо Мне</title>
+      <link>http://localhost:1313/ru/tags/%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Создание Контента</title>
+      <link>http://localhost:1313/ru/tags/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/tags/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0/</guid>
       <description></description>
     </item>
   </channel>
