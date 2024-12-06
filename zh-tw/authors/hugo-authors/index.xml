@@ -6,6 +6,9 @@
     <description>Recent content in Hugo的作者 on AIXWIM</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Aixwim</copyright>
     <lastBuildDate></lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/zh-tw/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>

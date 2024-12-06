@@ -6,33 +6,36 @@
     <description>Recent content in Kategori on AIXWIM</description>
     <generator>Hugo</generator>
     <language>id</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/id/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bisnis Dan Keuangan</title>
       <link>http://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
       <guid>http://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</guid>
       <description></description>
     </item>
     <item>
       <title>Teknologi</title>
       <link>http://www.aixwim.cloud/id/categories/teknologi/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
       <guid>http://www.aixwim.cloud/id/categories/teknologi/</guid>
       <description></description>
     </item>
     <item>
       <title>Pekerjaan Dan Pendidikan</title>
       <link>http://www.aixwim.cloud/id/categories/pekerjaan-dan-pendidikan/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
       <guid>http://www.aixwim.cloud/id/categories/pekerjaan-dan-pendidikan/</guid>
       <description></description>
     </item>
     <item>
       <title>Profil</title>
       <link>http://www.aixwim.cloud/id/categories/profil/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
       <guid>http://www.aixwim.cloud/id/categories/profil/</guid>
       <description></description>
     </item>

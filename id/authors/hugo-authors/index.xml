@@ -6,6 +6,9 @@
     <description>Recent content in Penulis Hugo on AIXWIM</description>
     <generator>Hugo</generator>
     <language>id</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Aixwim</copyright>
     <lastBuildDate></lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/id/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>

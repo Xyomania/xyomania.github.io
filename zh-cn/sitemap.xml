@@ -544,6 +544,24 @@
                 href="http://www.aixwim.cloud/zh-cn/tags/"
                 />
   </url><url>
+    <loc>http://www.aixwim.cloud/zh-cn/search/</loc>
+    <priority>0.1</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.aixwim.cloud/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://www.aixwim.cloud/ru/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://www.aixwim.cloud/zh-cn/search/"
+                />
+  </url><url>
     <loc>http://www.aixwim.cloud/zh-cn/contact/</loc>
     <xhtml:link
                 rel="alternate"

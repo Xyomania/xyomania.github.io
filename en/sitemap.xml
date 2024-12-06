@@ -544,6 +544,47 @@
                 href="http://www.aixwim.cloud/tags/"
                 />
   </url><url>
+    <loc>http://www.aixwim.cloud/manifest.json</loc>
+  </url><url>
+    <loc>http://www.aixwim.cloud/search/_index.de/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>http://www.aixwim.cloud/search/</loc>
+    <priority>0.1</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://www.aixwim.cloud/ru/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://www.aixwim.cloud/zh-cn/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.aixwim.cloud/search/"
+                />
+  </url><url>
+    <loc>http://www.aixwim.cloud/search/_index.es/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>http://www.aixwim.cloud/search/_index.fr/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>http://www.aixwim.cloud/search/_index.hi/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>http://www.aixwim.cloud/search/_index.jp/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>http://www.aixwim.cloud/search/_index.nl/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>http://www.aixwim.cloud/search/_index.pl/</loc>
+    <priority>0.1</priority>
+  </url><url>
     <loc>http://www.aixwim.cloud/contact/</loc>
     <xhtml:link
                 rel="alternate"
