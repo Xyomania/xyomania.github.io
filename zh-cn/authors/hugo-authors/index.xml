@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo的作者 on AIXWIM</title>
+    <link>http://www.aixwim.cloud/zh-cn/authors/hugo-authors/</link>
+    <description>Recent content in Hugo的作者 on AIXWIM</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://www.aixwim.cloud/zh-cn/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>テクノロジー on AIXWIM</title>
+    <link>http://www.aixwim.cloud/ja/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</link>
+    <description>Recent content in テクノロジー on AIXWIM</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.aixwim.cloud/ja/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024年に開発者にとって最適なブログプラットフォームはHugo</title>
+      <link>http://www.aixwim.cloud/ja/posts/best-hugo-blogging-software/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/ja/posts/best-hugo-blogging-software/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Hugo Blogging Software&#34; src=&#34;http://www.aixwim.cloud/images/featured/hugo-blogging-software.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt;は、近年、開発者やブロガーの間で最も高速な静的サイトジェネレーターの1つとして急速に人気を集めています。2024年には、シンプルで高速、柔軟なブログプラットフォームを求める開発者にとって、Hugoは引き続き最適な選択肢となっています。従来のコンテンツ管理システム（CMS）とは異なり、Hugoは静的なHTMLページを生成し、高速で展開が簡単です。&lt;/p&gt;&#xA;&lt;h2 id=&#34;2024年にhugoが際立っている理由&#34;&gt;&#xA;  2024年にHugoが際立っている理由&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#2024%e5%b9%b4%e3%81%abhugo%e3%81%8c%e9%9a%9b%e7%ab%8b%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e7%90%86%e7%94%b1&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;見出しへのリンク&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;見出しへのリンク&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Hugoの魅力は、その速度、柔軟性、最小限の設定にあります。静的サイトジェネレーターとして、HugoはMarkdownで書かれたコンテンツを取得し、データベースやサーバーサイドの処理を必要とせず、完全に機能するウェブサイトにコンパイルします。このアプローチは、パフォーマンスの大きな利点を提供し、ブログを高速かつスケーラブルに保ちます。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

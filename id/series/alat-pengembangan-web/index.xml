@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alat Pengembangan Web on AIXWIM</title>
+    <link>http://www.aixwim.cloud/id/series/alat-pengembangan-web/</link>
+    <description>Recent content in Alat Pengembangan Web on AIXWIM</description>
+    <generator>Hugo</generator>
+    <language>id</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.aixwim.cloud/id/series/alat-pengembangan-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengapa Hugo Adalah Platform Blogging Terbaik untuk Developer di 2024</title>
+      <link>http://www.aixwim.cloud/id/posts/best-hugo-blogging-software/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/best-hugo-blogging-software/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Hugo Blogging Software&#34; src=&#34;http://www.aixwim.cloud/images/featured/hugo-blogging-software.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; telah dengan cepat mendapatkan popularitas di kalangan developer dan blogger dalam beberapa tahun terakhir sebagai salah satu pembuat situs statis tercepat yang tersedia. Di tahun 2024, Hugo terus menjadi pilihan utama bagi para developer yang mencari platform blogging yang sederhana, cepat, dan fleksibel. Berbeda dengan sistem manajemen konten (CMS) tradisional, Hugo menghasilkan halaman HTML statis yang sangat cepat dan mudah untuk diterapkan.&lt;/p&gt;&#xA;&lt;h2 id=&#34;apa-yang-membuat-hugo-unggul-di-2024&#34;&gt;&#xA;  Apa yang Membuat Hugo Unggul di 2024?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#apa-yang-membuat-hugo-unggul-di-2024&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Tautan ke judul&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Tautan ke judul&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Daya tarik utama Hugo terletak pada kecepatannya, fleksibilitas, dan pengaturannya yang minimal. Sebagai pembuat situs statis, Hugo mengambil konten Anda—yang biasanya ditulis dalam Markdown—dan mengompilasinya menjadi situs web fungsional tanpa memerlukan basis data atau pemrosesan sisi server. Pendekatan ini menawarkan manfaat kinerja yang signifikan dan memastikan blog Anda tetap cepat dan dapat diskalakan.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
