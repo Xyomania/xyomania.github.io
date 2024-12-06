@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on AIXWIM</title>
-    <link>http://localhost:1313/series/</link>
+    <link>http://www.aixwim.cloud/series/</link>
     <description>Recent content in Series on AIXWIM</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.aixwim.cloud/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Affiliate Marketing Success</title>
-      <link>http://localhost:1313/series/affiliate-marketing-success/</link>
+      <link>http://www.aixwim.cloud/series/affiliate-marketing-success/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/affiliate-marketing-success/</guid>
+      <guid>http://www.aixwim.cloud/series/affiliate-marketing-success/</guid>
       <description></description>
     </item>
     <item>
       <title>Financial Literacy</title>
-      <link>http://localhost:1313/series/financial-literacy/</link>
+      <link>http://www.aixwim.cloud/series/financial-literacy/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/financial-literacy/</guid>
+      <guid>http://www.aixwim.cloud/series/financial-literacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development Tools</title>
-      <link>http://localhost:1313/series/web-development-tools/</link>
+      <link>http://www.aixwim.cloud/series/web-development-tools/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/web-development-tools/</guid>
+      <guid>http://www.aixwim.cloud/series/web-development-tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Blogging Success</title>
-      <link>http://localhost:1313/series/blogging-success/</link>
+      <link>http://www.aixwim.cloud/series/blogging-success/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/blogging-success/</guid>
+      <guid>http://www.aixwim.cloud/series/blogging-success/</guid>
       <description></description>
     </item>
   </channel>

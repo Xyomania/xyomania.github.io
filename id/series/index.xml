@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on AIXWIM</title>
-    <link>http://localhost:1313/id/series/</link>
+    <link>http://www.aixwim.cloud/id/series/</link>
     <description>Recent content in Series on AIXWIM</description>
     <generator>Hugo</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.aixwim.cloud/id/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sukses Affiliate Marketing</title>
-      <link>http://localhost:1313/id/series/sukses-affiliate-marketing/</link>
+      <link>http://www.aixwim.cloud/id/series/sukses-affiliate-marketing/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/series/sukses-affiliate-marketing/</guid>
+      <guid>http://www.aixwim.cloud/id/series/sukses-affiliate-marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>Alat Pengembangan Web</title>
-      <link>http://localhost:1313/id/series/alat-pengembangan-web/</link>
+      <link>http://www.aixwim.cloud/id/series/alat-pengembangan-web/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/series/alat-pengembangan-web/</guid>
+      <guid>http://www.aixwim.cloud/id/series/alat-pengembangan-web/</guid>
       <description></description>
     </item>
     <item>
       <title>Literasi Keuangan</title>
-      <link>http://localhost:1313/id/series/literasi-keuangan/</link>
+      <link>http://www.aixwim.cloud/id/series/literasi-keuangan/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/series/literasi-keuangan/</guid>
+      <guid>http://www.aixwim.cloud/id/series/literasi-keuangan/</guid>
       <description></description>
     </item>
     <item>
       <title>Kesuksesan Blogging</title>
-      <link>http://localhost:1313/id/series/kesuksesan-blogging/</link>
+      <link>http://www.aixwim.cloud/id/series/kesuksesan-blogging/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/series/kesuksesan-blogging/</guid>
+      <guid>http://www.aixwim.cloud/id/series/kesuksesan-blogging/</guid>
       <description></description>
     </item>
   </channel>

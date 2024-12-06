@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kategori on AIXWIM</title>
-    <link>http://localhost:1313/id/categories/</link>
+    <link>http://www.aixwim.cloud/id/categories/</link>
     <description>Recent content in Kategori on AIXWIM</description>
     <generator>Hugo</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.aixwim.cloud/id/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bisnis Dan Keuangan</title>
-      <link>http://localhost:1313/id/categories/bisnis-dan-keuangan/</link>
+      <link>http://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/categories/bisnis-dan-keuangan/</guid>
+      <guid>http://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</guid>
       <description></description>
     </item>
     <item>
       <title>Teknologi</title>
-      <link>http://localhost:1313/id/categories/teknologi/</link>
+      <link>http://www.aixwim.cloud/id/categories/teknologi/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/categories/teknologi/</guid>
+      <guid>http://www.aixwim.cloud/id/categories/teknologi/</guid>
       <description></description>
     </item>
     <item>
       <title>Pekerjaan Dan Pendidikan</title>
-      <link>http://localhost:1313/id/categories/pekerjaan-dan-pendidikan/</link>
+      <link>http://www.aixwim.cloud/id/categories/pekerjaan-dan-pendidikan/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/categories/pekerjaan-dan-pendidikan/</guid>
+      <guid>http://www.aixwim.cloud/id/categories/pekerjaan-dan-pendidikan/</guid>
       <description></description>
     </item>
     <item>
       <title>Profil</title>
-      <link>http://localhost:1313/id/categories/profil/</link>
+      <link>http://www.aixwim.cloud/id/categories/profil/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/categories/profil/</guid>
+      <guid>http://www.aixwim.cloud/id/categories/profil/</guid>
       <description></description>
     </item>
   </channel>

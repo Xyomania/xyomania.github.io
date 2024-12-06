@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>网页开发 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E7%BD%91%E9%A1%B5%E5%BC%80%E5%8F%91/</link>
+    <link>http://www.aixwim.cloud/zh-cn/tags/%E7%BD%91%E9%A1%B5%E5%BC%80%E5%8F%91/</link>
     <description>Recent content in 网页开发 on AIXWIM</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E7%BD%91%E9%A1%B5%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.aixwim.cloud/zh-cn/tags/%E7%BD%91%E9%A1%B5%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>为什么 Hugo 是 2024 年开发者最佳的博客平台</title>
-      <link>http://localhost:1313/zh-cn/posts/best-hugo-blogging-software/</link>
+      <link>http://www.aixwim.cloud/zh-cn/posts/best-hugo-blogging-software/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/best-hugo-blogging-software/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Hugo Blogging Software&#34; src=&#34;http://localhost:1313/images/featured/hugo-blogging-software.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; 在近年来迅速获得了开发者和博客作者的青睐，成为最快的静态网站生成器之一。2024年，Hugo 仍然是开发者们创建博客的最佳选择之一。与传统的内容管理系统（CMS）不同，Hugo 生成的静态 HTML 页面加载速度非常快，且易于部署。&lt;/p&gt;&#xA;&lt;h2 id=&#34;为什么-hugo-在-2024-年依然脱颖而出&#34;&gt;&#xA;  为什么 Hugo 在 2024 年依然脱颖而出？&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e4%b8%ba%e4%bb%80%e4%b9%88-hugo-%e5%9c%a8-2024-%e5%b9%b4%e4%be%9d%e7%84%b6%e8%84%b1%e9%a2%96%e8%80%8c%e5%87%ba&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Hugo 的吸引力在于它的速度、灵活性以及最小的设置需求。作为一个静态网站生成器，Hugo 会将您编写的 Markdown 内容转化为一个完整的、无需数据库或服务器端处理的功能性网站。这种方法显著提高了性能，确保您的博客快速且可扩展。&lt;/p&gt;</description>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/best-hugo-blogging-software/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Hugo Blogging Software&#34; src=&#34;http://www.aixwim.cloud/images/featured/hugo-blogging-software.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; 在近年来迅速获得了开发者和博客作者的青睐，成为最快的静态网站生成器之一。2024年，Hugo 仍然是开发者们创建博客的最佳选择之一。与传统的内容管理系统（CMS）不同，Hugo 生成的静态 HTML 页面加载速度非常快，且易于部署。&lt;/p&gt;&#xA;&lt;h2 id=&#34;为什么-hugo-在-2024-年依然脱颖而出&#34;&gt;&#xA;  为什么 Hugo 在 2024 年依然脱颖而出？&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e4%b8%ba%e4%bb%80%e4%b9%88-hugo-%e5%9c%a8-2024-%e5%b9%b4%e4%be%9d%e7%84%b6%e8%84%b1%e9%a2%96%e8%80%8c%e5%87%ba&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Hugo 的吸引力在于它的速度、灵活性以及最小的设置需求。作为一个静态网站生成器，Hugo 会将您编写的 Markdown 内容转化为一个完整的、无需数据库或服务器端处理的功能性网站。这种方法显著提高了性能，确保您的博客快速且可扩展。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
