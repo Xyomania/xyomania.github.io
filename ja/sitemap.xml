@@ -2,8 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.aixwim.cloud/ja/tags/adhd/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.aixwim.cloud/tags/adhd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://www.aixwim.cloud/id/tags/adhd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://www.aixwim.cloud/zh-cn/tags/adhd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://www.aixwim.cloud/zh-tw/tags/adhd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://www.aixwim.cloud/ja/tags/adhd/"
+                />
+  </url><url>
     <loc>http://www.aixwim.cloud/ja/authors/aixwim/</loc>
-    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,7 +64,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/ja/</loc>
-    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,7 +97,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/ja/authors/</loc>
-    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -102,7 +130,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/ja/posts/</loc>
-    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -135,7 +163,7 @@
                 />
   </url><url>
     <loc>http://www.aixwim.cloud/ja/series/</loc>
-    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -166,6 +194,126 @@
                 hreflang="ja"
                 href="http://www.aixwim.cloud/ja/series/"
                 />
+  </url><url>
+    <loc>http://www.aixwim.cloud/ja/categories/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.aixwim.cloud/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://www.aixwim.cloud/id/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://www.aixwim.cloud/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://www.aixwim.cloud/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://www.aixwim.cloud/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://www.aixwim.cloud/ja/categories/"
+                />
+  </url><url>
+    <loc>http://www.aixwim.cloud/ja/categories/%E6%95%99%E8%82%B2/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://www.aixwim.cloud/zh-cn/categories/%E6%95%99%E8%82%B2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://www.aixwim.cloud/zh-tw/categories/%E6%95%99%E8%82%B2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://www.aixwim.cloud/ja/categories/%E6%95%99%E8%82%B2/"
+                />
+  </url><url>
+    <loc>http://www.aixwim.cloud/ja/categories/%E5%81%A5%E5%BA%B7/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://www.aixwim.cloud/zh-cn/categories/%E5%81%A5%E5%BA%B7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://www.aixwim.cloud/zh-tw/categories/%E5%81%A5%E5%BA%B7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://www.aixwim.cloud/ja/categories/%E5%81%A5%E5%BA%B7/"
+                />
+  </url><url>
+    <loc>http://www.aixwim.cloud/ja/categories/%E5%AD%90%E8%82%B2%E3%81%A6/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/ja/tags/%E5%AD%90%E8%82%B2%E3%81%A6%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/ja/series/%E5%AD%90%E8%82%B2%E3%81%A6%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E5%81%A5%E5%BA%B7/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/ja/tags/%E5%A4%9A%E5%8B%95%E6%80%A7%E3%81%AE%E5%AD%90%E4%BE%9B/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.aixwim.cloud/posts/after-school-activities-hyperactive-child/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://www.aixwim.cloud/id/posts/after-school-activities-hyperactive-child/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://www.aixwim.cloud/ru/posts/after-school-activities-hyperactive-child/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://www.aixwim.cloud/zh-tw/posts/after-school-activities-hyperactive-child/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/"
+                />
+  </url><url>
+    <loc>http://www.aixwim.cloud/ja/tags/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%81%AE%E6%B4%BB%E5%8B%95/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.aixwim.cloud/ja/posts/affiliate-marketing-tips-survive-online/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
@@ -214,39 +362,6 @@
   </url><url>
     <loc>http://www.aixwim.cloud/ja/tags/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.aixwim.cloud/ja/categories/</loc>
-    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.aixwim.cloud/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://www.aixwim.cloud/id/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://www.aixwim.cloud/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://www.aixwim.cloud/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://www.aixwim.cloud/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://www.aixwim.cloud/ja/categories/"
-                />
   </url><url>
     <loc>http://www.aixwim.cloud/ja/tags/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
