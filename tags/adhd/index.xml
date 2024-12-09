@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ADHD on AIXWIM</title>
     <link>http://www.aixwim.cloud/tags/adhd/</link>
     <description>Recent content in ADHD on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 11:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/tags/adhd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>After-School Activities for Hyperactive Children: Engaging ADHD Kids</title>
       <link>http://www.aixwim.cloud/posts/after-school-activities-hyperactive-child/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/posts/after-school-activities-hyperactive-child/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;After-School Activities for Hyperactive Children&#34; src=&#34;http://www.aixwim.cloud/images/featured/adhd-child-activity.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Children with ADHD (Attention-Deficit/Hyperactivity Disorder) face challenges that can make after-school hours particularly difficult. With hyperactivity and attention issues persisting after school, parents often struggle to keep their children engaged in productive and healthy activities. But with the right approach, after-school activities can help channel their energy, improve focus, and even enhance their social skills.&lt;/p&gt;</description>
+      <description>Discover after-school activities that work for children with ADHD. Explore sports, arts, and other activities that help channel energy, improve focus, and build social skills.</description>
     </item>
   </channel>
 </rss>

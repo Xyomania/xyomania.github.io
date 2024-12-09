@@ -1,20 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>育儿 on AIXWIM</title>
     <link>http://www.aixwim.cloud/zh-cn/categories/%E8%82%B2%E5%84%BF/</link>
     <description>Recent content in 育儿 on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/zh-cn/categories/%E8%82%B2%E5%84%BF/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>多动症儿童的课外活动：帮助ADHD孩子</title>
+      <title>课后安全：家长必备的建议与提醒</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/after-school-safety-tips-for-parents/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/after-school-safety-tips-for-parents/</guid>
+      <description>通过这些实用的建议，确保您孩子放学后的安全。从紧急情况准备到识别危险区域，了解如何保护您的孩子。</description>
+    </item>
+    <item>
+      <title>课后活动对儿童的好处</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</guid>
+      <description>发现一个好的课后活动的众多好处，从提高孩子的技能到促进社交，预防不良习惯。</description>
+    </item>
+    <item>
+      <title>学校太多：关于课后活动的个人反思</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/too-much-of-school-reflection/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/too-much-of-school-reflection/</guid>
+      <description>从孩子的角度反思课后活动的挑战和发展，讲述个人经历。</description>
+    </item>
+    <item>
+      <title>针对超重儿童的课后活动：通向更健康生活的道路</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-overweight-kids/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-overweight-kids/</guid>
+      <description>探讨课后活动在对抗儿童肥胖中的重要性。了解运动和身体锻炼如何帮助超重儿童保持活跃和健康。</description>
+    </item>
+    <item>
+      <title>为多动症孩子设计的课后活动：如何让ADHD孩子参与</title>
       <link>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;多动症儿童的课外活动&#34; src=&#34;http://www.aixwim.cloud/images/featured/adhd-child-activity.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;患有ADHD（注意力缺陷多动障碍）的儿童面临着使课后时间尤其困难的挑战。由于过度活跃和注意力问题在课后仍然存在，父母通常很难让孩子参与富有生产性和健康的活动。但通过正确的方式，课外活动可以帮助孩子释放能量、提高专注力，并改善社交技能。&lt;/p&gt;</description>
+      <description>发现适合ADHD孩子的课后活动。探索运动、艺术和其他活动，这些活动有助于引导能量、提高专注力并培养社交技能。</description>
     </item>
   </channel>
 </rss>

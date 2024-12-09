@@ -1,40 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kategori on AIXWIM</title>
     <link>http://www.aixwim.cloud/id/categories/</link>
     <description>Recent content in Kategori on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bisnis Dan Keuangan</title>
+      <link>http://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobi Dan Waktu</title>
+      <link>http://www.aixwim.cloud/id/categories/hobi-dan-waktu/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/categories/hobi-dan-waktu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keamanan</title>
+      <link>http://www.aixwim.cloud/id/categories/keamanan/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/categories/keamanan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keluarga</title>
+      <link>http://www.aixwim.cloud/id/categories/keluarga/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/categories/keluarga/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Kesehatan</title>
       <link>http://www.aixwim.cloud/id/categories/kesehatan/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/id/categories/kesehatan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Olahraga</title>
+      <link>http://www.aixwim.cloud/id/categories/olahraga/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/categories/olahraga/</guid>
       <description></description>
     </item>
     <item>
       <title>Parenting</title>
       <link>http://www.aixwim.cloud/id/categories/parenting/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/id/categories/parenting/</guid>
       <description></description>
     </item>
     <item>
       <title>Pendidikan</title>
       <link>http://www.aixwim.cloud/id/categories/pendidikan/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/id/categories/pendidikan/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bisnis Dan Keuangan</title>
-      <link>http://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</link>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</guid>
+      <title>Pendidikan Anak</title>
+      <link>http://www.aixwim.cloud/id/categories/pendidikan-anak/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/categories/pendidikan-anak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perawatan Dan Hewan Peliharaan</title>
+      <link>http://www.aixwim.cloud/id/categories/perawatan-dan-hewan-peliharaan/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/categories/perawatan-dan-hewan-peliharaan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perkembangan Anak</title>
+      <link>http://www.aixwim.cloud/id/categories/perkembangan-anak/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/categories/perkembangan-anak/</guid>
       <description></description>
     </item>
     <item>
@@ -42,13 +91,6 @@
       <link>http://www.aixwim.cloud/id/categories/teknologi/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/id/categories/teknologi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pekerjaan Dan Pendidikan</title>
-      <link>http://www.aixwim.cloud/id/categories/pekerjaan-dan-pendidikan/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/categories/pekerjaan-dan-pendidikan/</guid>
       <description></description>
     </item>
     <item>

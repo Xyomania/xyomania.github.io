@@ -1,20 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>教育 on AIXWIM</title>
     <link>http://www.aixwim.cloud/ja/categories/%E6%95%99%E8%82%B2/</link>
     <description>Recent content in 教育 on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/ja/categories/%E6%95%99%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>多動性の子供向け放課後の活動: ADHDの子供をサポートする方法</title>
+      <title>学校が多すぎる：放課後プログラムについての個人的な反省</title>
+      <link>http://www.aixwim.cloud/ja/posts/too-much-of-school-reflection/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/ja/posts/too-much-of-school-reflection/</guid>
+      <description>子供の視点から、放課後プログラムの課題と進化について反省した個人的なストーリー。</description>
+    </item>
+    <item>
+      <title>子供にとって良い放課後プログラムの利点</title>
+      <link>http://www.aixwim.cloud/ja/posts/benefits-of-after-school-programs/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/ja/posts/benefits-of-after-school-programs/</guid>
+      <description>子供のスキルを向上させ、社会的交流を促進し、破壊的な習慣を防ぐために、良い放課後プログラムの数々の利点を発見しましょう。</description>
+    </item>
+    <item>
+      <title>肥満の子供のための放課後活動：健康的な生活への道</title>
+      <link>http://www.aixwim.cloud/ja/posts/after-school-activities-overweight-kids/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/ja/posts/after-school-activities-overweight-kids/</guid>
+      <description>肥満の子供たちが活動的で健康的な生活を維持するために、放課後活動がどれほど重要かを探ります。スポーツやフィジカルトレーニングがどのように役立つかを学びましょう。</description>
+    </item>
+    <item>
+      <title>放課後活動と関係構築: つながりを強化する</title>
+      <link>http://www.aixwim.cloud/ja/posts/after-school-activities-relationship-building/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/ja/posts/after-school-activities-relationship-building/</guid>
+      <description>放課後プログラムが子どもとメンターの間でどのように意味のある関係を育むか、そしてそのつながりが成長と成功にとってなぜ重要であるかを探ります。</description>
+    </item>
+    <item>
+      <title>ADHDの子供の放課後活動: 活動的な子供を引き込む方法</title>
       <link>http://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;多動性の子供向け放課後の活動&#34; src=&#34;http://www.aixwim.cloud/images/featured/adhd-child-activity.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;ADHD（注意欠陥・多動性障害）の子供たちは、放課後の時間を特に難しく感じることがあります。過活動や注意力の問題が学校の後も続くため、親は子供を健康的で生産的な活動に従事させることに苦労します。しかし、適切なアプローチを取ることで、放課後の活動はエネルギーを発散させ、集中力を高め、社会的スキルを向上させるのに役立ちます。&lt;/p&gt;</description>
+      <description>ADHDの子供に適した放課後活動を見つけましょう。エネルギーを発散させ、集中力を高め、社交スキルを向上させるスポーツやアートなどの活動を探索しましょう。</description>
     </item>
   </channel>
 </rss>

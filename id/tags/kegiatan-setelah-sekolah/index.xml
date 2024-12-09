@@ -1,20 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kegiatan Setelah Sekolah on AIXWIM</title>
     <link>http://www.aixwim.cloud/id/tags/kegiatan-setelah-sekolah/</link>
     <description>Recent content in Kegiatan Setelah Sekolah on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/id/tags/kegiatan-setelah-sekolah/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kegiatan Setelah Sekolah untuk Anak Hiperaktif: Mengelola Anak dengan ADHD</title>
+      <title>Cara Menemukan Kegiatan Ekstrakurikuler untuk Anak Anda</title>
+      <link>http://www.aixwim.cloud/id/posts/how-to-find-after-school-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/how-to-find-after-school-activities/</guid>
+      <description>Sedang mencari kegiatan setelah sekolah terbaik untuk anak Anda? Berikut adalah panduan langkah demi langkah untuk menemukan program ekstrakurikuler yang tepat sesuai dengan minat mereka dan jadwal Anda.</description>
+    </item>
+    <item>
+      <title>Kegiatan Setelah Sekolah dan Membangun Hubungan: Memperkuat Koneksi</title>
+      <link>http://www.aixwim.cloud/id/posts/after-school-activities-relationship-building/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/after-school-activities-relationship-building/</guid>
+      <description>Temukan bagaimana program setelah sekolah mendorong hubungan bermakna antara anak-anak dan mentor, serta mengapa hubungan ini sangat penting untuk pertumbuhan dan kesuksesan.</description>
+    </item>
+    <item>
+      <title>Membuat Program Setelah Sekolah Berbasis di Rumah: Tips untuk Orang Tua</title>
+      <link>http://www.aixwim.cloud/id/posts/home-after-school-program/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/home-after-school-program/</guid>
+      <description>Tidak ada kegiatan ekstrakurikuler di sekolah? Tidak masalah! Berikut adalah cara Anda dapat membuat program setelah sekolah berbasis di rumah untuk mendukung perkembangan akademik, fisik, dan sosial anak Anda.</description>
+    </item>
+    <item>
+      <title>Mengapa Anak Anda Mungkin Menemukan Kegiatan Setelah Sekolah Membosankan</title>
+      <link>http://www.aixwim.cloud/id/posts/boredom-in-after-school-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/boredom-in-after-school-activities/</guid>
+      <description>Pelajari mengapa anak-anak kadang kehilangan minat pada kegiatan setelah sekolah dan bagaimana cara mengatasinya agar mereka tetap terlibat.</description>
+    </item>
+    <item>
+      <title>Menghindari Kelelahan dalam Kegiatan Setelah Sekolah: Panduan untuk Orang Tua</title>
+      <link>http://www.aixwim.cloud/id/posts/avoiding-burnout-in-after-school-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <description>Mengelola kegiatan setelah sekolah adalah kunci kebahagiaan dan kesejahteraan anak. Pelajari cara menghindari kelelahan sambil menjaga anak tetap terlibat dan terpenuhi.</description>
+    </item>
+    <item>
+      <title>Kegiatan Setelah Sekolah untuk Anak Hiperaktif: Menarik Perhatian Anak ADHD</title>
       <link>http://www.aixwim.cloud/id/posts/after-school-activities-hyperactive-child/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/id/posts/after-school-activities-hyperactive-child/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Kegiatan Setelah Sekolah untuk Anak Hiperaktif&#34; src=&#34;http://www.aixwim.cloud/images/featured/adhd-child-activity.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Anak dengan ADHD (Attention-Deficit/Hyperactivity Disorder) menghadapi tantangan yang membuat waktu setelah sekolah menjadi sulit. Dengan hiperaktivitas dan masalah perhatian yang terus berlanjut, orang tua sering kesulitan untuk membuat anak mereka tetap terlibat dalam aktivitas yang produktif dan sehat. Namun, dengan pendekatan yang tepat, kegiatan setelah sekolah dapat membantu menyalurkan energi, meningkatkan fokus, dan bahkan mengembangkan keterampilan sosial.&lt;/p&gt;</description>
+      <description>Temukan kegiatan setelah sekolah yang efektif untuk anak dengan ADHD. Jelajahi olahraga, seni, dan kegiatan lainnya yang membantu menyalurkan energi, meningkatkan fokus, dan mengembangkan keterampilan sosial.</description>
     </item>
   </channel>
 </rss>

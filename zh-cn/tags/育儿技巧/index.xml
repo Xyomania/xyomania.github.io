@@ -1,20 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>育儿技巧 on AIXWIM</title>
     <link>http://www.aixwim.cloud/zh-cn/tags/%E8%82%B2%E5%84%BF%E6%8A%80%E5%B7%A7/</link>
     <description>Recent content in 育儿技巧 on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/zh-cn/tags/%E8%82%B2%E5%84%BF%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>多动症儿童的课外活动：帮助ADHD孩子</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;多动症儿童的课外活动&#34; src=&#34;http://www.aixwim.cloud/images/featured/adhd-child-activity.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;患有ADHD（注意力缺陷多动障碍）的儿童面临着使课后时间尤其困难的挑战。由于过度活跃和注意力问题在课后仍然存在，父母通常很难让孩子参与富有生产性和健康的活动。但通过正确的方式，课外活动可以帮助孩子释放能量、提高专注力，并改善社交技能。&lt;/p&gt;</description>
+      <title>过度安排孩子活动的风险：过多的课后活动如何影响您的孩子</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/risks-of-over-scheduling-kids/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/risks-of-over-scheduling-kids/</guid>
+      <description>过度安排孩子的课后活动可能会导致压力，并且几乎没有时间放松和陪伴家人。了解如何找到平衡，避免倦怠。</description>
+    </item>
+    <item>
+      <title>课后活动：娱乐性活动与教育性活动的比较</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/recreational-vs-educational-programs/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/recreational-vs-educational-programs/</guid>
+      <description>探索娱乐性和教育性课后活动的优势。了解如何通过结合两者，让您的孩子保持参与、积极性并不断成长。</description>
+    </item>
+    <item>
+      <title>课后活动对儿童的好处</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</guid>
+      <description>发现一个好的课后活动的众多好处，从提高孩子的技能到促进社交，预防不良习惯。</description>
+    </item>
+    <item>
+      <title>课后活动与纪律：规则的重要性</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/importance-of-discipline-in-after-school-programs/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/importance-of-discipline-in-after-school-programs/</guid>
+      <description>纪律在课后活动中起着至关重要的作用。了解为什么设定明确的规则并处理不当行为对孩子的发展至关重要。</description>
+    </item>
+    <item>
+      <title>母乳喂养您的宝宝：提示与问题解决</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/breastfeeding-guide/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/breastfeeding-guide/</guid>
+      <description>一本关于母乳喂养挑战、奶水生产和确保宝宝获得足够营养的指南。</description>
+    </item>
+    <item>
+      <title>母乳喂养问题与解答</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/breastfeeding-faq/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/breastfeeding-faq/</guid>
+      <description>解答常见的母乳喂养问题，为新手妈妈和有经验的妈妈提供指导。</description>
+    </item>
+    <item>
+      <title>如何保持孩子在课外活动中的动力</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/keeping-children-motivated-after-school/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/keeping-children-motivated-after-school/</guid>
+      <description>难以保持孩子在课外活动中的动力？这里有一些策略，帮助您维持他们的热情，培养对学习和成长的兴趣。</description>
+    </item>
+    <item>
+      <title>如何避免课后活动中的倦怠：家长指南</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/avoiding-burnout-in-after-school-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <description>管理课后活动是孩子幸福与健康的关键。了解如何在保持孩子兴趣和满足感的同时避免倦怠。</description>
+    </item>
+    <item>
+      <title>新父母的基本建议</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/essential-tips-for-new-parents/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/essential-tips-for-new-parents/</guid>
+      <description>为新父母提供有用的指南，帮助他们应对照顾新生儿的挑战。</description>
+    </item>
+    <item>
+      <title>阅读活动：如何培养孩子对阅读的热爱</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/reading-activities-for-kids/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/reading-activities-for-kids/</guid>
+      <description>在一个由屏幕主导的世界中，培养孩子对阅读的热爱比以往任何时候都更加重要。发现一些有趣且富有创意的方法，让孩子对阅读充满兴趣。</description>
+    </item>
+    <item>
+      <title>课后活动的重要性</title>
+      <link>http://www.aixwim.cloud/zh-cn/posts/need-for-after-school-activities/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-cn/posts/need-for-after-school-activities/</guid>
+      <description>想知道为什么课后活动如此重要吗？了解课后项目对儿童发展、安全和整体福祉的好处。</description>
     </item>
   </channel>
 </rss>

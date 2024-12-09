@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>子育て on AIXWIM</title>
     <link>http://www.aixwim.cloud/ja/categories/%E5%AD%90%E8%82%B2%E3%81%A6/</link>
     <description>Recent content in 子育て on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/ja/categories/%E5%AD%90%E8%82%B2%E3%81%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>多動性の子供向け放課後の活動: ADHDの子供をサポートする方法</title>
-      <link>http://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;多動性の子供向け放課後の活動&#34; src=&#34;http://www.aixwim.cloud/images/featured/adhd-child-activity.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;ADHD（注意欠陥・多動性障害）の子供たちは、放課後の時間を特に難しく感じることがあります。過活動や注意力の問題が学校の後も続くため、親は子供を健康的で生産的な活動に従事させることに苦労します。しかし、適切なアプローチを取ることで、放課後の活動はエネルギーを発散させ、集中力を高め、社会的スキルを向上させるのに役立ちます。&lt;/p&gt;</description>
+      <title>肥満の子供のための放課後活動：健康的な生活への道</title>
+      <link>http://www.aixwim.cloud/ja/posts/after-school-activities-overweight-kids/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/ja/posts/after-school-activities-overweight-kids/</guid>
+      <description>肥満の子供たちが活動的で健康的な生活を維持するために、放課後活動がどれほど重要かを探ります。スポーツやフィジカルトレーニングがどのように役立つかを学びましょう。</description>
+    </item>
+    <item>
+      <title>放課後の安全：親のための重要なヒントと注意点</title>
+      <link>http://www.aixwim.cloud/ja/posts/after-school-safety-tips-for-parents/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/ja/posts/after-school-safety-tips-for-parents/</guid>
+      <description>放課後の安全を確保するための実践的なヒント。緊急時の準備から危険ゾーンの特定まで、子供を安全に守る方法をご紹介します。</description>
     </item>
   </channel>
 </rss>

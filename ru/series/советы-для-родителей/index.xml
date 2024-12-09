@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Советы Для Родителей on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ru/series/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/</link>
+    <link>http://localhost:1313/ru/series/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/</link>
     <description>Recent content in Советы Для Родителей on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ru/series/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/series/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Внеклассные занятия для детей с избыточным весом: путь к здоровой жизни</title>
+      <link>http://localhost:1313/ru/posts/after-school-activities-overweight-kids/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/posts/after-school-activities-overweight-kids/</guid>
+      <description>Узнайте о важности внеклассных занятий в борьбе с детским ожирением. Узнайте, как спорт и физическая активность помогают детям с избыточным весом оставаться активными и здоровыми.</description>
+    </item>
+    <item>
+      <title>Внеклассные программы и дисциплина: важность правил</title>
+      <link>http://localhost:1313/ru/posts/importance-of-discipline-in-after-school-programs/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/posts/importance-of-discipline-in-after-school-programs/</guid>
+      <description>Дисциплина играет важную роль во внеклассных программах. Узнайте, почему установление четких правил и работа с плохим поведением важны для развития детей.</description>
+    </item>
+    <item>
+      <title>Как найти внеклассные занятия для вашего ребенка</title>
+      <link>http://localhost:1313/ru/posts/how-to-find-after-school-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/posts/how-to-find-after-school-activities/</guid>
+      <description>Ищете лучшие внеклассные занятия для вашего ребенка? Вот пошаговое руководство, которое поможет вам подобрать подходящие программы в соответствии с их интересами и вашим расписанием.</description>
+    </item>
     <item>
       <title>Внеклассные занятия для гиперактивных детей: помощь детям с СДВГ</title>
-      <link>http://www.aixwim.cloud/ru/posts/after-school-activities-hyperactive-child/</link>
+      <link>http://localhost:1313/ru/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/posts/after-school-activities-hyperactive-child/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Внеклассные занятия для гиперактивных детей&#34; src=&#34;http://www.aixwim.cloud/images/featured/adhd-child-activity.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Дети с СДВГ (синдром дефицита внимания с гиперактивностью) сталкиваются с трудностями, которые делают время после школы особенно сложным. Гиперактивность и проблемы с вниманием часто продолжаются и после уроков, что затрудняет для родителей выбор подходящих, продуктивных и здоровых занятий. Однако с правильным подходом внеклассные занятия могут помочь направить энергию ребенка, улучшить его концентрацию и развить социальные навыки.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/ru/posts/after-school-activities-hyperactive-child/</guid>
+      <description>Узнайте о внеклассных занятиях, которые подходят для детей с СДВГ. Исследуйте спорт, искусство и другие занятия, которые помогают направить энергию, улучшить концентрацию и развить социальные навыки.</description>
     </item>
   </channel>
 </rss>

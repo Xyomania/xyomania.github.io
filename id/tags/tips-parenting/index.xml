@@ -1,20 +1,125 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tips Parenting on AIXWIM</title>
     <link>http://www.aixwim.cloud/id/tags/tips-parenting/</link>
     <description>Recent content in Tips Parenting on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/id/tags/tips-parenting/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kegiatan Setelah Sekolah untuk Anak Hiperaktif: Mengelola Anak dengan ADHD</title>
+      <title>Aktivitas Membaca: Cara Menumbuhkan Cinta Membaca pada Anak Anda</title>
+      <link>http://www.aixwim.cloud/id/posts/reading-activities-for-kids/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/reading-activities-for-kids/</guid>
+      <description>Di dunia yang didominasi oleh layar, menumbuhkan cinta membaca pada anak lebih penting dari sebelumnya. Temukan cara yang menyenangkan dan kreatif untuk membuat anak Anda bersemangat membaca.</description>
+    </item>
+    <item>
+      <title>Apa yang Membuat Program After-School Berhasil?</title>
+      <link>http://www.aixwim.cloud/id/posts/successful-after-school-programs/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/successful-after-school-programs/</guid>
+      <description>Temukan elemen kunci yang membuat program after-school berhasil dan bagaimana memilih program yang tepat untuk anak Anda.</description>
+    </item>
+    <item>
+      <title>Cara Menemukan Kegiatan Ekstrakurikuler untuk Anak Anda</title>
+      <link>http://www.aixwim.cloud/id/posts/how-to-find-after-school-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/how-to-find-after-school-activities/</guid>
+      <description>Sedang mencari kegiatan setelah sekolah terbaik untuk anak Anda? Berikut adalah panduan langkah demi langkah untuk menemukan program ekstrakurikuler yang tepat sesuai dengan minat mereka dan jadwal Anda.</description>
+    </item>
+    <item>
+      <title>Cara Menjaga Motivasi Anak dalam Kegiatan Setelah Sekolah</title>
+      <link>http://www.aixwim.cloud/id/posts/keeping-children-motivated-after-school/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/keeping-children-motivated-after-school/</guid>
+      <description>Kesulitan menjaga motivasi anak dalam kegiatan setelah sekolah? Berikut beberapa strategi untuk mempertahankan antusiasme dan menumbuhkan kecintaan terhadap pembelajaran dan perkembangan.</description>
+    </item>
+    <item>
+      <title>Manfaat Program After-School yang Baik untuk Anak</title>
+      <link>http://www.aixwim.cloud/id/posts/benefits-of-after-school-programs/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/benefits-of-after-school-programs/</guid>
+      <description>Temukan berbagai manfaat dari program after-school yang baik, mulai dari meningkatkan keterampilan anak hingga mempromosikan sosialiasi dan mencegah kebiasaan buruk.</description>
+    </item>
+    <item>
+      <title>Mengapa Anak Anda Mungkin Menemukan Kegiatan Setelah Sekolah Membosankan</title>
+      <link>http://www.aixwim.cloud/id/posts/boredom-in-after-school-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/boredom-in-after-school-activities/</guid>
+      <description>Pelajari mengapa anak-anak kadang kehilangan minat pada kegiatan setelah sekolah dan bagaimana cara mengatasinya agar mereka tetap terlibat.</description>
+    </item>
+    <item>
+      <title>Menghindari Kelelahan dalam Kegiatan Setelah Sekolah: Panduan untuk Orang Tua</title>
+      <link>http://www.aixwim.cloud/id/posts/avoiding-burnout-in-after-school-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <description>Mengelola kegiatan setelah sekolah adalah kunci kebahagiaan dan kesejahteraan anak. Pelajari cara menghindari kelelahan sambil menjaga anak tetap terlibat dan terpenuhi.</description>
+    </item>
+    <item>
+      <title>Menyusui Bayi Anda: Tips dan Mengatasi Masalah</title>
+      <link>http://www.aixwim.cloud/id/posts/breastfeeding-guide/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/breastfeeding-guide/</guid>
+      <description>Panduan lengkap tentang tantangan menyusui, produksi ASI, dan memastikan bayi Anda mendapatkan nutrisi yang cukup.</description>
+    </item>
+    <item>
+      <title>Pertanyaan &amp; Jawaban Seputar Menyusui</title>
+      <link>http://www.aixwim.cloud/id/posts/breastfeeding-faq/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/breastfeeding-faq/</guid>
+      <description>Jawaban atas pertanyaan umum seputar menyusui untuk membantu ibu baru dan berpengalaman.</description>
+    </item>
+    <item>
+      <title>Potensi Program Setelah Sekolah: Manfaat untuk Anak-anak</title>
+      <link>http://www.aixwim.cloud/id/posts/potentials-of-after-school-programs/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/potentials-of-after-school-programs/</guid>
+      <description>Program setelah sekolah menawarkan berbagai manfaat, mulai dari meningkatkan prestasi akademis hingga mencegah perilaku berisiko. Pelajari mengapa program-program ini sangat penting untuk perkembangan anak-anak.</description>
+    </item>
+    <item>
+      <title>Program Kursus Setelah Sekolah dan Disiplin: Pentingnya Aturan</title>
+      <link>http://www.aixwim.cloud/id/posts/importance-of-discipline-in-after-school-programs/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/importance-of-discipline-in-after-school-programs/</guid>
+      <description>Disiplin memainkan peran penting dalam program setelah sekolah. Pelajari mengapa menetapkan aturan yang jelas dan menangani perilaku buruk sangat penting bagi perkembangan anak.</description>
+    </item>
+    <item>
+      <title>Risiko Terlalu Banyak Menjadwalkan Kegiatan Anak: Bagaimana Aktivitas Setelah Sekolah yang Terlalu Banyak Dapat Mempengaruhi Anak Anda</title>
+      <link>http://www.aixwim.cloud/id/posts/risks-of-over-scheduling-kids/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/risks-of-over-scheduling-kids/</guid>
+      <description>Terlalu banyak menjadwalkan anak dengan aktivitas setelah sekolah dapat menyebabkan stres dan meninggalkan sedikit waktu untuk bersantai serta berkumpul dengan keluarga. Pelajari bagaimana menemukan keseimbangan dan menghindari kelelahan.</description>
+    </item>
+    <item>
+      <title>Seberapa Banyak Terlalu Banyak? Panduan Menyeimbangkan Kegiatan Anak Setelah Sekolah</title>
+      <link>http://www.aixwim.cloud/id/posts/how-much-is-too-much-child-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/how-much-is-too-much-child-activities/</guid>
+      <description>Tidak yakin berapa banyak kegiatan ekstrakurikuler yang terlalu banyak untuk anak Anda? Berikut panduan praktis untuk membantu Anda menemukan keseimbangan yang tepat berdasarkan usia dan kebutuhan mereka.</description>
+    </item>
+    <item>
+      <title>Tips Parenting Lebih Lanjut: Perawatan Popok, Lonjakan Pertumbuhan, Imunisasi, dan Lainnya</title>
+      <link>http://www.aixwim.cloud/id/posts/parenting-tips-for-babies/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/parenting-tips-for-babies/</guid>
+      <description>Jelajahi tips parenting yang bermanfaat, termasuk perawatan popok, mengelola lonjakan pertumbuhan, imunisasi, dan cara mengatasi masalah bayi umum seperti empeng dan gumoh.</description>
+    </item>
+    <item>
+      <title>Kegiatan Setelah Sekolah untuk Anak Hiperaktif: Menarik Perhatian Anak ADHD</title>
       <link>http://www.aixwim.cloud/id/posts/after-school-activities-hyperactive-child/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/id/posts/after-school-activities-hyperactive-child/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Kegiatan Setelah Sekolah untuk Anak Hiperaktif&#34; src=&#34;http://www.aixwim.cloud/images/featured/adhd-child-activity.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Anak dengan ADHD (Attention-Deficit/Hyperactivity Disorder) menghadapi tantangan yang membuat waktu setelah sekolah menjadi sulit. Dengan hiperaktivitas dan masalah perhatian yang terus berlanjut, orang tua sering kesulitan untuk membuat anak mereka tetap terlibat dalam aktivitas yang produktif dan sehat. Namun, dengan pendekatan yang tepat, kegiatan setelah sekolah dapat membantu menyalurkan energi, meningkatkan fokus, dan bahkan mengembangkan keterampilan sosial.&lt;/p&gt;</description>
+      <description>Temukan kegiatan setelah sekolah yang efektif untuk anak dengan ADHD. Jelajahi olahraga, seni, dan kegiatan lainnya yang membantu menyalurkan energi, meningkatkan fokus, dan mengembangkan keterampilan sosial.</description>
+    </item>
+    <item>
+      <title>Pentingnya Kegiatan Setelah Sekolah</title>
+      <link>http://www.aixwim.cloud/id/posts/need-for-after-school-activities/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/need-for-after-school-activities/</guid>
+      <description>Ingin tahu mengapa kegiatan setelah sekolah itu sangat penting? Temukan manfaat dari program setelah sekolah untuk perkembangan anak, keamanan, dan kesejahteraan mereka secara keseluruhan.</description>
     </item>
   </channel>
 </rss>

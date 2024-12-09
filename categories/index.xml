@@ -1,40 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on AIXWIM</title>
     <link>http://www.aixwim.cloud/categories/</link>
     <description>Recent content in Categories on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business and Finance</title>
+      <link>http://www.aixwim.cloud/categories/business-and-finance/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/categories/business-and-finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Caregivers and Pets</title>
+      <link>http://www.aixwim.cloud/categories/caregivers-and-pets/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/categories/caregivers-and-pets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Child Development</title>
+      <link>http://www.aixwim.cloud/categories/child-development/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/categories/child-development/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Education</title>
       <link>http://www.aixwim.cloud/categories/education/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/categories/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Family</title>
+      <link>http://www.aixwim.cloud/categories/family/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/categories/family/</guid>
       <description></description>
     </item>
     <item>
       <title>Health</title>
       <link>http://www.aixwim.cloud/categories/health/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/categories/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobbies and Time</title>
+      <link>http://www.aixwim.cloud/categories/hobbies-and-time/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/categories/hobbies-and-time/</guid>
       <description></description>
     </item>
     <item>
       <title>Parenting</title>
       <link>http://www.aixwim.cloud/categories/parenting/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/categories/parenting/</guid>
       <description></description>
     </item>
     <item>
-      <title>Business and Finance</title>
-      <link>http://www.aixwim.cloud/categories/business-and-finance/</link>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/categories/business-and-finance/</guid>
+      <title>Safety</title>
+      <link>http://www.aixwim.cloud/categories/safety/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/categories/safety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sports</title>
+      <link>http://www.aixwim.cloud/categories/sports/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/categories/sports/</guid>
       <description></description>
     </item>
     <item>
@@ -42,13 +84,6 @@
       <link>http://www.aixwim.cloud/categories/technology/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/categories/technology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jobs and Education</title>
-      <link>http://www.aixwim.cloud/categories/jobs-and-education/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/categories/jobs-and-education/</guid>
       <description></description>
     </item>
     <item>

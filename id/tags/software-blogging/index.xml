@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software Blogging on AIXWIM</title>
+    <link>http://www.aixwim.cloud/id/tags/software-blogging/</link>
+    <description>Recent content in Software Blogging on AIXWIM</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>id</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.aixwim.cloud/id/tags/software-blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengapa Hugo adalah Platform Blogging Terbaik untuk Developer di 2024</title>
+      <link>http://www.aixwim.cloud/id/posts/best-hugo-blogging-software/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/id/posts/best-hugo-blogging-software/</guid>
+      <description>Cari tahu mengapa Hugo adalah salah satu generator situs statis tercepat dan paling fleksibel untuk blogging di 2024. Pelajari tentang fitur, kinerja, dan mengapa ini sempurna untuk developer.</description>
+    </item>
+  </channel>
+</rss>

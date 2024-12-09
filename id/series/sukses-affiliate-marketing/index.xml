@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sukses Affiliate Marketing on AIXWIM</title>
-    <link>http://www.aixwim.cloud/id/series/sukses-affiliate-marketing/</link>
+    <link>http://localhost:1313/id/series/sukses-affiliate-marketing/</link>
     <description>Recent content in Sukses Affiliate Marketing on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/id/series/sukses-affiliate-marketing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/series/sukses-affiliate-marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sehari dalam Kehidupan Seorang Affiliate Marketer</title>
-      <link>http://www.aixwim.cloud/id/posts/affiliate-marketer-day-in-life/</link>
+      <link>http://localhost:1313/id/posts/affiliate-marketer-day-in-life/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/posts/affiliate-marketer-day-in-life/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Sehari dalam Kehidupan Seorang Affiliate Marketer&#34; src=&#34;http://www.aixwim.cloud/images/featured/affiliate-marketing-day.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Affiliate marketing kini lebih mudah berkat teknologi modern. Tidak lagi bergantung pada telepon atau metode usang untuk melacak dan mempromosikan program afiliasi. Dengan internet, kehidupan seorang affiliate marketer menjadi lebih terjangkau dan memuaskan. Jadi, seperti apa hari-hari biasanya bagi seseorang dalam bisnis ini?&lt;/p&gt;</description>
+      <guid>http://localhost:1313/id/posts/affiliate-marketer-day-in-life/</guid>
+      <description>Pernah bertanya-tanya bagaimana kehidupan sehari-hari seorang affiliate marketer? Berikut sekilas rutinitas harian seorang affiliate marketer yang berdedikasi.</description>
     </item>
   </channel>
 </rss>

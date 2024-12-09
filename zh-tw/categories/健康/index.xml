@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>健康 on AIXWIM</title>
     <link>http://www.aixwim.cloud/zh-tw/categories/%E5%81%A5%E5%BA%B7/</link>
     <description>Recent content in 健康 on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/zh-tw/categories/%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>多動症兒童的課後活動：幫助ADHD孩子</title>
+      <title>如何避免課後活動過度疲憊：家長指南</title>
+      <link>http://www.aixwim.cloud/zh-tw/posts/avoiding-burnout-in-after-school-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-tw/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <description>管理課後活動是孩子幸福與健康的關鍵。學習如何在保持孩子興趣與滿足感的同時，避免過度疲憊。</description>
+    </item>
+    <item>
+      <title>針對超重兒童的課後活動：邁向更健康生活的道路</title>
+      <link>http://www.aixwim.cloud/zh-tw/posts/after-school-activities-overweight-kids/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-tw/posts/after-school-activities-overweight-kids/</guid>
+      <description>探討課後活動在對抗兒童肥胖中的重要性，了解運動和身體鍛鍊如何幫助超重兒童保持活躍和健康。</description>
+    </item>
+    <item>
+      <title>為多動症孩子設計的課後活動：如何讓ADHD孩子參與</title>
       <link>http://www.aixwim.cloud/zh-tw/posts/after-school-activities-hyperactive-child/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/zh-tw/posts/after-school-activities-hyperactive-child/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;多動症兒童的課後活動&#34; src=&#34;http://www.aixwim.cloud/images/featured/adhd-child-activity.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;患有ADHD（注意力不足過動症）的兒童面臨著讓課後時間變得尤其困難的挑戰。由於過度活躍和注意力問題在課後仍然存在，父母經常難以讓孩子參與有生產性和健康的活動。但透過正確的方法，課後活動可以幫助孩子釋放能量、提高專注力，甚至改善他們的社交技能。&lt;/p&gt;</description>
+      <description>發現適合ADHD孩子的課後活動。探索運動、藝術和其他活動，這些活動有助於引導能量、提高專注力並培養社交技能。</description>
     </item>
   </channel>
 </rss>

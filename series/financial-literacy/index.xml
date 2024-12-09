@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Financial Literacy on AIXWIM</title>
-    <link>http://www.aixwim.cloud/series/financial-literacy/</link>
+    <link>http://localhost:1313/series/financial-literacy/</link>
     <description>Recent content in Financial Literacy on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/series/financial-literacy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/financial-literacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning About Cash Back Credit Cards: Good or Bad Idea?</title>
-      <link>http://www.aixwim.cloud/posts/cash-back-credit-cards/</link>
+      <link>http://localhost:1313/posts/cash-back-credit-cards/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/cash-back-credit-cards/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;cash back credit cards&#34; src=&#34;http://www.aixwim.cloud/images/featured/cash-back-credit-cards.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Getting a credit card that offers cash back always sounds like a good idea. What could be better than getting cash back on all the purchases that you make with your credit card? It sounds too good to be true, doesn’t it?&lt;/p&gt;&#xA;&lt;p&gt;Well, there are cards that give you free cash, but it is usually only around 1% cash back. However, free money is free money, right? Well, sometimes.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/cash-back-credit-cards/</guid>
+      <description>An in-depth look at cash back credit cards, how they work, and whether they are a good or bad choice based on your credit rating and spending habits.</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>興趣與時間 on AIXWIM</title>
+    <link>http://www.aixwim.cloud/zh-tw/categories/%E8%88%88%E8%B6%A3%E8%88%87%E6%99%82%E9%96%93/</link>
+    <description>Recent content in 興趣與時間 on AIXWIM</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.aixwim.cloud/zh-tw/categories/%E8%88%88%E8%B6%A3%E8%88%87%E6%99%82%E9%96%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何避免課後活動過度疲憊：家長指南</title>
+      <link>http://www.aixwim.cloud/zh-tw/posts/avoiding-burnout-in-after-school-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-tw/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <description>管理課後活動是孩子幸福與健康的關鍵。學習如何在保持孩子興趣與滿足感的同時，避免過度疲憊。</description>
+    </item>
+    <item>
+      <title>課後活動與關係建設：加強聯繫</title>
+      <link>http://www.aixwim.cloud/zh-tw/posts/after-school-activities-relationship-building/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/zh-tw/posts/after-school-activities-relationship-building/</guid>
+      <description>了解課後項目如何促進孩子與導師之間的有意義關係，以及為何這些關係對成長與成功至關重要。</description>
+    </item>
+  </channel>
+</rss>

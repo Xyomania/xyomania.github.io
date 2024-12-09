@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tips Parenting on AIXWIM</title>
-    <link>http://www.aixwim.cloud/id/series/tips-parenting/</link>
+    <link>http://localhost:1313/id/series/tips-parenting/</link>
     <description>Recent content in Tips Parenting on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/id/series/tips-parenting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/id/series/tips-parenting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aktivitas Setelah Sekolah untuk Anak-Anak dengan Kelebihan Berat Badan: Jalan Menuju Hidup Lebih Sehat</title>
+      <link>http://localhost:1313/id/posts/after-school-activities-overweight-kids/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/posts/after-school-activities-overweight-kids/</guid>
+      <description>Jelajahi pentingnya aktivitas setelah sekolah dalam mengatasi obesitas anak. Pelajari bagaimana olahraga dan latihan fisik dapat membantu anak-anak dengan kelebihan berat badan tetap aktif dan sehat.</description>
+    </item>
+    <item>
+      <title>Cara Menemukan Aktivitas Sepulang Sekolah untuk Anak Anda</title>
+      <link>http://localhost:1313/id/posts/how-to-find-after-school-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/posts/how-to-find-after-school-activities/</guid>
+      <description>Mencari aktivitas sepulang sekolah terbaik untuk anak Anda? Berikut panduan langkah demi langkah untuk menemukan program ekstrakurikuler yang sesuai dengan minat mereka dan jadwal Anda.</description>
+    </item>
+    <item>
+      <title>Seberapa Banyak Terlalu Banyak? Panduan Menyeimbangkan Kegiatan Anak Setelah Sekolah</title>
+      <link>http://localhost:1313/id/posts/how-much-is-too-much-child-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/posts/how-much-is-too-much-child-activities/</guid>
+      <description>Tidak yakin berapa banyak yang terlalu banyak dalam kegiatan anak setelah sekolah? Berikut adalah panduan praktis untuk membantu Anda menemukan keseimbangan yang tepat berdasarkan usia dan kebutuhan mereka.</description>
+    </item>
     <item>
       <title>Kegiatan Setelah Sekolah untuk Anak Hiperaktif: Mengelola Anak dengan ADHD</title>
-      <link>http://www.aixwim.cloud/id/posts/after-school-activities-hyperactive-child/</link>
+      <link>http://localhost:1313/id/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/posts/after-school-activities-hyperactive-child/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Kegiatan Setelah Sekolah untuk Anak Hiperaktif&#34; src=&#34;http://www.aixwim.cloud/images/featured/adhd-child-activity.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Anak dengan ADHD (Attention-Deficit/Hyperactivity Disorder) menghadapi tantangan yang membuat waktu setelah sekolah menjadi sulit. Dengan hiperaktivitas dan masalah perhatian yang terus berlanjut, orang tua sering kesulitan untuk membuat anak mereka tetap terlibat dalam aktivitas yang produktif dan sehat. Namun, dengan pendekatan yang tepat, kegiatan setelah sekolah dapat membantu menyalurkan energi, meningkatkan fokus, dan bahkan mengembangkan keterampilan sosial.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/id/posts/after-school-activities-hyperactive-child/</guid>
+      <description>Temukan kegiatan setelah sekolah yang cocok untuk anak dengan ADHD. Jelajahi olahraga, seni, dan aktivitas lainnya yang membantu menyalurkan energi, meningkatkan fokus, dan membangun keterampilan sosial.</description>
     </item>
   </channel>
 </rss>

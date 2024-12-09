@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Здоровье Детей on AIXWIM</title>
     <link>http://www.aixwim.cloud/ru/tags/%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D0%B5-%D0%B4%D0%B5%D1%82%D0%B5%D0%B9/</link>
     <description>Recent content in Здоровье Детей on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/ru/tags/%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D0%B5-%D0%B4%D0%B5%D1%82%D0%B5%D0%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Внеклассные занятия для гиперактивных детей: помощь детям с СДВГ</title>
+      <title>Внеклассные мероприятия для детей с избыточным весом: путь к более здоровой жизни</title>
+      <link>http://www.aixwim.cloud/ru/posts/after-school-activities-overweight-kids/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.aixwim.cloud/ru/posts/after-school-activities-overweight-kids/</guid>
+      <description>Изучите важность внеклассных мероприятий для борьбы с детским ожирением. Узнайте, как спорт и физические упражнения помогают детям с избыточным весом оставаться активными и здоровыми.</description>
+    </item>
+    <item>
+      <title>Внеклассные занятия для гиперактивных детей с ADHD: как занять детей с ADHD</title>
       <link>http://www.aixwim.cloud/ru/posts/after-school-activities-hyperactive-child/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/ru/posts/after-school-activities-hyperactive-child/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Внеклассные занятия для гиперактивных детей&#34; src=&#34;http://www.aixwim.cloud/images/featured/adhd-child-activity.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Дети с СДВГ (синдром дефицита внимания с гиперактивностью) сталкиваются с трудностями, которые делают время после школы особенно сложным. Гиперактивность и проблемы с вниманием часто продолжаются и после уроков, что затрудняет для родителей выбор подходящих, продуктивных и здоровых занятий. Однако с правильным подходом внеклассные занятия могут помочь направить энергию ребенка, улучшить его концентрацию и развить социальные навыки.&lt;/p&gt;</description>
+      <description>Откройте для себя внеклассные занятия, подходящие для детей с ADHD. Изучите спорт, искусство и другие активности, которые помогают направить энергию, улучшить концентрацию и развивать социальные навыки.</description>
     </item>
   </channel>
 </rss>

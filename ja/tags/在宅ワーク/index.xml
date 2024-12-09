@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>在宅ワーク on AIXWIM</title>
     <link>http://www.aixwim.cloud/ja/tags/%E5%9C%A8%E5%AE%85%E3%83%AF%E3%83%BC%E3%82%AF/</link>
     <description>Recent content in 在宅ワーク on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aixwim.cloud/ja/tags/%E5%9C%A8%E5%AE%85%E3%83%AF%E3%83%BC%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>アフィリエイトマーケターの1日</title>
+      <title>アフィリエイトマーケターの一日</title>
       <link>http://www.aixwim.cloud/ja/posts/affiliate-marketer-day-in-life/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.aixwim.cloud/ja/posts/affiliate-marketer-day-in-life/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;アフィリエイトマーケターの1日&#34; src=&#34;http://www.aixwim.cloud/images/featured/affiliate-marketing-day.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;現代のテクノロジーのおかげで、アフィリエイトマーケティングはこれまでになく簡単になりました。電話や時代遅れの方法に頼ってプログラムを追跡し、宣伝する必要はもうありません。インターネットを利用すれば、アフィリエイトマーケターの生活はより身近でやりがいのあるものになります。それでは、このビジネスに従事する人の日常とはどのようなものでしょうか？&lt;/p&gt;</description>
+      <description>アフィリエイトマーケターの日常がどんなものか気になったことはありませんか？こちらでは、献身的なアフィリエイトマーケターの日々のルーチンを覗いてみましょう。</description>
     </item>
   </channel>
 </rss>

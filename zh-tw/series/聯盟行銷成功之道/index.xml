@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>聯盟行銷成功之道 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/series/%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7%E6%88%90%E5%8A%9F%E4%B9%8B%E9%81%93/</link>
+    <link>http://localhost:1313/zh-tw/series/%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7%E6%88%90%E5%8A%9F%E4%B9%8B%E9%81%93/</link>
     <description>Recent content in 聯盟行銷成功之道 on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/series/%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7%E6%88%90%E5%8A%9F%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/series/%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7%E6%88%90%E5%8A%9F%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>線上成功的三大聯盟行銷技巧</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/affiliate-marketing-tips-survive-online/</link>
+      <link>http://localhost:1313/zh-tw/posts/affiliate-marketing-tips-survive-online/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/affiliate-marketing-tips-survive-online/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;聯盟行銷的三大重要技巧&#34; src=&#34;http://www.aixwim.cloud/images/featured/affiliate-marketing-tips.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;聯盟行銷是一項非常有利可圖的事業，但成功不會一蹴而就。要在競爭激烈的線上環境中生存並取得成功，不僅僅需要一個網站，更需要正確的策略來幫助您引流、轉化潛在客戶並提升銷售額。以下是三種經過驗證的策略，可幫助任何聯盟行銷人員在線上世界中取得成功。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/zh-tw/posts/affiliate-marketing-tips-survive-online/</guid>
+      <description>探索每位聯盟行銷人員在線上成功所需的三大關鍵策略。學習如何透過目標內容、免費報告及高質量流量來提升銷售額。</description>
     </item>
   </channel>
 </rss>

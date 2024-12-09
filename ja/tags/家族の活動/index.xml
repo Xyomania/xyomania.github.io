@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>家族の活動 on AIXWIM</title>
+    <link>http://localhost:1313/ja/tags/%E5%AE%B6%E6%97%8F%E3%81%AE%E6%B4%BB%E5%8B%95/</link>
+    <description>Recent content in 家族の活動 on AIXWIM</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>ja</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/tags/%E5%AE%B6%E6%97%8F%E3%81%AE%E6%B4%BB%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>子供の放課後活動を見つける方法</title>
+      <link>http://localhost:1313/ja/posts/how-to-find-after-school-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/how-to-find-after-school-activities/</guid>
+      <description>お子様に最適な放課後の活動をお探しですか？お子様の興味やスケジュールに合った課外プログラムを見つけるためのステップバイステップガイドを紹介します。</description>
+    </item>
+  </channel>
+</rss>

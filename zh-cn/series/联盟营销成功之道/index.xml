@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>联盟营销成功之道 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-cn/series/%E8%81%94%E7%9B%9F%E8%90%A5%E9%94%80%E6%88%90%E5%8A%9F%E4%B9%8B%E9%81%93/</link>
+    <link>http://localhost:1313/zh-cn/series/%E8%81%94%E7%9B%9F%E8%90%A5%E9%94%80%E6%88%90%E5%8A%9F%E4%B9%8B%E9%81%93/</link>
     <description>Recent content in 联盟营销成功之道 on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-cn/series/%E8%81%94%E7%9B%9F%E8%90%A5%E9%94%80%E6%88%90%E5%8A%9F%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/series/%E8%81%94%E7%9B%9F%E8%90%A5%E9%94%80%E6%88%90%E5%8A%9F%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>线上成功的三大联盟营销技巧</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/affiliate-marketing-tips-survive-online/</link>
+      <link>http://localhost:1313/zh-cn/posts/affiliate-marketing-tips-survive-online/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/affiliate-marketing-tips-survive-online/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;联盟营销的三大重要技巧&#34; src=&#34;http://www.aixwim.cloud/images/featured/affiliate-marketing-tips.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;联盟营销是一项利润丰厚的业务，但成功不会一蹴而就。在竞争激烈的线上环境中生存并取得成功，不仅需要一个网站，还需要正确的策略，帮助您引流、转化潜在客户并提升销售额。以下是三种经验证的策略，可帮助任何联盟营销人员在网络世界中取得成功。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/zh-cn/posts/affiliate-marketing-tips-survive-online/</guid>
+      <description>探索每个联盟营销人员在网上成功所需的三大关键策略。学习如何通过目标内容、免费报告和高质量流量来提升销售额。</description>
     </item>
   </channel>
 </rss>

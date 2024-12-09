@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>親のアドバイス on AIXWIM</title>
+    <link>http://localhost:1313/ja/tags/%E8%A6%AA%E3%81%AE%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9/</link>
+    <description>Recent content in 親のアドバイス on AIXWIM</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>ja</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/tags/%E8%A6%AA%E3%81%AE%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>どれくらいが多すぎるのか？子供の放課後活動のバランスを取るためのガイド</title>
+      <link>http://localhost:1313/ja/posts/how-much-is-too-much-child-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/how-much-is-too-much-child-activities/</guid>
+      <description>子供の放課後活動はどのくらいが適切なのか迷っていませんか？年齢やニーズに応じた完璧なバランスを見つけるための実践的なガイドを紹介します。</description>
+    </item>
+  </channel>
+</rss>

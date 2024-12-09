@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>子どもの健康 on AIXWIM</title>
+    <link>http://localhost:1313/ja/tags/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E5%81%A5%E5%BA%B7/</link>
+    <description>Recent content in 子どもの健康 on AIXWIM</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>ja</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/tags/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>肥満児の放課後アクティビティ：より健康的な生活への道</title>
+      <link>http://localhost:1313/ja/posts/after-school-activities-overweight-kids/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/after-school-activities-overweight-kids/</guid>
+      <description>子どもの肥満問題に取り組むための放課後アクティビティの重要性を探ります。スポーツや身体活動が、肥満気味の子どもたちをどのように健康的で活動的に保つのかを学びましょう。</description>
+    </item>
+  </channel>
+</rss>

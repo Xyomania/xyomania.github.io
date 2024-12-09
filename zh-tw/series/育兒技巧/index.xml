@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>育兒技巧 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/series/%E8%82%B2%E5%85%92%E6%8A%80%E5%B7%A7/</link>
+    <link>http://localhost:1313/zh-tw/series/%E8%82%B2%E5%85%92%E6%8A%80%E5%B7%A7/</link>
     <description>Recent content in 育兒技巧 on AIXWIM</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/series/%E8%82%B2%E5%85%92%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/series/%E8%82%B2%E5%85%92%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何為您的孩子找到課後活動</title>
+      <link>http://localhost:1313/zh-tw/posts/how-to-find-after-school-activities/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/how-to-find-after-school-activities/</guid>
+      <description>正在為您的孩子尋找最佳課後活動？以下是一個分步指南，幫助您找到符合他們興趣和您時間安排的課外項目。</description>
+    </item>
     <item>
       <title>多動症兒童的課後活動：幫助ADHD孩子</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/after-school-activities-hyperactive-child/</link>
+      <link>http://localhost:1313/zh-tw/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/after-school-activities-hyperactive-child/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;多動症兒童的課後活動&#34; src=&#34;http://www.aixwim.cloud/images/featured/adhd-child-activity.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;患有ADHD（注意力不足過動症）的兒童面臨著讓課後時間變得尤其困難的挑戰。由於過度活躍和注意力問題在課後仍然存在，父母經常難以讓孩子參與有生產性和健康的活動。但透過正確的方法，課後活動可以幫助孩子釋放能量、提高專注力，甚至改善他們的社交技能。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/zh-tw/posts/after-school-activities-hyperactive-child/</guid>
+      <description>了解適合ADHD兒童的課後活動。探索運動、藝術及其他活動，幫助他們釋放能量、提高專注力並發展社交技能。</description>
     </item>
   </channel>
 </rss>
