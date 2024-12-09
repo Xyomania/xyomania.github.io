@@ -2,46 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>商業與金融 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E9%87%91%E8%9E%8D/</link>
+    <link>https://www.aixwim.cloud/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E9%87%91%E8%9E%8D/</link>
     <description>Recent content in 商業與金融 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E9%87%91%E8%9E%8D/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E9%87%91%E8%9E%8D/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>申請信用卡的基本技巧：新手指南</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/applying-for-a-credit-card/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/applying-for-a-credit-card/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/applying-for-a-credit-card/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/applying-for-a-credit-card/</guid>
       <description>了解申請信用卡的實用技巧，特別是對於信用不良的個體。學習如何選擇合適的信用卡，避免常見的陷阱，並負責任地管理付款。</description>
     </item>
     <item>
       <title>在推廣時應該關注哪些聯盟網絡</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/best-affiliate-networks/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/best-affiliate-networks/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/best-affiliate-networks/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/best-affiliate-networks/</guid>
       <description>選擇正確的聯盟網絡是成功的關鍵。了解如何選擇高品質的計劃，最大化收入，並避免詐騙。</description>
     </item>
     <item>
       <title>如何避免三個最常見的聯盟行銷錯誤</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/avoid-affiliate-mistakes/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/avoid-affiliate-mistakes/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/avoid-affiliate-mistakes/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/avoid-affiliate-mistakes/</guid>
       <description>避免聯盟行銷中最常見的錯誤，提升成功機會。了解許多行銷人員所犯的錯誤，並為成功做好準備。</description>
     </item>
     <item>
       <title>成功的聯盟行銷者必備的 3 個關鍵技巧</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/affiliate-marketing-tips-survive-online/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/affiliate-marketing-tips-survive-online/</link>
       <pubDate>Fri, 06 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/affiliate-marketing-tips-survive-online/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/affiliate-marketing-tips-survive-online/</guid>
       <description>探索每位聯盟行銷者在網路上成功的 3 個關鍵策略。學習如何透過針對性的內容、免費報告和高品質流量來提升銷售。</description>
     </item>
     <item>
       <title>聯盟行銷者的一天</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/affiliate-marketer-day-in-life/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/affiliate-marketer-day-in-life/</link>
       <pubDate>Thu, 05 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/affiliate-marketer-day-in-life/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/affiliate-marketer-day-in-life/</guid>
       <description>曾經好奇聯盟行銷者的一天是怎樣的嗎？這裡將為你揭示一位全職聯盟行銷者的日常工作。</description>
     </item>
   </channel>

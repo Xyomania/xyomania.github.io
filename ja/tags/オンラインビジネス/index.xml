@@ -2,25 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>オンラインビジネス on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ja/tags/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</link>
     <description>Recent content in オンラインビジネス on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ja/tags/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>アフィリエイトマーケティングのよくある3つのミスを避ける方法</title>
-      <link>http://www.aixwim.cloud/ja/posts/avoid-affiliate-mistakes/</link>
+      <link>https://www.aixwim.cloud/ja/posts/avoid-affiliate-mistakes/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/avoid-affiliate-mistakes/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/avoid-affiliate-mistakes/</guid>
       <description>アフィリエイトマーケティングで最もよくあるミスを避け、成功のチャンスを高めましょう。多くのマーケターが陥りがちな落とし穴から学び、成功に向けて準備を整えましょう。</description>
     </item>
     <item>
       <title>アフィリエイト手数料を一晩で増やすための3つの方法</title>
-      <link>http://www.aixwim.cloud/ja/posts/boost-affiliate-commissions/</link>
+      <link>https://www.aixwim.cloud/ja/posts/boost-affiliate-commissions/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/boost-affiliate-commissions/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/boost-affiliate-commissions/</guid>
       <description>アフィリエイト手数料をすぐに増やしたいですか？あなたの収益を増やし、一晩で売上を伸ばす3つの強力な戦略を発見しましょう。</description>
     </item>
   </channel>

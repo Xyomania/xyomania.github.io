@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>身體發展 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/tags/%E8%BA%AB%E9%AB%94%E7%99%BC%E5%B1%95/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E8%BA%AB%E9%AB%94%E7%99%BC%E5%B1%95/</link>
     <description>Recent content in 身體發展 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/tags/%E8%BA%AB%E9%AB%94%E7%99%BC%E5%B1%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E8%BA%AB%E9%AB%94%E7%99%BC%E5%B1%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>課後發展計畫：支持每個階段的成長</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/developmental-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/developmental-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/developmental-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/developmental-after-school-programs/</guid>
       <description>探索課後計畫如何在不同成長階段支持兒童的身體、情感、社交和智力發展。</description>
     </item>
   </channel>

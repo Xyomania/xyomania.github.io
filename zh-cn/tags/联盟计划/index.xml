@@ -2,25 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>联盟计划 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-cn/tags/%E8%81%94%E7%9B%9F%E8%AE%A1%E5%88%92/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E8%81%94%E7%9B%9F%E8%AE%A1%E5%88%92/</link>
     <description>Recent content in 联盟计划 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-cn/tags/%E8%81%94%E7%9B%9F%E8%AE%A1%E5%88%92/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E8%81%94%E7%9B%9F%E8%AE%A1%E5%88%92/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一夜之间提高您的联盟佣金的三大方法</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/boost-affiliate-commissions/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/boost-affiliate-commissions/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/boost-affiliate-commissions/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/boost-affiliate-commissions/</guid>
       <description>想要快速提高您的联盟佣金吗？了解三种强大的策略，帮助您在一夜之间增加收入并提高销售额。</description>
     </item>
     <item>
       <title>有这么多联盟计划！我该选择哪个？</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/how-to-choose-affiliate-program/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/how-to-choose-affiliate-program/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/how-to-choose-affiliate-program/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/how-to-choose-affiliate-program/</guid>
       <description>面对众多的联盟计划，如何选择适合自己的？在加入联盟计划之前，了解一些关键因素，帮助你最大化收益。</description>
     </item>
   </channel>

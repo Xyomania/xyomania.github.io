@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Meningkatkan Permainanmu on AIXWIM</title>
-    <link>http://www.aixwim.cloud/id/tags/meningkatkan-permainanmu/</link>
+    <link>https://www.aixwim.cloud/id/tags/meningkatkan-permainanmu/</link>
     <description>Recent content in Meningkatkan Permainanmu on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/id/tags/meningkatkan-permainanmu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/meningkatkan-permainanmu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kekuatan Fokus: Mengapa Menonton Bola adalah Kunci dalam Golf</title>
-      <link>http://www.aixwim.cloud/id/posts/watching-the-ball-golf/</link>
+      <link>https://www.aixwim.cloud/id/posts/watching-the-ball-golf/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/posts/watching-the-ball-golf/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/watching-the-ball-golf/</guid>
       <description>Pelajari bagaimana menjaga fokus pada bola dapat meningkatkan permainan golf Anda. Temukan mengapa menonton bola sepanjang ayunan sangat penting untuk akurasi dan kesuksesan di lapangan.</description>
     </item>
   </channel>

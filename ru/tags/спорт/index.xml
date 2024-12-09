@@ -2,25 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Спорт on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ru/tags/%D1%81%D0%BF%D0%BE%D1%80%D1%82/</link>
+    <link>https://www.aixwim.cloud/ru/tags/%D1%81%D0%BF%D0%BE%D1%80%D1%82/</link>
     <description>Recent content in Спорт on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ru/tags/%D1%81%D0%BF%D0%BE%D1%80%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ru/tags/%D1%81%D0%BF%D0%BE%D1%80%D1%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ключи к улучшению игры в гольф: овладение балансом и техникой удара</title>
-      <link>http://www.aixwim.cloud/ru/posts/golf-balance-and-technique/</link>
+      <link>https://www.aixwim.cloud/ru/posts/golf-balance-and-technique/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/posts/golf-balance-and-technique/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/golf-balance-and-technique/</guid>
       <description>Разгадайте секреты лучшей игры в гольф, сосредоточив внимание на балансе, расслаблении и правильной технике. Узнайте, как улучшить ваш удар и наслаждаться игрой.</description>
     </item>
     <item>
       <title>Освоение сложных ударов в гольфе: превращение вызовов в возможности</title>
-      <link>http://www.aixwim.cloud/ru/posts/awkward-golf-shots-tips/</link>
+      <link>https://www.aixwim.cloud/ru/posts/awkward-golf-shots-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/posts/awkward-golf-shots-tips/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/awkward-golf-shots-tips/</guid>
       <description>Узнайте, как преодолевать сложные удары в гольфе, сохраняя баланс, точность и уверенность даже в сложных погодных условиях.</description>
     </item>
   </channel>

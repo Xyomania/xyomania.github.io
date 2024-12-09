@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Молодежные Программы on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ru/tags/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D0%B6%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/</link>
+    <link>https://www.aixwim.cloud/ru/tags/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D0%B6%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/</link>
     <description>Recent content in Молодежные Программы on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ru/tags/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D0%B6%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ru/tags/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D0%B6%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Внеклассные занятия и построение отношений: укрепление связей</title>
-      <link>http://www.aixwim.cloud/ru/posts/after-school-activities-relationship-building/</link>
+      <link>https://www.aixwim.cloud/ru/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/posts/after-school-activities-relationship-building/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/after-school-activities-relationship-building/</guid>
       <description>Узнайте, как внеклассные программы способствуют формированию значимых отношений между детьми и наставниками, и почему эти связи важны для роста и успеха.</description>
     </item>
   </channel>

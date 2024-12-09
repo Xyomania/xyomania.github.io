@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Child Discipline on AIXWIM</title>
-    <link>http://www.aixwim.cloud/tags/child-discipline/</link>
+    <link>https://www.aixwim.cloud/tags/child-discipline/</link>
     <description>Recent content in Child Discipline on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/tags/child-discipline/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/child-discipline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>After-School Programs and Discipline: The Importance of Rules</title>
-      <link>http://www.aixwim.cloud/posts/importance-of-discipline-in-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/posts/importance-of-discipline-in-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/importance-of-discipline-in-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/posts/importance-of-discipline-in-after-school-programs/</guid>
       <description>Discipline plays a crucial role in after-school programs. Learn why setting clear rules and addressing misbehavior is essential for children&amp;#39;s development.</description>
     </item>
   </channel>

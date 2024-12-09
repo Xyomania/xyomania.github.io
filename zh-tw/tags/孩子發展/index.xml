@@ -2,25 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>孩子發展 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/tags/%E5%AD%A9%E5%AD%90%E7%99%BC%E5%B1%95/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%AD%A9%E5%AD%90%E7%99%BC%E5%B1%95/</link>
     <description>Recent content in 孩子發展 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/tags/%E5%AD%A9%E5%AD%90%E7%99%BC%E5%B1%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%AD%A9%E5%AD%90%E7%99%BC%E5%B1%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>多少才算太多？平衡孩子課外活動的指南</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/how-much-is-too-much-child-activities/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/how-much-is-too-much-child-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/how-much-is-too-much-child-activities/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/how-much-is-too-much-child-activities/</guid>
       <description>不確定孩子的課外活動多少算太多？這裡有一份實用的指南，幫助您根據孩子的年齡和需求找到完美的平衡。</description>
     </item>
     <item>
       <title>為什麼你的孩子可能覺得課後活動很無聊</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/boredom-in-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/boredom-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/boredom-in-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/boredom-in-after-school-activities/</guid>
       <description>了解為什麼孩子有時會對課後活動失去興趣，以及如何解決這個問題，讓他們保持參與感。</description>
     </item>
   </channel>

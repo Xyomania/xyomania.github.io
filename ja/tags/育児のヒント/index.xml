@@ -2,88 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>育児のヒント on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ja/tags/%E8%82%B2%E5%85%90%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E8%82%B2%E5%85%90%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
     <description>Recent content in 育児のヒント on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ja/tags/%E8%82%B2%E5%85%90%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E8%82%B2%E5%85%90%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>アフタースクールプログラムを成功させる要素とは？</title>
-      <link>http://www.aixwim.cloud/ja/posts/successful-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/ja/posts/successful-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/successful-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/successful-after-school-programs/</guid>
       <description>アフタースクールプログラムが成功するための重要な要素を発見し、子供にとって最適なプログラムを選ぶ方法について学びましょう。</description>
     </item>
     <item>
       <title>どれくらいが多すぎるか？子供の放課後活動のバランスを取るためのガイド</title>
-      <link>http://www.aixwim.cloud/ja/posts/how-much-is-too-much-child-activities/</link>
+      <link>https://www.aixwim.cloud/ja/posts/how-much-is-too-much-child-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/how-much-is-too-much-child-activities/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/how-much-is-too-much-child-activities/</guid>
       <description>子供の放課後活動が多すぎるかどうか分からない？年齢やニーズに基づいて最適なバランスを見つけるための実践的なガイドです。</description>
     </item>
     <item>
       <title>育児のヒント：おむつケア、成長スパート、予防接種など</title>
-      <link>http://www.aixwim.cloud/ja/posts/parenting-tips-for-babies/</link>
+      <link>https://www.aixwim.cloud/ja/posts/parenting-tips-for-babies/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/parenting-tips-for-babies/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/parenting-tips-for-babies/</guid>
       <description>おむつケア、成長スパート、予防接種、そしておしゃぶりや吐き戻しなどの赤ちゃんのよくある問題への対処法など、役立つ育児のヒントを紹介します。</description>
     </item>
     <item>
       <title>子どものスケジュール過多のリスク: あまりにも多くの放課後活動が子どもに与える影響</title>
-      <link>http://www.aixwim.cloud/ja/posts/risks-of-over-scheduling-kids/</link>
+      <link>https://www.aixwim.cloud/ja/posts/risks-of-over-scheduling-kids/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/risks-of-over-scheduling-kids/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/risks-of-over-scheduling-kids/</guid>
       <description>あまりにも多くの放課後活動で子どもをスケジュール過多にすることは、ストレスを引き起こし、リラックスや家族との時間が取れなくなります。バランスを見つけ、過労を避ける方法を学びましょう。</description>
     </item>
     <item>
       <title>授乳に関する質問と回答</title>
-      <link>http://www.aixwim.cloud/ja/posts/breastfeeding-faq/</link>
+      <link>https://www.aixwim.cloud/ja/posts/breastfeeding-faq/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/breastfeeding-faq/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/breastfeeding-faq/</guid>
       <description>新米ママや経験豊富なママのための、授乳に関するよくある質問への回答。</description>
     </item>
     <item>
       <title>新しい親への必須アドバイス</title>
-      <link>http://www.aixwim.cloud/ja/posts/essential-tips-for-new-parents/</link>
+      <link>https://www.aixwim.cloud/ja/posts/essential-tips-for-new-parents/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/essential-tips-for-new-parents/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/essential-tips-for-new-parents/</guid>
       <description>新しい親が新生児のケアの課題を乗り越えるための役立つガイド。</description>
     </item>
     <item>
       <title>赤ちゃんへの授乳：ヒントとトラブルシューティング</title>
-      <link>http://www.aixwim.cloud/ja/posts/breastfeeding-guide/</link>
+      <link>https://www.aixwim.cloud/ja/posts/breastfeeding-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/breastfeeding-guide/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/breastfeeding-guide/</guid>
       <description>授乳に関する一般的な問題、母乳の生産、赤ちゃんが必要な栄養をしっかり摂取できるようにする方法についての完全ガイド</description>
     </item>
     <item>
       <title>放課後の活動で子供のモチベーションを維持する方法</title>
-      <link>http://www.aixwim.cloud/ja/posts/keeping-children-motivated-after-school/</link>
+      <link>https://www.aixwim.cloud/ja/posts/keeping-children-motivated-after-school/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/keeping-children-motivated-after-school/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/keeping-children-motivated-after-school/</guid>
       <description>放課後の活動で子供のモチベーションを維持するのに苦労していますか？ここでは、学びと成長への愛を育みながら、子供の熱意を保つための戦略をご紹介します。</description>
     </item>
     <item>
       <title>放課後プログラムと規律: ルールの重要性</title>
-      <link>http://www.aixwim.cloud/ja/posts/importance-of-discipline-in-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/ja/posts/importance-of-discipline-in-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/importance-of-discipline-in-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/importance-of-discipline-in-after-school-programs/</guid>
       <description>規律は放課後プログラムにおいて重要な役割を果たします。明確なルールを設定し、問題行動に対処することが子どもの発達においてなぜ重要なのかを学びましょう。</description>
     </item>
     <item>
       <title>放課後プログラムの可能性：子供たちへの利益</title>
-      <link>http://www.aixwim.cloud/ja/posts/potentials-of-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/ja/posts/potentials-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/potentials-of-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/potentials-of-after-school-programs/</guid>
       <description>放課後プログラムは、学業成績の向上からリスク行動の予防まで、多くの利益を提供します。これらのプログラムが子供たちの成長にとって重要である理由を学びましょう。</description>
     </item>
     <item>
       <title>放課後活動における燃え尽き症候群を防ぐ方法：保護者向けガイド</title>
-      <link>http://www.aixwim.cloud/ja/posts/avoiding-burnout-in-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/ja/posts/avoiding-burnout-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/avoiding-burnout-in-after-school-activities/</guid>
       <description>放課後の活動を管理することは、子どもの幸福と健康の鍵です。子どもを関与させ、満足させながら燃え尽き症候群を防ぐ方法を学びましょう。</description>
     </item>
   </channel>

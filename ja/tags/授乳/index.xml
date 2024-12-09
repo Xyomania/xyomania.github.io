@@ -2,25 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>授乳 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ja/tags/%E6%8E%88%E4%B9%B3/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E6%8E%88%E4%B9%B3/</link>
     <description>Recent content in 授乳 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ja/tags/%E6%8E%88%E4%B9%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E6%8E%88%E4%B9%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>授乳に関する質問と回答</title>
-      <link>http://www.aixwim.cloud/ja/posts/breastfeeding-faq/</link>
+      <link>https://www.aixwim.cloud/ja/posts/breastfeeding-faq/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/breastfeeding-faq/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/breastfeeding-faq/</guid>
       <description>新米ママや経験豊富なママのための、授乳に関するよくある質問への回答。</description>
     </item>
     <item>
       <title>赤ちゃんへの授乳：ヒントとトラブルシューティング</title>
-      <link>http://www.aixwim.cloud/ja/posts/breastfeeding-guide/</link>
+      <link>https://www.aixwim.cloud/ja/posts/breastfeeding-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/breastfeeding-guide/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/breastfeeding-guide/</guid>
       <description>授乳に関する一般的な問題、母乳の生産、赤ちゃんが必要な栄養をしっかり摂取できるようにする方法についての完全ガイド</description>
     </item>
   </channel>

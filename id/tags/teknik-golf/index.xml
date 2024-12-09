@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Teknik Golf on AIXWIM</title>
-    <link>http://www.aixwim.cloud/id/tags/teknik-golf/</link>
+    <link>https://www.aixwim.cloud/id/tags/teknik-golf/</link>
     <description>Recent content in Teknik Golf on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/id/tags/teknik-golf/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/teknik-golf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kunci Ajaib dalam Putting: Relaksasi adalah Rahasianya</title>
-      <link>http://www.aixwim.cloud/id/posts/magic-key-to-putting/</link>
+      <link>https://www.aixwim.cloud/id/posts/magic-key-to-putting/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/posts/magic-key-to-putting/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/magic-key-to-putting/</guid>
       <description>Buka rahasia putting yang lebih baik dengan mempelajari pentingnya relaksasi dan gerakan yang lancar. Temukan bagaimana ketegangan mempengaruhi permainan Anda dan bagaimana melakukan putting dengan percaya diri.</description>
     </item>
   </channel>

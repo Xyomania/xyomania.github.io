@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>青少年发展 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-cn/tags/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%8F%91%E5%B1%95/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%8F%91%E5%B1%95/</link>
     <description>Recent content in 青少年发展 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-cn/tags/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%8F%91%E5%B1%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%8F%91%E5%B1%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>基于学校的课后项目：提升孩子的教育与安全</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/school-based-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/school-based-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/school-based-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/school-based-after-school-programs/</guid>
       <description>探索基于学校的课后项目的重要性，以及它们如何促进孩子们的学术成长、安全和福祉。</description>
     </item>
   </channel>

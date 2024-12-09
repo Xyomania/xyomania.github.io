@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>集中力 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ja/tags/%E9%9B%86%E4%B8%AD%E5%8A%9B/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E9%9B%86%E4%B8%AD%E5%8A%9B/</link>
     <description>Recent content in 集中力 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ja/tags/%E9%9B%86%E4%B8%AD%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E9%9B%86%E4%B8%AD%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>効果的な学習習慣を身につける：学業成功のためのヒント</title>
-      <link>http://www.aixwim.cloud/ja/posts/study-habits-tips/</link>
+      <link>https://www.aixwim.cloud/ja/posts/study-habits-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/study-habits-tips/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/study-habits-tips/</guid>
       <description>学習環境を整え、学用品を整理し、集中力を高めることで学習習慣を改善する方法を学びましょう。</description>
     </item>
   </channel>

@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>子供の発展 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E7%99%BA%E5%B1%95/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E7%99%BA%E5%B1%95/</link>
     <description>Recent content in 子供の発展 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E7%99%BA%E5%B1%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E7%99%BA%E5%B1%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>放課後プログラムにおける効果的な学習環境の創造</title>
-      <link>http://www.aixwim.cloud/ja/posts/effective-learning-environment-after-school/</link>
+      <link>https://www.aixwim.cloud/ja/posts/effective-learning-environment-after-school/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/effective-learning-environment-after-school/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/effective-learning-environment-after-school/</guid>
       <description>子供の発展を促進する、魅力的で規律ある放課後プログラムの学習環境の作り方を学びましょう。</description>
     </item>
   </channel>

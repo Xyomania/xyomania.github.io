@@ -2,32 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>育児 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ja/categories/%E8%82%B2%E5%85%90/</link>
+    <link>https://www.aixwim.cloud/ja/categories/%E8%82%B2%E5%85%90/</link>
     <description>Recent content in 育児 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ja/categories/%E8%82%B2%E5%85%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/categories/%E8%82%B2%E5%85%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>学校が多すぎる：放課後プログラムについての個人的な反省</title>
-      <link>http://www.aixwim.cloud/ja/posts/too-much-of-school-reflection/</link>
+      <link>https://www.aixwim.cloud/ja/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/too-much-of-school-reflection/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/too-much-of-school-reflection/</guid>
       <description>子供の視点から、放課後プログラムの課題と進化について反省した個人的なストーリー。</description>
     </item>
     <item>
       <title>子供にとって良い放課後プログラムの利点</title>
-      <link>http://www.aixwim.cloud/ja/posts/benefits-of-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/ja/posts/benefits-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/benefits-of-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/benefits-of-after-school-programs/</guid>
       <description>子供のスキルを向上させ、社会的交流を促進し、破壊的な習慣を防ぐために、良い放課後プログラムの数々の利点を発見しましょう。</description>
     </item>
     <item>
       <title>ADHDの子供の放課後活動: 活動的な子供を引き込む方法</title>
-      <link>http://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/</link>
+      <link>https://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/</guid>
       <description>ADHDの子供に適した放課後活動を見つけましょう。エネルギーを発散させ、集中力を高め、社交スキルを向上させるスポーツやアートなどの活動を探索しましょう。</description>
     </item>
   </channel>

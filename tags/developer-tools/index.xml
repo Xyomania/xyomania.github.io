@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Developer Tools on AIXWIM</title>
-    <link>http://www.aixwim.cloud/tags/developer-tools/</link>
+    <link>https://www.aixwim.cloud/tags/developer-tools/</link>
     <description>Recent content in Developer Tools on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/tags/developer-tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/developer-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Hugo is the Best Blogging Platform for Developers in 2024</title>
-      <link>http://www.aixwim.cloud/posts/best-hugo-blogging-software/</link>
+      <link>https://www.aixwim.cloud/posts/best-hugo-blogging-software/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/best-hugo-blogging-software/</guid>
+      <guid>https://www.aixwim.cloud/posts/best-hugo-blogging-software/</guid>
       <description>Explore why Hugo is one of the fastest and most flexible static site generators for blogging in 2024. Learn about its features, performance, and why it’s perfect for developers.</description>
     </item>
   </channel>

@@ -2,25 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>課後計劃 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/tags/%E8%AA%B2%E5%BE%8C%E8%A8%88%E5%8A%83/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E8%AA%B2%E5%BE%8C%E8%A8%88%E5%8A%83/</link>
     <description>Recent content in 課後計劃 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/tags/%E8%AA%B2%E5%BE%8C%E8%A8%88%E5%8A%83/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E8%AA%B2%E5%BE%8C%E8%A8%88%E5%8A%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>課後計劃的潛力：對孩子的好處</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/potentials-of-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/potentials-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/potentials-of-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/potentials-of-after-school-programs/</guid>
       <description>課後計劃提供了多種好處，從提升學業成績到預防風險行為。了解這些計劃為什麼對孩子的成長至關重要。</description>
     </item>
     <item>
       <title>學校為基礎的課後計劃：提升孩子的教育與安全</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/school-based-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/school-based-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/school-based-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/school-based-after-school-programs/</guid>
       <description>探索學校為基礎的課後計劃的重要性，以及它們如何促進孩子們的學術成長、安全與福祉。</description>
     </item>
   </channel>

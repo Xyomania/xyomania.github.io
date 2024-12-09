@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>網路廣告 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/tags/%E7%B6%B2%E8%B7%AF%E5%BB%A3%E5%91%8A/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E7%B6%B2%E8%B7%AF%E5%BB%A3%E5%91%8A/</link>
     <description>Recent content in 網路廣告 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/tags/%E7%B6%B2%E8%B7%AF%E5%BB%A3%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E7%B6%B2%E8%B7%AF%E5%BB%A3%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>透過PPC在您的聯盟行銷業務中輕鬆獲利</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/ppc-affiliate-marketing/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/ppc-affiliate-marketing/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/ppc-affiliate-marketing/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/ppc-affiliate-marketing/</guid>
       <description>了解如何透過使用PPC（按點擊付費）廣告來最大化您的聯盟行銷業務利潤。了解這種具成本效益的策略如何提升您的收入。</description>
     </item>
   </channel>

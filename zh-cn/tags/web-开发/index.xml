@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Web 开发 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-cn/tags/web-%E5%BC%80%E5%8F%91/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/web-%E5%BC%80%E5%8F%91/</link>
     <description>Recent content in Web 开发 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-cn/tags/web-%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/web-%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>为什么 Hugo 是 2024 年开发者最佳的博客平台</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/best-hugo-blogging-software/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/best-hugo-blogging-software/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/best-hugo-blogging-software/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/best-hugo-blogging-software/</guid>
       <description>探索为什么 Hugo 是 2024 年最快且最灵活的静态网站生成器之一，适用于博客。了解它的功能、性能以及为什么它是开发者的完美选择。</description>
     </item>
   </channel>

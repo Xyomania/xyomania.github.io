@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>オンラインマーケティング on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ja/tags/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
     <description>Recent content in オンラインマーケティング on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 06 Dec 2024 11:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ja/tags/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>アフィリエイトマーケターがオンラインで成功するための3つの重要なヒント</title>
-      <link>http://www.aixwim.cloud/ja/posts/affiliate-marketing-tips-survive-online/</link>
+      <link>https://www.aixwim.cloud/ja/posts/affiliate-marketing-tips-survive-online/</link>
       <pubDate>Fri, 06 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/affiliate-marketing-tips-survive-online/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/affiliate-marketing-tips-survive-online/</guid>
       <description>オンラインで成功するためにアフィリエイトマーケターが必要な3つの戦略を発見しましょう。ターゲットコンテンツ、無料レポート、質の高いトラフィックを駆使して販売を促進する方法を学びましょう。</description>
     </item>
   </channel>

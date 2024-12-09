@@ -2,39 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>育兒 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/tags/%E8%82%B2%E5%85%92/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E8%82%B2%E5%85%92/</link>
     <description>Recent content in 育兒 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/tags/%E8%82%B2%E5%85%92/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E8%82%B2%E5%85%92/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>有效的課後活動：關鍵特徵與考量事項</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/effective-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/effective-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/effective-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/effective-after-school-activities/</guid>
       <description>了解有效的課後活動的關鍵特徵，如何平衡學習、發展與娛樂，幫助孩子成長。</description>
     </item>
     <item>
       <title>新手父母必備小貼士</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/essential-tips-for-new-parents/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/essential-tips-for-new-parents/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/essential-tips-for-new-parents/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/essential-tips-for-new-parents/</guid>
       <description>為新手父母提供一些有用的指南，幫助他們應對照顧新生兒的挑戰。</description>
     </item>
     <item>
       <title>學校太多：關於課後活動的個人反思</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/too-much-of-school-reflection/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/too-much-of-school-reflection/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/too-much-of-school-reflection/</guid>
       <description>從孩子的角度反思課後活動的挑戰與發展，講述個人經歷。</description>
     </item>
     <item>
       <title>寶寶午睡時間：建立健康睡眠習慣的技巧</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/baby-naptime-guide/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/baby-naptime-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/baby-naptime-guide/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/baby-naptime-guide/</guid>
       <description>幫助父母建立寶寶健康午睡習慣和睡眠模式的指南。</description>
     </item>
   </channel>

@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Credit Card Debt on AIXWIM</title>
-    <link>http://www.aixwim.cloud/tags/credit-card-debt/</link>
+    <link>https://www.aixwim.cloud/tags/credit-card-debt/</link>
     <description>Recent content in Credit Card Debt on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/tags/credit-card-debt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/credit-card-debt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Out and Staying Out of Credit Card Debt: A Practical Guide</title>
-      <link>http://www.aixwim.cloud/posts/credit-card-debt-guide/</link>
+      <link>https://www.aixwim.cloud/posts/credit-card-debt-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/credit-card-debt-guide/</guid>
+      <guid>https://www.aixwim.cloud/posts/credit-card-debt-guide/</guid>
       <description>Discover strategies to break free from credit card debt and build a healthier financial future. Learn how to manage spending, stick to a repayment plan, and avoid future debt.</description>
     </item>
   </channel>

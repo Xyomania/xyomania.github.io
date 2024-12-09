@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>孩子興趣 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/tags/%E5%AD%A9%E5%AD%90%E8%88%88%E8%B6%A3/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%AD%A9%E5%AD%90%E8%88%88%E8%B6%A3/</link>
     <description>Recent content in 孩子興趣 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/tags/%E5%AD%A9%E5%AD%90%E8%88%88%E8%B6%A3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%AD%A9%E5%AD%90%E8%88%88%E8%B6%A3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>為什麼你的孩子可能覺得課後活動很無聊</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/boredom-in-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/boredom-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/boredom-in-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/boredom-in-after-school-activities/</guid>
       <description>了解為什麼孩子有時會對課後活動失去興趣，以及如何解決這個問題，讓他們保持參與感。</description>
     </item>
   </channel>

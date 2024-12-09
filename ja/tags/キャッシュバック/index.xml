@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>キャッシュバック on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ja/tags/%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%90%E3%83%83%E3%82%AF/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%90%E3%83%83%E3%82%AF/</link>
     <description>Recent content in キャッシュバック on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ja/tags/%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%90%E3%83%83%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%90%E3%83%83%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>キャッシュバッククレジットカードについて学ぶ：良いアイデアか悪いアイデアか？</title>
-      <link>http://www.aixwim.cloud/ja/posts/cash-back-credit-cards/</link>
+      <link>https://www.aixwim.cloud/ja/posts/cash-back-credit-cards/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/cash-back-credit-cards/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/cash-back-credit-cards/</guid>
       <description>キャッシュバッククレジットカードの仕組みと、それが良い選択か悪い選択かをクレジットスコアや支出習慣に基づいて検討します。</description>
     </item>
   </channel>

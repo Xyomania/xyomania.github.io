@@ -2,39 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Digital Marketing on AIXWIM</title>
-    <link>http://www.aixwim.cloud/tags/digital-marketing/</link>
+    <link>https://www.aixwim.cloud/tags/digital-marketing/</link>
     <description>Recent content in Digital Marketing on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/tags/digital-marketing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/digital-marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy Profits Using PPC In Your Affiliate Marketing Business</title>
-      <link>http://www.aixwim.cloud/posts/ppc-affiliate-marketing/</link>
+      <link>https://www.aixwim.cloud/posts/ppc-affiliate-marketing/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/ppc-affiliate-marketing/</guid>
+      <guid>https://www.aixwim.cloud/posts/ppc-affiliate-marketing/</guid>
       <description>Learn how to maximize profits in your affiliate marketing business by using PPC (Pay Per Click) advertising. Find out how this cost-effective strategy can boost your earnings.</description>
     </item>
     <item>
       <title>3 Essential Tips for Affiliate Marketers to Thrive Online</title>
-      <link>http://www.aixwim.cloud/posts/affiliate-marketing-tips-survive-online/</link>
+      <link>https://www.aixwim.cloud/posts/affiliate-marketing-tips-survive-online/</link>
       <pubDate>Fri, 06 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/affiliate-marketing-tips-survive-online/</guid>
+      <guid>https://www.aixwim.cloud/posts/affiliate-marketing-tips-survive-online/</guid>
       <description>Discover the 3 key strategies every affiliate marketer needs to succeed online. Learn how to boost sales with targeted content, free reports, and driving quality traffic.</description>
     </item>
     <item>
       <title>A Day in the Life of an Affiliate Marketer</title>
-      <link>http://www.aixwim.cloud/posts/affiliate-marketer-day-in-life/</link>
+      <link>https://www.aixwim.cloud/posts/affiliate-marketer-day-in-life/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/affiliate-marketer-day-in-life/</guid>
+      <guid>https://www.aixwim.cloud/posts/affiliate-marketer-day-in-life/</guid>
       <description>Ever wondered what a day in the life of an affiliate marketer looks like? Here&amp;#39;s a peek into the daily routine of a dedicated affiliate marketer.</description>
     </item>
     <item>
       <title>How to Make Your Blogging Website Stand Out in 2024</title>
-      <link>http://www.aixwim.cloud/posts/blogging-tips-2024/</link>
+      <link>https://www.aixwim.cloud/posts/blogging-tips-2024/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/blogging-tips-2024/</guid>
+      <guid>https://www.aixwim.cloud/posts/blogging-tips-2024/</guid>
       <description>A complete guide to making your blogging website unique and successful in an oversaturated market.</description>
     </item>
   </channel>

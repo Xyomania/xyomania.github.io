@@ -2,46 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Education on AIXWIM</title>
-    <link>http://www.aixwim.cloud/categories/education/</link>
+    <link>https://www.aixwim.cloud/categories/education/</link>
     <description>Recent content in Education on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/categories/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>After-School Activities and Relationship Building: Strengthening Connections</title>
-      <link>http://www.aixwim.cloud/posts/after-school-activities-relationship-building/</link>
+      <link>https://www.aixwim.cloud/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/after-school-activities-relationship-building/</guid>
+      <guid>https://www.aixwim.cloud/posts/after-school-activities-relationship-building/</guid>
       <description>Discover how after-school programs foster meaningful relationships between children and mentors, and why these connections are vital for growth and success.</description>
     </item>
     <item>
       <title>After-School Activities for Overweight Children: A Path to Healthier Living</title>
-      <link>http://www.aixwim.cloud/posts/after-school-activities-overweight-kids/</link>
+      <link>https://www.aixwim.cloud/posts/after-school-activities-overweight-kids/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/after-school-activities-overweight-kids/</guid>
+      <guid>https://www.aixwim.cloud/posts/after-school-activities-overweight-kids/</guid>
       <description>Explore the importance of after-school activities in combating childhood obesity. Learn how sports and physical exercises can help overweight children stay active and healthy.</description>
     </item>
     <item>
       <title>The Benefits of a Good After-School Program for Children</title>
-      <link>http://www.aixwim.cloud/posts/benefits-of-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/posts/benefits-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/benefits-of-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/posts/benefits-of-after-school-programs/</guid>
       <description>Discover the numerous benefits of a good after-school program, from enhancing your child&amp;#39;s skills to promoting socialization and preventing destructive habits.</description>
     </item>
     <item>
       <title>Too Much of School: A Personal Reflection on After-School Programs</title>
-      <link>http://www.aixwim.cloud/posts/too-much-of-school-reflection/</link>
+      <link>https://www.aixwim.cloud/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/too-much-of-school-reflection/</guid>
+      <guid>https://www.aixwim.cloud/posts/too-much-of-school-reflection/</guid>
       <description>A personal story reflecting on the challenges and evolution of after-school programs from a child&amp;#39;s perspective.</description>
     </item>
     <item>
       <title>After-School Activities for Hyperactive Children: Engaging ADHD Kids</title>
-      <link>http://www.aixwim.cloud/posts/after-school-activities-hyperactive-child/</link>
+      <link>https://www.aixwim.cloud/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>https://www.aixwim.cloud/posts/after-school-activities-hyperactive-child/</guid>
       <description>Discover after-school activities that work for children with ADHD. Explore sports, arts, and other activities that help channel energy, improve focus, and build social skills.</description>
     </item>
   </channel>

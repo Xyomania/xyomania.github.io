@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Baby Sleep on AIXWIM</title>
-    <link>http://www.aixwim.cloud/tags/baby-sleep/</link>
+    <link>https://www.aixwim.cloud/tags/baby-sleep/</link>
     <description>Recent content in Baby Sleep on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/tags/baby-sleep/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/baby-sleep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baby&#39;s Naptime: Tips for Establishing Healthy Sleep Habits</title>
-      <link>http://www.aixwim.cloud/posts/baby-naptime-guide/</link>
+      <link>https://www.aixwim.cloud/posts/baby-naptime-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/baby-naptime-guide/</guid>
+      <guid>https://www.aixwim.cloud/posts/baby-naptime-guide/</guid>
       <description>A guide for parents to help their baby establish healthy naptime routines and sleep patterns.</description>
     </item>
   </channel>

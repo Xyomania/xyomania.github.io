@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>網站託管 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/tags/%E7%B6%B2%E7%AB%99%E8%A8%97%E7%AE%A1/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E7%B6%B2%E7%AB%99%E8%A8%97%E7%AE%A1/</link>
     <description>Recent content in 網站託管 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/tags/%E7%B6%B2%E7%AB%99%E8%A8%97%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E7%B6%B2%E7%AB%99%E8%A8%97%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何成為細分市場中的超級聯盟行銷員</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/super-affiliate-niche-markets/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/super-affiliate-niche-markets/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/super-affiliate-niche-markets/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/super-affiliate-niche-markets/</guid>
       <description>了解如何在細分市場中成為成功的超級聯盟行銷員，特別是在網站託管領域。學習選擇有利可圖的聯盟計劃並獲得穩定收入的關鍵策略。</description>
     </item>
   </channel>

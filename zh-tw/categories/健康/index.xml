@@ -2,32 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>健康 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/categories/%E5%81%A5%E5%BA%B7/</link>
+    <link>https://www.aixwim.cloud/zh-tw/categories/%E5%81%A5%E5%BA%B7/</link>
     <description>Recent content in 健康 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/categories/%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何避免課後活動過度疲憊：家長指南</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/avoiding-burnout-in-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/avoiding-burnout-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/avoiding-burnout-in-after-school-activities/</guid>
       <description>管理課後活動是孩子幸福與健康的關鍵。學習如何在保持孩子興趣與滿足感的同時，避免過度疲憊。</description>
     </item>
     <item>
       <title>針對超重兒童的課後活動：邁向更健康生活的道路</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/after-school-activities-overweight-kids/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-overweight-kids/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/after-school-activities-overweight-kids/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-overweight-kids/</guid>
       <description>探討課後活動在對抗兒童肥胖中的重要性，了解運動和身體鍛鍊如何幫助超重兒童保持活躍和健康。</description>
     </item>
     <item>
       <title>為多動症孩子設計的課後活動：如何讓ADHD孩子參與</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/after-school-activities-hyperactive-child/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-hyperactive-child/</guid>
       <description>發現適合ADHD孩子的課後活動。探索運動、藝術和其他活動，這些活動有助於引導能量、提高專注力並培養社交技能。</description>
     </item>
   </channel>

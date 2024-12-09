@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tips Tidur Siang on AIXWIM</title>
-    <link>http://www.aixwim.cloud/id/tags/tips-tidur-siang/</link>
+    <link>https://www.aixwim.cloud/id/tags/tips-tidur-siang/</link>
     <description>Recent content in Tips Tidur Siang on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/id/tags/tips-tidur-siang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/tips-tidur-siang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Waktu Tidur Bayi: Tips untuk Menetapkan Kebiasaan Tidur yang Sehat</title>
-      <link>http://www.aixwim.cloud/id/posts/baby-naptime-guide/</link>
+      <link>https://www.aixwim.cloud/id/posts/baby-naptime-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/posts/baby-naptime-guide/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/baby-naptime-guide/</guid>
       <description>Panduan bagi orang tua untuk membantu bayi mereka menetapkan rutinitas tidur siang yang sehat dan pola tidur yang baik.</description>
     </item>
   </channel>

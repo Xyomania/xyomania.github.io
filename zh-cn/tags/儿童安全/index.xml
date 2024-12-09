@@ -2,25 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>儿童安全 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-cn/tags/%E5%84%BF%E7%AB%A5%E5%AE%89%E5%85%A8/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E5%84%BF%E7%AB%A5%E5%AE%89%E5%85%A8/</link>
     <description>Recent content in 儿童安全 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-cn/tags/%E5%84%BF%E7%AB%A5%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E5%84%BF%E7%AB%A5%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>课后安全：家长必备的建议与提醒</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/after-school-safety-tips-for-parents/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/after-school-safety-tips-for-parents/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/after-school-safety-tips-for-parents/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/after-school-safety-tips-for-parents/</guid>
       <description>通过这些实用的建议，确保您孩子放学后的安全。从紧急情况准备到识别危险区域，了解如何保护您的孩子。</description>
     </item>
     <item>
       <title>课后活动的重要性</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/need-for-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/need-for-after-school-activities/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/need-for-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/need-for-after-school-activities/</guid>
       <description>想知道为什么课后活动如此重要吗？了解课后项目对儿童发展、安全和整体福祉的好处。</description>
     </item>
   </channel>

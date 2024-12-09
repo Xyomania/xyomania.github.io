@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kesuksesan Akademis on AIXWIM</title>
-    <link>http://www.aixwim.cloud/id/tags/kesuksesan-akademis/</link>
+    <link>https://www.aixwim.cloud/id/tags/kesuksesan-akademis/</link>
     <description>Recent content in Kesuksesan Akademis on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/id/tags/kesuksesan-akademis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/kesuksesan-akademis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Potensi Program Setelah Sekolah: Manfaat untuk Anak-anak</title>
-      <link>http://www.aixwim.cloud/id/posts/potentials-of-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/id/posts/potentials-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/posts/potentials-of-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/potentials-of-after-school-programs/</guid>
       <description>Program setelah sekolah menawarkan berbagai manfaat, mulai dari meningkatkan prestasi akademis hingga mencegah perilaku berisiko. Pelajari mengapa program-program ini sangat penting untuk perkembangan anak-anak.</description>
     </item>
   </channel>

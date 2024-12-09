@@ -2,25 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>兴趣与时间 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-cn/categories/%E5%85%B4%E8%B6%A3%E4%B8%8E%E6%97%B6%E9%97%B4/</link>
+    <link>https://www.aixwim.cloud/zh-cn/categories/%E5%85%B4%E8%B6%A3%E4%B8%8E%E6%97%B6%E9%97%B4/</link>
     <description>Recent content in 兴趣与时间 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-cn/categories/%E5%85%B4%E8%B6%A3%E4%B8%8E%E6%97%B6%E9%97%B4/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/categories/%E5%85%B4%E8%B6%A3%E4%B8%8E%E6%97%B6%E9%97%B4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>课后活动与关系建设：加强联系</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-relationship-building/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-relationship-building/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-relationship-building/</guid>
       <description>了解课后项目如何促进孩子与导师之间的有意义关系，以及为什么这些关系对成长和成功至关重要。</description>
     </item>
     <item>
       <title>如何避免课后活动中的倦怠：家长指南</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/avoiding-burnout-in-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/avoiding-burnout-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/avoiding-burnout-in-after-school-activities/</guid>
       <description>管理课后活动是孩子幸福与健康的关键。了解如何在保持孩子兴趣和满足感的同时避免倦怠。</description>
     </item>
   </channel>

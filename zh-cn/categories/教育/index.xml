@@ -2,46 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>教育 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-cn/categories/%E6%95%99%E8%82%B2/</link>
+    <link>https://www.aixwim.cloud/zh-cn/categories/%E6%95%99%E8%82%B2/</link>
     <description>Recent content in 教育 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-cn/categories/%E6%95%99%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/categories/%E6%95%99%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>课后活动对儿童的好处</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</guid>
       <description>发现一个好的课后活动的众多好处，从提高孩子的技能到促进社交，预防不良习惯。</description>
     </item>
     <item>
       <title>课后活动与关系建设：加强联系</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-relationship-building/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-relationship-building/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-relationship-building/</guid>
       <description>了解课后项目如何促进孩子与导师之间的有意义关系，以及为什么这些关系对成长和成功至关重要。</description>
     </item>
     <item>
       <title>学校太多：关于课后活动的个人反思</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/too-much-of-school-reflection/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/too-much-of-school-reflection/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/too-much-of-school-reflection/</guid>
       <description>从孩子的角度反思课后活动的挑战和发展，讲述个人经历。</description>
     </item>
     <item>
       <title>针对超重儿童的课后活动：通向更健康生活的道路</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-overweight-kids/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-overweight-kids/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-overweight-kids/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-overweight-kids/</guid>
       <description>探讨课后活动在对抗儿童肥胖中的重要性。了解运动和身体锻炼如何帮助超重儿童保持活跃和健康。</description>
     </item>
     <item>
       <title>为多动症孩子设计的课后活动：如何让ADHD孩子参与</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</guid>
       <description>发现适合ADHD孩子的课后活动。探索运动、艺术和其他活动，这些活动有助于引导能量、提高专注力并培养社交技能。</description>
     </item>
   </channel>

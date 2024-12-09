@@ -2,25 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Child Development on AIXWIM</title>
-    <link>http://www.aixwim.cloud/categories/child-development/</link>
+    <link>https://www.aixwim.cloud/categories/child-development/</link>
     <description>Recent content in Child Development on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/categories/child-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/categories/child-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>After-School Safety: Essential Tips and Reminders for Parents</title>
-      <link>http://www.aixwim.cloud/posts/after-school-safety-tips-for-parents/</link>
+      <link>https://www.aixwim.cloud/posts/after-school-safety-tips-for-parents/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/after-school-safety-tips-for-parents/</guid>
+      <guid>https://www.aixwim.cloud/posts/after-school-safety-tips-for-parents/</guid>
       <description>Ensure your child&amp;#39;s safety after school with these practical tips. From emergency preparedness to identifying danger zones, here&amp;#39;s how you can keep your child safe.</description>
     </item>
     <item>
       <title>The Benefits of a Good After-School Program for Children</title>
-      <link>http://www.aixwim.cloud/posts/benefits-of-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/posts/benefits-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/posts/benefits-of-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/posts/benefits-of-after-school-programs/</guid>
       <description>Discover the numerous benefits of a good after-school program, from enhancing your child&amp;#39;s skills to promoting socialization and preventing destructive habits.</description>
     </item>
   </channel>

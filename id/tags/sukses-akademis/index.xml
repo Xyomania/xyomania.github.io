@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sukses Akademis on AIXWIM</title>
-    <link>http://www.aixwim.cloud/id/tags/sukses-akademis/</link>
+    <link>https://www.aixwim.cloud/id/tags/sukses-akademis/</link>
     <description>Recent content in Sukses Akademis on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/id/tags/sukses-akademis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/sukses-akademis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menguasai Kebiasaan Belajar yang Efektif: Tips untuk Sukses Akademis</title>
-      <link>http://www.aixwim.cloud/id/posts/study-habits-tips/</link>
+      <link>https://www.aixwim.cloud/id/posts/study-habits-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/posts/study-habits-tips/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/study-habits-tips/</guid>
       <description>Pelajari cara meningkatkan kebiasaan belajar Anda dengan menciptakan lingkungan bebas gangguan, mengorganisir perlengkapan, dan menguasai teknik konsentrasi.</description>
     </item>
   </channel>

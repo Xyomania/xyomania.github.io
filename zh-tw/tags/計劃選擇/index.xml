@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>計劃選擇 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/tags/%E8%A8%88%E5%8A%83%E9%81%B8%E6%93%87/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E8%A8%88%E5%8A%83%E9%81%B8%E6%93%87/</link>
     <description>Recent content in 計劃選擇 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/tags/%E8%A8%88%E5%8A%83%E9%81%B8%E6%93%87/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E8%A8%88%E5%8A%83%E9%81%B8%E6%93%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>這麼多聯盟計劃！我該選哪一個？</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/how-to-choose-affiliate-program/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/how-to-choose-affiliate-program/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/how-to-choose-affiliate-program/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/how-to-choose-affiliate-program/</guid>
       <description>面對眾多聯盟計劃，如何選擇最適合的？在加入聯盟計劃前，了解一些關鍵因素，幫助你最大化收益。</description>
     </item>
   </channel>

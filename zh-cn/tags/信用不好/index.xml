@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>信用不好 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-cn/tags/%E4%BF%A1%E7%94%A8%E4%B8%8D%E5%A5%BD/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E4%BF%A1%E7%94%A8%E4%B8%8D%E5%A5%BD/</link>
     <description>Recent content in 信用不好 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-cn/tags/%E4%BF%A1%E7%94%A8%E4%B8%8D%E5%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E4%BF%A1%E7%94%A8%E4%B8%8D%E5%A5%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>申请信用卡的基本技巧：新手指南</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/applying-for-a-credit-card/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/applying-for-a-credit-card/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/applying-for-a-credit-card/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/applying-for-a-credit-card/</guid>
       <description>了解申请信用卡的实用技巧，特别是对于信用不良的人群。学习如何选择合适的信用卡，避免常见陷阱，并负责任地管理支付。</description>
     </item>
   </channel>

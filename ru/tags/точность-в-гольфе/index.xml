@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Точность В Гольфе on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ru/tags/%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B2-%D0%B3%D0%BE%D0%BB%D1%8C%D1%84%D0%B5/</link>
+    <link>https://www.aixwim.cloud/ru/tags/%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B2-%D0%B3%D0%BE%D0%BB%D1%8C%D1%84%D0%B5/</link>
     <description>Recent content in Точность В Гольфе on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ru/tags/%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B2-%D0%B3%D0%BE%D0%BB%D1%8C%D1%84%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ru/tags/%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B2-%D0%B3%D0%BE%D0%BB%D1%8C%D1%84%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Сила концентрации: почему важно следить за мячом в гольфе</title>
-      <link>http://www.aixwim.cloud/ru/posts/watching-the-ball-golf/</link>
+      <link>https://www.aixwim.cloud/ru/posts/watching-the-ball-golf/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ru/posts/watching-the-ball-golf/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/watching-the-ball-golf/</guid>
       <description>Узнайте, как сосредоточенность на мяче может улучшить вашу игру в гольф. Откройте для себя, почему следить за мячом на протяжении всего свинга так важно для точности и успеха на поле.</description>
     </item>
   </channel>

@@ -2,60 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>子どもの発達 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ja/tags/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E7%99%BA%E9%81%94/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E7%99%BA%E9%81%94/</link>
     <description>Recent content in 子どもの発達 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ja/tags/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E7%99%BA%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E7%99%BA%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>なぜお子さんは放課後の活動に退屈を感じるのか</title>
-      <link>http://www.aixwim.cloud/ja/posts/boredom-in-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/ja/posts/boredom-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/boredom-in-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/boredom-in-after-school-activities/</guid>
       <description>お子さんが放課後の活動に興味を失う理由と、関心を取り戻すための方法を学びましょう。</description>
     </item>
     <item>
       <title>効果的な放課後活動: 主な特徴と考慮事項</title>
-      <link>http://www.aixwim.cloud/ja/posts/effective-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/ja/posts/effective-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/effective-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/effective-after-school-activities/</guid>
       <description>子どもにとって学び、発展し、楽しむことのバランスを取る効果的な放課後活動の重要な特徴をご紹介します。</description>
     </item>
     <item>
       <title>子どもの発達における芸術活動の力強い利点</title>
-      <link>http://www.aixwim.cloud/ja/posts/benefits-of-art-based-activities-for-children/</link>
+      <link>https://www.aixwim.cloud/ja/posts/benefits-of-art-based-activities-for-children/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/benefits-of-art-based-activities-for-children/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/benefits-of-art-based-activities-for-children/</guid>
       <description>芸術活動が子どもの社会的、感情的、認知的成長をどのように促進するかをご紹介します。芸術を取り入れることで得られる長期的な利点について学びましょう。</description>
     </item>
     <item>
       <title>放課後プログラムと規律: ルールの重要性</title>
-      <link>http://www.aixwim.cloud/ja/posts/importance-of-discipline-in-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/ja/posts/importance-of-discipline-in-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/importance-of-discipline-in-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/importance-of-discipline-in-after-school-programs/</guid>
       <description>規律は放課後プログラムにおいて重要な役割を果たします。明確なルールを設定し、問題行動に対処することが子どもの発達においてなぜ重要なのかを学びましょう。</description>
     </item>
     <item>
       <title>放課後プログラムの発達支援：成長の各段階をサポートする方法</title>
-      <link>http://www.aixwim.cloud/ja/posts/developmental-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/ja/posts/developmental-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/developmental-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/developmental-after-school-programs/</guid>
       <description>放課後プログラムが、子どもの成長の各段階で身体的、感情的、社会的、知的な発達をどうサポートできるかを探ります。</description>
     </item>
     <item>
       <title>放課後活動と関係構築: つながりを強化する</title>
-      <link>http://www.aixwim.cloud/ja/posts/after-school-activities-relationship-building/</link>
+      <link>https://www.aixwim.cloud/ja/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/after-school-activities-relationship-building/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/after-school-activities-relationship-building/</guid>
       <description>放課後プログラムが子どもとメンターの間でどのように意味のある関係を育むか、そしてそのつながりが成長と成功にとってなぜ重要であるかを探ります。</description>
     </item>
     <item>
       <title>放課後活動における燃え尽き症候群を防ぐ方法：保護者向けガイド</title>
-      <link>http://www.aixwim.cloud/ja/posts/avoiding-burnout-in-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/ja/posts/avoiding-burnout-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/avoiding-burnout-in-after-school-activities/</guid>
       <description>放課後の活動を管理することは、子どもの幸福と健康の鍵です。子どもを関与させ、満足させながら燃え尽き症候群を防ぐ方法を学びましょう。</description>
     </item>
   </channel>

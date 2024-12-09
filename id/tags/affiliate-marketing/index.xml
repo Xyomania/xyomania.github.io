@@ -2,39 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Affiliate Marketing on AIXWIM</title>
-    <link>http://www.aixwim.cloud/id/tags/affiliate-marketing/</link>
+    <link>https://www.aixwim.cloud/id/tags/affiliate-marketing/</link>
     <description>Recent content in Affiliate Marketing on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/id/tags/affiliate-marketing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/affiliate-marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara Menjadi Super Affiliate di Pasar Niche</title>
-      <link>http://www.aixwim.cloud/id/posts/super-affiliate-niche-markets/</link>
+      <link>https://www.aixwim.cloud/id/posts/super-affiliate-niche-markets/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/posts/super-affiliate-niche-markets/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/super-affiliate-niche-markets/</guid>
       <description>Temukan cara menjadi super affiliate yang sukses di pasar niche, terutama di web hosting. Pelajari strategi utama untuk memilih program afiliasi yang menguntungkan dan menghasilkan pendapatan yang konsisten.</description>
     </item>
     <item>
       <title>Menggunakan Rekomendasi Produk untuk Meningkatkan Pendapatan Anda</title>
-      <link>http://www.aixwim.cloud/id/posts/product-recommendations-boost-sales/</link>
+      <link>https://www.aixwim.cloud/id/posts/product-recommendations-boost-sales/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/posts/product-recommendations-boost-sales/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/product-recommendations-boost-sales/</guid>
       <description>Pelajari bagaimana rekomendasi produk dapat meningkatkan penghasilan affiliate marketing Anda. Temukan strategi untuk membangun kepercayaan, memberikan wawasan berharga, dan membangun kredibilitas.</description>
     </item>
     <item>
       <title>3 Tips Penting untuk Affiliate Marketer Agar Sukses Online</title>
-      <link>http://www.aixwim.cloud/id/posts/affiliate-marketing-tips-survive-online/</link>
+      <link>https://www.aixwim.cloud/id/posts/affiliate-marketing-tips-survive-online/</link>
       <pubDate>Fri, 06 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/posts/affiliate-marketing-tips-survive-online/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/affiliate-marketing-tips-survive-online/</guid>
       <description>Temukan 3 strategi kunci yang dibutuhkan setiap affiliate marketer untuk sukses online. Pelajari cara meningkatkan penjualan dengan konten yang terarah, laporan gratis, dan mengarahkan lalu lintas berkualitas.</description>
     </item>
     <item>
       <title>Sehari dalam Kehidupan Seorang Affiliate Marketer</title>
-      <link>http://www.aixwim.cloud/id/posts/affiliate-marketer-day-in-life/</link>
+      <link>https://www.aixwim.cloud/id/posts/affiliate-marketer-day-in-life/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/id/posts/affiliate-marketer-day-in-life/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/affiliate-marketer-day-in-life/</guid>
       <description>Pernahkah Anda bertanya-tanya bagaimana kehidupan seorang affiliate marketer sehari-hari? Berikut sekilas rutinitas harian seorang affiliate marketer yang berdedikasi.</description>
     </item>
   </channel>

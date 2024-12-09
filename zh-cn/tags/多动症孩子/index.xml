@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>多动症孩子 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-cn/tags/%E5%A4%9A%E5%8A%A8%E7%97%87%E5%AD%A9%E5%AD%90/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E5%A4%9A%E5%8A%A8%E7%97%87%E5%AD%A9%E5%AD%90/</link>
     <description>Recent content in 多动症孩子 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 07 Dec 2024 11:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-cn/tags/%E5%A4%9A%E5%8A%A8%E7%97%87%E5%AD%A9%E5%AD%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E5%A4%9A%E5%8A%A8%E7%97%87%E5%AD%A9%E5%AD%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>为多动症孩子设计的课后活动：如何让ADHD孩子参与</title>
-      <link>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</guid>
       <description>发现适合ADHD孩子的课后活动。探索运动、艺术和其他活动，这些活动有助于引导能量、提高专注力并培养社交技能。</description>
     </item>
   </channel>

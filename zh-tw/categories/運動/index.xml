@@ -2,25 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>運動 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/zh-tw/categories/%E9%81%8B%E5%8B%95/</link>
+    <link>https://www.aixwim.cloud/zh-tw/categories/%E9%81%8B%E5%8B%95/</link>
     <description>Recent content in 運動 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/zh-tw/categories/%E9%81%8B%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E9%81%8B%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>專注的力量：為什麼在高爾夫中盯住球至關重要</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/watching-the-ball-golf/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/watching-the-ball-golf/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/watching-the-ball-golf/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/watching-the-ball-golf/</guid>
       <description>了解如何保持專注於球來提升你的高爾夫遊戲。發現為什麼在整個揮桿過程中盯住球對精確度和成功至關重要。</description>
     </item>
     <item>
       <title>掌握尷尬的高爾夫擊球：將挑戰轉化為機會</title>
-      <link>http://www.aixwim.cloud/zh-tw/posts/awkward-golf-shots-tips/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/awkward-golf-shots-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/zh-tw/posts/awkward-golf-shots-tips/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/awkward-golf-shots-tips/</guid>
       <description>學習如何在挑戰性的天氣條件下保持平衡、精確度和自信，克服尷尬的高爾夫擊球，提升你的球技。</description>
     </item>
   </channel>

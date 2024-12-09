@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>赤ちゃんの健康 on AIXWIM</title>
-    <link>http://www.aixwim.cloud/ja/tags/%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E5%81%A5%E5%BA%B7/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E5%81%A5%E5%BA%B7/</link>
     <description>Recent content in 赤ちゃんの健康 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aixwim.cloud/ja/tags/%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>新しい親への必須アドバイス</title>
-      <link>http://www.aixwim.cloud/ja/posts/essential-tips-for-new-parents/</link>
+      <link>https://www.aixwim.cloud/ja/posts/essential-tips-for-new-parents/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.aixwim.cloud/ja/posts/essential-tips-for-new-parents/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/essential-tips-for-new-parents/</guid>
       <description>新しい親が新生児のケアの課題を乗り越えるための役立つガイド。</description>
     </item>
   </channel>
