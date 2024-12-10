@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>文章目录 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E6%96%87%E7%AB%A0%E7%9B%AE%E5%BD%95/</link>
+    <description>Recent content in 文章目录 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>zh-cn</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E6%96%87%E7%AB%A0%E7%9B%AE%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>提交文章到目录之前必须采取的3个关键步骤</title>
+      <link>https://www.aixwim.cloud/zh-cn/posts/3-steps-before-article-submission/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/3-steps-before-article-submission/</guid>
+      <description>学习在提交文章到文章目录之前必须做的三件事，以提高流量、SEO和转化率。</description>
+    </item>
+  </channel>
+</rss>

@@ -2,19 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>商業與財經 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E8%B2%A1%E7%B6%93/</link>
+    <link>https://www.aixwim.cloud/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E8%B2%A1%E7%B6%93/</link>
     <description>Recent content in 商業與財經 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E8%B2%A1%E7%B6%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E8%B2%A1%E7%B6%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>線上成功的三大聯盟行銷技巧</title>
-      <link>http://localhost:1313/zh-tw/posts/affiliate-marketing-tips-survive-online/</link>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/affiliate-marketing-tips-survive-online/</guid>
-      <description>探索每位聯盟行銷人員在線上成功所需的三大關鍵策略。學習如何透過目標內容、免費報告及高質量流量來提升銷售額。</description>
+      <title>提交文章到目錄之前必須採取的3個關鍵步驟</title>
+      <link>https://www.aixwim.cloud/zh-tw/posts/3-steps-before-article-submission/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/3-steps-before-article-submission/</guid>
+      <description>了解在提交文章到文章目錄之前，必須進行的三個步驟，以提高流量、SEO和轉換率。</description>
     </item>
   </channel>
 </rss>

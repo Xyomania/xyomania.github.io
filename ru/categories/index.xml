@@ -12,20 +12,34 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/ru/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Безопасность</title>
-      <link>https://www.aixwim.cloud/ru/categories/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/categories/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</guid>
+      <title>SEO</title>
+      <link>https://www.aixwim.cloud/ru/categories/seo/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ru/categories/seo/</guid>
       <description></description>
     </item>
     <item>
       <title>Бизнес И Финансы</title>
       <link>https://www.aixwim.cloud/ru/categories/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B8-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/ru/categories/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B8-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Создание Контента</title>
+      <link>https://www.aixwim.cloud/ru/categories/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ru/categories/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Безопасность</title>
+      <link>https://www.aixwim.cloud/ru/categories/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ru/categories/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</guid>
       <description></description>
     </item>
     <item>
