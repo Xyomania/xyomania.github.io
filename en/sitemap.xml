@@ -35,6 +35,39 @@
                 href="https://www.aixwim.cloud/posts/3-steps-before-article-submission/"
                 />
   </url><url>
+    <loc>https://www.aixwim.cloud/posts/6-tips-to-get-articles-read/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/6-tips-to-get-articles-read/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/6-tips-to-get-articles-read/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/6-tips-to-get-articles-read/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/6-tips-to-get-articles-read/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/6-tips-to-get-articles-read/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/6-tips-to-get-articles-read/"
+                />
+  </url><url>
     <loc>https://www.aixwim.cloud/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -74,6 +107,22 @@
     <loc>https://www.aixwim.cloud/tags/article-marketing/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.aixwim.cloud/tags/article-writing/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/blogging/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/tags/blogging/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/tags/blogging/"
+                />
+  </url><url>
     <loc>https://www.aixwim.cloud/categories/business-and-finance/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -110,6 +159,9 @@
                 href="https://www.aixwim.cloud/categories/"
                 />
   </url><url>
+    <loc>https://www.aixwim.cloud/tags/content-creation/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.aixwim.cloud/categories/content-creation/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -128,6 +180,9 @@
                 hreflang="en"
                 href="https://www.aixwim.cloud/tags/digital-marketing/"
                 />
+  </url><url>
+    <loc>https://www.aixwim.cloud/categories/marketing/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/posts/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
@@ -196,6 +251,12 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/tags/seo-tips/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/categories/writing/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/writing-tips/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/academic-growth/</loc>
@@ -2694,22 +2755,6 @@
                 hreflang="en"
                 href="https://www.aixwim.cloud/authors/"
                 />
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/blogging/</loc>
-    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aixwim.cloud/id/tags/blogging/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aixwim.cloud/tags/blogging/"
-                />
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/content-creation/</loc>
-    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/posts/blogging-tips-2024/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
