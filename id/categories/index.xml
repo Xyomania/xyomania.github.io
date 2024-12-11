@@ -9,16 +9,72 @@
       <url>https://www.aixwim.cloud/images/</url>
       <link>https://www.aixwim.cloud/images/</link>
     </image>
-    <generator>Hugo -- 0.139.3</generator>
+    <generator>Hugo -- 0.139.4</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Berita</title>
+      <link>https://www.aixwim.cloud/id/categories/berita/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/berita/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Bisnis Dan Keuangan</title>
       <link>https://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Budaya Remaja</title>
+      <link>https://www.aixwim.cloud/id/categories/budaya-remaja/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/budaya-remaja/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kesehatan</title>
+      <link>https://www.aixwim.cloud/id/categories/kesehatan/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/kesehatan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parenting</title>
+      <link>https://www.aixwim.cloud/id/categories/parenting/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/parenting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pemasaran</title>
+      <link>https://www.aixwim.cloud/id/categories/pemasaran/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/pemasaran/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pengasuh Dan Hewan Peliharaan</title>
+      <link>https://www.aixwim.cloud/id/categories/pengasuh-dan-hewan-peliharaan/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/pengasuh-dan-hewan-peliharaan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teknologi</title>
+      <link>https://www.aixwim.cloud/id/categories/teknologi/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/teknologi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips Blogging</title>
+      <link>https://www.aixwim.cloud/id/categories/tips-blogging/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/tips-blogging/</guid>
       <description></description>
     </item>
     <item>
@@ -47,13 +103,6 @@
       <link>https://www.aixwim.cloud/id/categories/menulis/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/menulis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pemasaran</title>
-      <link>https://www.aixwim.cloud/id/categories/pemasaran/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/pemasaran/</guid>
       <description></description>
     </item>
     <item>
@@ -99,24 +148,10 @@
       <description></description>
     </item>
     <item>
-      <title>Kesehatan</title>
-      <link>https://www.aixwim.cloud/id/categories/kesehatan/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/kesehatan/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Olahraga</title>
       <link>https://www.aixwim.cloud/id/categories/olahraga/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/olahraga/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Parenting</title>
-      <link>https://www.aixwim.cloud/id/categories/parenting/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/parenting/</guid>
       <description></description>
     </item>
     <item>
@@ -145,13 +180,6 @@
       <link>https://www.aixwim.cloud/id/categories/perkembangan-anak/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/perkembangan-anak/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teknologi</title>
-      <link>https://www.aixwim.cloud/id/categories/teknologi/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/teknologi/</guid>
       <description></description>
     </item>
     <item>

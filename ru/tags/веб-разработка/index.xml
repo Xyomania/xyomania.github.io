@@ -9,11 +9,18 @@
       <url>https://www.aixwim.cloud/images/</url>
       <link>https://www.aixwim.cloud/images/</link>
     </image>
-    <generator>Hugo -- 0.139.3</generator>
+    <generator>Hugo -- 0.139.4</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/ru/tags/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Основы блогинга</title>
+      <link>https://www.aixwim.cloud/ru/posts/blogging-101/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ru/posts/blogging-101/</guid>
+      <description>Изучите основы блогинга, включая ключевые термины, такие как блог, платформа, домен и веб-хостинг.</description>
+    </item>
     <item>
       <title>Почему Hugo - лучшая платформа для блогеров-разработчиков в 2024 году</title>
       <link>https://www.aixwim.cloud/ru/posts/best-hugo-blogging-software/</link>

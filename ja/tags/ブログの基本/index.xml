@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ブログの基本 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E5%9F%BA%E6%9C%AC/</link>
+    <description>Recent content in ブログの基本 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.4</generator>
+    <language>ja</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E5%9F%BA%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ブログの基本</title>
+      <link>https://www.aixwim.cloud/ja/posts/blogging-101/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ja/posts/blogging-101/</guid>
+      <description>ブログの基本を学びましょう。ブログ、プラットフォーム、ドメイン、ウェブホストなどの重要な用語を解説します。</description>
+    </item>
+  </channel>
+</rss>

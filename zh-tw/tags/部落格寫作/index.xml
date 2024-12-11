@@ -9,11 +9,18 @@
       <url>https://www.aixwim.cloud/images/</url>
       <link>https://www.aixwim.cloud/images/</link>
     </image>
-    <generator>Hugo -- 0.139.3</generator>
+    <generator>Hugo -- 0.139.4</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E5%AF%AB%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>部落格寫作、債務整合與新資訊技術</title>
+      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-consolidation-debt/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-consolidation-debt/</guid>
+      <description>探索部落客如何討論財務話題，如債務整合、資金管理和投資策略，既能幫助他人又能賺錢。</description>
+    </item>
     <item>
       <title>6 個讓你的文章被閱讀的熱門技巧</title>
       <link>https://www.aixwim.cloud/zh-tw/posts/6-tips-to-get-articles-read/</link>
