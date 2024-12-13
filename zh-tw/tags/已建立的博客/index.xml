@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>已建立的博客 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%B7%B2%E5%BB%BA%E7%AB%8B%E7%9A%84%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 已建立的博客 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.4</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%B7%B2%E5%BB%BA%E7%AB%8B%E7%9A%84%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>加入博客平台還是不要加入</title>
+      <link>https://www.aixwim.cloud/zh-tw/posts/to-join-blogging-site-or-not/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/to-join-blogging-site-or-not/</guid>
+      <description>你應該加入一個已建立的博客平台，還是創建自己的博客？了解這兩種選擇的優缺點。</description>
+    </item>
+  </channel>
+</rss>

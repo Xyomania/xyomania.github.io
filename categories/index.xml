@@ -12,27 +12,69 @@
     <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogging Tips</title>
       <link>https://www.aixwim.cloud/categories/blogging-tips/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/blogging-tips/</guid>
       <description></description>
     </item>
     <item>
       <title>Business and Finance</title>
       <link>https://www.aixwim.cloud/categories/business-and-finance/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/business-and-finance/</guid>
       <description></description>
     </item>
     <item>
       <title>Content Creation</title>
       <link>https://www.aixwim.cloud/categories/content-creation/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/content-creation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Family</title>
+      <link>https://www.aixwim.cloud/categories/family/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/family/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobbies and Time</title>
+      <link>https://www.aixwim.cloud/categories/hobbies-and-time/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/hobbies-and-time/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing</title>
+      <link>https://www.aixwim.cloud/categories/marketing/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parenting</title>
+      <link>https://www.aixwim.cloud/categories/parenting/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/parenting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Development</title>
+      <link>https://www.aixwim.cloud/categories/personal-development/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/personal-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>https://www.aixwim.cloud/categories/writing/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/writing/</guid>
       <description></description>
     </item>
     <item>
@@ -57,24 +99,10 @@
       <description></description>
     </item>
     <item>
-      <title>Marketing</title>
-      <link>https://www.aixwim.cloud/categories/marketing/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/marketing/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Marketing and Advertising</title>
       <link>https://www.aixwim.cloud/categories/marketing-and-advertising/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/marketing-and-advertising/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Parenting</title>
-      <link>https://www.aixwim.cloud/categories/parenting/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/parenting/</guid>
       <description></description>
     </item>
     <item>
@@ -127,13 +155,6 @@
       <description></description>
     </item>
     <item>
-      <title>Hobbies and Time</title>
-      <link>https://www.aixwim.cloud/categories/hobbies-and-time/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/hobbies-and-time/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>SEO</title>
       <link>https://www.aixwim.cloud/categories/seo/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
@@ -148,13 +169,6 @@
       <description></description>
     </item>
     <item>
-      <title>Writing</title>
-      <link>https://www.aixwim.cloud/categories/writing/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/writing/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Child Development</title>
       <link>https://www.aixwim.cloud/categories/child-development/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
@@ -166,13 +180,6 @@
       <link>https://www.aixwim.cloud/categories/education/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/education/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Family</title>
-      <link>https://www.aixwim.cloud/categories/family/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/family/</guid>
       <description></description>
     </item>
     <item>

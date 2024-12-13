@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Baby Names on AIXWIM</title>
+    <link>https://www.aixwim.cloud/tags/baby-names/</link>
+    <description>Recent content in Baby Names on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.4</generator>
+    <language>en</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/tags/baby-names/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Way with Baby Names</title>
+      <link>https://www.aixwim.cloud/posts/the-way-with-baby-names/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/posts/the-way-with-baby-names/</guid>
+      <description>Choosing the right name for your baby is more than just a decision—it shapes their identity. Here are essential tips for picking the perfect baby name.</description>
+    </item>
+  </channel>
+</rss>
