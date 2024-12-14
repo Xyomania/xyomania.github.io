@@ -12,20 +12,83 @@
     <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blogging Tips</title>
-      <link>https://www.aixwim.cloud/categories/blogging-tips/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/blogging-tips/</guid>
+      <title>Beauty and Fashion</title>
+      <link>https://www.aixwim.cloud/categories/beauty-and-fashion/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/beauty-and-fashion/</guid>
       <description></description>
     </item>
     <item>
       <title>Business and Finance</title>
       <link>https://www.aixwim.cloud/categories/business-and-finance/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/business-and-finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>https://www.aixwim.cloud/categories/finance/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>https://www.aixwim.cloud/categories/health/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobbies and Time</title>
+      <link>https://www.aixwim.cloud/categories/hobbies-and-time/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/hobbies-and-time/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leisure</title>
+      <link>https://www.aixwim.cloud/categories/leisure/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/leisure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>https://www.aixwim.cloud/categories/mental-health/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/mental-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Finance</title>
+      <link>https://www.aixwim.cloud/categories/personal-finance/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/personal-finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sports</title>
+      <link>https://www.aixwim.cloud/categories/sports/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/sports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel and Transportation</title>
+      <link>https://www.aixwim.cloud/categories/travel-and-transportation/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/travel-and-transportation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blogging Tips</title>
+      <link>https://www.aixwim.cloud/categories/blogging-tips/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/blogging-tips/</guid>
       <description></description>
     </item>
     <item>
@@ -40,13 +103,6 @@
       <link>https://www.aixwim.cloud/categories/family/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/family/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hobbies and Time</title>
-      <link>https://www.aixwim.cloud/categories/hobbies-and-time/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/hobbies-and-time/</guid>
       <description></description>
     </item>
     <item>
@@ -120,13 +176,6 @@
       <description></description>
     </item>
     <item>
-      <title>Health</title>
-      <link>https://www.aixwim.cloud/categories/health/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/health/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>News</title>
       <link>https://www.aixwim.cloud/categories/news/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
@@ -187,13 +236,6 @@
       <link>https://www.aixwim.cloud/categories/safety/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/safety/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sports</title>
-      <link>https://www.aixwim.cloud/categories/sports/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/sports/</guid>
       <description></description>
     </item>
     <item>

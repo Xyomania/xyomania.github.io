@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>預算管理 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E9%A0%90%E7%AE%97%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 預算管理 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.4</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E9%A0%90%E7%AE%97%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>少量投入大成效：聰明預算管理秘訣</title>
+      <link>https://www.aixwim.cloud/zh-tw/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</guid>
+      <description>發現有效的預算管理、債務管理及追蹤支出的聰明秘訣，幫助你存更多錢。</description>
+    </item>
+  </channel>
+</rss>
