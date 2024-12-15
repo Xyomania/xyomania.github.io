@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.aixwim.cloud/id/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,6 +33,39 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://www.aixwim.cloud/id/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/id/posts/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/"
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/id/tags/aksesori-memancing/</loc>
@@ -345,39 +378,6 @@
   </url><url>
     <loc>https://www.aixwim.cloud/id/tags/peralatan-memancing-ikan-mas/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/id/posts/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aixwim.cloud/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.aixwim.cloud/ja/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.aixwim.cloud/ru/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.aixwim.cloud/zh-cn/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.aixwim.cloud/zh-tw/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aixwim.cloud/id/posts/"
-                />
   </url><url>
     <loc>https://www.aixwim.cloud/id/categories/rumah-dan-taman/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
