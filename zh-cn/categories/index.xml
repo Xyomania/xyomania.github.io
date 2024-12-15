@@ -12,13 +12,69 @@
     <generator>Hugo -- 0.139.4</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>爱好与时间</title>
       <link>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E6%97%B6%E9%97%B4/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E6%97%B6%E9%97%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>爱好与闲暇</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E9%97%B2%E6%9A%87/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E9%97%B2%E6%9A%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>家居与园艺</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E5%9B%AD%E8%89%BA/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E5%9B%AD%E8%89%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>美妆与时尚</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E7%BE%8E%E5%A6%86%E4%B8%8E%E6%97%B6%E5%B0%9A/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E7%BE%8E%E5%A6%86%E4%B8%8E%E6%97%B6%E5%B0%9A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>商业与金融</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%95%86%E4%B8%9A%E4%B8%8E%E9%87%91%E8%9E%8D/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%95%86%E4%B8%9A%E4%B8%8E%E9%87%91%E8%9E%8D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>体育</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E4%BD%93%E8%82%B2/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E4%BD%93%E8%82%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>兴趣与时间</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%85%B4%E8%B6%A3%E4%B8%8E%E6%97%B6%E9%97%B4/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%85%B4%E8%B6%A3%E4%B8%8E%E6%97%B6%E9%97%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>休闲</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E4%BC%91%E9%97%B2/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E4%BC%91%E9%97%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>育儿</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E8%82%B2%E5%84%BF/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E8%82%B2%E5%84%BF/</guid>
       <description></description>
     </item>
     <item>
@@ -57,31 +113,10 @@
       <description></description>
     </item>
     <item>
-      <title>商业与金融</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%95%86%E4%B8%9A%E4%B8%8E%E9%87%91%E8%9E%8D/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%95%86%E4%B8%9A%E4%B8%8E%E9%87%91%E8%9E%8D/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>体育</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E4%BD%93%E8%82%B2/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E4%BD%93%E8%82%B2/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>心理健康</title>
       <link>https://www.aixwim.cloud/zh-cn/categories/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>休闲</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E4%BC%91%E9%97%B2/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E4%BC%91%E9%97%B2/</guid>
       <description></description>
     </item>
     <item>
@@ -124,13 +159,6 @@
       <link>https://www.aixwim.cloud/zh-cn/categories/%E8%90%A5%E9%94%80/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/zh-cn/categories/%E8%90%A5%E9%94%80/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>育儿</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E8%82%B2%E5%84%BF/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E8%82%B2%E5%84%BF/</guid>
       <description></description>
     </item>
     <item>
@@ -257,13 +285,6 @@
       <link>https://www.aixwim.cloud/zh-cn/categories/%E6%95%99%E8%82%B2/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/zh-cn/categories/%E6%95%99%E8%82%B2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>兴趣与时间</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%85%B4%E8%B6%A3%E4%B8%8E%E6%97%B6%E9%97%B4/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%85%B4%E8%B6%A3%E4%B8%8E%E6%97%B6%E9%97%B4/</guid>
       <description></description>
     </item>
     <item>
