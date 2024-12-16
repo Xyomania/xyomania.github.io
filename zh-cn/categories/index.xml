@@ -9,16 +9,58 @@
       <url>https://www.aixwim.cloud/images/</url>
       <link>https://www.aixwim.cloud/images/</link>
     </image>
-    <generator>Hugo -- 0.139.4</generator>
+    <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>爱好与时间</title>
       <link>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E6%97%B6%E9%97%B4/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E6%97%B6%E9%97%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>财务</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E8%B4%A2%E5%8A%A1/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E8%B4%A2%E5%8A%A1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>个人财务</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E4%B8%AA%E4%BA%BA%E8%B4%A2%E5%8A%A1/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E4%B8%AA%E4%BA%BA%E8%B4%A2%E5%8A%A1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>家居与花园</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E8%8A%B1%E5%9B%AD/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E8%8A%B1%E5%9B%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>商业与财务</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%95%86%E4%B8%9A%E4%B8%8E%E8%B4%A2%E5%8A%A1/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%95%86%E4%B8%9A%E4%B8%8E%E8%B4%A2%E5%8A%A1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>食品与饮料</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E9%A3%9F%E5%93%81%E4%B8%8E%E9%A5%AE%E6%96%99/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E9%A3%9F%E5%93%81%E4%B8%8E%E9%A5%AE%E6%96%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>兴趣与时间</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%85%B4%E8%B6%A3%E4%B8%8E%E6%97%B6%E9%97%B4/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%85%B4%E8%B6%A3%E4%B8%8E%E6%97%B6%E9%97%B4/</guid>
       <description></description>
     </item>
     <item>
@@ -54,13 +96,6 @@
       <link>https://www.aixwim.cloud/zh-cn/categories/%E4%BD%93%E8%82%B2/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/zh-cn/categories/%E4%BD%93%E8%82%B2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>兴趣与时间</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%85%B4%E8%B6%A3%E4%B8%8E%E6%97%B6%E9%97%B4/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%85%B4%E8%B6%A3%E4%B8%8E%E6%97%B6%E9%97%B4/</guid>
       <description></description>
     </item>
     <item>
@@ -236,13 +271,6 @@
       <link>https://www.aixwim.cloud/zh-cn/categories/seo/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/zh-cn/categories/seo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>商业与财务</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%95%86%E4%B8%9A%E4%B8%8E%E8%B4%A2%E5%8A%A1/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%95%86%E4%B8%9A%E4%B8%8E%E8%B4%A2%E5%8A%A1/</guid>
       <description></description>
     </item>
     <item>
