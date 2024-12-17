@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>推杆 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E6%8E%A8%E6%9D%86/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E6%8E%A8%E6%9D%86/</link>
     <description>Recent content in 推杆 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E6%8E%A8%E6%9D%86/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E6%8E%A8%E6%9D%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>推杆的魔法钥匙：放松是秘诀</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/magic-key-to-putting/</link>
+      <link>http://localhost:1313/zh-cn/posts/magic-key-to-putting/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/magic-key-to-putting/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/magic-key-to-putting/</guid>
       <description>通过了解放松和流畅动作的重要性，解锁更好的推杆技巧。发现紧张情绪如何影响你的比赛，以及如何自信地进行推杆。</description>
     </item>
   </channel>

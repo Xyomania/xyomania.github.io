@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Traffic Situs Web on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/tags/traffic-situs-web/</link>
+    <link>http://localhost:1313/id/tags/traffic-situs-web/</link>
     <description>Recent content in Traffic Situs Web on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/tags/traffic-situs-web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/tags/traffic-situs-web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Promosi Situs Web Gratis... Mengapa Tidak?</title>
-      <link>https://www.aixwim.cloud/id/posts/free-website-promotion/</link>
+      <link>http://localhost:1313/id/posts/free-website-promotion/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/free-website-promotion/</guid>
+      <guid>http://localhost:1313/id/posts/free-website-promotion/</guid>
       <description>Pelajari strategi promosi situs web gratis yang efektif untuk mendatangkan traffic ke situs Anda dan mengembangkan bisnis online Anda tanpa mengeluarkan uang.</description>
     </item>
   </channel>

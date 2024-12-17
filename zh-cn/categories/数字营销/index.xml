@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>数字营销 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/categories/%E6%95%B0%E5%AD%97%E8%90%A5%E9%94%80/</link>
+    <link>http://localhost:1313/zh-cn/categories/%E6%95%B0%E5%AD%97%E8%90%A5%E9%94%80/</link>
     <description>Recent content in 数字营销 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/categories/%E6%95%B0%E5%AD%97%E8%90%A5%E9%94%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/categories/%E6%95%B0%E5%AD%97%E8%90%A5%E9%94%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>按点击付费广告活动：花更少的钱赚更多</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/pay-per-click-ad-campaign-earn-more/</link>
+      <link>http://localhost:1313/zh-cn/posts/pay-per-click-ad-campaign-earn-more/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/pay-per-click-ad-campaign-earn-more/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/pay-per-click-ad-campaign-earn-more/</guid>
       <description>了解按点击付费广告如何帮助您在花费更少的情况下赚取更多。发现这种高效的广告策略如何提高您的在线可见性并驱动流量到您的网站。</description>
     </item>
     <item>
       <title>低成本广告与网络骗局</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/low-cost-advertising-internet-scams/</link>
+      <link>http://localhost:1313/zh-cn/posts/low-cost-advertising-internet-scams/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/low-cost-advertising-internet-scams/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/low-cost-advertising-internet-scams/</guid>
       <description>了解如何保护您的企业免受在线广告骗局的侵害，并发现能够带来效果的低成本广告策略。</description>
     </item>
     <item>
       <title>所有关于互联网广告方法：便宜 vs. 昂贵</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/internet-advertising-methods/</link>
+      <link>http://localhost:1313/zh-cn/posts/internet-advertising-methods/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/internet-advertising-methods/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/internet-advertising-methods/</guid>
       <description>了解便宜与昂贵互联网广告方法的优缺点。学习哪些策略最适合您的业务，无论您是希望节省成本还是投资于高端广告。</description>
     </item>
     <item>
       <title>通过低成本互联网广告最大化曝光率</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/maximize-exposure-low-cost-internet-advertising/</link>
+      <link>http://localhost:1313/zh-cn/posts/maximize-exposure-low-cost-internet-advertising/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/maximize-exposure-low-cost-internet-advertising/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/maximize-exposure-low-cost-internet-advertising/</guid>
       <description>了解如何通过低成本的互联网广告方法最大化曝光率。发现在线广告的优缺点，并学习如何充分利用它们来推广您的业务。</description>
     </item>
     <item>
       <title>最好的互联网广告是免费的互联网广告</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/free-internet-advertising/</link>
+      <link>http://localhost:1313/zh-cn/posts/free-internet-advertising/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/free-internet-advertising/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/free-internet-advertising/</guid>
       <description>通过分类广告、电子邮件列表和其他免费策略了解免费互联网广告的优势。学习如何在不花一分钱的情况下有效推广您的产品和服务。</description>
     </item>
     <item>
       <title>不会伤害你储蓄的互联网营销策略</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/affordable-internet-marketing-strategies/</link>
+      <link>http://localhost:1313/zh-cn/posts/affordable-internet-marketing-strategies/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/affordable-internet-marketing-strategies/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/affordable-internet-marketing-strategies/</guid>
       <description>寻找经济实惠的方式来在线推广你的业务吗？看看这些不会让你破产，但能提高你的曝光度和覆盖范围的成本效益的互联网营销策略。</description>
     </item>
     <item>
       <title>实现激进的互联网营销：低成本成功策略</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/aggressive-internet-marketing-low-cost/</link>
+      <link>http://localhost:1313/zh-cn/posts/aggressive-internet-marketing-low-cost/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/aggressive-internet-marketing-low-cost/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/aggressive-internet-marketing-low-cost/</guid>
       <description>了解如何实施既实惠又有效的激进互联网营销策略。发现选择低成本数字营销方案前需要问的关键问题。</description>
     </item>
   </channel>

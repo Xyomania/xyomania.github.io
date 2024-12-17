@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>通过博客赚钱 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E9%80%9A%E8%BF%87%E5%8D%9A%E5%AE%A2%E8%B5%9A%E9%92%B1/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E9%80%9A%E8%BF%87%E5%8D%9A%E5%AE%A2%E8%B5%9A%E9%92%B1/</link>
     <description>Recent content in 通过博客赚钱 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E9%80%9A%E8%BF%87%E5%8D%9A%E5%AE%A2%E8%B5%9A%E9%92%B1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E9%80%9A%E8%BF%87%E5%8D%9A%E5%AE%A2%E8%B5%9A%E9%92%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如果你已经在写博客，赚钱可能只是一步之遥</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/blogging-money-click-away/</link>
+      <link>http://localhost:1313/zh-cn/posts/blogging-money-click-away/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/blogging-money-click-away/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/blogging-money-click-away/</guid>
       <description>了解如何通过拥有固定读者群的博客实现盈利，将您的爱好转变为收入来源。</description>
     </item>
   </channel>

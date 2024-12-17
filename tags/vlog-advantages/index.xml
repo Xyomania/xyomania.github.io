@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vlog Advantages on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/vlog-advantages/</link>
+    <link>http://localhost:1313/tags/vlog-advantages/</link>
     <description>Recent content in Vlog Advantages on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/vlog-advantages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vlog-advantages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Pros and Cons of Video Blogging</title>
-      <link>https://www.aixwim.cloud/posts/pros-cons-video-blogging/</link>
+      <link>http://localhost:1313/posts/pros-cons-video-blogging/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/pros-cons-video-blogging/</guid>
+      <guid>http://localhost:1313/posts/pros-cons-video-blogging/</guid>
       <description>Video blogging offers dynamic, engaging content, but it also presents several challenges. Explore the pros and cons of video blogging in this article.</description>
     </item>
   </channel>

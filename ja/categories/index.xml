@@ -2,338 +2,359 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>カテゴリー on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/categories/</link>
+    <link>http://localhost:1313/ja/categories/</link>
     <description>Recent content in カテゴリー on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ビジネスとファイナンス</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9/</guid>
+      <title>ホームとガーデン</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%9B%E3%83%BC%E3%83%A0%E3%81%A8%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%9B%E3%83%BC%E3%83%A0%E3%81%A8%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
-      <title>ファイナンス</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>家と庭</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E3%81%A8%E5%BA%AD/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E3%81%A8%E5%BA%AD/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>家庭と庭</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E5%BA%AD%E3%81%A8%E5%BA%AD/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E5%BA%AD%E3%81%A8%E5%BA%AD/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>個人財務</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>趣味と時間</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E8%B6%A3%E5%91%B3%E3%81%A8%E6%99%82%E9%96%93/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E8%B6%A3%E5%91%B3%E3%81%A8%E6%99%82%E9%96%93/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>趣味と余暇</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E8%B6%A3%E5%91%B3%E3%81%A8%E4%BD%99%E6%9A%87/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E8%B6%A3%E5%91%B3%E3%81%A8%E4%BD%99%E6%9A%87/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>食べ物と飲み物</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E9%A3%9F%E3%81%B9%E7%89%A9%E3%81%A8%E9%A3%B2%E3%81%BF%E7%89%A9/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E9%A3%9F%E3%81%B9%E7%89%A9%E3%81%A8%E9%A3%B2%E3%81%BF%E7%89%A9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>美容とファッション</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E7%BE%8E%E5%AE%B9%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E7%BE%8E%E5%AE%B9%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <title>ジュエリーとファッション</title>
+      <link>http://localhost:1313/ja/categories/%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>スポーツ</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>レジャー</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>育児</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E8%82%B2%E5%85%90/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E8%82%B2%E5%85%90/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>趣味と楽しみ</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E8%B6%A3%E5%91%B3%E3%81%A8%E6%A5%BD%E3%81%97%E3%81%BF/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E8%B6%A3%E5%91%B3%E3%81%A8%E6%A5%BD%E3%81%97%E3%81%BF/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ビジネスと金融</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E9%87%91%E8%9E%8D/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E9%87%91%E8%9E%8D/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>メンタルヘルス</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>健康</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E5%81%A5%E5%BA%B7/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E5%81%A5%E5%BA%B7/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>個人ファイナンス</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E5%80%8B%E4%BA%BA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E5%80%8B%E4%BA%BA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>旅行と交通</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E6%97%85%E8%A1%8C%E3%81%A8%E4%BA%A4%E9%80%9A/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E6%97%85%E8%A1%8C%E3%81%A8%E4%BA%A4%E9%80%9A/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>マーケティング</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>コンテンツ作成</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E4%BD%9C%E6%88%90/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E4%BD%9C%E6%88%90/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ブログのヒント</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ライティング</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>家族</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E6%97%8F/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E6%97%8F/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>自己啓発</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>マーケティングと広告</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8%E5%BA%83%E5%91%8A/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8%E5%BA%83%E5%91%8A/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>イベント</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>コンテンツマーケティング</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>デジタルマーケティング</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ビジネスと財務</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E8%B2%A1%E5%8B%99/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E8%B2%A1%E5%8B%99/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ブログのコツ</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%82%B3%E3%83%84/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%82%B3%E3%83%84/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>執筆とコンテンツ</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E5%9F%B7%E7%AD%86%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E5%9F%B7%E7%AD%86%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/</guid>
+      <link>http://localhost:1313/ja/categories/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</guid>
       <description></description>
     </item>
     <item>
       <title>テクノロジー</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</guid>
+      <link>http://localhost:1313/ja/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ビューティーとファッション</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ビジネスと金融</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E9%87%91%E8%9E%8D/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E9%87%91%E8%9E%8D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ビジネスと財務</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E8%B2%A1%E5%8B%99/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E8%B2%A1%E5%8B%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>レジャー</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>家と庭</title>
+      <link>http://localhost:1313/ja/categories/%E5%AE%B6%E3%81%A8%E5%BA%AD/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E5%AE%B6%E3%81%A8%E5%BA%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>家庭と庭</title>
+      <link>http://localhost:1313/ja/categories/%E5%AE%B6%E5%BA%AD%E3%81%A8%E5%BA%AD/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E5%AE%B6%E5%BA%AD%E3%81%A8%E5%BA%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>趣味と時間</title>
+      <link>http://localhost:1313/ja/categories/%E8%B6%A3%E5%91%B3%E3%81%A8%E6%99%82%E9%96%93/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E8%B6%A3%E5%91%B3%E3%81%A8%E6%99%82%E9%96%93/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>美容とファッション</title>
+      <link>http://localhost:1313/ja/categories/%E7%BE%8E%E5%AE%B9%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E7%BE%8E%E5%AE%B9%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ビジネスとファイナンス</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ファイナンス</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>個人財務</title>
+      <link>http://localhost:1313/ja/categories/%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>趣味と余暇</title>
+      <link>http://localhost:1313/ja/categories/%E8%B6%A3%E5%91%B3%E3%81%A8%E4%BD%99%E6%9A%87/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E8%B6%A3%E5%91%B3%E3%81%A8%E4%BD%99%E6%9A%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>食べ物と飲み物</title>
+      <link>http://localhost:1313/ja/categories/%E9%A3%9F%E3%81%B9%E7%89%A9%E3%81%A8%E9%A3%B2%E3%81%BF%E7%89%A9/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E9%A3%9F%E3%81%B9%E7%89%A9%E3%81%A8%E9%A3%B2%E3%81%BF%E7%89%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>育児</title>
+      <link>http://localhost:1313/ja/categories/%E8%82%B2%E5%85%90/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E8%82%B2%E5%85%90/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>趣味と楽しみ</title>
+      <link>http://localhost:1313/ja/categories/%E8%B6%A3%E5%91%B3%E3%81%A8%E6%A5%BD%E3%81%97%E3%81%BF/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E8%B6%A3%E5%91%B3%E3%81%A8%E6%A5%BD%E3%81%97%E3%81%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>メンタルヘルス</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>健康</title>
+      <link>http://localhost:1313/ja/categories/%E5%81%A5%E5%BA%B7/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E5%81%A5%E5%BA%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>個人ファイナンス</title>
+      <link>http://localhost:1313/ja/categories/%E5%80%8B%E4%BA%BA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E5%80%8B%E4%BA%BA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>旅行と交通</title>
+      <link>http://localhost:1313/ja/categories/%E6%97%85%E8%A1%8C%E3%81%A8%E4%BA%A4%E9%80%9A/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E6%97%85%E8%A1%8C%E3%81%A8%E4%BA%A4%E9%80%9A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>マーケティング</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>コンテンツ作成</title>
+      <link>http://localhost:1313/ja/categories/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E4%BD%9C%E6%88%90/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E4%BD%9C%E6%88%90/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ブログのヒント</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ライティング</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>家族</title>
+      <link>http://localhost:1313/ja/categories/%E5%AE%B6%E6%97%8F/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E5%AE%B6%E6%97%8F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>自己啓発</title>
+      <link>http://localhost:1313/ja/categories/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>マーケティングと広告</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8%E5%BA%83%E5%91%8A/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8%E5%BA%83%E5%91%8A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>イベント</title>
+      <link>http://localhost:1313/ja/categories/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>コンテンツマーケティング</title>
+      <link>http://localhost:1313/ja/categories/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>デジタルマーケティング</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ブログのコツ</title>
+      <link>http://localhost:1313/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%82%B3%E3%83%84/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%82%B3%E3%83%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>執筆とコンテンツ</title>
+      <link>http://localhost:1313/ja/categories/%E5%9F%B7%E7%AD%86%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/categories/%E5%9F%B7%E7%AD%86%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/</guid>
       <description></description>
     </item>
     <item>
       <title>ニュース</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</link>
+      <link>http://localhost:1313/ja/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</guid>
+      <guid>http://localhost:1313/ja/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
       <title>介護者とペット</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E4%BB%8B%E8%AD%B7%E8%80%85%E3%81%A8%E3%83%9A%E3%83%83%E3%83%88/</link>
+      <link>http://localhost:1313/ja/categories/%E4%BB%8B%E8%AD%B7%E8%80%85%E3%81%A8%E3%83%9A%E3%83%83%E3%83%88/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E4%BB%8B%E8%AD%B7%E8%80%85%E3%81%A8%E3%83%9A%E3%83%83%E3%83%88/</guid>
+      <guid>http://localhost:1313/ja/categories/%E4%BB%8B%E8%AD%B7%E8%80%85%E3%81%A8%E3%83%9A%E3%83%83%E3%83%88/</guid>
       <description></description>
     </item>
     <item>
       <title>若者文化</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E8%8B%A5%E8%80%85%E6%96%87%E5%8C%96/</link>
+      <link>http://localhost:1313/ja/categories/%E8%8B%A5%E8%80%85%E6%96%87%E5%8C%96/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E8%8B%A5%E8%80%85%E6%96%87%E5%8C%96/</guid>
+      <guid>http://localhost:1313/ja/categories/%E8%8B%A5%E8%80%85%E6%96%87%E5%8C%96/</guid>
       <description></description>
     </item>
     <item>
       <title>SEO</title>
-      <link>https://www.aixwim.cloud/ja/categories/seo/</link>
+      <link>http://localhost:1313/ja/categories/seo/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/seo/</guid>
+      <guid>http://localhost:1313/ja/categories/seo/</guid>
       <description></description>
     </item>
     <item>
       <title>エンターテイメント</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88/</link>
+      <link>http://localhost:1313/ja/categories/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88/</guid>
+      <guid>http://localhost:1313/ja/categories/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88/</guid>
       <description></description>
     </item>
     <item>
       <title>おもちゃとゲーム</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%A8%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+      <link>http://localhost:1313/ja/categories/%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%A8%E3%82%B2%E3%83%BC%E3%83%A0/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%A8%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
+      <guid>http://localhost:1313/ja/categories/%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%A8%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
       <description></description>
     </item>
     <item>
       <title>コンテンツ制作</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E5%88%B6%E4%BD%9C/</link>
+      <link>http://localhost:1313/ja/categories/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E5%88%B6%E4%BD%9C/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E5%88%B6%E4%BD%9C/</guid>
+      <guid>http://localhost:1313/ja/categories/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E5%88%B6%E4%BD%9C/</guid>
       <description></description>
     </item>
     <item>
       <title>ケアとペット</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%82%B1%E3%82%A2%E3%81%A8%E3%83%9A%E3%83%83%E3%83%88/</link>
+      <link>http://localhost:1313/ja/categories/%E3%82%B1%E3%82%A2%E3%81%A8%E3%83%9A%E3%83%83%E3%83%88/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%82%B1%E3%82%A2%E3%81%A8%E3%83%9A%E3%83%83%E3%83%88/</guid>
+      <guid>http://localhost:1313/ja/categories/%E3%82%B1%E3%82%A2%E3%81%A8%E3%83%9A%E3%83%83%E3%83%88/</guid>
       <description></description>
     </item>
     <item>
       <title>安全</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E5%AE%89%E5%85%A8/</link>
+      <link>http://localhost:1313/ja/categories/%E5%AE%89%E5%85%A8/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E5%AE%89%E5%85%A8/</guid>
+      <guid>http://localhost:1313/ja/categories/%E5%AE%89%E5%85%A8/</guid>
       <description></description>
     </item>
     <item>
       <title>教育</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E6%95%99%E8%82%B2/</link>
+      <link>http://localhost:1313/ja/categories/%E6%95%99%E8%82%B2/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E6%95%99%E8%82%B2/</guid>
+      <guid>http://localhost:1313/ja/categories/%E6%95%99%E8%82%B2/</guid>
       <description></description>
     </item>
     <item>
       <title>子育て</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E5%AD%90%E8%82%B2%E3%81%A6/</link>
+      <link>http://localhost:1313/ja/categories/%E5%AD%90%E8%82%B2%E3%81%A6/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E5%AD%90%E8%82%B2%E3%81%A6/</guid>
+      <guid>http://localhost:1313/ja/categories/%E5%AD%90%E8%82%B2%E3%81%A6/</guid>
       <description></description>
     </item>
     <item>
       <title>子供の成長</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E5%AD%90%E4%BE%9B%E3%81%AE%E6%88%90%E9%95%B7/</link>
+      <link>http://localhost:1313/ja/categories/%E5%AD%90%E4%BE%9B%E3%81%AE%E6%88%90%E9%95%B7/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E5%AD%90%E4%BE%9B%E3%81%AE%E6%88%90%E9%95%B7/</guid>
+      <guid>http://localhost:1313/ja/categories/%E5%AD%90%E4%BE%9B%E3%81%AE%E6%88%90%E9%95%B7/</guid>
       <description></description>
     </item>
     <item>
       <title>子供の発達</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E5%AD%90%E4%BE%9B%E3%81%AE%E7%99%BA%E9%81%94/</link>
+      <link>http://localhost:1313/ja/categories/%E5%AD%90%E4%BE%9B%E3%81%AE%E7%99%BA%E9%81%94/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E5%AD%90%E4%BE%9B%E3%81%AE%E7%99%BA%E9%81%94/</guid>
+      <guid>http://localhost:1313/ja/categories/%E5%AD%90%E4%BE%9B%E3%81%AE%E7%99%BA%E9%81%94/</guid>
       <description></description>
     </item>
     <item>
       <title>プロフィール</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/</link>
+      <link>http://localhost:1313/ja/categories/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/</guid>
+      <guid>http://localhost:1313/ja/categories/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/</guid>
       <description></description>
     </item>
   </channel>

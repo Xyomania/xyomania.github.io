@@ -2,30 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>釣りのコツ on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E3%82%B3%E3%83%84/</link>
+    <link>http://localhost:1313/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E3%82%B3%E3%83%84/</link>
     <description>Recent content in 釣りのコツ on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E3%82%B3%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E3%82%B3%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>シンプルで正しいキャットフィッシングの方法</title>
+      <link>http://localhost:1313/ja/posts/catfishing-the-right-but-simple-way/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/catfishing-the-right-but-simple-way/</guid>
+      <description>証明された方法でキャットフィッシングの基本をマスターしましょう。シンプルなテクニック、餌の使い方、安全対策を学び、成功する釣りの冒険を楽しみましょう。</description>
+    </item>
     <item>
       <title>深海釣りのコツ</title>
-      <link>https://www.aixwim.cloud/ja/posts/deep-sea-fishing-tips/</link>
+      <link>http://localhost:1313/ja/posts/deep-sea-fishing-tips/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/deep-sea-fishing-tips/</guid>
+      <guid>http://localhost:1313/ja/posts/deep-sea-fishing-tips/</guid>
       <description>深海釣りを楽しむための必須テクニックやアドバイスで、成功と楽しさを倍増させましょう。</description>
     </item>
     <item>
       <title>基本的なコイ釣りのポイント</title>
-      <link>https://www.aixwim.cloud/ja/posts/basic-carp-fishing-pointers/</link>
+      <link>http://localhost:1313/ja/posts/basic-carp-fishing-pointers/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/basic-carp-fishing-pointers/</guid>
+      <guid>http://localhost:1313/ja/posts/basic-carp-fishing-pointers/</guid>
       <description>成功するコイ釣りのための基本的なコツや秘訣を学びましょう。エサのテクニックからコイを釣るための最適なセットアップまで、必要な知識をすべてご紹介します。</description>
     </item>
   </channel>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>抓鲶鱼 on AIXWIM</title>
+    <link>http://localhost:1313/zh-cn/tags/%E6%8A%93%E9%B2%B6%E9%B1%BC/</link>
+    <description>Recent content in 抓鲶鱼 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>zh-cn</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E6%8A%93%E9%B2%B6%E9%B1%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>正确而简单的抓鲶鱼方法</title>
+      <link>http://localhost:1313/zh-cn/posts/catfishing-the-right-but-simple-way/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-cn/posts/catfishing-the-right-but-simple-way/</guid>
+      <description>通过这些经过验证的方法掌握抓鲶鱼的基础知识。学习简单的技巧、饵料建议和安全实践，享受成功的钓鱼冒险。</description>
+    </item>
+  </channel>
+</rss>

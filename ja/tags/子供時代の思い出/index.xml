@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>子供時代の思い出 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E5%AD%90%E4%BE%9B%E6%99%82%E4%BB%A3%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA/</link>
+    <link>http://localhost:1313/ja/tags/%E5%AD%90%E4%BE%9B%E6%99%82%E4%BB%A3%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA/</link>
     <description>Recent content in 子供時代の思い出 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%AD%90%E4%BE%9B%E6%99%82%E4%BB%A3%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E5%AD%90%E4%BE%9B%E6%99%82%E4%BB%A3%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>学校が多すぎる：放課後プログラムについての個人的な反省</title>
-      <link>https://www.aixwim.cloud/ja/posts/too-much-of-school-reflection/</link>
+      <link>http://localhost:1313/ja/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/too-much-of-school-reflection/</guid>
+      <guid>http://localhost:1313/ja/posts/too-much-of-school-reflection/</guid>
       <description>子供の視点から、放課後プログラムの課題と進化について反省した個人的なストーリー。</description>
     </item>
   </channel>

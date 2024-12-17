@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>娱乐活动 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E5%A8%B1%E4%B9%90%E6%B4%BB%E5%8A%A8/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E5%A8%B1%E4%B9%90%E6%B4%BB%E5%8A%A8/</link>
     <description>Recent content in 娱乐活动 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E5%A8%B1%E4%B9%90%E6%B4%BB%E5%8A%A8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E5%A8%B1%E4%B9%90%E6%B4%BB%E5%8A%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>课后活动：娱乐性活动与教育性活动的比较</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/recreational-vs-educational-programs/</link>
+      <link>http://localhost:1313/zh-cn/posts/recreational-vs-educational-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/recreational-vs-educational-programs/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/recreational-vs-educational-programs/</guid>
       <description>探索娱乐性和教育性课后活动的优势。了解如何通过结合两者，让您的孩子保持参与、积极性并不断成长。</description>
     </item>
     <item>
       <title>课后娱乐活动：对孩子的益处</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/recreational-after-school-programs/</link>
+      <link>http://localhost:1313/zh-cn/posts/recreational-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/recreational-after-school-programs/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/recreational-after-school-programs/</guid>
       <description>课后娱乐活动为孩子提供了参与体育活动、社交和发展重要生活技能的机会。了解这些活动的益处。</description>
     </item>
   </channel>

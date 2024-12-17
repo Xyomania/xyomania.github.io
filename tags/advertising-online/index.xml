@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Advertising Online on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/advertising-online/</link>
+    <link>http://localhost:1313/tags/advertising-online/</link>
     <description>Recent content in Advertising Online on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/advertising-online/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/advertising-online/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Low-Cost Advertising and Scams on the Internet</title>
-      <link>https://www.aixwim.cloud/posts/low-cost-advertising-internet-scams/</link>
+      <link>http://localhost:1313/posts/low-cost-advertising-internet-scams/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/low-cost-advertising-internet-scams/</guid>
+      <guid>http://localhost:1313/posts/low-cost-advertising-internet-scams/</guid>
       <description>Learn how to protect your business from online advertising scams and discover low-cost advertising strategies that deliver results.</description>
     </item>
   </channel>

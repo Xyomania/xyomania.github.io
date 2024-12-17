@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>數位行銷 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/categories/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7/</link>
+    <link>http://localhost:1313/zh-tw/categories/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7/</link>
     <description>Recent content in 數位行銷 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/categories/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>所有關於網路廣告方法：便宜 vs. 昂貴</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/internet-advertising-methods/</link>
+      <link>http://localhost:1313/zh-tw/posts/internet-advertising-methods/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/internet-advertising-methods/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/internet-advertising-methods/</guid>
       <description>了解便宜與昂貴網路廣告方法的優缺點。學習哪些策略最適合您的業務，無論您是想節省成本還是投資於高端廣告。</description>
     </item>
     <item>
       <title>按點擊付費廣告活動：花更少的錢賺更多</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/pay-per-click-ad-campaign-earn-more/</link>
+      <link>http://localhost:1313/zh-tw/posts/pay-per-click-ad-campaign-earn-more/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/pay-per-click-ad-campaign-earn-more/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/pay-per-click-ad-campaign-earn-more/</guid>
       <description>了解按點擊付費廣告如何幫助你在花費更少的情況下賺取更多。發現這種高效的廣告策略如何提升你的線上可見度並增加網站流量。</description>
     </item>
     <item>
       <title>透過低成本網路廣告最大化曝光率</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/maximize-exposure-low-cost-internet-advertising/</link>
+      <link>http://localhost:1313/zh-tw/posts/maximize-exposure-low-cost-internet-advertising/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/maximize-exposure-low-cost-internet-advertising/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/maximize-exposure-low-cost-internet-advertising/</guid>
       <description>了解如何透過低成本的網路廣告方式來最大化曝光率。發現線上廣告的優缺點，並學習如何充分利用它們來推廣你的業務。</description>
     </item>
     <item>
       <title>最好的網路廣告是免費的網路廣告</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/free-internet-advertising/</link>
+      <link>http://localhost:1313/zh-tw/posts/free-internet-advertising/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/free-internet-advertising/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/free-internet-advertising/</guid>
       <description>透過分類廣告、電子郵件清單和其他免費策略，了解免費網路廣告的優勢。學習如何在不花費任何成本的情況下有效地推廣您的產品與服務。</description>
     </item>
     <item>
       <title>不傷你的儲蓄的網路行銷策略</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/affordable-internet-marketing-strategies/</link>
+      <link>http://localhost:1313/zh-tw/posts/affordable-internet-marketing-strategies/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/affordable-internet-marketing-strategies/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/affordable-internet-marketing-strategies/</guid>
       <description>尋找經濟實惠的方式來推廣你的業務嗎？看看這些成本效益高的網路行銷策略，既不會讓你破產，也能提升你的曝光率與觸及範圍。</description>
     </item>
     <item>
       <title>實現激進的網路行銷：低成本成功策略</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/aggressive-internet-marketing-low-cost/</link>
+      <link>http://localhost:1313/zh-tw/posts/aggressive-internet-marketing-low-cost/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/aggressive-internet-marketing-low-cost/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/aggressive-internet-marketing-low-cost/</guid>
       <description>了解如何實施既實惠又有效的激進網路行銷策略。發現選擇低成本數位行銷方案前需要問的關鍵問題。</description>
     </item>
   </channel>

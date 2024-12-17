@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>课外活动 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E8%AF%BE%E5%A4%96%E6%B4%BB%E5%8A%A8/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E8%AF%BE%E5%A4%96%E6%B4%BB%E5%8A%A8/</link>
     <description>Recent content in 课外活动 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E8%AF%BE%E5%A4%96%E6%B4%BB%E5%8A%A8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E8%AF%BE%E5%A4%96%E6%B4%BB%E5%8A%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>创建家庭课后项目：家长的建议</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/home-after-school-program/</link>
+      <link>http://localhost:1313/zh-cn/posts/home-after-school-program/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/home-after-school-program/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/home-after-school-program/</guid>
       <description>学校没有课外活动？没问题！以下是如何创建家庭课后项目，支持孩子在学术、身体和社交方面的发展。</description>
     </item>
     <item>
       <title>多少算太多？平衡孩子课外活动的指南</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/how-much-is-too-much-child-activities/</link>
+      <link>http://localhost:1313/zh-cn/posts/how-much-is-too-much-child-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/how-much-is-too-much-child-activities/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/how-much-is-too-much-child-activities/</guid>
       <description>不确定孩子的课外活动安排是多少算太多？这里有一份实用指南，帮助您根据孩子的年龄和需求找到合适的平衡。</description>
     </item>
     <item>
       <title>课后活动对儿童的好处</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</link>
+      <link>http://localhost:1313/zh-cn/posts/benefits-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/benefits-of-after-school-programs/</guid>
       <description>发现一个好的课后活动的众多好处，从提高孩子的技能到促进社交，预防不良习惯。</description>
     </item>
     <item>
       <title>如何保持孩子在课外活动中的动力</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/keeping-children-motivated-after-school/</link>
+      <link>http://localhost:1313/zh-cn/posts/keeping-children-motivated-after-school/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/keeping-children-motivated-after-school/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/keeping-children-motivated-after-school/</guid>
       <description>难以保持孩子在课外活动中的动力？这里有一些策略，帮助您维持他们的热情，培养对学习和成长的兴趣。</description>
     </item>
     <item>
       <title>如何为您的孩子找到课后活动</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/how-to-find-after-school-activities/</link>
+      <link>http://localhost:1313/zh-cn/posts/how-to-find-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/how-to-find-after-school-activities/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/how-to-find-after-school-activities/</guid>
       <description>正在为您的孩子寻找最佳课后活动吗？这里有一个逐步的指南，帮助您找到适合他们兴趣和您时间安排的课外项目。</description>
     </item>
     <item>
       <title>为什么你的孩子可能会觉得课外活动很无聊</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/boredom-in-after-school-activities/</link>
+      <link>http://localhost:1313/zh-cn/posts/boredom-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/boredom-in-after-school-activities/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/boredom-in-after-school-activities/</guid>
       <description>了解为什么孩子有时会对课外活动失去兴趣，以及如何解决这个问题，让他们保持参与感。</description>
     </item>
     <item>
       <title>在课后项目中创建有效的学习环境</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/effective-learning-environment-after-school/</link>
+      <link>http://localhost:1313/zh-cn/posts/effective-learning-environment-after-school/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/effective-learning-environment-after-school/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/effective-learning-environment-after-school/</guid>
       <description>了解如何在课后项目中培养一个引人入胜且有纪律的学习环境，以促进儿童的发展。</description>
     </item>
   </channel>

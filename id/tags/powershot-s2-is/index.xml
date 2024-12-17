@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PowerShot S2 IS on AIXWIM</title>
+    <link>http://localhost:1313/id/tags/powershot-s2-is/</link>
+    <description>Recent content in PowerShot S2 IS on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>id</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/id/tags/powershot-s2-is/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kamera Digital Canon: Ekspres, Potret, dan Bagikan</title>
+      <link>http://localhost:1313/id/posts/canon-digital-camera-express-shoot-and-share/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/posts/canon-digital-camera-express-shoot-and-share/</guid>
+      <description>Jelajahi fitur-fitur kamera digital Canon terbaru, termasuk PowerShot S2 IS dan SD500, yang dirancang untuk memberikan kualitas gambar terbaik dan kemudahan berbagi.</description>
+    </item>
+  </channel>
+</rss>

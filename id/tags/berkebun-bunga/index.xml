@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Berkebun Bunga on AIXWIM</title>
+    <link>http://localhost:1313/id/tags/berkebun-bunga/</link>
+    <description>Recent content in Berkebun Bunga on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>id</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/id/tags/berkebun-bunga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perawatan Taman Bunga</title>
+      <link>http://localhost:1313/id/posts/care-of-the-flower-garden/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/posts/care-of-the-flower-garden/</guid>
+      <description>Pelajari tips dan trik penting untuk merawat taman bunga Anda agar tetap sehat dan berbunga indah sepanjang musim.</description>
+    </item>
+  </channel>
+</rss>

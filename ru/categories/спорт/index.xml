@@ -2,58 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Спорт on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/categories/%D1%81%D0%BF%D0%BE%D1%80%D1%82/</link>
+    <link>http://localhost:1313/ru/categories/%D1%81%D0%BF%D0%BE%D1%80%D1%82/</link>
     <description>Recent content in Спорт on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/categories/%D1%81%D0%BF%D0%BE%D1%80%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/categories/%D1%81%D0%BF%D0%BE%D1%80%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Правильный и простой способ ловли сомов</title>
+      <link>http://localhost:1313/ru/posts/catfishing-the-right-but-simple-way/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/posts/catfishing-the-right-but-simple-way/</guid>
+      <description>Освойте основы ловли сомов с помощью этих проверенных методов. Узнайте простые техники, советы по насадкам и меры безопасности для успешной рыбалки.</description>
+    </item>
     <item>
       <title>Лучшие приманки для рыбалки</title>
-      <link>https://www.aixwim.cloud/ru/posts/best-fishing-lures/</link>
+      <link>http://localhost:1313/ru/posts/best-fishing-lures/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/best-fishing-lures/</guid>
+      <guid>http://localhost:1313/ru/posts/best-fishing-lures/</guid>
       <description>Изучите лучшие рыболовные приманки и их конкретные применения для ловли различных видов рыб. Узнайте о различных типах приманок и о том, как максимально эффективно их использовать.</description>
     </item>
     <item>
       <title>Основные рыболовные принадлежности, которые необходимы каждому рыбаку</title>
-      <link>https://www.aixwim.cloud/ru/posts/basic-fishing-supplies/</link>
+      <link>http://localhost:1313/ru/posts/basic-fishing-supplies/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/basic-fishing-supplies/</guid>
+      <guid>http://localhost:1313/ru/posts/basic-fishing-supplies/</guid>
       <description>Узнайте о необходимых рыболовных принадлежностях, которые вам понадобятся для успешной рыбалки, от крючков до снастей и всего, что между ними.</description>
     </item>
     <item>
       <title>Основные советы по ловле карпа</title>
-      <link>https://www.aixwim.cloud/ru/posts/basic-carp-fishing-pointers/</link>
+      <link>http://localhost:1313/ru/posts/basic-carp-fishing-pointers/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/basic-carp-fishing-pointers/</guid>
+      <guid>http://localhost:1313/ru/posts/basic-carp-fishing-pointers/</guid>
       <description>Узнайте основные советы и хитрости для успешной ловли карпа. От техник приманки до лучшей оснастки для ловли карпа — все, что вам нужно знать.</description>
     </item>
     <item>
       <title>Факты о ловле басса и многое другое</title>
-      <link>https://www.aixwim.cloud/ru/posts/bass-fishing-facts/</link>
+      <link>http://localhost:1313/ru/posts/bass-fishing-facts/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/bass-fishing-facts/</guid>
+      <guid>http://localhost:1313/ru/posts/bass-fishing-facts/</guid>
       <description>Узнайте увлекательную историю ловли басса, включая важные вехи, популярные виды басса и рост этой отрасли.</description>
     </item>
     <item>
       <title>5 полезных советов по ловле форели</title>
-      <link>https://www.aixwim.cloud/ru/posts/5-tips-trout-fishing/</link>
+      <link>http://localhost:1313/ru/posts/5-tips-trout-fishing/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/5-tips-trout-fishing/</guid>
+      <guid>http://localhost:1313/ru/posts/5-tips-trout-fishing/</guid>
       <description>Основные советы для успешной ловли форели, с акцентом на технику, среду обитания и стратегию.</description>
     </item>
     <item>
       <title>Освоение сложных ударов в гольфе: превращение вызовов в возможности</title>
-      <link>https://www.aixwim.cloud/ru/posts/awkward-golf-shots-tips/</link>
+      <link>http://localhost:1313/ru/posts/awkward-golf-shots-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/awkward-golf-shots-tips/</guid>
+      <guid>http://localhost:1313/ru/posts/awkward-golf-shots-tips/</guid>
       <description>Узнайте, как преодолевать сложные удары в гольфе, сохраняя баланс, точность и уверенность даже в сложных погодных условиях.</description>
     </item>
   </channel>

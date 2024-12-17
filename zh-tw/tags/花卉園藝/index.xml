@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>花卉園藝 on AIXWIM</title>
+    <link>http://localhost:1313/zh-tw/tags/%E8%8A%B1%E5%8D%89%E5%9C%92%E8%97%9D/</link>
+    <description>Recent content in 花卉園藝 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E8%8A%B1%E5%8D%89%E5%9C%92%E8%97%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>花園照護</title>
+      <link>http://localhost:1313/zh-tw/posts/care-of-the-flower-garden/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/care-of-the-flower-garden/</guid>
+      <description>了解照顧花園的基本技巧，確保花朵在整個季節中保持健康與生氣勃勃。</description>
+    </item>
+  </channel>
+</rss>

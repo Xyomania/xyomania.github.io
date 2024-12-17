@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Академический Успех on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/tags/%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%83%D1%81%D0%BF%D0%B5%D1%85/</link>
+    <link>http://localhost:1313/ru/tags/%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%83%D1%81%D0%BF%D0%B5%D1%85/</link>
     <description>Recent content in Академический Успех on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/tags/%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%83%D1%81%D0%BF%D0%B5%D1%85/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/tags/%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%83%D1%81%D0%BF%D0%B5%D1%85/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Освоение эффективных учебных привычек: советы для академического успеха</title>
-      <link>https://www.aixwim.cloud/ru/posts/study-habits-tips/</link>
+      <link>http://localhost:1313/ru/posts/study-habits-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/study-habits-tips/</guid>
+      <guid>http://localhost:1313/ru/posts/study-habits-tips/</guid>
       <description>Узнайте, как улучшить свои учебные привычки, создавая безотвлекающую атмосферу, организуя материалы и осваивая техники концентрации.</description>
     </item>
     <item>
       <title>Потенциал послеурочных программ: преимущества для детей</title>
-      <link>https://www.aixwim.cloud/ru/posts/potentials-of-after-school-programs/</link>
+      <link>http://localhost:1313/ru/posts/potentials-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/potentials-of-after-school-programs/</guid>
+      <guid>http://localhost:1313/ru/posts/potentials-of-after-school-programs/</guid>
       <description>Послеурочные программы предлагают множество преимуществ, от улучшения академических достижений до предотвращения рискованного поведения. Узнайте, почему эти программы так важны для роста детей.</description>
     </item>
   </channel>

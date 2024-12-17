@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Parenting on AIXWIM</title>
-    <link>https://www.aixwim.cloud/categories/parenting/</link>
+    <link>http://localhost:1313/categories/parenting/</link>
     <description>Recent content in Parenting on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/categories/parenting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/parenting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Benefits of Gardening for Kids</title>
-      <link>https://www.aixwim.cloud/posts/benefits-of-gardening-for-kids/</link>
+      <link>http://localhost:1313/posts/benefits-of-gardening-for-kids/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/benefits-of-gardening-for-kids/</guid>
+      <guid>http://localhost:1313/posts/benefits-of-gardening-for-kids/</guid>
       <description>Discover the many benefits of gardening for kids and how it can help them develop important life skills while bonding with family.</description>
     </item>
     <item>
       <title>The Way with Baby Names</title>
-      <link>https://www.aixwim.cloud/posts/the-way-with-baby-names/</link>
+      <link>http://localhost:1313/posts/the-way-with-baby-names/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/the-way-with-baby-names/</guid>
+      <guid>http://localhost:1313/posts/the-way-with-baby-names/</guid>
       <description>Choosing the right name for your baby is more than just a decision—it shapes their identity. Here are essential tips for picking the perfect baby name.</description>
     </item>
     <item>
       <title>One Baby Bash Coming Up!!!!</title>
-      <link>https://www.aixwim.cloud/posts/one-baby-bash-coming-up/</link>
+      <link>http://localhost:1313/posts/one-baby-bash-coming-up/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/one-baby-bash-coming-up/</guid>
+      <guid>http://localhost:1313/posts/one-baby-bash-coming-up/</guid>
       <description>Planning a memorable baby bash? Here are essential tips to make your baby’s birthday party fun and unforgettable for everyone!</description>
     </item>
     <item>
       <title>Baby Crying: Understanding What Your Baby Needs</title>
-      <link>https://www.aixwim.cloud/posts/baby-crying-understanding-communication/</link>
+      <link>http://localhost:1313/posts/baby-crying-understanding-communication/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/baby-crying-understanding-communication/</guid>
+      <guid>http://localhost:1313/posts/baby-crying-understanding-communication/</guid>
       <description>Crying is a baby&amp;#39;s way of communicating. Learn about the reasons behind baby crying and how to respond to different cries in the early months.</description>
     </item>
     <item>
       <title>After-School Activities for Overweight Children: A Path to Healthier Living</title>
-      <link>https://www.aixwim.cloud/posts/after-school-activities-overweight-kids/</link>
+      <link>http://localhost:1313/posts/after-school-activities-overweight-kids/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/after-school-activities-overweight-kids/</guid>
+      <guid>http://localhost:1313/posts/after-school-activities-overweight-kids/</guid>
       <description>Explore the importance of after-school activities in combating childhood obesity. Learn how sports and physical exercises can help overweight children stay active and healthy.</description>
     </item>
     <item>
       <title>After-School Safety: Essential Tips and Reminders for Parents</title>
-      <link>https://www.aixwim.cloud/posts/after-school-safety-tips-for-parents/</link>
+      <link>http://localhost:1313/posts/after-school-safety-tips-for-parents/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/after-school-safety-tips-for-parents/</guid>
+      <guid>http://localhost:1313/posts/after-school-safety-tips-for-parents/</guid>
       <description>Ensure your child&amp;#39;s safety after school with these practical tips. From emergency preparedness to identifying danger zones, here&amp;#39;s how you can keep your child safe.</description>
     </item>
     <item>
       <title>The Benefits of a Good After-School Program for Children</title>
-      <link>https://www.aixwim.cloud/posts/benefits-of-after-school-programs/</link>
+      <link>http://localhost:1313/posts/benefits-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/benefits-of-after-school-programs/</guid>
+      <guid>http://localhost:1313/posts/benefits-of-after-school-programs/</guid>
       <description>Discover the numerous benefits of a good after-school program, from enhancing your child&amp;#39;s skills to promoting socialization and preventing destructive habits.</description>
     </item>
     <item>
       <title>Too Much of School: A Personal Reflection on After-School Programs</title>
-      <link>https://www.aixwim.cloud/posts/too-much-of-school-reflection/</link>
+      <link>http://localhost:1313/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/too-much-of-school-reflection/</guid>
+      <guid>http://localhost:1313/posts/too-much-of-school-reflection/</guid>
       <description>A personal story reflecting on the challenges and evolution of after-school programs from a child&amp;#39;s perspective.</description>
     </item>
     <item>
       <title>After-School Activities for Hyperactive Children: Engaging ADHD Kids</title>
-      <link>https://www.aixwim.cloud/posts/after-school-activities-hyperactive-child/</link>
+      <link>http://localhost:1313/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>http://localhost:1313/posts/after-school-activities-hyperactive-child/</guid>
       <description>Discover after-school activities that work for children with ADHD. Explore sports, arts, and other activities that help channel energy, improve focus, and build social skills.</description>
     </item>
   </channel>

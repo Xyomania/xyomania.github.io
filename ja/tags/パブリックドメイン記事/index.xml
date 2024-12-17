@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>パブリックドメイン記事 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E8%A8%98%E4%BA%8B/</link>
+    <link>http://localhost:1313/ja/tags/%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E8%A8%98%E4%BA%8B/</link>
     <description>Recent content in パブリックドメイン記事 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E8%A8%98%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E8%A8%98%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>記事作成の最も簡単な方法 – パブリックドメインコンテンツ</title>
-      <link>https://www.aixwim.cloud/ja/posts/public-domain-articles-for-content/</link>
+      <link>http://localhost:1313/ja/posts/public-domain-articles-for-content/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/public-domain-articles-for-content/</guid>
+      <guid>http://localhost:1313/ja/posts/public-domain-articles-for-content/</guid>
       <description>パブリックドメインの記事を使用して、ウェブサイト、ブログ、ニュースレター用のコンテンツを簡単に作成する方法を学びましょう。時間とお金を節約し、著作権の問題を避ける方法をご紹介します。</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>广告策略 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E5%B9%BF%E5%91%8A%E7%AD%96%E7%95%A5/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E5%B9%BF%E5%91%8A%E7%AD%96%E7%95%A5/</link>
     <description>Recent content in 广告策略 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E5%B9%BF%E5%91%8A%E7%AD%96%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E5%B9%BF%E5%91%8A%E7%AD%96%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>最好的互联网广告是免费的互联网广告</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/free-internet-advertising/</link>
+      <link>http://localhost:1313/zh-cn/posts/free-internet-advertising/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/free-internet-advertising/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/free-internet-advertising/</guid>
       <description>通过分类广告、电子邮件列表和其他免费策略了解免费互联网广告的优势。学习如何在不花一分钱的情况下有效推广您的产品和服务。</description>
     </item>
   </channel>

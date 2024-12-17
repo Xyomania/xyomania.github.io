@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>メールマーケティング on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E3%83%A1%E3%83%BC%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+    <link>http://localhost:1313/ja/tags/%E3%83%A1%E3%83%BC%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
     <description>Recent content in メールマーケティング on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%83%A1%E3%83%BC%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E3%83%A1%E3%83%BC%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tool Talk: インターネットマーケティングツールについて</title>
-      <link>https://www.aixwim.cloud/ja/posts/internet-marketing-tools/</link>
+      <link>http://localhost:1313/ja/posts/internet-marketing-tools/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/internet-marketing-tools/</guid>
+      <guid>http://localhost:1313/ja/posts/internet-marketing-tools/</guid>
       <description>ウェブサイトのパフォーマンスを向上させ、トラフィックを増加させるための手頃なインターネットマーケティングツールを探る。メールマーケティング、SEO、その他の低コストソリューションについて学ぶ。</description>
     </item>
     <item>
       <title>メールマーケティング：手頃なインターネットマーケティング技法</title>
-      <link>https://www.aixwim.cloud/ja/posts/email-marketing-affordable-internet-marketing/</link>
+      <link>http://localhost:1313/ja/posts/email-marketing-affordable-internet-marketing/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/email-marketing-affordable-internet-marketing/</guid>
+      <guid>http://localhost:1313/ja/posts/email-marketing-affordable-internet-marketing/</guid>
       <description>メールマーケティングを低コスト戦略として効果的に活用し、トラフィックを促進し、顧客との関係を深め、売上を増加させる方法を学びましょう。</description>
     </item>
     <item>
       <title>予算を抑えたベストなインターネットマーケティングソリューション</title>
-      <link>https://www.aixwim.cloud/ja/posts/best-internet-marketing-solutions-without-overspending/</link>
+      <link>http://localhost:1313/ja/posts/best-internet-marketing-solutions-without-overspending/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/best-internet-marketing-solutions-without-overspending/</guid>
+      <guid>http://localhost:1313/ja/posts/best-internet-marketing-solutions-without-overspending/</guid>
       <description>予算を抑えながらリーチを拡大できる費用対効果の高いインターネットマーケティングソリューションをご紹介します。メールマーケティングやSEOについて学びましょう。</description>
     </item>
     <item>
       <title>貯金を傷つけないインターネットマーケティング戦略</title>
-      <link>https://www.aixwim.cloud/ja/posts/affordable-internet-marketing-strategies/</link>
+      <link>http://localhost:1313/ja/posts/affordable-internet-marketing-strategies/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/affordable-internet-marketing-strategies/</guid>
+      <guid>http://localhost:1313/ja/posts/affordable-internet-marketing-strategies/</guid>
       <description>ビジネスをオンラインで宣伝するための手頃な方法を探していますか？ こちらの低コストで効果的なインターネットマーケティング戦略をご覧ください。予算を節約しながら視認性とリーチを増やします。</description>
     </item>
   </channel>

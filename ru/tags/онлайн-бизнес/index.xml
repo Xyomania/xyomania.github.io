@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Онлайн-Бизнес on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/tags/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</link>
+    <link>http://localhost:1313/ru/tags/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</link>
     <description>Recent content in Онлайн-Бизнес on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/tags/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/tags/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Блоггинг: Бесплатный метод интернет-маркетинга</title>
-      <link>https://www.aixwim.cloud/ru/posts/blogging-free-internet-marketing-method/</link>
+      <link>http://localhost:1313/ru/posts/blogging-free-internet-marketing-method/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/blogging-free-internet-marketing-method/</guid>
+      <guid>http://localhost:1313/ru/posts/blogging-free-internet-marketing-method/</guid>
       <description>Узнайте, как блоггинг может стать экономичным способом продвижения вашего бизнеса и повышения видимости вашего веб-сайта в интернете. Откройте для себя советы по использованию блогов для успеха в маркетинге.</description>
     </item>
     <item>
       <title>Как избежать 3 самых распространённых ошибок в аффилиат-маркетинге</title>
-      <link>https://www.aixwim.cloud/ru/posts/avoid-affiliate-mistakes/</link>
+      <link>http://localhost:1313/ru/posts/avoid-affiliate-mistakes/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/avoid-affiliate-mistakes/</guid>
+      <guid>http://localhost:1313/ru/posts/avoid-affiliate-mistakes/</guid>
       <description>Избегайте самых распространённых ошибок в аффилиат-маркетинге и увеличьте свои шансы на успех. Узнайте, каких ошибок следует избегать, и настройтесь на успех.</description>
     </item>
     <item>
       <title>Топ-3 способа увеличить ваши комиссионные от партнерских программ за одну ночь</title>
-      <link>https://www.aixwim.cloud/ru/posts/boost-affiliate-commissions/</link>
+      <link>http://localhost:1313/ru/posts/boost-affiliate-commissions/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/boost-affiliate-commissions/</guid>
+      <guid>http://localhost:1313/ru/posts/boost-affiliate-commissions/</guid>
       <description>Хотите быстро увеличить свои комиссионные от партнерских программ? Узнайте 3 мощные стратегии, которые помогут увеличить ваш доход и повысить продажи за одну ночь.</description>
     </item>
   </channel>

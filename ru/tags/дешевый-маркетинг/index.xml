@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Дешевый Маркетинг on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/tags/%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</link>
+    <link>http://localhost:1313/ru/tags/%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/</link>
     <description>Recent content in Дешевый Маркетинг on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/tags/%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/tags/%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B9-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Фантастическая тактика: недорогие передовые стратегии привлечения трафика на сайт</title>
-      <link>https://www.aixwim.cloud/ru/posts/low-cost-advanced-website-traffic-strategies/</link>
+      <link>http://localhost:1313/ru/posts/low-cost-advanced-website-traffic-strategies/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/low-cost-advanced-website-traffic-strategies/</guid>
+      <guid>http://localhost:1313/ru/posts/low-cost-advanced-website-traffic-strategies/</guid>
       <description>Откройте для себя недорогие передовые тактики привлечения трафика на сайт, которые дают значительные результаты без больших затрат.</description>
     </item>
   </channel>

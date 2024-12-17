@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>廉价广告 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E5%BB%89%E4%BB%B7%E5%B9%BF%E5%91%8A/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E5%BB%89%E4%BB%B7%E5%B9%BF%E5%91%8A/</link>
     <description>Recent content in 廉价广告 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E5%BB%89%E4%BB%B7%E5%B9%BF%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E5%BB%89%E4%BB%B7%E5%B9%BF%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何最大化利用廉价的互联网横幅广告</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/how-to-make-the-most-of-cheap-internet-banner-advertising/</link>
+      <link>http://localhost:1313/zh-cn/posts/how-to-make-the-most-of-cheap-internet-banner-advertising/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/how-to-make-the-most-of-cheap-internet-banner-advertising/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/how-to-make-the-most-of-cheap-internet-banner-advertising/</guid>
       <description>了解如何最大化廉价互联网横幅广告的效果，以提高流量、增加销售和提升品牌认知度。</description>
     </item>
   </channel>

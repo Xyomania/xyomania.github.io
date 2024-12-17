@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>庭の手入れ on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E5%BA%AD%E3%81%AE%E6%89%8B%E5%85%A5%E3%82%8C/</link>
+    <link>http://localhost:1313/ja/tags/%E5%BA%AD%E3%81%AE%E6%89%8B%E5%85%A5%E3%82%8C/</link>
     <description>Recent content in 庭の手入れ on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%BA%AD%E3%81%AE%E6%89%8B%E5%85%A5%E3%82%8C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E5%BA%AD%E3%81%AE%E6%89%8B%E5%85%A5%E3%82%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>最高の園芸ツールを探して</title>
-      <link>https://www.aixwim.cloud/ja/posts/best-gardening-tools-guide/</link>
+      <link>http://localhost:1313/ja/posts/best-gardening-tools-guide/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/best-gardening-tools-guide/</guid>
+      <guid>http://localhost:1313/ja/posts/best-gardening-tools-guide/</guid>
       <description>小さな庭でも大きな庭でも、必要な園芸ツールを選ぶ方法を学びます。効率的で楽しい園芸のための必須ツールを学びましょう。</description>
     </item>
   </channel>

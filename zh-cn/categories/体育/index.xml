@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>体育 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/categories/%E4%BD%93%E8%82%B2/</link>
+    <link>http://localhost:1313/zh-cn/categories/%E4%BD%93%E8%82%B2/</link>
     <description>Recent content in 体育 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/categories/%E4%BD%93%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/categories/%E4%BD%93%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>鲤鱼钓鱼基本技巧</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/basic-carp-fishing-pointers/</link>
+      <link>http://localhost:1313/zh-cn/posts/basic-carp-fishing-pointers/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/basic-carp-fishing-pointers/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/basic-carp-fishing-pointers/</guid>
       <description>了解成功钓鲤鱼的基本技巧和方法。从鱼饵技巧到最佳的钓鱼装备，一切你需要知道的内容都在这里。</description>
     </item>
     <item>
       <title>鲈鱼钓鱼的事实与更多</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/bass-fishing-facts/</link>
+      <link>http://localhost:1313/zh-cn/posts/bass-fishing-facts/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/bass-fishing-facts/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/bass-fishing-facts/</guid>
       <description>发现鲈鱼钓鱼的迷人历史，包括重要的里程碑、流行的鲈鱼种类和行业的发展。</description>
     </item>
     <item>
       <title>每个钓鱼者需要的基本钓鱼装备</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/basic-fishing-supplies/</link>
+      <link>http://localhost:1313/zh-cn/posts/basic-fishing-supplies/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/basic-fishing-supplies/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/basic-fishing-supplies/</guid>
       <description>了解您在成功钓鱼旅行中需要的基本钓鱼装备，从钩子到钓具，以及所有中间的装备。</description>
     </item>
     <item>
       <title>最佳钓鱼诱饵</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/best-fishing-lures/</link>
+      <link>http://localhost:1313/zh-cn/posts/best-fishing-lures/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/best-fishing-lures/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/best-fishing-lures/</guid>
       <description>探索最佳钓鱼诱饵及其在捕捉各种鱼类中的具体应用。了解不同类型的诱饵以及如何最大化其效果。</description>
     </item>
     <item>
       <title>捕捉鳟鱼的五个有用技巧</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/5-tips-trout-fishing/</link>
+      <link>http://localhost:1313/zh-cn/posts/5-tips-trout-fishing/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/5-tips-trout-fishing/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/5-tips-trout-fishing/</guid>
       <description>成功捕捉鳟鱼的基本技巧，重点介绍技术、栖息地和策略。</description>
     </item>
     <item>
       <title>专注的力量：为什么在高尔夫中盯住球至关重要</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/watching-the-ball-golf/</link>
+      <link>http://localhost:1313/zh-cn/posts/watching-the-ball-golf/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/watching-the-ball-golf/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/watching-the-ball-golf/</guid>
       <description>了解如何通过保持专注于球来提升你的高尔夫游戏。发现为什么在整个挥杆过程中盯住球对精准度和成功至关重要。</description>
     </item>
   </channel>

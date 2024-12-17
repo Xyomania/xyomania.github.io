@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>線上業務 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E7%B7%9A%E4%B8%8A%E6%A5%AD%E5%8B%99/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E7%B7%9A%E4%B8%8A%E6%A5%AD%E5%8B%99/</link>
     <description>Recent content in 線上業務 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E7%B7%9A%E4%B8%8A%E6%A5%AD%E5%8B%99/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E7%B7%9A%E4%B8%8A%E6%A5%AD%E5%8B%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>部落格：免費的網路行銷方法</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-free-internet-marketing-method/</link>
+      <link>http://localhost:1313/zh-tw/posts/blogging-free-internet-marketing-method/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-free-internet-marketing-method/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/blogging-free-internet-marketing-method/</guid>
       <description>了解如何透過部落格成為一種高效又免費的行銷方式，提升您的網站曝光率。探索使用部落格達成行銷成功的技巧。</description>
     </item>
     <item>
       <title>一夜之間提高您的聯盟佣金的三大方法</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/boost-affiliate-commissions/</link>
+      <link>http://localhost:1313/zh-tw/posts/boost-affiliate-commissions/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/boost-affiliate-commissions/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/boost-affiliate-commissions/</guid>
       <description>想要快速提高您的聯盟佣金嗎？了解三種強大的策略，幫助您在一夜之間增加收入並提高銷售。</description>
     </item>
   </channel>

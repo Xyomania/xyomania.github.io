@@ -2,51 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>商業與財經 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E8%B2%A1%E7%B6%93/</link>
+    <link>http://localhost:1313/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E8%B2%A1%E7%B6%93/</link>
     <description>Recent content in 商業與財經 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E8%B2%A1%E7%B6%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/categories/%E5%95%86%E6%A5%AD%E8%88%87%E8%B2%A1%E7%B6%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>有效的省錢技巧</title>
+      <link>http://localhost:1313/zh-tw/posts/effective-money-savings-tips/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/effective-money-savings-tips/</guid>
+      <description>透過這些實用的理財技巧，最大化您的財務資源並有效儲蓄。</description>
+    </item>
     <item>
       <title>部落格的定義</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/definition-of-blogging/</link>
+      <link>http://localhost:1313/zh-tw/posts/definition-of-blogging/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/definition-of-blogging/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/definition-of-blogging/</guid>
       <description>部落格的定義隨著時間的推移發生了顯著變化。在本文中，我們將探討新技術如何持續重塑部落格的世界。</description>
     </item>
     <item>
       <title>最好的網路廣告是免費的網路廣告</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/free-internet-advertising/</link>
+      <link>http://localhost:1313/zh-tw/posts/free-internet-advertising/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/free-internet-advertising/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/free-internet-advertising/</guid>
       <description>透過分類廣告、電子郵件清單和其他免費策略，了解免費網路廣告的優勢。學習如何在不花費任何成本的情況下有效地推廣您的產品與服務。</description>
     </item>
     <item>
       <title>電子郵件行銷：經濟實惠的網路行銷技巧</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/email-marketing-affordable-internet-marketing/</link>
+      <link>http://localhost:1313/zh-tw/posts/email-marketing-affordable-internet-marketing/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/email-marketing-affordable-internet-marketing/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/email-marketing-affordable-internet-marketing/</guid>
       <description>學習如何有效運用電子郵件行銷作為低成本策略，提升流量、增強客戶互動並促進銷售。</description>
     </item>
     <item>
       <title>最佳的網路行銷解決方案：精打細算也能行銷成功</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/best-internet-marketing-solutions-without-overspending/</link>
+      <link>http://localhost:1313/zh-tw/posts/best-internet-marketing-solutions-without-overspending/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/best-internet-marketing-solutions-without-overspending/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/best-internet-marketing-solutions-without-overspending/</guid>
       <description>探索經濟實惠的網路行銷解決方案，幫助您在不超支的情況下擴展觸及範圍。了解電子郵件行銷、SEO等方法。</description>
     </item>
     <item>
       <title>提交文章到目錄之前必須採取的3個關鍵步驟</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/3-steps-before-article-submission/</link>
+      <link>http://localhost:1313/zh-tw/posts/3-steps-before-article-submission/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/3-steps-before-article-submission/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/3-steps-before-article-submission/</guid>
       <description>了解在提交文章到文章目錄之前，必須進行的三個步驟，以提高流量、SEO和轉換率。</description>
     </item>
   </channel>

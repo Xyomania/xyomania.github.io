@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Soft Toys on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/soft-toys/</link>
+    <link>http://localhost:1313/tags/soft-toys/</link>
     <description>Recent content in Soft Toys on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/soft-toys/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/soft-toys/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baby Beanies: The Baby Toy of All Time?</title>
-      <link>https://www.aixwim.cloud/posts/baby-beanies-toy-of-all-time/</link>
+      <link>http://localhost:1313/posts/baby-beanies-toy-of-all-time/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/baby-beanies-toy-of-all-time/</guid>
+      <guid>http://localhost:1313/posts/baby-beanies-toy-of-all-time/</guid>
       <description>Discover the history of baby beanies (beanie babies), from their introduction in 1994 to their impact on toy collectors and the lasting appeal of these soft, lifelike toys for babies.</description>
     </item>
   </channel>

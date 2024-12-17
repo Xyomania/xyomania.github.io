@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Образование on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/tags/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
+    <link>http://localhost:1313/ru/tags/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
     <description>Recent content in Образование on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/tags/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/tags/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Освоение эффективных учебных привычек: советы для академического успеха</title>
-      <link>https://www.aixwim.cloud/ru/posts/study-habits-tips/</link>
+      <link>http://localhost:1313/ru/posts/study-habits-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/study-habits-tips/</guid>
+      <guid>http://localhost:1313/ru/posts/study-habits-tips/</guid>
       <description>Узнайте, как улучшить свои учебные привычки, создавая безотвлекающую атмосферу, организуя материалы и осваивая техники концентрации.</description>
     </item>
     <item>
       <title>Преимущества хорошей программы после школы для детей</title>
-      <link>https://www.aixwim.cloud/ru/posts/benefits-of-after-school-programs/</link>
+      <link>http://localhost:1313/ru/posts/benefits-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/benefits-of-after-school-programs/</guid>
+      <guid>http://localhost:1313/ru/posts/benefits-of-after-school-programs/</guid>
       <description>Откройте для себя многочисленные преимущества хорошей программы после школы, от развития навыков вашего ребенка до поощрения социализации и предотвращения разрушительных привычек.</description>
     </item>
     <item>
       <title>Слишком много школы: личное размышление о послеурочных программах</title>
-      <link>https://www.aixwim.cloud/ru/posts/too-much-of-school-reflection/</link>
+      <link>http://localhost:1313/ru/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/too-much-of-school-reflection/</guid>
+      <guid>http://localhost:1313/ru/posts/too-much-of-school-reflection/</guid>
       <description>Личное воспоминание, отражающее трудности и эволюцию послеурочных программ с точки зрения ребенка.</description>
     </item>
     <item>
       <title>Создание эффективной учебной среды в послешкольных программах</title>
-      <link>https://www.aixwim.cloud/ru/posts/effective-learning-environment-after-school/</link>
+      <link>http://localhost:1313/ru/posts/effective-learning-environment-after-school/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/effective-learning-environment-after-school/</guid>
+      <guid>http://localhost:1313/ru/posts/effective-learning-environment-after-school/</guid>
       <description>Узнайте, как создать увлекательную и дисциплинированную учебную среду в послешкольных программах, способствующую развитию детей.</description>
     </item>
     <item>
       <title>Школьные программы после учебы: повышение образования и безопасности для детей</title>
-      <link>https://www.aixwim.cloud/ru/posts/school-based-after-school-programs/</link>
+      <link>http://localhost:1313/ru/posts/school-based-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/school-based-after-school-programs/</guid>
+      <guid>http://localhost:1313/ru/posts/school-based-after-school-programs/</guid>
       <description>Изучите важность школьных программ после учебы и их вклад в академическое развитие, безопасность и благополучие детей.</description>
     </item>
   </channel>

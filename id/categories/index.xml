@@ -2,338 +2,352 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kategori on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/categories/</link>
+    <link>http://localhost:1313/id/categories/</link>
     <description>Recent content in Kategori on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/id/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bisnis Dan Keuangan</title>
-      <link>https://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</guid>
+      <link>http://localhost:1313/id/categories/bisnis-dan-keuangan/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/bisnis-dan-keuangan/</guid>
       <description></description>
     </item>
     <item>
       <title>Hobi Dan Waktu</title>
-      <link>https://www.aixwim.cloud/id/categories/hobi-dan-waktu/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/hobi-dan-waktu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hobi Dan Waktu Luang</title>
-      <link>https://www.aixwim.cloud/id/categories/hobi-dan-waktu-luang/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/hobi-dan-waktu-luang/</guid>
+      <link>http://localhost:1313/id/categories/hobi-dan-waktu/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/hobi-dan-waktu/</guid>
       <description></description>
     </item>
     <item>
       <title>Kecantikan Dan Fashion</title>
-      <link>https://www.aixwim.cloud/id/categories/kecantikan-dan-fashion/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/kecantikan-dan-fashion/</guid>
+      <link>http://localhost:1313/id/categories/kecantikan-dan-fashion/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/kecantikan-dan-fashion/</guid>
       <description></description>
     </item>
     <item>
-      <title>Keuangan</title>
-      <link>https://www.aixwim.cloud/id/categories/keuangan/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/keuangan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Keuangan Pribadi</title>
-      <link>https://www.aixwim.cloud/id/categories/keuangan-pribadi/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/keuangan-pribadi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Makanan Dan Minuman</title>
-      <link>https://www.aixwim.cloud/id/categories/makanan-dan-minuman/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/makanan-dan-minuman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rumah Dan Taman</title>
-      <link>https://www.aixwim.cloud/id/categories/rumah-dan-taman/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/rumah-dan-taman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hiburan</title>
-      <link>https://www.aixwim.cloud/id/categories/hiburan/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/hiburan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hobi Dan Kesenangan</title>
-      <link>https://www.aixwim.cloud/id/categories/hobi-dan-kesenangan/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/hobi-dan-kesenangan/</guid>
+      <title>Kecantikan Dan Mode</title>
+      <link>http://localhost:1313/id/categories/kecantikan-dan-mode/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/kecantikan-dan-mode/</guid>
       <description></description>
     </item>
     <item>
       <title>Leisure</title>
-      <link>https://www.aixwim.cloud/id/categories/leisure/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/leisure/</guid>
+      <link>http://localhost:1313/id/categories/leisure/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/leisure/</guid>
       <description></description>
     </item>
     <item>
       <title>Olahraga</title>
-      <link>https://www.aixwim.cloud/id/categories/olahraga/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/olahraga/</guid>
+      <link>http://localhost:1313/id/categories/olahraga/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/olahraga/</guid>
       <description></description>
     </item>
     <item>
-      <title>Pengasuhan</title>
-      <link>https://www.aixwim.cloud/id/categories/pengasuhan/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/pengasuhan/</guid>
+      <title>Perhiasan Dan Fashion</title>
+      <link>http://localhost:1313/id/categories/perhiasan-dan-fashion/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/perhiasan-dan-fashion/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sports</title>
-      <link>https://www.aixwim.cloud/id/categories/sports/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/sports/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Waktu Luang</title>
-      <link>https://www.aixwim.cloud/id/categories/waktu-luang/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/waktu-luang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kesehatan</title>
-      <link>https://www.aixwim.cloud/id/categories/kesehatan/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/kesehatan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kesehatan Mental</title>
-      <link>https://www.aixwim.cloud/id/categories/kesehatan-mental/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/kesehatan-mental/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Perjalanan Dan Transportasi</title>
-      <link>https://www.aixwim.cloud/id/categories/perjalanan-dan-transportasi/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/perjalanan-dan-transportasi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Business and Finance</title>
-      <link>https://www.aixwim.cloud/id/categories/business-and-finance/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/business-and-finance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Family</title>
-      <link>https://www.aixwim.cloud/id/categories/family/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/family/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Marketing</title>
-      <link>https://www.aixwim.cloud/id/categories/marketing/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Menulis</title>
-      <link>https://www.aixwim.cloud/id/categories/menulis/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/menulis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Parenting</title>
-      <link>https://www.aixwim.cloud/id/categories/parenting/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/parenting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pemasaran</title>
-      <link>https://www.aixwim.cloud/id/categories/pemasaran/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/pemasaran/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pembuatan Konten</title>
-      <link>https://www.aixwim.cloud/id/categories/pembuatan-konten/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/pembuatan-konten/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pengembangan Pribadi</title>
-      <link>https://www.aixwim.cloud/id/categories/pengembangan-pribadi/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/pengembangan-pribadi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips Blogging</title>
-      <link>https://www.aixwim.cloud/id/categories/tips-blogging/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/tips-blogging/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Acara</title>
-      <link>https://www.aixwim.cloud/id/categories/acara/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/acara/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Menulis Dan Konten</title>
-      <link>https://www.aixwim.cloud/id/categories/menulis-dan-konten/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/menulis-dan-konten/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pemasaran Dan Iklan</title>
-      <link>https://www.aixwim.cloud/id/categories/pemasaran-dan-iklan/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/pemasaran-dan-iklan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pemasaran Digital</title>
-      <link>https://www.aixwim.cloud/id/categories/pemasaran-digital/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/pemasaran-digital/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pemasaran Konten</title>
-      <link>https://www.aixwim.cloud/id/categories/pemasaran-konten/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/pemasaran-konten/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Penciptaan Konten</title>
-      <link>https://www.aixwim.cloud/id/categories/penciptaan-konten/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/penciptaan-konten/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Berita</title>
-      <link>https://www.aixwim.cloud/id/categories/berita/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/berita/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Budaya Remaja</title>
-      <link>https://www.aixwim.cloud/id/categories/budaya-remaja/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/budaya-remaja/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pengasuh Dan Hewan Peliharaan</title>
-      <link>https://www.aixwim.cloud/id/categories/pengasuh-dan-hewan-peliharaan/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/pengasuh-dan-hewan-peliharaan/</guid>
+      <title>Rumah Dan Taman</title>
+      <link>http://localhost:1313/id/categories/rumah-dan-taman/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/rumah-dan-taman/</guid>
       <description></description>
     </item>
     <item>
       <title>Teknologi</title>
-      <link>https://www.aixwim.cloud/id/categories/teknologi/</link>
+      <link>http://localhost:1313/id/categories/teknologi/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/teknologi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobi Dan Waktu Luang</title>
+      <link>http://localhost:1313/id/categories/hobi-dan-waktu-luang/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/hobi-dan-waktu-luang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keuangan</title>
+      <link>http://localhost:1313/id/categories/keuangan/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/keuangan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keuangan Pribadi</title>
+      <link>http://localhost:1313/id/categories/keuangan-pribadi/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/keuangan-pribadi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Makanan Dan Minuman</title>
+      <link>http://localhost:1313/id/categories/makanan-dan-minuman/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/makanan-dan-minuman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hiburan</title>
+      <link>http://localhost:1313/id/categories/hiburan/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/hiburan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobi Dan Kesenangan</title>
+      <link>http://localhost:1313/id/categories/hobi-dan-kesenangan/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/hobi-dan-kesenangan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pengasuhan</title>
+      <link>http://localhost:1313/id/categories/pengasuhan/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/pengasuhan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sports</title>
+      <link>http://localhost:1313/id/categories/sports/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/sports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Waktu Luang</title>
+      <link>http://localhost:1313/id/categories/waktu-luang/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/waktu-luang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kesehatan</title>
+      <link>http://localhost:1313/id/categories/kesehatan/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/kesehatan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kesehatan Mental</title>
+      <link>http://localhost:1313/id/categories/kesehatan-mental/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/kesehatan-mental/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perjalanan Dan Transportasi</title>
+      <link>http://localhost:1313/id/categories/perjalanan-dan-transportasi/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/perjalanan-dan-transportasi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business and Finance</title>
+      <link>http://localhost:1313/id/categories/business-and-finance/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/business-and-finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Family</title>
+      <link>http://localhost:1313/id/categories/family/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/family/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing</title>
+      <link>http://localhost:1313/id/categories/marketing/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Menulis</title>
+      <link>http://localhost:1313/id/categories/menulis/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/menulis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parenting</title>
+      <link>http://localhost:1313/id/categories/parenting/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/parenting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pemasaran</title>
+      <link>http://localhost:1313/id/categories/pemasaran/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/pemasaran/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pembuatan Konten</title>
+      <link>http://localhost:1313/id/categories/pembuatan-konten/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/pembuatan-konten/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pengembangan Pribadi</title>
+      <link>http://localhost:1313/id/categories/pengembangan-pribadi/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/pengembangan-pribadi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips Blogging</title>
+      <link>http://localhost:1313/id/categories/tips-blogging/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/tips-blogging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acara</title>
+      <link>http://localhost:1313/id/categories/acara/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/acara/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Menulis Dan Konten</title>
+      <link>http://localhost:1313/id/categories/menulis-dan-konten/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/menulis-dan-konten/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pemasaran Dan Iklan</title>
+      <link>http://localhost:1313/id/categories/pemasaran-dan-iklan/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/pemasaran-dan-iklan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pemasaran Digital</title>
+      <link>http://localhost:1313/id/categories/pemasaran-digital/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/pemasaran-digital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pemasaran Konten</title>
+      <link>http://localhost:1313/id/categories/pemasaran-konten/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/pemasaran-konten/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Penciptaan Konten</title>
+      <link>http://localhost:1313/id/categories/penciptaan-konten/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/penciptaan-konten/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Berita</title>
+      <link>http://localhost:1313/id/categories/berita/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/teknologi/</guid>
+      <guid>http://localhost:1313/id/categories/berita/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Budaya Remaja</title>
+      <link>http://localhost:1313/id/categories/budaya-remaja/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/budaya-remaja/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pengasuh Dan Hewan Peliharaan</title>
+      <link>http://localhost:1313/id/categories/pengasuh-dan-hewan-peliharaan/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/categories/pengasuh-dan-hewan-peliharaan/</guid>
       <description></description>
     </item>
     <item>
       <title>Mainan Dan Permainan</title>
-      <link>https://www.aixwim.cloud/id/categories/mainan-dan-permainan/</link>
+      <link>http://localhost:1313/id/categories/mainan-dan-permainan/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/mainan-dan-permainan/</guid>
+      <guid>http://localhost:1313/id/categories/mainan-dan-permainan/</guid>
       <description></description>
     </item>
     <item>
       <title>SEO</title>
-      <link>https://www.aixwim.cloud/id/categories/seo/</link>
+      <link>http://localhost:1313/id/categories/seo/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/seo/</guid>
+      <guid>http://localhost:1313/id/categories/seo/</guid>
       <description></description>
     </item>
     <item>
       <title>Keamanan</title>
-      <link>https://www.aixwim.cloud/id/categories/keamanan/</link>
+      <link>http://localhost:1313/id/categories/keamanan/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/keamanan/</guid>
+      <guid>http://localhost:1313/id/categories/keamanan/</guid>
       <description></description>
     </item>
     <item>
       <title>Keluarga</title>
-      <link>https://www.aixwim.cloud/id/categories/keluarga/</link>
+      <link>http://localhost:1313/id/categories/keluarga/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/keluarga/</guid>
+      <guid>http://localhost:1313/id/categories/keluarga/</guid>
       <description></description>
     </item>
     <item>
       <title>Pendidikan</title>
-      <link>https://www.aixwim.cloud/id/categories/pendidikan/</link>
+      <link>http://localhost:1313/id/categories/pendidikan/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/pendidikan/</guid>
+      <guid>http://localhost:1313/id/categories/pendidikan/</guid>
       <description></description>
     </item>
     <item>
       <title>Pendidikan Anak</title>
-      <link>https://www.aixwim.cloud/id/categories/pendidikan-anak/</link>
+      <link>http://localhost:1313/id/categories/pendidikan-anak/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/pendidikan-anak/</guid>
+      <guid>http://localhost:1313/id/categories/pendidikan-anak/</guid>
       <description></description>
     </item>
     <item>
       <title>Perawatan Dan Hewan Peliharaan</title>
-      <link>https://www.aixwim.cloud/id/categories/perawatan-dan-hewan-peliharaan/</link>
+      <link>http://localhost:1313/id/categories/perawatan-dan-hewan-peliharaan/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/perawatan-dan-hewan-peliharaan/</guid>
+      <guid>http://localhost:1313/id/categories/perawatan-dan-hewan-peliharaan/</guid>
       <description></description>
     </item>
     <item>
       <title>Perkembangan Anak</title>
-      <link>https://www.aixwim.cloud/id/categories/perkembangan-anak/</link>
+      <link>http://localhost:1313/id/categories/perkembangan-anak/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/perkembangan-anak/</guid>
+      <guid>http://localhost:1313/id/categories/perkembangan-anak/</guid>
       <description></description>
     </item>
     <item>
       <title>Profil</title>
-      <link>https://www.aixwim.cloud/id/categories/profil/</link>
+      <link>http://localhost:1313/id/categories/profil/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/profil/</guid>
+      <guid>http://localhost:1313/id/categories/profil/</guid>
       <description></description>
     </item>
   </channel>

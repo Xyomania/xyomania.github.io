@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>理财建议 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E7%90%86%E8%B4%A2%E5%BB%BA%E8%AE%AE/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E7%90%86%E8%B4%A2%E5%BB%BA%E8%AE%AE/</link>
     <description>Recent content in 理财建议 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E7%90%86%E8%B4%A2%E5%BB%BA%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E7%90%86%E8%B4%A2%E5%BB%BA%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>像妈妈一样制定预算</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/budget-like-mom/</link>
+      <link>http://localhost:1313/zh-cn/posts/budget-like-mom/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/budget-like-mom/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/budget-like-mom/</guid>
       <description>了解妈妈们如何通过聪明才智、实用习惯和理财技巧来精打细算家庭预算。</description>
     </item>
     <item>
       <title>学习现金返还信用卡：是好主意还是坏主意？</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/cash-back-credit-cards/</link>
+      <link>http://localhost:1313/zh-cn/posts/cash-back-credit-cards/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/cash-back-credit-cards/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/cash-back-credit-cards/</guid>
       <description>深入了解现金返还信用卡的运作方式，以及根据您的信用评分和消费习惯，它们是好选择还是坏选择。</description>
     </item>
   </channel>

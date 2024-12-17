@@ -2,23 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Penipuan Berlian on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/tags/penipuan-berlian/</link>
+    <link>http://localhost:1313/id/tags/penipuan-berlian/</link>
     <description>Recent content in Penipuan Berlian on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/tags/penipuan-berlian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/id/tags/penipuan-berlian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Membeli Berlian Secara Online: Tips untuk Pembelian yang Aman dan Cerdas</title>
+      <link>http://localhost:1313/id/posts/buying-diamonds-online/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/posts/buying-diamonds-online/</guid>
+      <description>Pelajari cara membeli berlian secara online dengan aman dengan tips ahli tentang mengidentifikasi penipuan, membandingkan harga, dan mengamankan pembelian Anda.</description>
+    </item>
     <item>
       <title>Menghindari Penipuan Berlian: Hal yang Perlu Anda Ketahui</title>
-      <link>https://www.aixwim.cloud/id/posts/avoiding-diamond-scams/</link>
+      <link>http://localhost:1313/id/posts/avoiding-diamond-scams/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/avoiding-diamond-scams/</guid>
+      <guid>http://localhost:1313/id/posts/avoiding-diamond-scams/</guid>
       <description>Pelajari tentang penipuan berlian yang umum terjadi dan cara melindungi diri Anda saat membeli berlian.</description>
     </item>
   </channel>

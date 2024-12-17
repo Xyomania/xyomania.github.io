@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Advanced Tactics on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/advanced-tactics/</link>
+    <link>http://localhost:1313/tags/advanced-tactics/</link>
     <description>Recent content in Advanced Tactics on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/advanced-tactics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/advanced-tactics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fantastic Tactics: Low Cost Advanced Website Traffic Strategies</title>
-      <link>https://www.aixwim.cloud/posts/low-cost-advanced-website-traffic-strategies/</link>
+      <link>http://localhost:1313/posts/low-cost-advanced-website-traffic-strategies/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/low-cost-advanced-website-traffic-strategies/</guid>
+      <guid>http://localhost:1313/posts/low-cost-advanced-website-traffic-strategies/</guid>
       <description>Discover low-cost advanced website traffic tactics that can bring significant results without breaking your budget.</description>
     </item>
   </channel>

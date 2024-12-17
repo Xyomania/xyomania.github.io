@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>写作 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/categories/%E5%86%99%E4%BD%9C/</link>
+    <link>http://localhost:1313/zh-cn/categories/%E5%86%99%E4%BD%9C/</link>
     <description>Recent content in 写作 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/categories/%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/categories/%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>激发创意的5种简单方法</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/ways-to-get-creative-juices-flowing/</link>
+      <link>http://localhost:1313/zh-cn/posts/ways-to-get-creative-juices-flowing/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/ways-to-get-creative-juices-flowing/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/ways-to-get-creative-juices-flowing/</guid>
       <description>遇到写作障碍或创意枯竭？这里有5个简单有效的策略，帮助你重新激发创意，重新开始创作。</description>
     </item>
     <item>
       <title>6 个让你的文章被阅读的热门技巧</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/6-tips-to-get-articles-read/</link>
+      <link>http://localhost:1313/zh-cn/posts/6-tips-to-get-articles-read/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/6-tips-to-get-articles-read/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/6-tips-to-get-articles-read/</guid>
       <description>想让你的文章被阅读并受到赞赏吗？这里有 6 个热门技巧，可以让你的写作更具吸引力、更易读，令读者无法抗拒。</description>
     </item>
   </channel>

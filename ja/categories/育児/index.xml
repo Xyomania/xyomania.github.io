@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>育児 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/categories/%E8%82%B2%E5%85%90/</link>
+    <link>http://localhost:1313/ja/categories/%E8%82%B2%E5%85%90/</link>
     <description>Recent content in 育児 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/categories/%E8%82%B2%E5%85%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/categories/%E8%82%B2%E5%85%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>子供のためのガーデニングの利点</title>
-      <link>https://www.aixwim.cloud/ja/posts/benefits-of-gardening-for-kids/</link>
+      <link>http://localhost:1313/ja/posts/benefits-of-gardening-for-kids/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/benefits-of-gardening-for-kids/</guid>
+      <guid>http://localhost:1313/ja/posts/benefits-of-gardening-for-kids/</guid>
       <description>子供のためのガーデニングの多くの利点と、それがどのようにして重要なライフスキルの開発を助け、家族との絆を深めるかについて知りましょう。</description>
     </item>
     <item>
       <title>The Way with Baby Names</title>
-      <link>https://www.aixwim.cloud/ja/posts/the-way-with-baby-names/</link>
+      <link>http://localhost:1313/ja/posts/the-way-with-baby-names/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/the-way-with-baby-names/</guid>
+      <guid>http://localhost:1313/ja/posts/the-way-with-baby-names/</guid>
       <description>赤ちゃんにぴったりの名前を選ぶことは、ただの決定ではありません。それはその子のアイデンティティを形作るものです。完璧な名前を選ぶための重要なコツをご紹介します。</description>
     </item>
     <item>
       <title>ベビー・バッシュがやってくる！！！</title>
-      <link>https://www.aixwim.cloud/ja/posts/one-baby-bash-coming-up/</link>
+      <link>http://localhost:1313/ja/posts/one-baby-bash-coming-up/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/one-baby-bash-coming-up/</guid>
+      <guid>http://localhost:1313/ja/posts/one-baby-bash-coming-up/</guid>
       <description>記憶に残るベビー・バッシュを計画中ですか？赤ちゃんの誕生日パーティーを楽しく、忘れられないものにするための必須のヒントをご紹介します！</description>
     </item>
     <item>
       <title>赤ちゃんの泣き声: 赤ちゃんの必要性を理解する</title>
-      <link>https://www.aixwim.cloud/ja/posts/baby-crying-understanding-communication/</link>
+      <link>http://localhost:1313/ja/posts/baby-crying-understanding-communication/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/baby-crying-understanding-communication/</guid>
+      <guid>http://localhost:1313/ja/posts/baby-crying-understanding-communication/</guid>
       <description>泣き声は赤ちゃんのコミュニケーション方法です。赤ちゃんが泣く理由と、初期の泣き方にどのように対応するかを学びましょう。</description>
     </item>
     <item>
       <title>学校が多すぎる：放課後プログラムについての個人的な反省</title>
-      <link>https://www.aixwim.cloud/ja/posts/too-much-of-school-reflection/</link>
+      <link>http://localhost:1313/ja/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/too-much-of-school-reflection/</guid>
+      <guid>http://localhost:1313/ja/posts/too-much-of-school-reflection/</guid>
       <description>子供の視点から、放課後プログラムの課題と進化について反省した個人的なストーリー。</description>
     </item>
     <item>
       <title>子供にとって良い放課後プログラムの利点</title>
-      <link>https://www.aixwim.cloud/ja/posts/benefits-of-after-school-programs/</link>
+      <link>http://localhost:1313/ja/posts/benefits-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/benefits-of-after-school-programs/</guid>
+      <guid>http://localhost:1313/ja/posts/benefits-of-after-school-programs/</guid>
       <description>子供のスキルを向上させ、社会的交流を促進し、破壊的な習慣を防ぐために、良い放課後プログラムの数々の利点を発見しましょう。</description>
     </item>
     <item>
       <title>ADHDの子供の放課後活動: 活動的な子供を引き込む方法</title>
-      <link>https://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/</link>
+      <link>http://localhost:1313/ja/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>http://localhost:1313/ja/posts/after-school-activities-hyperactive-child/</guid>
       <description>ADHDの子供に適した放課後活動を見つけましょう。エネルギーを発散させ、集中力を高め、社交スキルを向上させるスポーツやアートなどの活動を探索しましょう。</description>
     </item>
   </channel>

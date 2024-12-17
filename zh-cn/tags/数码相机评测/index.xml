@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>数码相机评测 on AIXWIM</title>
+    <link>http://localhost:1313/zh-cn/tags/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E8%AF%84%E6%B5%8B/</link>
+    <description>Recent content in 数码相机评测 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>zh-cn</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E8%AF%84%E6%B5%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>佳能数码相机：快速拍摄与分享</title>
+      <link>http://localhost:1313/zh-cn/posts/canon-digital-camera-express-shoot-and-share/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-cn/posts/canon-digital-camera-express-shoot-and-share/</guid>
+      <description>探索最新佳能数码相机的功能，包括PowerShot S2 IS和SD500，旨在提供卓越的图像质量和便捷的分享体验。</description>
+    </item>
+  </channel>
+</rss>

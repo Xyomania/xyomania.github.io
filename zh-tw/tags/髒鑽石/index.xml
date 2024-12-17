@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>髒鑽石 on AIXWIM</title>
+    <link>http://localhost:1313/zh-tw/tags/%E9%AB%92%E9%91%BD%E7%9F%B3/</link>
+    <description>Recent content in 髒鑽石 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E9%AB%92%E9%91%BD%E7%9F%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>髒鑽石：了解粗糙和不潔的鑽石</title>
+      <link>http://localhost:1313/zh-tw/posts/dirty-diamonds/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/dirty-diamonds/</guid>
+      <description>了解髒鑽石：它們是什麼、為什麼會變髒，以及如何保持鑽石珠寶的閃亮。探索粗糙鑽石與拋光鑽石的差異以及有效的清潔方法。</description>
+    </item>
+  </channel>
+</rss>

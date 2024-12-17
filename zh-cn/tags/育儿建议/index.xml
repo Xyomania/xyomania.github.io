@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>育儿建议 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E8%82%B2%E5%84%BF%E5%BB%BA%E8%AE%AE/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E8%82%B2%E5%84%BF%E5%BB%BA%E8%AE%AE/</link>
     <description>Recent content in 育儿建议 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E8%82%B2%E5%84%BF%E5%BB%BA%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E8%82%B2%E5%84%BF%E5%BB%BA%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Way with Baby Names</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/the-way-with-baby-names/</link>
+      <link>http://localhost:1313/zh-cn/posts/the-way-with-baby-names/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/the-way-with-baby-names/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/the-way-with-baby-names/</guid>
       <description>为宝宝选择合适的名字不仅仅是一个决定——它塑造了他们的身份。以下是选择完美宝宝名字的关键建议。</description>
     </item>
     <item>
       <title>多少算太多？平衡孩子课外活动的指南</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/how-much-is-too-much-child-activities/</link>
+      <link>http://localhost:1313/zh-cn/posts/how-much-is-too-much-child-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/how-much-is-too-much-child-activities/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/how-much-is-too-much-child-activities/</guid>
       <description>不确定孩子的课外活动安排是多少算太多？这里有一份实用指南，帮助您根据孩子的年龄和需求找到合适的平衡。</description>
     </item>
     <item>
       <title>课后安全：家长必备的建议与提醒</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/after-school-safety-tips-for-parents/</link>
+      <link>http://localhost:1313/zh-cn/posts/after-school-safety-tips-for-parents/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/after-school-safety-tips-for-parents/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/after-school-safety-tips-for-parents/</guid>
       <description>通过这些实用的建议，确保您孩子放学后的安全。从紧急情况准备到识别危险区域，了解如何保护您的孩子。</description>
     </item>
     <item>
       <title>课后项目的潜力：对孩子的益处</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/potentials-of-after-school-programs/</link>
+      <link>http://localhost:1313/zh-cn/posts/potentials-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/potentials-of-after-school-programs/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/potentials-of-after-school-programs/</guid>
       <description>课后项目提供了许多好处，从提高学术成绩到预防危险行为。了解为什么这些项目对孩子的成长至关重要。</description>
     </item>
     <item>
       <title>如何为您的孩子找到课后活动</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/how-to-find-after-school-activities/</link>
+      <link>http://localhost:1313/zh-cn/posts/how-to-find-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/how-to-find-after-school-activities/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/how-to-find-after-school-activities/</guid>
       <description>正在为您的孩子寻找最佳课后活动吗？这里有一个逐步的指南，帮助您找到适合他们兴趣和您时间安排的课外项目。</description>
     </item>
     <item>
       <title>什么使课后活动项目成功？</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/successful-after-school-programs/</link>
+      <link>http://localhost:1313/zh-cn/posts/successful-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/successful-after-school-programs/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/successful-after-school-programs/</guid>
       <description>了解使课后活动项目成功的关键因素，以及如何为您的孩子选择合适的项目。</description>
     </item>
     <item>
       <title>为什么你的孩子可能会觉得课外活动很无聊</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/boredom-in-after-school-activities/</link>
+      <link>http://localhost:1313/zh-cn/posts/boredom-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/boredom-in-after-school-activities/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/boredom-in-after-school-activities/</guid>
       <description>了解为什么孩子有时会对课外活动失去兴趣，以及如何解决这个问题，让他们保持参与感。</description>
     </item>
     <item>
       <title>为多动症孩子设计的课后活动：如何让ADHD孩子参与</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</link>
+      <link>http://localhost:1313/zh-cn/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/after-school-activities-hyperactive-child/</guid>
       <description>发现适合ADHD孩子的课后活动。探索运动、艺术和其他活动，这些活动有助于引导能量、提高专注力并培养社交技能。</description>
     </item>
   </channel>

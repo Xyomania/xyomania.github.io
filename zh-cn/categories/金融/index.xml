@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>金融 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/categories/%E9%87%91%E8%9E%8D/</link>
+    <link>http://localhost:1313/zh-cn/categories/%E9%87%91%E8%9E%8D/</link>
     <description>Recent content in 金融 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/categories/%E9%87%91%E8%9E%8D/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/categories/%E9%87%91%E8%9E%8D/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>少量投入大效果：智能预算管理的秘密</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</link>
+      <link>http://localhost:1313/zh-cn/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</guid>
       <description>发现有效的预算管理、债务管理和追踪支出的智能秘诀，帮助你省更多钱。</description>
     </item>
   </channel>

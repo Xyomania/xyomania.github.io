@@ -2,23 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>鑽石詐騙 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E9%91%BD%E7%9F%B3%E8%A9%90%E9%A8%99/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E9%91%BD%E7%9F%B3%E8%A9%90%E9%A8%99/</link>
     <description>Recent content in 鑽石詐騙 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E9%91%BD%E7%9F%B3%E8%A9%90%E9%A8%99/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E9%91%BD%E7%9F%B3%E8%A9%90%E9%A8%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在線購買鑽石：安全且聰明的購買技巧</title>
+      <link>http://localhost:1313/zh-tw/posts/buying-diamonds-online/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/buying-diamonds-online/</guid>
+      <description>了解如何透過專家建議安全地在線購買鑽石，識別詐騙、比較價格並確保您的購買安全。</description>
+    </item>
     <item>
       <title>避免鑽石詐騙：您需要知道的事</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/avoiding-diamond-scams/</link>
+      <link>http://localhost:1313/zh-tw/posts/avoiding-diamond-scams/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/avoiding-diamond-scams/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/avoiding-diamond-scams/</guid>
       <description>了解常見的鑽石詐騙以及如何在購買鑽石時保護自己。</description>
     </item>
   </channel>

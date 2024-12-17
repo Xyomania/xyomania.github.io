@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>青少年犯罪预防 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E9%9D%92%E5%B0%91%E5%B9%B4%E7%8A%AF%E7%BD%AA%E9%A2%84%E9%98%B2/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E9%9D%92%E5%B0%91%E5%B9%B4%E7%8A%AF%E7%BD%AA%E9%A2%84%E9%98%B2/</link>
     <description>Recent content in 青少年犯罪预防 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E9%9D%92%E5%B0%91%E5%B9%B4%E7%8A%AF%E7%BD%AA%E9%A2%84%E9%98%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E9%9D%92%E5%B0%91%E5%B9%B4%E7%8A%AF%E7%BD%AA%E9%A2%84%E9%98%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>课后项目的潜力：对孩子的益处</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/potentials-of-after-school-programs/</link>
+      <link>http://localhost:1313/zh-cn/posts/potentials-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/potentials-of-after-school-programs/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/potentials-of-after-school-programs/</guid>
       <description>课后项目提供了许多好处，从提高学术成绩到预防危险行为。了解为什么这些项目对孩子的成长至关重要。</description>
     </item>
   </channel>

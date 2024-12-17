@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>植物照護 on AIXWIM</title>
+    <link>http://localhost:1313/zh-tw/tags/%E6%A4%8D%E7%89%A9%E7%85%A7%E8%AD%B7/</link>
+    <description>Recent content in 植物照護 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E6%A4%8D%E7%89%A9%E7%85%A7%E8%AD%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>簡單的植物照護技巧</title>
+      <link>http://localhost:1313/zh-tw/posts/easy-tips-on-how-to-care-for-your-plants/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/easy-tips-on-how-to-care-for-your-plants/</guid>
+      <description>學習簡單且有效的植物照護技巧，讓您的室內植物全年健康茁壯成長。</description>
+    </item>
+  </channel>
+</rss>

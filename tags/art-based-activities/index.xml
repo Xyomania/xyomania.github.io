@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Art-Based Activities on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/art-based-activities/</link>
+    <link>http://localhost:1313/tags/art-based-activities/</link>
     <description>Recent content in Art-Based Activities on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/art-based-activities/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/art-based-activities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Powerful Benefits of Art-Based Activities for Child Development</title>
-      <link>https://www.aixwim.cloud/posts/benefits-of-art-based-activities-for-children/</link>
+      <link>http://localhost:1313/posts/benefits-of-art-based-activities-for-children/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/benefits-of-art-based-activities-for-children/</guid>
+      <guid>http://localhost:1313/posts/benefits-of-art-based-activities-for-children/</guid>
       <description>Discover how art-based activities foster social, emotional, and cognitive growth in children. Learn the long-term benefits of incorporating art into a child&amp;#39;s development.</description>
     </item>
   </channel>

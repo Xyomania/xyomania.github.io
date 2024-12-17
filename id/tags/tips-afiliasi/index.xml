@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tips Afiliasi on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/tags/tips-afiliasi/</link>
+    <link>http://localhost:1313/id/tags/tips-afiliasi/</link>
     <description>Recent content in Tips Afiliasi on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/tags/tips-afiliasi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/tags/tips-afiliasi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara Menghindari 3 Kesalahan Pemasaran Afiliasi yang Paling Umum</title>
-      <link>https://www.aixwim.cloud/id/posts/avoid-affiliate-mistakes/</link>
+      <link>http://localhost:1313/id/posts/avoid-affiliate-mistakes/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/avoid-affiliate-mistakes/</guid>
+      <guid>http://localhost:1313/id/posts/avoid-affiliate-mistakes/</guid>
       <description>Hindari kesalahan paling umum dalam pemasaran afiliasi dan tingkatkan peluang kesuksesan Anda. Pelajari dari kesalahan yang sering dilakukan banyak pemasar dan siapkan diri Anda untuk meraih sukses.</description>
     </item>
   </channel>

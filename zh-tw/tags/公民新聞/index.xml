@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>公民新聞 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%85%AC%E6%B0%91%E6%96%B0%E8%81%9E/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E5%85%AC%E6%B0%91%E6%96%B0%E8%81%9E/</link>
     <description>Recent content in 公民新聞 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%85%AC%E6%B0%91%E6%96%B0%E8%81%9E/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E5%85%AC%E6%B0%91%E6%96%B0%E8%81%9E/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>即時報導博客新聞</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-news-stories/</link>
+      <link>http://localhost:1313/zh-tw/posts/blogging-news-stories/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-news-stories/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/blogging-news-stories/</guid>
       <description>探索部落格作為即時新聞平台的崛起及其對新聞行業的影響。</description>
     </item>
   </channel>

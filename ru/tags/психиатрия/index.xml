@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Психиатрия on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/tags/%D0%BF%D1%81%D0%B8%D1%85%D0%B8%D0%B0%D1%82%D1%80%D0%B8%D1%8F/</link>
+    <link>http://localhost:1313/ru/tags/%D0%BF%D1%81%D0%B8%D1%85%D0%B8%D0%B0%D1%82%D1%80%D0%B8%D1%8F/</link>
     <description>Recent content in Психиатрия on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/tags/%D0%BF%D1%81%D0%B8%D1%85%D0%B8%D0%B0%D1%82%D1%80%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/tags/%D0%BF%D1%81%D0%B8%D1%85%D0%B8%D0%B0%D1%82%D1%80%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Все о клинической депрессии: понимание симптомов и лечения</title>
-      <link>https://www.aixwim.cloud/ru/posts/all-about-clinical-depression/</link>
+      <link>http://localhost:1313/ru/posts/all-about-clinical-depression/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/all-about-clinical-depression/</guid>
+      <guid>http://localhost:1313/ru/posts/all-about-clinical-depression/</guid>
       <description>Узнайте о клинической депрессии, её симптомах, различных типах и эффективных методах лечения, которые помогут справиться с этим состоянием.</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Child Motivation on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/child-motivation/</link>
+    <link>http://localhost:1313/tags/child-motivation/</link>
     <description>Recent content in Child Motivation on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/child-motivation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/child-motivation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Keep Your Child Motivated in After-School Activities</title>
-      <link>https://www.aixwim.cloud/posts/keeping-children-motivated-after-school/</link>
+      <link>http://localhost:1313/posts/keeping-children-motivated-after-school/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/keeping-children-motivated-after-school/</guid>
+      <guid>http://localhost:1313/posts/keeping-children-motivated-after-school/</guid>
       <description>Struggling to keep your child motivated in after-school activities? Here are some strategies to maintain enthusiasm and foster a love for learning and growth.</description>
     </item>
   </channel>

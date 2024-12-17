@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>手頃なSEO on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E6%89%8B%E9%A0%83%E3%81%AAseo/</link>
+    <link>http://localhost:1313/ja/tags/%E6%89%8B%E9%A0%83%E3%81%AAseo/</link>
     <description>Recent content in 手頃なSEO on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E6%89%8B%E9%A0%83%E3%81%AAseo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E6%89%8B%E9%A0%83%E3%81%AAseo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>効果的なSEOは低コストで実現できる</title>
-      <link>https://www.aixwim.cloud/ja/posts/effective-seo-comes-cheap/</link>
+      <link>http://localhost:1313/ja/posts/effective-seo-comes-cheap/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/effective-seo-comes-cheap/</guid>
+      <guid>http://localhost:1313/ja/posts/effective-seo-comes-cheap/</guid>
       <description>予算を大きく使わずにウェブサイトへのトラフィックを増やすための手頃なSEO戦略を発見しましょう。低コストの方法で検索エンジンランキングを改善する方法を学びましょう。</description>
     </item>
   </channel>

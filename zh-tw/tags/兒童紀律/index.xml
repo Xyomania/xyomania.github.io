@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>兒童紀律 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%85%92%E7%AB%A5%E7%B4%80%E5%BE%8B/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E5%85%92%E7%AB%A5%E7%B4%80%E5%BE%8B/</link>
     <description>Recent content in 兒童紀律 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%85%92%E7%AB%A5%E7%B4%80%E5%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E5%85%92%E7%AB%A5%E7%B4%80%E5%BE%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>課後活動與紀律：規則的重要性</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/importance-of-discipline-in-after-school-programs/</link>
+      <link>http://localhost:1313/zh-tw/posts/importance-of-discipline-in-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/importance-of-discipline-in-after-school-programs/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/importance-of-discipline-in-after-school-programs/</guid>
       <description>紀律在課後活動中扮演著關鍵角色。了解為何設立明確的規則並處理不當行為對孩子的發展至關重要。</description>
     </item>
   </channel>

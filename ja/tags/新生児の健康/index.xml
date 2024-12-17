@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>新生児の健康 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E6%96%B0%E7%94%9F%E5%85%90%E3%81%AE%E5%81%A5%E5%BA%B7/</link>
+    <link>http://localhost:1313/ja/tags/%E6%96%B0%E7%94%9F%E5%85%90%E3%81%AE%E5%81%A5%E5%BA%B7/</link>
     <description>Recent content in 新生児の健康 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E6%96%B0%E7%94%9F%E5%85%90%E3%81%AE%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E6%96%B0%E7%94%9F%E5%85%90%E3%81%AE%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>赤ちゃんへの授乳：ヒントとトラブルシューティング</title>
-      <link>https://www.aixwim.cloud/ja/posts/breastfeeding-guide/</link>
+      <link>http://localhost:1313/ja/posts/breastfeeding-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/breastfeeding-guide/</guid>
+      <guid>http://localhost:1313/ja/posts/breastfeeding-guide/</guid>
       <description>授乳に関する一般的な問題、母乳の生産、赤ちゃんが必要な栄養をしっかり摂取できるようにする方法についての完全ガイド</description>
     </item>
   </channel>

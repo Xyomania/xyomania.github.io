@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Программное Обеспечение Для Бюджета on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%B0/</link>
+    <link>http://localhost:1313/ru/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%B0/</link>
     <description>Recent content in Программное Обеспечение Для Бюджета on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Преимущества использования программного обеспечения для составления бюджета</title>
-      <link>https://www.aixwim.cloud/ru/posts/advantages-of-money-budgeting-software/</link>
+      <link>http://localhost:1313/ru/posts/advantages-of-money-budgeting-software/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/advantages-of-money-budgeting-software/</guid>
+      <guid>http://localhost:1313/ru/posts/advantages-of-money-budgeting-software/</guid>
       <description>Узнайте, как программное обеспечение для составления бюджета может помочь вам управлять финансами, отслеживать расходы и создавать устойчивый бюджет.</description>
     </item>
   </channel>

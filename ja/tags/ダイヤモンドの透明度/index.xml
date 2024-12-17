@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ダイヤモンドの透明度 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%81%AE%E9%80%8F%E6%98%8E%E5%BA%A6/</link>
+    <link>http://localhost:1313/ja/tags/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%81%AE%E9%80%8F%E6%98%8E%E5%BA%A6/</link>
     <description>Recent content in ダイヤモンドの透明度 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%81%AE%E9%80%8F%E6%98%8E%E5%BA%A6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%81%AE%E9%80%8F%E6%98%8E%E5%BA%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ダイヤモンドの透明度について：グレードと欠陥を理解する</title>
-      <link>https://www.aixwim.cloud/ja/posts/diamond-clarity-guide/</link>
+      <link>http://localhost:1313/ja/posts/diamond-clarity-guide/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/diamond-clarity-guide/</guid>
+      <guid>http://localhost:1313/ja/posts/diamond-clarity-guide/</guid>
       <description>ダイヤモンドの透明度がどのように評価され、各グレードが何を意味し、透明度がダイヤモンドの価値と外観にどのように影響するかを学びましょう。</description>
     </item>
   </channel>

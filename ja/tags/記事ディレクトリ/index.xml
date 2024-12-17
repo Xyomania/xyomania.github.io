@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>記事ディレクトリ on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E8%A8%98%E4%BA%8B%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA/</link>
+    <link>http://localhost:1313/ja/tags/%E8%A8%98%E4%BA%8B%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA/</link>
     <description>Recent content in 記事ディレクトリ on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E8%A8%98%E4%BA%8B%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E8%A8%98%E4%BA%8B%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>記事をディレクトリに提出する前に行うべき3つの重要なステップ</title>
-      <link>https://www.aixwim.cloud/ja/posts/3-steps-before-article-submission/</link>
+      <link>http://localhost:1313/ja/posts/3-steps-before-article-submission/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/3-steps-before-article-submission/</guid>
+      <guid>http://localhost:1313/ja/posts/3-steps-before-article-submission/</guid>
       <description>記事ディレクトリに記事を提出する前に行うべき3つのことを学び、トラフィック、SEO、コンバージョンを向上させましょう。</description>
     </item>
   </channel>

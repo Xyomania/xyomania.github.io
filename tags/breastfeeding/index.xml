@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Breastfeeding on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/breastfeeding/</link>
+    <link>http://localhost:1313/tags/breastfeeding/</link>
     <description>Recent content in Breastfeeding on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/breastfeeding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/breastfeeding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breastfeeding Questions &amp; Answers</title>
-      <link>https://www.aixwim.cloud/posts/breastfeeding-faq/</link>
+      <link>http://localhost:1313/posts/breastfeeding-faq/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/breastfeeding-faq/</guid>
+      <guid>http://localhost:1313/posts/breastfeeding-faq/</guid>
       <description>Answers to common breastfeeding questions to guide new and experienced moms.</description>
     </item>
     <item>
       <title>Breastfeeding Your Baby: Tips and Troubleshooting</title>
-      <link>https://www.aixwim.cloud/posts/breastfeeding-guide/</link>
+      <link>http://localhost:1313/posts/breastfeeding-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/breastfeeding-guide/</guid>
+      <guid>http://localhost:1313/posts/breastfeeding-guide/</guid>
       <description>An insightful guide on breastfeeding challenges, milk production, and ensuring your baby gets enough nutrition.</description>
     </item>
   </channel>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>博客软件 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E5%8D%9A%E5%AE%A2%E8%BD%AF%E4%BB%B6/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E5%8D%9A%E5%AE%A2%E8%BD%AF%E4%BB%B6/</link>
     <description>Recent content in 博客软件 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E5%8D%9A%E5%AE%A2%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E5%8D%9A%E5%AE%A2%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何学习博客软件</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/how-to-learn-blogging-software/</link>
+      <link>http://localhost:1313/zh-cn/posts/how-to-learn-blogging-software/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/how-to-learn-blogging-software/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/how-to-learn-blogging-software/</guid>
       <description>了解掌握博客软件的最佳方法，避免在过程中感到不知所措。</description>
     </item>
     <item>
       <title>为什么 Hugo 是 2024 年开发者最佳的博客平台</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/best-hugo-blogging-software/</link>
+      <link>http://localhost:1313/zh-cn/posts/best-hugo-blogging-software/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/best-hugo-blogging-software/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/best-hugo-blogging-software/</guid>
       <description>探索为什么 Hugo 是 2024 年最快且最灵活的静态网站生成器之一，适用于博客。了解它的功能、性能以及为什么它是开发者的完美选择。</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hyperactive Children on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/hyperactive-children/</link>
+    <link>http://localhost:1313/tags/hyperactive-children/</link>
     <description>Recent content in Hyperactive Children on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 07 Dec 2024 11:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/hyperactive-children/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hyperactive-children/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>After-School Activities for Hyperactive Children: Engaging ADHD Kids</title>
-      <link>https://www.aixwim.cloud/posts/after-school-activities-hyperactive-child/</link>
+      <link>http://localhost:1313/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>http://localhost:1313/posts/after-school-activities-hyperactive-child/</guid>
       <description>Discover after-school activities that work for children with ADHD. Explore sports, arts, and other activities that help channel energy, improve focus, and build social skills.</description>
     </item>
   </channel>

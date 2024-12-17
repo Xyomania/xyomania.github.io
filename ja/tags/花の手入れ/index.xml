@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>花の手入れ on AIXWIM</title>
+    <link>http://localhost:1313/ja/tags/%E8%8A%B1%E3%81%AE%E6%89%8B%E5%85%A5%E3%82%8C/</link>
+    <description>Recent content in 花の手入れ on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>ja</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/tags/%E8%8A%B1%E3%81%AE%E6%89%8B%E5%85%A5%E3%82%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>花の庭の手入れ</title>
+      <link>http://localhost:1313/ja/posts/care-of-the-flower-garden/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/care-of-the-flower-garden/</guid>
+      <description>花の庭を健康で鮮やかな花を一年中楽しむための基本的なヒントとコツを学びましょう。</description>
+    </item>
+  </channel>
+</rss>

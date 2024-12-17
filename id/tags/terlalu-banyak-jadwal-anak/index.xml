@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Terlalu Banyak Jadwal Anak on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/tags/terlalu-banyak-jadwal-anak/</link>
+    <link>http://localhost:1313/id/tags/terlalu-banyak-jadwal-anak/</link>
     <description>Recent content in Terlalu Banyak Jadwal Anak on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/tags/terlalu-banyak-jadwal-anak/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/tags/terlalu-banyak-jadwal-anak/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Risiko Terlalu Banyak Menjadwalkan Kegiatan Anak: Bagaimana Aktivitas Setelah Sekolah yang Terlalu Banyak Dapat Mempengaruhi Anak Anda</title>
-      <link>https://www.aixwim.cloud/id/posts/risks-of-over-scheduling-kids/</link>
+      <link>http://localhost:1313/id/posts/risks-of-over-scheduling-kids/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/risks-of-over-scheduling-kids/</guid>
+      <guid>http://localhost:1313/id/posts/risks-of-over-scheduling-kids/</guid>
       <description>Terlalu banyak menjadwalkan anak dengan aktivitas setelah sekolah dapat menyebabkan stres dan meninggalkan sedikit waktu untuk bersantai serta berkumpul dengan keluarga. Pelajari bagaimana menemukan keseimbangan dan menghindari kelelahan.</description>
     </item>
   </channel>

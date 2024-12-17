@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Digital Camera on AIXWIM</title>
+    <link>http://localhost:1313/tags/digital-camera/</link>
+    <description>Recent content in Digital Camera on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>en</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/digital-camera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Camera: The Future of Cameras</title>
+      <link>http://localhost:1313/posts/digital-camera-future/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/digital-camera-future/</guid>
+      <description>Explore the technology behind digital cameras, how they work, and what to look for when purchasing one. Learn about the evolution of image sensors and the future of digital photography.</description>
+    </item>
+  </channel>
+</rss>

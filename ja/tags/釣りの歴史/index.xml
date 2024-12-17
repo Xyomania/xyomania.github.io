@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>釣りの歴史 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E6%AD%B4%E5%8F%B2/</link>
+    <link>http://localhost:1313/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E6%AD%B4%E5%8F%B2/</link>
     <description>Recent content in 釣りの歴史 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E6%AD%B4%E5%8F%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E6%AD%B4%E5%8F%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>バス釣りの事実とその他の情報</title>
-      <link>https://www.aixwim.cloud/ja/posts/bass-fishing-facts/</link>
+      <link>http://localhost:1313/ja/posts/bass-fishing-facts/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/bass-fishing-facts/</guid>
+      <guid>http://localhost:1313/ja/posts/bass-fishing-facts/</guid>
       <description>バス釣りの魅力的な歴史を発見し、重要なマイルストーン、人気のバスの種、そして業界の成長について学びましょう。</description>
     </item>
   </channel>

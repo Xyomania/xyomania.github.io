@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>低成本营销 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%90%A5%E9%94%80/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%90%A5%E9%94%80/</link>
     <description>Recent content in 低成本营销 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%90%A5%E9%94%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%90%A5%E9%94%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>电子邮件营销：经济实惠的互联网营销技巧</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/email-marketing-affordable-internet-marketing/</link>
+      <link>http://localhost:1313/zh-cn/posts/email-marketing-affordable-internet-marketing/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/email-marketing-affordable-internet-marketing/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/email-marketing-affordable-internet-marketing/</guid>
       <description>了解如何有效地利用电子邮件营销作为低成本策略，驱动流量、增强客户互动并促进销售。</description>
     </item>
     <item>
       <title>神奇策略：低成本高级网站流量策略</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/low-cost-advanced-website-traffic-strategies/</link>
+      <link>http://localhost:1313/zh-cn/posts/low-cost-advanced-website-traffic-strategies/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/low-cost-advanced-website-traffic-strategies/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/low-cost-advanced-website-traffic-strategies/</guid>
       <description>探索低成本高级网站流量策略，让您在不超预算的情况下取得显著成果。</description>
     </item>
     <item>
       <title>实现激进的互联网营销：低成本成功策略</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/aggressive-internet-marketing-low-cost/</link>
+      <link>http://localhost:1313/zh-cn/posts/aggressive-internet-marketing-low-cost/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/aggressive-internet-marketing-low-cost/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/aggressive-internet-marketing-low-cost/</guid>
       <description>了解如何实施既实惠又有效的激进互联网营销策略。发现选择低成本数字营销方案前需要问的关键问题。</description>
     </item>
   </channel>

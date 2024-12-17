@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>聯盟計劃 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E8%81%AF%E7%9B%9F%E8%A8%88%E5%8A%83/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E8%81%AF%E7%9B%9F%E8%A8%88%E5%8A%83/</link>
     <description>Recent content in 聯盟計劃 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E8%81%AF%E7%9B%9F%E8%A8%88%E5%8A%83/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E8%81%AF%E7%9B%9F%E8%A8%88%E5%8A%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何成為細分市場中的超級聯盟行銷員</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/super-affiliate-niche-markets/</link>
+      <link>http://localhost:1313/zh-tw/posts/super-affiliate-niche-markets/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/super-affiliate-niche-markets/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/super-affiliate-niche-markets/</guid>
       <description>了解如何在細分市場中成為成功的超級聯盟行銷員，特別是在網站託管領域。學習選擇有利可圖的聯盟計劃並獲得穩定收入的關鍵策略。</description>
     </item>
     <item>
       <title>這麼多聯盟計劃！我該選哪一個？</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/how-to-choose-affiliate-program/</link>
+      <link>http://localhost:1313/zh-tw/posts/how-to-choose-affiliate-program/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/how-to-choose-affiliate-program/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/how-to-choose-affiliate-program/</guid>
       <description>面對眾多聯盟計劃，如何選擇最適合的？在加入聯盟計劃前，了解一些關鍵因素，幫助你最大化收益。</description>
     </item>
   </channel>

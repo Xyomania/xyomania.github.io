@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>粗糙钻石 on AIXWIM</title>
+    <link>http://localhost:1313/zh-cn/tags/%E7%B2%97%E7%B3%99%E9%92%BB%E7%9F%B3/</link>
+    <description>Recent content in 粗糙钻石 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>zh-cn</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E7%B2%97%E7%B3%99%E9%92%BB%E7%9F%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>脏钻石：了解粗糙和不洁的钻石</title>
+      <link>http://localhost:1313/zh-cn/posts/dirty-diamonds/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-cn/posts/dirty-diamonds/</guid>
+      <description>了解脏钻石：它们是什么、为什么会变脏，以及如何保持您的钻石珠宝闪亮。探索粗糙钻石与抛光钻石的区别以及有效的清洁方法。</description>
+    </item>
+  </channel>
+</rss>

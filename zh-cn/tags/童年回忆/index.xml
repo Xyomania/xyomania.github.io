@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>童年回忆 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E7%AB%A5%E5%B9%B4%E5%9B%9E%E5%BF%86/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E7%AB%A5%E5%B9%B4%E5%9B%9E%E5%BF%86/</link>
     <description>Recent content in 童年回忆 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E7%AB%A5%E5%B9%B4%E5%9B%9E%E5%BF%86/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E7%AB%A5%E5%B9%B4%E5%9B%9E%E5%BF%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>学校太多：关于课后活动的个人反思</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/too-much-of-school-reflection/</link>
+      <link>http://localhost:1313/zh-cn/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/too-much-of-school-reflection/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/too-much-of-school-reflection/</guid>
       <description>从孩子的角度反思课后活动的挑战和发展，讲述个人经历。</description>
     </item>
   </channel>

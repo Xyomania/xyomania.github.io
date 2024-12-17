@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>联盟收入 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E8%81%94%E7%9B%9F%E6%94%B6%E5%85%A5/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E8%81%94%E7%9B%9F%E6%94%B6%E5%85%A5/</link>
     <description>Recent content in 联盟收入 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E8%81%94%E7%9B%9F%E6%94%B6%E5%85%A5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E8%81%94%E7%9B%9F%E6%94%B6%E5%85%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>通过产品推荐增加您的利润</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/product-recommendations-boost-sales/</link>
+      <link>http://localhost:1313/zh-cn/posts/product-recommendations-boost-sales/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/product-recommendations-boost-sales/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/product-recommendations-boost-sales/</guid>
       <description>了解如何通过产品推荐增加您的联盟营销收入。发现建立信任、提供有价值的见解和建立信誉的策略。</description>
     </item>
   </channel>

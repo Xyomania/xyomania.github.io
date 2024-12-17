@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>名前の選び方 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E5%90%8D%E5%89%8D%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9/</link>
+    <link>http://localhost:1313/ja/tags/%E5%90%8D%E5%89%8D%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9/</link>
     <description>Recent content in 名前の選び方 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%90%8D%E5%89%8D%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E5%90%8D%E5%89%8D%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Way with Baby Names</title>
-      <link>https://www.aixwim.cloud/ja/posts/the-way-with-baby-names/</link>
+      <link>http://localhost:1313/ja/posts/the-way-with-baby-names/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/the-way-with-baby-names/</guid>
+      <guid>http://localhost:1313/ja/posts/the-way-with-baby-names/</guid>
       <description>赤ちゃんにぴったりの名前を選ぶことは、ただの決定ではありません。それはその子のアイデンティティを形作るものです。完璧な名前を選ぶための重要なコツをご紹介します。</description>
     </item>
   </channel>

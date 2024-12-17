@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>放課後活動 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E6%94%BE%E8%AA%B2%E5%BE%8C%E6%B4%BB%E5%8B%95/</link>
+    <link>http://localhost:1313/ja/tags/%E6%94%BE%E8%AA%B2%E5%BE%8C%E6%B4%BB%E5%8B%95/</link>
     <description>Recent content in 放課後活動 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E6%94%BE%E8%AA%B2%E5%BE%8C%E6%B4%BB%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E6%94%BE%E8%AA%B2%E5%BE%8C%E6%B4%BB%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>お子さんの放課後活動を見つける方法</title>
-      <link>https://www.aixwim.cloud/ja/posts/how-to-find-after-school-activities/</link>
+      <link>http://localhost:1313/ja/posts/how-to-find-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/how-to-find-after-school-activities/</guid>
+      <guid>http://localhost:1313/ja/posts/how-to-find-after-school-activities/</guid>
       <description>お子さんに最適な放課後活動をお探しですか？お子さんの興味やご家族のスケジュールに合った課外活動プログラムを見つけるためのステップバイステップガイドをご紹介します。</description>
     </item>
     <item>
       <title>効果的な放課後活動: 主な特徴と考慮事項</title>
-      <link>https://www.aixwim.cloud/ja/posts/effective-after-school-activities/</link>
+      <link>http://localhost:1313/ja/posts/effective-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/effective-after-school-activities/</guid>
+      <guid>http://localhost:1313/ja/posts/effective-after-school-activities/</guid>
       <description>子どもにとって学び、発展し、楽しむことのバランスを取る効果的な放課後活動の重要な特徴をご紹介します。</description>
     </item>
     <item>
       <title>子どものスケジュール過多のリスク: あまりにも多くの放課後活動が子どもに与える影響</title>
-      <link>https://www.aixwim.cloud/ja/posts/risks-of-over-scheduling-kids/</link>
+      <link>http://localhost:1313/ja/posts/risks-of-over-scheduling-kids/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/risks-of-over-scheduling-kids/</guid>
+      <guid>http://localhost:1313/ja/posts/risks-of-over-scheduling-kids/</guid>
       <description>あまりにも多くの放課後活動で子どもをスケジュール過多にすることは、ストレスを引き起こし、リラックスや家族との時間が取れなくなります。バランスを見つけ、過労を避ける方法を学びましょう。</description>
     </item>
     <item>
       <title>自宅での放課後プログラムを作成する方法：親向けのヒント</title>
-      <link>https://www.aixwim.cloud/ja/posts/home-after-school-program/</link>
+      <link>http://localhost:1313/ja/posts/home-after-school-program/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/home-after-school-program/</guid>
+      <guid>http://localhost:1313/ja/posts/home-after-school-program/</guid>
       <description>学校に課外活動がない場合でも心配無用！お子様の学業、身体的、社会的な成長を支える自宅での放課後プログラムを作る方法をご紹介します。</description>
     </item>
     <item>
       <title>肥満の子供のための放課後活動：健康的な生活への道</title>
-      <link>https://www.aixwim.cloud/ja/posts/after-school-activities-overweight-kids/</link>
+      <link>http://localhost:1313/ja/posts/after-school-activities-overweight-kids/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/after-school-activities-overweight-kids/</guid>
+      <guid>http://localhost:1313/ja/posts/after-school-activities-overweight-kids/</guid>
       <description>肥満の子供たちが活動的で健康的な生活を維持するために、放課後活動がどれほど重要かを探ります。スポーツやフィジカルトレーニングがどのように役立つかを学びましょう。</description>
     </item>
     <item>
       <title>放課後活動と関係構築: つながりを強化する</title>
-      <link>https://www.aixwim.cloud/ja/posts/after-school-activities-relationship-building/</link>
+      <link>http://localhost:1313/ja/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/after-school-activities-relationship-building/</guid>
+      <guid>http://localhost:1313/ja/posts/after-school-activities-relationship-building/</guid>
       <description>放課後プログラムが子どもとメンターの間でどのように意味のある関係を育むか、そしてそのつながりが成長と成功にとってなぜ重要であるかを探ります。</description>
     </item>
     <item>
       <title>放課後活動における燃え尽き症候群を防ぐ方法：保護者向けガイド</title>
-      <link>https://www.aixwim.cloud/ja/posts/avoiding-burnout-in-after-school-activities/</link>
+      <link>http://localhost:1313/ja/posts/avoiding-burnout-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <guid>http://localhost:1313/ja/posts/avoiding-burnout-in-after-school-activities/</guid>
       <description>放課後の活動を管理することは、子どもの幸福と健康の鍵です。子どもを関与させ、満足させながら燃え尽き症候群を防ぐ方法を学びましょう。</description>
     </item>
     <item>
       <title>ADHDの子供の放課後活動: 活動的な子供を引き込む方法</title>
-      <link>https://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/</link>
+      <link>http://localhost:1313/ja/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>http://localhost:1313/ja/posts/after-school-activities-hyperactive-child/</guid>
       <description>ADHDの子供に適した放課後活動を見つけましょう。エネルギーを発散させ、集中力を高め、社交スキルを向上させるスポーツやアートなどの活動を探索しましょう。</description>
     </item>
   </channel>

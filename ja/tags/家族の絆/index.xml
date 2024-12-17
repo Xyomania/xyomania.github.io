@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>家族の絆 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E5%AE%B6%E6%97%8F%E3%81%AE%E7%B5%86/</link>
+    <link>http://localhost:1313/ja/tags/%E5%AE%B6%E6%97%8F%E3%81%AE%E7%B5%86/</link>
     <description>Recent content in 家族の絆 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%AE%B6%E6%97%8F%E3%81%AE%E7%B5%86/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E5%AE%B6%E6%97%8F%E3%81%AE%E7%B5%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>子供のためのガーデニングの利点</title>
-      <link>https://www.aixwim.cloud/ja/posts/benefits-of-gardening-for-kids/</link>
+      <link>http://localhost:1313/ja/posts/benefits-of-gardening-for-kids/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/benefits-of-gardening-for-kids/</guid>
+      <guid>http://localhost:1313/ja/posts/benefits-of-gardening-for-kids/</guid>
       <description>子供のためのガーデニングの多くの利点と、それがどのようにして重要なライフスキルの開発を助け、家族との絆を深めるかについて知りましょう。</description>
     </item>
   </channel>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ダイヤモンドケア on AIXWIM</title>
+    <link>http://localhost:1313/ja/tags/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%82%B1%E3%82%A2/</link>
+    <description>Recent content in ダイヤモンドケア on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>ja</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/tags/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%82%B1%E3%82%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>汚れたダイヤモンド: 原石と汚れたダイヤモンドの理解</title>
+      <link>http://localhost:1313/ja/posts/dirty-diamonds/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/dirty-diamonds/</guid>
+      <description>汚れたダイヤモンドについて学びましょう。それが何であるか、なぜ汚れるのか、そしてダイヤモンドジュエリーを輝かせ続ける方法を知る。原石と磨かれたダイヤモンドの違いや効果的なクリーニング方法を発見しましょう。</description>
+    </item>
+  </channel>
+</rss>

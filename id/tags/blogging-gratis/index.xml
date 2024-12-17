@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogging Gratis on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/tags/blogging-gratis/</link>
+    <link>http://localhost:1313/id/tags/blogging-gratis/</link>
     <description>Recent content in Blogging Gratis on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/tags/blogging-gratis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/tags/blogging-gratis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menggunakan Situs Blogging Gratis</title>
-      <link>https://www.aixwim.cloud/id/posts/using-a-free-blogging-website/</link>
+      <link>http://localhost:1313/id/posts/using-a-free-blogging-website/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/using-a-free-blogging-website/</guid>
+      <guid>http://localhost:1313/id/posts/using-a-free-blogging-website/</guid>
       <description>Pelajari cara memulai blog menggunakan platform gratis seperti Blogger dan Eponym. Sempurna untuk pemula yang ingin menjelajahi blogging tanpa biaya awal.</description>
     </item>
   </channel>

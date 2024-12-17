@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>客戶互動 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%AE%A2%E6%88%B6%E4%BA%92%E5%8B%95/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E5%AE%A2%E6%88%B6%E4%BA%92%E5%8B%95/</link>
     <description>Recent content in 客戶互動 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%AE%A2%E6%88%B6%E4%BA%92%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E5%AE%A2%E6%88%B6%E4%BA%92%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>電子郵件行銷：經濟實惠的網路行銷技巧</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/email-marketing-affordable-internet-marketing/</link>
+      <link>http://localhost:1313/zh-tw/posts/email-marketing-affordable-internet-marketing/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/email-marketing-affordable-internet-marketing/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/email-marketing-affordable-internet-marketing/</guid>
       <description>學習如何有效運用電子郵件行銷作為低成本策略，提升流量、增強客戶互動並促進銷售。</description>
     </item>
   </channel>

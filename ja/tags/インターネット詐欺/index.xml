@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>インターネット詐欺 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E8%A9%90%E6%AC%BA/</link>
+    <link>http://localhost:1313/ja/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E8%A9%90%E6%AC%BA/</link>
     <description>Recent content in インターネット詐欺 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E8%A9%90%E6%AC%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E8%A9%90%E6%AC%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>低コスト広告とインターネット詐欺</title>
-      <link>https://www.aixwim.cloud/ja/posts/low-cost-advertising-internet-scams/</link>
+      <link>http://localhost:1313/ja/posts/low-cost-advertising-internet-scams/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/low-cost-advertising-internet-scams/</guid>
+      <guid>http://localhost:1313/ja/posts/low-cost-advertising-internet-scams/</guid>
       <description>オンライン広告詐欺からビジネスを守る方法を学び、効果的な低コスト広告戦略を見つけましょう。</description>
     </item>
   </channel>

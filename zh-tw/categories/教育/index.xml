@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>教育 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/categories/%E6%95%99%E8%82%B2/</link>
+    <link>http://localhost:1313/zh-tw/categories/%E6%95%99%E8%82%B2/</link>
     <description>Recent content in 教育 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E6%95%99%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/categories/%E6%95%99%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>針對超重兒童的課後活動：邁向更健康生活的道路</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-overweight-kids/</link>
+      <link>http://localhost:1313/zh-tw/posts/after-school-activities-overweight-kids/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-overweight-kids/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/after-school-activities-overweight-kids/</guid>
       <description>探討課後活動在對抗兒童肥胖中的重要性，了解運動和身體鍛鍊如何幫助超重兒童保持活躍和健康。</description>
     </item>
     <item>
       <title>課後活動對兒童的好處</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/benefits-of-after-school-programs/</link>
+      <link>http://localhost:1313/zh-tw/posts/benefits-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/benefits-of-after-school-programs/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/benefits-of-after-school-programs/</guid>
       <description>了解一個好的課後活動的各種好處，從提升孩子的技能到促進社交，預防不良習慣。</description>
     </item>
     <item>
       <title>課後活動與關係建設：加強聯繫</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-relationship-building/</link>
+      <link>http://localhost:1313/zh-tw/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-relationship-building/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/after-school-activities-relationship-building/</guid>
       <description>了解課後項目如何促進孩子與導師之間的有意義關係，以及為何這些關係對成長與成功至關重要。</description>
     </item>
     <item>
       <title>學校太多：關於課後活動的個人反思</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/too-much-of-school-reflection/</link>
+      <link>http://localhost:1313/zh-tw/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/too-much-of-school-reflection/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/too-much-of-school-reflection/</guid>
       <description>從孩子的角度反思課後活動的挑戰與發展，講述個人經歷。</description>
     </item>
     <item>
       <title>為多動症孩子設計的課後活動：如何讓ADHD孩子參與</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-hyperactive-child/</link>
+      <link>http://localhost:1313/zh-tw/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/after-school-activities-hyperactive-child/</guid>
       <description>發現適合ADHD孩子的課後活動。探索運動、藝術和其他活動，這些活動有助於引導能量、提高專注力並培養社交技能。</description>
     </item>
   </channel>

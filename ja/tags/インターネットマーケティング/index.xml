@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>インターネットマーケティング on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+    <link>http://localhost:1313/ja/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
     <description>Recent content in インターネットマーケティング on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>クリックを引き出すためのリソースボックスの書き方</title>
-      <link>https://www.aixwim.cloud/ja/posts/resource-box-clicks/</link>
+      <link>http://localhost:1313/ja/posts/resource-box-clicks/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/resource-box-clicks/</guid>
+      <guid>http://localhost:1313/ja/posts/resource-box-clicks/</guid>
       <description>記事のリソースボックスを魅力的に書いて、ウェブサイトへのトラフィックを促進する方法を学びましょう。</description>
     </item>
     <item>
       <title>記事作成を活用した手頃なインターネットマーケティング方法</title>
-      <link>https://www.aixwim.cloud/ja/posts/writing-articles-affordable-marketing/</link>
+      <link>http://localhost:1313/ja/posts/writing-articles-affordable-marketing/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/writing-articles-affordable-marketing/</guid>
+      <guid>http://localhost:1313/ja/posts/writing-articles-affordable-marketing/</guid>
       <description>記事作成がどのように低コストで効果的なインターネットマーケティング戦略となるかを学びましょう。SEOを強化し、バックリンクを獲得し、無料トラフィックを集めるこの強力な方法をご紹介します。</description>
     </item>
     <item>
       <title>Tool Talk: インターネットマーケティングツールについて</title>
-      <link>https://www.aixwim.cloud/ja/posts/internet-marketing-tools/</link>
+      <link>http://localhost:1313/ja/posts/internet-marketing-tools/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/internet-marketing-tools/</guid>
+      <guid>http://localhost:1313/ja/posts/internet-marketing-tools/</guid>
       <description>ウェブサイトのパフォーマンスを向上させ、トラフィックを増加させるための手頃なインターネットマーケティングツールを探る。メールマーケティング、SEO、その他の低コストソリューションについて学ぶ。</description>
     </item>
     <item>
       <title>ブログ: 無料のインターネットマーケティング方法</title>
-      <link>https://www.aixwim.cloud/ja/posts/blogging-free-internet-marketing-method/</link>
+      <link>http://localhost:1313/ja/posts/blogging-free-internet-marketing-method/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/blogging-free-internet-marketing-method/</guid>
+      <guid>http://localhost:1313/ja/posts/blogging-free-internet-marketing-method/</guid>
       <description>ブログを活用して、コストをかけずにビジネスを宣伝し、ウェブサイトの可視性を向上させる方法を学びましょう。マーケティング成功へのヒントをご紹介します。</description>
     </item>
     <item>
       <title>予算を抑えたベストなインターネットマーケティングソリューション</title>
-      <link>https://www.aixwim.cloud/ja/posts/best-internet-marketing-solutions-without-overspending/</link>
+      <link>http://localhost:1313/ja/posts/best-internet-marketing-solutions-without-overspending/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/best-internet-marketing-solutions-without-overspending/</guid>
+      <guid>http://localhost:1313/ja/posts/best-internet-marketing-solutions-without-overspending/</guid>
       <description>予算を抑えながらリーチを拡大できる費用対効果の高いインターネットマーケティングソリューションをご紹介します。メールマーケティングやSEOについて学びましょう。</description>
     </item>
     <item>
       <title>アフィリエイトマーケティング: なぜこれがビジネスを広告するための最も費用対効果の高い方法の1つなのか</title>
-      <link>https://www.aixwim.cloud/ja/posts/affiliate-marketing-cost-effective/</link>
+      <link>http://localhost:1313/ja/posts/affiliate-marketing-cost-effective/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/affiliate-marketing-cost-effective/</guid>
+      <guid>http://localhost:1313/ja/posts/affiliate-marketing-cost-effective/</guid>
       <description>アフィリエイトマーケティングは、オンラインでビジネスを広告するための最も費用対効果の高い方法の1つを提供します。このモデルがデジタルマーケターの間で非常に人気がある理由と、それがビジネス成長にどのように役立つかを学びましょう。</description>
     </item>
     <item>
       <title>手頃な広告代理店: オンラインプレゼンスを向上させる低コストの方法</title>
-      <link>https://www.aixwim.cloud/ja/posts/affordable-advertising-agencies/</link>
+      <link>http://localhost:1313/ja/posts/affordable-advertising-agencies/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/affordable-advertising-agencies/</guid>
+      <guid>http://localhost:1313/ja/posts/affordable-advertising-agencies/</guid>
       <description>オンラインプレゼンスを向上させ、ビジネスを成長させるのに役立つ手頃な広告代理店を見つけましょう。さまざまな種類の代理店について学び、あなたのニーズに最適なものを見つける方法をご紹介します。</description>
     </item>
     <item>
       <title>貯金を傷つけないインターネットマーケティング戦略</title>
-      <link>https://www.aixwim.cloud/ja/posts/affordable-internet-marketing-strategies/</link>
+      <link>http://localhost:1313/ja/posts/affordable-internet-marketing-strategies/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/affordable-internet-marketing-strategies/</guid>
+      <guid>http://localhost:1313/ja/posts/affordable-internet-marketing-strategies/</guid>
       <description>ビジネスをオンラインで宣伝するための手頃な方法を探していますか？ こちらの低コストで効果的なインターネットマーケティング戦略をご覧ください。予算を節約しながら視認性とリーチを増やします。</description>
     </item>
   </channel>

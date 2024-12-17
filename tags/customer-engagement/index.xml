@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Customer Engagement on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/customer-engagement/</link>
+    <link>http://localhost:1313/tags/customer-engagement/</link>
     <description>Recent content in Customer Engagement on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/customer-engagement/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/customer-engagement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Email Marketing: Affordable Internet Marketing Technique</title>
-      <link>https://www.aixwim.cloud/posts/email-marketing-affordable-internet-marketing/</link>
+      <link>http://localhost:1313/posts/email-marketing-affordable-internet-marketing/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/email-marketing-affordable-internet-marketing/</guid>
+      <guid>http://localhost:1313/posts/email-marketing-affordable-internet-marketing/</guid>
       <description>Learn how to effectively use email marketing as a low-cost strategy to drive traffic, engage customers, and boost sales for your business.</description>
     </item>
   </channel>

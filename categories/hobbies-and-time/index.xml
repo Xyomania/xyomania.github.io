@@ -2,114 +2,135 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hobbies and Time on AIXWIM</title>
-    <link>https://www.aixwim.cloud/categories/hobbies-and-time/</link>
+    <link>http://localhost:1313/categories/hobbies-and-time/</link>
     <description>Recent content in Hobbies and Time on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/categories/hobbies-and-time/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/hobbies-and-time/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Care of the Flower Garden</title>
+      <link>http://localhost:1313/posts/care-of-the-flower-garden/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/care-of-the-flower-garden/</guid>
+      <description>Learn the essential tips and tricks for caring for your flower garden to ensure healthy and vibrant blooms all season long.</description>
+    </item>
+    <item>
+      <title>Catfishing the Right But Simple Way</title>
+      <link>http://localhost:1313/posts/catfishing-the-right-but-simple-way/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/catfishing-the-right-but-simple-way/</guid>
+      <description>Master the basics of catfishing with these proven methods. Learn simple techniques, baiting tips, and safety practices for a successful fishing adventure.</description>
+    </item>
+    <item>
+      <title>Choosing the Best Plants for Your Garden</title>
+      <link>http://localhost:1313/posts/choosing-best-plants-for-garden/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/choosing-best-plants-for-garden/</guid>
+      <description>Learn how to select the best plants for your garden by considering soil, sunlight, and design to create a harmonious outdoor space.</description>
+    </item>
     <item>
       <title>Butterfly Gardening</title>
-      <link>https://www.aixwim.cloud/posts/butterfly-gardening/</link>
+      <link>http://localhost:1313/posts/butterfly-gardening/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/butterfly-gardening/</guid>
+      <guid>http://localhost:1313/posts/butterfly-gardening/</guid>
       <description>Learn how to design a butterfly garden that attracts beautiful butterflies and creates a safe habitat for them.</description>
     </item>
     <item>
       <title>Deep Sea Fishing Tips</title>
-      <link>https://www.aixwim.cloud/posts/deep-sea-fishing-tips/</link>
+      <link>http://localhost:1313/posts/deep-sea-fishing-tips/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/deep-sea-fishing-tips/</guid>
+      <guid>http://localhost:1313/posts/deep-sea-fishing-tips/</guid>
       <description>Enhance your deep sea fishing experience with these essential tips for a successful and enjoyable adventure.</description>
     </item>
     <item>
       <title>In Search of the Best Gardening Tools</title>
-      <link>https://www.aixwim.cloud/posts/best-gardening-tools-guide/</link>
+      <link>http://localhost:1313/posts/best-gardening-tools-guide/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/best-gardening-tools-guide/</guid>
+      <guid>http://localhost:1313/posts/best-gardening-tools-guide/</guid>
       <description>Discover how to choose the right gardening tools for your needs, whether you have a small garden or a large one. Learn the essentials for efficient and enjoyable gardening.</description>
     </item>
     <item>
       <title>More About Butterfly Gardening</title>
-      <link>https://www.aixwim.cloud/posts/butterfly-gardening-tips/</link>
+      <link>http://localhost:1313/posts/butterfly-gardening-tips/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/butterfly-gardening-tips/</guid>
+      <guid>http://localhost:1313/posts/butterfly-gardening-tips/</guid>
       <description>Learn how to design a beautiful butterfly garden that attracts local butterfly species while creating a tranquil outdoor retreat.</description>
     </item>
     <item>
       <title>Basic Carp Fishing Pointers</title>
-      <link>https://www.aixwim.cloud/posts/basic-carp-fishing-pointers/</link>
+      <link>http://localhost:1313/posts/basic-carp-fishing-pointers/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/basic-carp-fishing-pointers/</guid>
+      <guid>http://localhost:1313/posts/basic-carp-fishing-pointers/</guid>
       <description>Learn the essential tips and tricks for successful carp fishing. From baiting techniques to the best setup for catching carp, discover everything you need to know.</description>
     </item>
     <item>
       <title>Bass Fishing Facts and More</title>
-      <link>https://www.aixwim.cloud/posts/bass-fishing-facts/</link>
+      <link>http://localhost:1313/posts/bass-fishing-facts/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/bass-fishing-facts/</guid>
+      <guid>http://localhost:1313/posts/bass-fishing-facts/</guid>
       <description>Discover the fascinating history of bass fishing, including important milestones, popular bass species, and the industry&amp;#39;s growth.</description>
     </item>
     <item>
       <title>Benefits of Gardening for Kids</title>
-      <link>https://www.aixwim.cloud/posts/benefits-of-gardening-for-kids/</link>
+      <link>http://localhost:1313/posts/benefits-of-gardening-for-kids/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/benefits-of-gardening-for-kids/</guid>
+      <guid>http://localhost:1313/posts/benefits-of-gardening-for-kids/</guid>
       <description>Discover the many benefits of gardening for kids and how it can help them develop important life skills while bonding with family.</description>
     </item>
     <item>
       <title>Best Lures to Use in Fishing</title>
-      <link>https://www.aixwim.cloud/posts/best-fishing-lures/</link>
+      <link>http://localhost:1313/posts/best-fishing-lures/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/best-fishing-lures/</guid>
+      <guid>http://localhost:1313/posts/best-fishing-lures/</guid>
       <description>Explore the best fishing lures and their specific uses for catching various fish species. Learn about the different types of lures and how to maximize their effectiveness.</description>
     </item>
     <item>
       <title>5 Useful Tips on Trout Fishing</title>
-      <link>https://www.aixwim.cloud/posts/5-tips-trout-fishing/</link>
+      <link>http://localhost:1313/posts/5-tips-trout-fishing/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/5-tips-trout-fishing/</guid>
+      <guid>http://localhost:1313/posts/5-tips-trout-fishing/</guid>
       <description>Essential tips for successful trout fishing, focusing on technique, habitat, and strategy.</description>
     </item>
     <item>
       <title>5 Easy Ways to Get Your Creative Juices Flowing</title>
-      <link>https://www.aixwim.cloud/posts/ways-to-get-creative-juices-flowing/</link>
+      <link>http://localhost:1313/posts/ways-to-get-creative-juices-flowing/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/ways-to-get-creative-juices-flowing/</guid>
+      <guid>http://localhost:1313/posts/ways-to-get-creative-juices-flowing/</guid>
       <description>Struggling with writer&amp;#39;s block or a creative slump? Here are 5 simple and effective strategies to reignite your creativity and get ideas flowing again.</description>
     </item>
     <item>
       <title>The Pros and Cons of Video Blogging</title>
-      <link>https://www.aixwim.cloud/posts/pros-cons-video-blogging/</link>
+      <link>http://localhost:1313/posts/pros-cons-video-blogging/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/pros-cons-video-blogging/</guid>
+      <guid>http://localhost:1313/posts/pros-cons-video-blogging/</guid>
       <description>Video blogging offers dynamic, engaging content, but it also presents several challenges. Explore the pros and cons of video blogging in this article.</description>
     </item>
     <item>
       <title>Baby Beanies: The Baby Toy of All Time?</title>
-      <link>https://www.aixwim.cloud/posts/baby-beanies-toy-of-all-time/</link>
+      <link>http://localhost:1313/posts/baby-beanies-toy-of-all-time/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/baby-beanies-toy-of-all-time/</guid>
+      <guid>http://localhost:1313/posts/baby-beanies-toy-of-all-time/</guid>
       <description>Discover the history of baby beanies (beanie babies), from their introduction in 1994 to their impact on toy collectors and the lasting appeal of these soft, lifelike toys for babies.</description>
     </item>
     <item>
       <title>After-School Activities and Relationship Building: Strengthening Connections</title>
-      <link>https://www.aixwim.cloud/posts/after-school-activities-relationship-building/</link>
+      <link>http://localhost:1313/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/after-school-activities-relationship-building/</guid>
+      <guid>http://localhost:1313/posts/after-school-activities-relationship-building/</guid>
       <description>Discover how after-school programs foster meaningful relationships between children and mentors, and why these connections are vital for growth and success.</description>
     </item>
     <item>
       <title>Avoiding Burnout in After-School Activities: A Parent’s Guide</title>
-      <link>https://www.aixwim.cloud/posts/avoiding-burnout-in-after-school-activities/</link>
+      <link>http://localhost:1313/posts/avoiding-burnout-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <guid>http://localhost:1313/posts/avoiding-burnout-in-after-school-activities/</guid>
       <description>Managing after-school activities is key to a child&amp;#39;s happiness and well-being. Learn how to avoid burnout while keeping your child engaged and fulfilled.</description>
     </item>
   </channel>

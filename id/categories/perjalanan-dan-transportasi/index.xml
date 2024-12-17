@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Perjalanan Dan Transportasi on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/categories/perjalanan-dan-transportasi/</link>
+    <link>http://localhost:1313/id/categories/perjalanan-dan-transportasi/</link>
     <description>Recent content in Perjalanan Dan Transportasi on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/categories/perjalanan-dan-transportasi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/categories/perjalanan-dan-transportasi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alaska Fishing Lodge: Tempat Perlindungan Alam</title>
-      <link>https://www.aixwim.cloud/id/posts/alaska-fishing-lodge-natures-abode/</link>
+      <link>http://localhost:1313/id/posts/alaska-fishing-lodge-natures-abode/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/alaska-fishing-lodge-natures-abode/</guid>
+      <guid>http://localhost:1313/id/posts/alaska-fishing-lodge-natures-abode/</guid>
       <description>Temukan pengalaman memancing terbaik di Alaska Fishing Lodge, di mana kenyamanan, keterjangkauan, dan berbagai spesies ikan bertemu.</description>
     </item>
   </channel>

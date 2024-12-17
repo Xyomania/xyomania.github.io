@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SEO排名 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/seo%E6%8E%92%E5%90%8D/</link>
+    <link>http://localhost:1313/zh-cn/tags/seo%E6%8E%92%E5%90%8D/</link>
     <description>Recent content in SEO排名 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/seo%E6%8E%92%E5%90%8D/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/seo%E6%8E%92%E5%90%8D/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>低成本网站推广的两个基本部分</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/low-cost-website-promotion/</link>
+      <link>http://localhost:1313/zh-cn/posts/low-cost-website-promotion/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/low-cost-website-promotion/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/low-cost-website-promotion/</guid>
       <description>了解有效低成本网站推广的两个基本组成部分：搜索引擎提交和排名，以及它们如何为您的网站带来流量。</description>
     </item>
   </channel>

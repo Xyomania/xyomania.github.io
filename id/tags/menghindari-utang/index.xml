@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Menghindari Utang on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/tags/menghindari-utang/</link>
+    <link>http://localhost:1313/id/tags/menghindari-utang/</link>
     <description>Recent content in Menghindari Utang on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/tags/menghindari-utang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/tags/menghindari-utang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keluar dan Tetap Bebas dari Utang Kartu Kredit: Panduan Praktis</title>
-      <link>https://www.aixwim.cloud/id/posts/credit-card-debt-guide/</link>
+      <link>http://localhost:1313/id/posts/credit-card-debt-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/credit-card-debt-guide/</guid>
+      <guid>http://localhost:1313/id/posts/credit-card-debt-guide/</guid>
       <description>Temukan strategi untuk terbebas dari utang kartu kredit dan membangun masa depan keuangan yang lebih sehat. Pelajari cara mengelola pengeluaran, mengikuti rencana pembayaran, dan menghindari utang di masa depan.</description>
     </item>
   </channel>

@@ -2,37 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>財務管理 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E8%B2%A1%E5%8B%99%E7%AE%A1%E7%90%86/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E8%B2%A1%E5%8B%99%E7%AE%A1%E7%90%86/</link>
     <description>Recent content in 財務管理 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E8%B2%A1%E5%8B%99%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E8%B2%A1%E5%8B%99%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>有效的省錢技巧：預算與財務策略</title>
+      <link>http://localhost:1313/zh-tw/posts/effective-tips-on-how-to-save-money/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/effective-tips-on-how-to-save-money/</guid>
+      <description>通過預算、管理必要開支和做出更明智的財務決策，發現有效的省錢技巧。</description>
+    </item>
     <item>
       <title>少量投入大成效：聰明預算管理秘訣</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</link>
+      <link>http://localhost:1313/zh-tw/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</guid>
       <description>發現有效的預算管理、債務管理及追蹤支出的聰明秘訣，幫助你存更多錢。</description>
     </item>
     <item>
       <title>使用預算軟體的優勢</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/advantages-of-money-budgeting-software/</link>
+      <link>http://localhost:1313/zh-tw/posts/advantages-of-money-budgeting-software/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/advantages-of-money-budgeting-software/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/advantages-of-money-budgeting-software/</guid>
       <description>了解預算軟體如何幫助您管理財務、追蹤支出並創建可持續的預算。</description>
     </item>
     <item>
       <title>如何擺脫信用卡債務並避免再次陷入：實用指南</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/credit-card-debt-guide/</link>
+      <link>http://localhost:1313/zh-tw/posts/credit-card-debt-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/credit-card-debt-guide/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/credit-card-debt-guide/</guid>
       <description>發現擺脫信用卡債務並建立健康財務未來的策略。學習如何管理支出、堅持償還計劃並避免未來的債務。</description>
     </item>
   </channel>

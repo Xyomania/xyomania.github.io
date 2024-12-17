@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>抓鯰魚 on AIXWIM</title>
+    <link>http://localhost:1313/zh-tw/tags/%E6%8A%93%E9%AF%B0%E9%AD%9A/</link>
+    <description>Recent content in 抓鯰魚 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E6%8A%93%E9%AF%B0%E9%AD%9A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>正確且簡單的抓鯰魚方法</title>
+      <link>http://localhost:1313/zh-tw/posts/catfishing-the-right-but-simple-way/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/catfishing-the-right-but-simple-way/</guid>
+      <description>通過這些經過驗證的方法掌握抓鯰魚的基本知識。學習簡單的技巧、餌料建議和安全實踐，享受成功的釣魚冒險。</description>
+    </item>
+  </channel>
+</rss>

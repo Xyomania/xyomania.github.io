@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>家庭の貯金 on AIXWIM</title>
+    <link>http://localhost:1313/ja/tags/%E5%AE%B6%E5%BA%AD%E3%81%AE%E8%B2%AF%E9%87%91/</link>
+    <description>Recent content in 家庭の貯金 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>ja</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/tags/%E5%AE%B6%E5%BA%AD%E3%81%AE%E8%B2%AF%E9%87%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>お金を節約するための効果的なヒント：予算管理と財務戦略</title>
+      <link>http://localhost:1313/ja/posts/effective-tips-on-how-to-save-money/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/effective-tips-on-how-to-save-money/</guid>
+      <description>予算編成、必需品の管理、賢い財務決定を通じてお金を節約する実用的で実行可能なヒントを発見しましょう。</description>
+    </item>
+  </channel>
+</rss>

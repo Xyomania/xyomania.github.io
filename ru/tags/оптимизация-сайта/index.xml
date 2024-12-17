@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Оптимизация Сайта on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/tags/%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%81%D0%B0%D0%B9%D1%82%D0%B0/</link>
+    <link>http://localhost:1313/ru/tags/%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%81%D0%B0%D0%B9%D1%82%D0%B0/</link>
     <description>Recent content in Оптимизация Сайта on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/tags/%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%81%D0%B0%D0%B9%D1%82%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/tags/%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%81%D0%B0%D0%B9%D1%82%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Эффективное SEO за небольшие деньги</title>
-      <link>https://www.aixwim.cloud/ru/posts/effective-cheap-seo-strategies/</link>
+      <link>http://localhost:1313/ru/posts/effective-cheap-seo-strategies/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/effective-cheap-seo-strategies/</guid>
+      <guid>http://localhost:1313/ru/posts/effective-cheap-seo-strategies/</guid>
       <description>Узнайте доступные методы SEO, которые помогут увеличить трафик вашего сайта без больших затрат. Изучите практические стратегии для улучшения позиций в поисковых системах.</description>
     </item>
     <item>
       <title>Эффективное SEO по доступной цене</title>
-      <link>https://www.aixwim.cloud/ru/posts/effective-seo-comes-cheap/</link>
+      <link>http://localhost:1313/ru/posts/effective-seo-comes-cheap/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/effective-seo-comes-cheap/</guid>
+      <guid>http://localhost:1313/ru/posts/effective-seo-comes-cheap/</guid>
       <description>Откройте для себя доступные SEO-стратегии, которые помогут увеличить трафик на вашем сайте, не тратя много денег. Узнайте, как улучшить позицию в поисковых системах с помощью недорогих методов.</description>
     </item>
     <item>
       <title>Агрессивный интернет-маркетинг, ставший возможным: стратегии с низкими затратами для успеха</title>
-      <link>https://www.aixwim.cloud/ru/posts/aggressive-internet-marketing-low-cost/</link>
+      <link>http://localhost:1313/ru/posts/aggressive-internet-marketing-low-cost/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/aggressive-internet-marketing-low-cost/</guid>
+      <guid>http://localhost:1313/ru/posts/aggressive-internet-marketing-low-cost/</guid>
       <description>Узнайте, как реализовать агрессивные интернет-маркетинговые стратегии, которые являются доступными и эффективными. Откройте для себя ключевые вопросы, которые следует задать перед выбором низкозатратного цифрового маркетинга.</description>
     </item>
   </channel>

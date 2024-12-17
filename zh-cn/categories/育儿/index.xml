@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>育儿 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/categories/%E8%82%B2%E5%84%BF/</link>
+    <link>http://localhost:1313/zh-cn/categories/%E8%82%B2%E5%84%BF/</link>
     <description>Recent content in 育儿 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/categories/%E8%82%B2%E5%84%BF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/categories/%E8%82%B2%E5%84%BF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>孩子种植园艺的好处</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/benefits-of-gardening-for-kids/</link>
+      <link>http://localhost:1313/zh-cn/posts/benefits-of-gardening-for-kids/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/benefits-of-gardening-for-kids/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/benefits-of-gardening-for-kids/</guid>
       <description>了解孩子参与园艺的众多好处，以及如何通过园艺帮助他们培养重要的生活技能，同时增进家庭关系。</description>
     </item>
     <item>
       <title>The Way with Baby Names</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/the-way-with-baby-names/</link>
+      <link>http://localhost:1313/zh-cn/posts/the-way-with-baby-names/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/the-way-with-baby-names/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/the-way-with-baby-names/</guid>
       <description>为宝宝选择合适的名字不仅仅是一个决定——它塑造了他们的身份。以下是选择完美宝宝名字的关键建议。</description>
     </item>
     <item>
       <title>宝宝派对即将开始!!!!</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/one-baby-bash-coming-up/</link>
+      <link>http://localhost:1313/zh-cn/posts/one-baby-bash-coming-up/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/one-baby-bash-coming-up/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/one-baby-bash-coming-up/</guid>
       <description>正在筹划一个难忘的宝宝派对？以下是一些必备技巧，帮助您让宝宝的生日派对既有趣又难忘！</description>
     </item>
     <item>
       <title>婴儿哭泣：了解您的宝宝需要什么</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/baby-crying-understanding-communication/</link>
+      <link>http://localhost:1313/zh-cn/posts/baby-crying-understanding-communication/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/baby-crying-understanding-communication/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/baby-crying-understanding-communication/</guid>
       <description>哭泣是婴儿的一种交流方式。了解婴儿哭泣的原因以及如何应对前几个月的不同哭声。</description>
     </item>
     <item>
       <title>课后安全：家长必备的建议与提醒</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/after-school-safety-tips-for-parents/</link>
+      <link>http://localhost:1313/zh-cn/posts/after-school-safety-tips-for-parents/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/after-school-safety-tips-for-parents/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/after-school-safety-tips-for-parents/</guid>
       <description>通过这些实用的建议，确保您孩子放学后的安全。从紧急情况准备到识别危险区域，了解如何保护您的孩子。</description>
     </item>
     <item>
       <title>课后活动对儿童的好处</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</link>
+      <link>http://localhost:1313/zh-cn/posts/benefits-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/benefits-of-after-school-programs/</guid>
       <description>发现一个好的课后活动的众多好处，从提高孩子的技能到促进社交，预防不良习惯。</description>
     </item>
     <item>
       <title>学校太多：关于课后活动的个人反思</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/too-much-of-school-reflection/</link>
+      <link>http://localhost:1313/zh-cn/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/too-much-of-school-reflection/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/too-much-of-school-reflection/</guid>
       <description>从孩子的角度反思课后活动的挑战和发展，讲述个人经历。</description>
     </item>
     <item>
       <title>针对超重儿童的课后活动：通向更健康生活的道路</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-overweight-kids/</link>
+      <link>http://localhost:1313/zh-cn/posts/after-school-activities-overweight-kids/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-overweight-kids/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/after-school-activities-overweight-kids/</guid>
       <description>探讨课后活动在对抗儿童肥胖中的重要性。了解运动和身体锻炼如何帮助超重儿童保持活跃和健康。</description>
     </item>
     <item>
       <title>为多动症孩子设计的课后活动：如何让ADHD孩子参与</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</link>
+      <link>http://localhost:1313/zh-cn/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/after-school-activities-hyperactive-child/</guid>
       <description>发现适合ADHD孩子的课后活动。探索运动、艺术和其他活动，这些活动有助于引导能量、提高专注力并培养社交技能。</description>
     </item>
   </channel>

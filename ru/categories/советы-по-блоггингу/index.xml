@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Советы По Блоггингу on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/categories/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D0%B1%D0%BB%D0%BE%D0%B3%D0%B3%D0%B8%D0%BD%D0%B3%D1%83/</link>
+    <link>http://localhost:1313/ru/categories/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D0%B1%D0%BB%D0%BE%D0%B3%D0%B3%D0%B8%D0%BD%D0%B3%D1%83/</link>
     <description>Recent content in Советы По Блоггингу on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/categories/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D0%B1%D0%BB%D0%BE%D0%B3%D0%B3%D0%B8%D0%BD%D0%B3%D1%83/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/categories/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D0%B1%D0%BB%D0%BE%D0%B3%D0%B3%D0%B8%D0%BD%D0%B3%D1%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Личный блог, документалистика и история</title>
-      <link>https://www.aixwim.cloud/ru/posts/personal-blogging-documentary-history/</link>
+      <link>http://localhost:1313/ru/posts/personal-blogging-documentary-history/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/personal-blogging-documentary-history/</guid>
+      <guid>http://localhost:1313/ru/posts/personal-blogging-documentary-history/</guid>
       <description>Исследуйте пересечение личного блоггинга, документалистики и мемуаров, а также то, как современные блоги формируют исторический нарратив нашего времени.</description>
     </item>
     <item>
       <title>Фотоблогинг: Вершина Современных Технологий</title>
-      <link>https://www.aixwim.cloud/ru/posts/photo-blogging-pinnacle-modern-technology/</link>
+      <link>http://localhost:1313/ru/posts/photo-blogging-pinnacle-modern-technology/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/photo-blogging-pinnacle-modern-technology/</guid>
+      <guid>http://localhost:1313/ru/posts/photo-blogging-pinnacle-modern-technology/</guid>
       <description>Фотоблогинг сочетает силу изображений с возможностями интернета, предлагая эмоционально захватывающий и эстетичный опыт как для создателей, так и для зрителей.</description>
     </item>
     <item>
       <title>Как зарабатывать деньги на блоге</title>
-      <link>https://www.aixwim.cloud/ru/posts/make-money-blogging/</link>
+      <link>http://localhost:1313/ru/posts/make-money-blogging/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/make-money-blogging/</guid>
+      <guid>http://localhost:1313/ru/posts/make-money-blogging/</guid>
       <description>Изучите два основных способа монетизации блога: продажу рекламы и партнерство с компаниями для улучшения имиджа бренда.</description>
     </item>
     <item>
       <title>Как научиться пользоваться блоггинг-софтом</title>
-      <link>https://www.aixwim.cloud/ru/posts/how-to-learn-blogging-software/</link>
+      <link>http://localhost:1313/ru/posts/how-to-learn-blogging-software/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/how-to-learn-blogging-software/</guid>
+      <guid>http://localhost:1313/ru/posts/how-to-learn-blogging-software/</guid>
       <description>Узнайте лучший подход к освоению блоггинг-софта и избегайте перегрузки в процессе обучения.</description>
     </item>
     <item>
       <title>Мобильные блоги на передовой</title>
-      <link>https://www.aixwim.cloud/ru/posts/mobile-blogging-cutting-edge/</link>
+      <link>http://localhost:1313/ru/posts/mobile-blogging-cutting-edge/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/mobile-blogging-cutting-edge/</guid>
+      <guid>http://localhost:1313/ru/posts/mobile-blogging-cutting-edge/</guid>
       <description>Узнайте о развивающемся явлении мобильного блогинга (моблогинга) и о том, как оно революционизирует коммуникацию в реальном времени в блогосфере.</description>
     </item>
     <item>
       <title>Блоггинг для владельцев бизнеса</title>
-      <link>https://www.aixwim.cloud/ru/posts/blogging-for-business-owners/</link>
+      <link>http://localhost:1313/ru/posts/blogging-for-business-owners/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/blogging-for-business-owners/</guid>
+      <guid>http://localhost:1313/ru/posts/blogging-for-business-owners/</guid>
       <description>Узнайте, как блоггинг может помочь владельцам малого бизнеса продвигать свои продукты, вдохновлять лояльность сотрудников и вывести бизнес на новый уровень.</description>
     </item>
     <item>
       <title>Блоггинг для прибыли начинается с долгосрочного плана</title>
-      <link>https://www.aixwim.cloud/ru/posts/blogging-for-profit-plan/</link>
+      <link>http://localhost:1313/ru/posts/blogging-for-profit-plan/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/blogging-for-profit-plan/</guid>
+      <guid>http://localhost:1313/ru/posts/blogging-for-profit-plan/</guid>
       <description>Откройте ключевые стратегии для превращения блоггинга в прибыльное дело. Успех начинается с прочного долгосрочного плана.</description>
     </item>
     <item>
       <title>Блоггинг новостей по мере их развития</title>
-      <link>https://www.aixwim.cloud/ru/posts/blogging-news-stories/</link>
+      <link>http://localhost:1313/ru/posts/blogging-news-stories/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/blogging-news-stories/</guid>
+      <guid>http://localhost:1313/ru/posts/blogging-news-stories/</guid>
       <description>Изучите, как блоггинг стал платформой для новостей в реальном времени и его влияние на мир журналистики.</description>
     </item>
     <item>
       <title>Блоггинг, консолидация долгов и новые информационные технологии</title>
-      <link>https://www.aixwim.cloud/ru/posts/blogging-consolidation-debt/</link>
+      <link>http://localhost:1313/ru/posts/blogging-consolidation-debt/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/blogging-consolidation-debt/</guid>
+      <guid>http://localhost:1313/ru/posts/blogging-consolidation-debt/</guid>
       <description>Исследуйте, как блогеры могут рассматривать финансовые темы, такие как консолидация долгов, управление деньгами и инвестиционные стратегии, чтобы помогать другим и зарабатывать.</description>
     </item>
   </channel>

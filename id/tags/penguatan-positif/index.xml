@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Penguatan Positif on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/tags/penguatan-positif/</link>
+    <link>http://localhost:1313/id/tags/penguatan-positif/</link>
     <description>Recent content in Penguatan Positif on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/tags/penguatan-positif/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/tags/penguatan-positif/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara Menjaga Motivasi Anak dalam Kegiatan Setelah Sekolah</title>
-      <link>https://www.aixwim.cloud/id/posts/keeping-children-motivated-after-school/</link>
+      <link>http://localhost:1313/id/posts/keeping-children-motivated-after-school/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/keeping-children-motivated-after-school/</guid>
+      <guid>http://localhost:1313/id/posts/keeping-children-motivated-after-school/</guid>
       <description>Kesulitan menjaga motivasi anak dalam kegiatan setelah sekolah? Berikut beberapa strategi untuk mempertahankan antusiasme dan menumbuhkan kecintaan terhadap pembelajaran dan perkembangan.</description>
     </item>
   </channel>

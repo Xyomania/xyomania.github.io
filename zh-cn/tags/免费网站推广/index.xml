@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>免费网站推广 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E5%85%8D%E8%B4%B9%E7%BD%91%E7%AB%99%E6%8E%A8%E5%B9%BF/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E5%85%8D%E8%B4%B9%E7%BD%91%E7%AB%99%E6%8E%A8%E5%B9%BF/</link>
     <description>Recent content in 免费网站推广 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E5%85%8D%E8%B4%B9%E7%BD%91%E7%AB%99%E6%8E%A8%E5%B9%BF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E5%85%8D%E8%B4%B9%E7%BD%91%E7%AB%99%E6%8E%A8%E5%B9%BF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>免费网站推广... 为什么不呢？</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/free-website-promotion/</link>
+      <link>http://localhost:1313/zh-cn/posts/free-website-promotion/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/free-website-promotion/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/free-website-promotion/</guid>
       <description>了解有效的免费网站推广策略，帮助您为网站引流并发展在线业务，完全免费。</description>
     </item>
     <item>
       <title>如何免费推广你的网站</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/how-to-acquire-free-website-promotion/</link>
+      <link>http://localhost:1313/zh-cn/posts/how-to-acquire-free-website-promotion/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/how-to-acquire-free-website-promotion/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/how-to-acquire-free-website-promotion/</guid>
       <description>了解如何使用免费的推广策略来提高网站的流量和知名度，无需花费一分钱。</description>
     </item>
   </channel>

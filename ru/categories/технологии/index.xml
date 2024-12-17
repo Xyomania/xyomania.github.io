@@ -2,30 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Технологии on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
+    <link>http://localhost:1313/ru/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
     <description>Recent content in Технологии on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Цифровая камера Canon: Экспресс, Снимай и Делись</title>
+      <link>http://localhost:1313/ru/posts/canon-digital-camera-express-shoot-and-share/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/posts/canon-digital-camera-express-shoot-and-share/</guid>
+      <description>Исследуйте функции новейших цифровых камер Canon, включая PowerShot S2 IS и SD500, которые обеспечивают отличное качество изображений и удобный процесс обмена.</description>
+    </item>
+    <item>
+      <title>Цифровая камера: будущее фотографии</title>
+      <link>http://localhost:1313/ru/posts/digital-camera-future/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/posts/digital-camera-future/</guid>
+      <description>Узнайте о технологиях цифровых камер, их принципах работы и на что обратить внимание при покупке. Исследуйте эволюцию сенсоров изображения и будущее цифровой фотографии.</description>
+    </item>
     <item>
       <title>Основы блогинга</title>
-      <link>https://www.aixwim.cloud/ru/posts/blogging-101/</link>
+      <link>http://localhost:1313/ru/posts/blogging-101/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/blogging-101/</guid>
+      <guid>http://localhost:1313/ru/posts/blogging-101/</guid>
       <description>Изучите основы блогинга, включая ключевые термины, такие как блог, платформа, домен и веб-хостинг.</description>
     </item>
     <item>
       <title>Почему Hugo - лучшая платформа для блогеров-разработчиков в 2024 году</title>
-      <link>https://www.aixwim.cloud/ru/posts/best-hugo-blogging-software/</link>
+      <link>http://localhost:1313/ru/posts/best-hugo-blogging-software/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/best-hugo-blogging-software/</guid>
+      <guid>http://localhost:1313/ru/posts/best-hugo-blogging-software/</guid>
       <description>Узнайте, почему Hugo является одним из самых быстрых и гибких генераторов статических сайтов для блогов в 2024 году. Узнайте о его функциях, производительности и о том, почему это идеально подходит для разработчиков.</description>
     </item>
   </channel>

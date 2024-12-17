@@ -2,58 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Keuangan Pribadi on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/tags/keuangan-pribadi/</link>
+    <link>http://localhost:1313/id/tags/keuangan-pribadi/</link>
     <description>Recent content in Keuangan Pribadi on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/tags/keuangan-pribadi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/id/tags/keuangan-pribadi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tips Efektif Cara Menghemat Uang: Strategi Penganggaran dan Keuangan</title>
+      <link>http://localhost:1313/id/posts/effective-tips-on-how-to-save-money/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/posts/effective-tips-on-how-to-save-money/</guid>
+      <description>Temukan tips praktis dan dapat diterapkan tentang cara menghemat uang melalui penganggaran, mengelola pengeluaran penting, dan membuat keputusan keuangan yang lebih bijak.</description>
+    </item>
+    <item>
+      <title>Tips Hemat Uang yang Efektif</title>
+      <link>http://localhost:1313/id/posts/effective-money-savings-tips/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/posts/effective-money-savings-tips/</guid>
+      <description>Maksimalkan sumber daya keuangan Anda dan hemat secara efektif dengan tips praktis untuk mengelola uang Anda.</description>
+    </item>
     <item>
       <title>Menyusun Anggaran untuk Dana Darurat</title>
-      <link>https://www.aixwim.cloud/id/posts/budgeting-for-emergency-funds/</link>
+      <link>http://localhost:1313/id/posts/budgeting-for-emergency-funds/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/budgeting-for-emergency-funds/</guid>
+      <guid>http://localhost:1313/id/posts/budgeting-for-emergency-funds/</guid>
       <description>Pelajari pentingnya dana darurat dan cara menyusun anggaran secara efektif untuk menyiapkannya.</description>
     </item>
     <item>
       <title>Manfaat Menggunakan Kupon Hemat Uang</title>
-      <link>https://www.aixwim.cloud/id/posts/benefits-of-money-saving-coupons/</link>
+      <link>http://localhost:1313/id/posts/benefits-of-money-saving-coupons/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/benefits-of-money-saving-coupons/</guid>
+      <guid>http://localhost:1313/id/posts/benefits-of-money-saving-coupons/</guid>
       <description>Pelajari cara menghemat uang untuk pengeluaran sehari-hari dengan menggunakan kupon hemat uang dan manfaatkan diskon yang tersedia.</description>
     </item>
     <item>
       <title>Keuntungan Menggunakan Software Pengelolaan Anggaran Uang</title>
-      <link>https://www.aixwim.cloud/id/posts/advantages-of-money-budgeting-software/</link>
+      <link>http://localhost:1313/id/posts/advantages-of-money-budgeting-software/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/advantages-of-money-budgeting-software/</guid>
+      <guid>http://localhost:1313/id/posts/advantages-of-money-budgeting-software/</guid>
       <description>Pelajari bagaimana software pengelolaan anggaran uang dapat membantu Anda mengelola keuangan, melacak pengeluaran, dan membuat anggaran yang berkelanjutan.</description>
     </item>
     <item>
       <title>Konsolidasi Blog, Utang, dan Teknologi Informasi Baru</title>
-      <link>https://www.aixwim.cloud/id/posts/blogging-consolidation-debt/</link>
+      <link>http://localhost:1313/id/posts/blogging-consolidation-debt/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/blogging-consolidation-debt/</guid>
+      <guid>http://localhost:1313/id/posts/blogging-consolidation-debt/</guid>
       <description>Jelajahi bagaimana blogger dapat membahas topik keuangan seperti konsolidasi utang, manajemen uang, dan strategi investasi untuk membantu orang lain sambil menghasilkan uang.</description>
     </item>
     <item>
       <title>Keluar dan Tetap Bebas dari Utang Kartu Kredit: Panduan Praktis</title>
-      <link>https://www.aixwim.cloud/id/posts/credit-card-debt-guide/</link>
+      <link>http://localhost:1313/id/posts/credit-card-debt-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/credit-card-debt-guide/</guid>
+      <guid>http://localhost:1313/id/posts/credit-card-debt-guide/</guid>
       <description>Temukan strategi untuk terbebas dari utang kartu kredit dan membangun masa depan keuangan yang lebih sehat. Pelajari cara mengelola pengeluaran, mengikuti rencana pembayaran, dan menghindari utang di masa depan.</description>
     </item>
     <item>
       <title>Menguasai Uang: Penganggaran, Menabung, dan Pengeluaran Cerdas</title>
-      <link>https://www.aixwim.cloud/id/posts/budgeting-saving-tips/</link>
+      <link>http://localhost:1313/id/posts/budgeting-saving-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/budgeting-saving-tips/</guid>
+      <guid>http://localhost:1313/id/posts/budgeting-saving-tips/</guid>
       <description>Pelajari cara membuat dan mempertahankan anggaran, mengurangi pengeluaran, dan menabung secara efektif dengan tips manajemen keuangan yang praktis.</description>
     </item>
   </channel>

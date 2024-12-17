@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogging Untuk Keuntungan on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/tags/blogging-untuk-keuntungan/</link>
+    <link>http://localhost:1313/id/tags/blogging-untuk-keuntungan/</link>
     <description>Recent content in Blogging Untuk Keuntungan on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/tags/blogging-untuk-keuntungan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/tags/blogging-untuk-keuntungan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogging untuk Keuntungan Dimulai dengan Rencana Jangka Panjang</title>
-      <link>https://www.aixwim.cloud/id/posts/blogging-for-profit-plan/</link>
+      <link>http://localhost:1313/id/posts/blogging-for-profit-plan/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/blogging-for-profit-plan/</guid>
+      <guid>http://localhost:1313/id/posts/blogging-for-profit-plan/</guid>
       <description>Temukan strategi kunci untuk mengubah blogging menjadi usaha yang menguntungkan. Keberhasilan dimulai dengan rencana jangka panjang yang solid.</description>
     </item>
     <item>
       <title>Jika Anda Sudah Blogging, Uang Bisa Datang Hanya dengan Satu Klik</title>
-      <link>https://www.aixwim.cloud/id/posts/blogging-money-click-away/</link>
+      <link>http://localhost:1313/id/posts/blogging-money-click-away/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/blogging-money-click-away/</guid>
+      <guid>http://localhost:1313/id/posts/blogging-money-click-away/</guid>
       <description>Pelajari cara memonetisasi blog Anda setelah memiliki pembaca yang konsisten, dan ubah hobi Anda menjadi sumber penghasilan.</description>
     </item>
   </channel>

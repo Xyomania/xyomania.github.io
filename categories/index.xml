@@ -2,261 +2,268 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on AIXWIM</title>
-    <link>https://www.aixwim.cloud/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beauty and Fashion</title>
-      <link>https://www.aixwim.cloud/categories/beauty-and-fashion/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/beauty-and-fashion/</guid>
+      <link>http://localhost:1313/categories/beauty-and-fashion/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/beauty-and-fashion/</guid>
       <description></description>
     </item>
     <item>
       <title>Business and Finance</title>
-      <link>https://www.aixwim.cloud/categories/business-and-finance/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/business-and-finance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Finance</title>
-      <link>https://www.aixwim.cloud/categories/finance/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/finance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Food and Drink</title>
-      <link>https://www.aixwim.cloud/categories/food-and-drink/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/food-and-drink/</guid>
+      <link>http://localhost:1313/categories/business-and-finance/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/business-and-finance/</guid>
       <description></description>
     </item>
     <item>
       <title>Hobbies and Time</title>
-      <link>https://www.aixwim.cloud/categories/hobbies-and-time/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/hobbies-and-time/</guid>
+      <link>http://localhost:1313/categories/hobbies-and-time/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/hobbies-and-time/</guid>
       <description></description>
     </item>
     <item>
       <title>Home and Garden</title>
-      <link>https://www.aixwim.cloud/categories/home-and-garden/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/home-and-garden/</guid>
+      <link>http://localhost:1313/categories/home-and-garden/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/home-and-garden/</guid>
       <description></description>
     </item>
     <item>
-      <title>Personal Finance</title>
-      <link>https://www.aixwim.cloud/categories/personal-finance/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/personal-finance/</guid>
+      <title>Jewelry and Fashion</title>
+      <link>http://localhost:1313/categories/jewelry-and-fashion/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/jewelry-and-fashion/</guid>
       <description></description>
     </item>
     <item>
       <title>Leisure</title>
-      <link>https://www.aixwim.cloud/categories/leisure/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/leisure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Parenting</title>
-      <link>https://www.aixwim.cloud/categories/parenting/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/parenting/</guid>
+      <link>http://localhost:1313/categories/leisure/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/leisure/</guid>
       <description></description>
     </item>
     <item>
       <title>Sports</title>
-      <link>https://www.aixwim.cloud/categories/sports/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/sports/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Health</title>
-      <link>https://www.aixwim.cloud/categories/health/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/health/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mental Health</title>
-      <link>https://www.aixwim.cloud/categories/mental-health/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/mental-health/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Travel and Transportation</title>
-      <link>https://www.aixwim.cloud/categories/travel-and-transportation/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/travel-and-transportation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blogging Tips</title>
-      <link>https://www.aixwim.cloud/categories/blogging-tips/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/blogging-tips/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Content Creation</title>
-      <link>https://www.aixwim.cloud/categories/content-creation/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/content-creation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Family</title>
-      <link>https://www.aixwim.cloud/categories/family/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/family/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Marketing</title>
-      <link>https://www.aixwim.cloud/categories/marketing/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Personal Development</title>
-      <link>https://www.aixwim.cloud/categories/personal-development/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/personal-development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Writing</title>
-      <link>https://www.aixwim.cloud/categories/writing/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/writing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Content Marketing</title>
-      <link>https://www.aixwim.cloud/categories/content-marketing/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/content-marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digital Marketing</title>
-      <link>https://www.aixwim.cloud/categories/digital-marketing/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/digital-marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Events</title>
-      <link>https://www.aixwim.cloud/categories/events/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/events/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Marketing and Advertising</title>
-      <link>https://www.aixwim.cloud/categories/marketing-and-advertising/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/marketing-and-advertising/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Writing and Content</title>
-      <link>https://www.aixwim.cloud/categories/writing-and-content/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/writing-and-content/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Caregivers and Pets</title>
-      <link>https://www.aixwim.cloud/categories/caregivers-and-pets/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/caregivers-and-pets/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>https://www.aixwim.cloud/categories/news/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/news/</guid>
+      <link>http://localhost:1313/categories/sports/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/sports/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://www.aixwim.cloud/categories/technology/</link>
+      <link>http://localhost:1313/categories/technology/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/categories/finance/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Food and Drink</title>
+      <link>http://localhost:1313/categories/food-and-drink/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/food-and-drink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Finance</title>
+      <link>http://localhost:1313/categories/personal-finance/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/personal-finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parenting</title>
+      <link>http://localhost:1313/categories/parenting/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/parenting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>http://localhost:1313/categories/health/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>http://localhost:1313/categories/mental-health/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/mental-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel and Transportation</title>
+      <link>http://localhost:1313/categories/travel-and-transportation/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/travel-and-transportation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blogging Tips</title>
+      <link>http://localhost:1313/categories/blogging-tips/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/blogging-tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Creation</title>
+      <link>http://localhost:1313/categories/content-creation/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/content-creation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Family</title>
+      <link>http://localhost:1313/categories/family/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/family/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing</title>
+      <link>http://localhost:1313/categories/marketing/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Development</title>
+      <link>http://localhost:1313/categories/personal-development/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/personal-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>http://localhost:1313/categories/writing/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Marketing</title>
+      <link>http://localhost:1313/categories/content-marketing/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/content-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Marketing</title>
+      <link>http://localhost:1313/categories/digital-marketing/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/digital-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Events</title>
+      <link>http://localhost:1313/categories/events/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/events/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing and Advertising</title>
+      <link>http://localhost:1313/categories/marketing-and-advertising/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/marketing-and-advertising/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing and Content</title>
+      <link>http://localhost:1313/categories/writing-and-content/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/writing-and-content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Caregivers and Pets</title>
+      <link>http://localhost:1313/categories/caregivers-and-pets/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/technology/</guid>
+      <guid>http://localhost:1313/categories/caregivers-and-pets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/categories/news/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Youth Culture</title>
-      <link>https://www.aixwim.cloud/categories/youth-culture/</link>
+      <link>http://localhost:1313/categories/youth-culture/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/youth-culture/</guid>
+      <guid>http://localhost:1313/categories/youth-culture/</guid>
       <description></description>
     </item>
     <item>
       <title>Entertainment</title>
-      <link>https://www.aixwim.cloud/categories/entertainment/</link>
+      <link>http://localhost:1313/categories/entertainment/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/entertainment/</guid>
+      <guid>http://localhost:1313/categories/entertainment/</guid>
       <description></description>
     </item>
     <item>
       <title>SEO</title>
-      <link>https://www.aixwim.cloud/categories/seo/</link>
+      <link>http://localhost:1313/categories/seo/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/seo/</guid>
+      <guid>http://localhost:1313/categories/seo/</guid>
       <description></description>
     </item>
     <item>
       <title>Toys and Games</title>
-      <link>https://www.aixwim.cloud/categories/toys-and-games/</link>
+      <link>http://localhost:1313/categories/toys-and-games/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/toys-and-games/</guid>
+      <guid>http://localhost:1313/categories/toys-and-games/</guid>
       <description></description>
     </item>
     <item>
       <title>Child Development</title>
-      <link>https://www.aixwim.cloud/categories/child-development/</link>
+      <link>http://localhost:1313/categories/child-development/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/child-development/</guid>
+      <guid>http://localhost:1313/categories/child-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>https://www.aixwim.cloud/categories/education/</link>
+      <link>http://localhost:1313/categories/education/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/education/</guid>
+      <guid>http://localhost:1313/categories/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Safety</title>
-      <link>https://www.aixwim.cloud/categories/safety/</link>
+      <link>http://localhost:1313/categories/safety/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/safety/</guid>
+      <guid>http://localhost:1313/categories/safety/</guid>
       <description></description>
     </item>
     <item>
       <title>Profile</title>
-      <link>https://www.aixwim.cloud/categories/profile/</link>
+      <link>http://localhost:1313/categories/profile/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/profile/</guid>
+      <guid>http://localhost:1313/categories/profile/</guid>
       <description></description>
     </item>
   </channel>

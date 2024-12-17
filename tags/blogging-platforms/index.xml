@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogging Platforms on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/blogging-platforms/</link>
+    <link>http://localhost:1313/tags/blogging-platforms/</link>
     <description>Recent content in Blogging Platforms on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/blogging-platforms/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/blogging-platforms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Right Blogging Platform For Your Needs</title>
-      <link>https://www.aixwim.cloud/posts/right-blogging-platform-for-needs/</link>
+      <link>http://localhost:1313/posts/right-blogging-platform-for-needs/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/right-blogging-platform-for-needs/</guid>
+      <guid>http://localhost:1313/posts/right-blogging-platform-for-needs/</guid>
       <description>Choosing the right blogging platform is crucial for your success as a blogger. This guide helps you navigate the decision between ease of use and customization.</description>
     </item>
     <item>
       <title>To Join a Blogging Site or Not to Join</title>
-      <link>https://www.aixwim.cloud/posts/to-join-blogging-site-or-not/</link>
+      <link>http://localhost:1313/posts/to-join-blogging-site-or-not/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/to-join-blogging-site-or-not/</guid>
+      <guid>http://localhost:1313/posts/to-join-blogging-site-or-not/</guid>
       <description>Should you join an established blogging site or create your own? Learn the pros and cons of both options.</description>
     </item>
     <item>
       <title>Using A Free Blogging Website</title>
-      <link>https://www.aixwim.cloud/posts/using-a-free-blogging-website/</link>
+      <link>http://localhost:1313/posts/using-a-free-blogging-website/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/using-a-free-blogging-website/</guid>
+      <guid>http://localhost:1313/posts/using-a-free-blogging-website/</guid>
       <description>Discover how to start a blog using free platforms like Blogger and Eponym. Perfect for beginners looking to explore blogging without upfront costs.</description>
     </item>
   </channel>

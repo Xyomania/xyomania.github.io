@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>家族 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E6%97%8F/</link>
+    <link>http://localhost:1313/ja/categories/%E5%AE%B6%E6%97%8F/</link>
     <description>Recent content in 家族 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E6%97%8F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/categories/%E5%AE%B6%E6%97%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Way with Baby Names</title>
-      <link>https://www.aixwim.cloud/ja/posts/the-way-with-baby-names/</link>
+      <link>http://localhost:1313/ja/posts/the-way-with-baby-names/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/the-way-with-baby-names/</guid>
+      <guid>http://localhost:1313/ja/posts/the-way-with-baby-names/</guid>
       <description>赤ちゃんにぴったりの名前を選ぶことは、ただの決定ではありません。それはその子のアイデンティティを形作るものです。完璧な名前を選ぶための重要なコツをご紹介します。</description>
     </item>
     <item>
       <title>放課後活動と関係構築: つながりを強化する</title>
-      <link>https://www.aixwim.cloud/ja/posts/after-school-activities-relationship-building/</link>
+      <link>http://localhost:1313/ja/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/after-school-activities-relationship-building/</guid>
+      <guid>http://localhost:1313/ja/posts/after-school-activities-relationship-building/</guid>
       <description>放課後プログラムが子どもとメンターの間でどのように意味のある関係を育むか、そしてそのつながりが成長と成功にとってなぜ重要であるかを探ります。</description>
     </item>
     <item>
       <title>放課後活動における燃え尽き症候群を防ぐ方法：保護者向けガイド</title>
-      <link>https://www.aixwim.cloud/ja/posts/avoiding-burnout-in-after-school-activities/</link>
+      <link>http://localhost:1313/ja/posts/avoiding-burnout-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <guid>http://localhost:1313/ja/posts/avoiding-burnout-in-after-school-activities/</guid>
       <description>放課後の活動を管理することは、子どもの幸福と健康の鍵です。子どもを関与させ、満足させながら燃え尽き症候群を防ぐ方法を学びましょう。</description>
     </item>
   </channel>

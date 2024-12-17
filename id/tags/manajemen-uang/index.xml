@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Manajemen Uang on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/tags/manajemen-uang/</link>
+    <link>http://localhost:1313/id/tags/manajemen-uang/</link>
     <description>Recent content in Manajemen Uang on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/tags/manajemen-uang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/tags/manajemen-uang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keuntungan Menggunakan Software Pengelolaan Anggaran Uang</title>
-      <link>https://www.aixwim.cloud/id/posts/advantages-of-money-budgeting-software/</link>
+      <link>http://localhost:1313/id/posts/advantages-of-money-budgeting-software/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/advantages-of-money-budgeting-software/</guid>
+      <guid>http://localhost:1313/id/posts/advantages-of-money-budgeting-software/</guid>
       <description>Pelajari bagaimana software pengelolaan anggaran uang dapat membantu Anda mengelola keuangan, melacak pengeluaran, dan membuat anggaran yang berkelanjutan.</description>
     </item>
     <item>
       <title>Sedikit Bisa Jauh: Rahasia Cerdas dalam Pengelolaan Anggaran</title>
-      <link>https://www.aixwim.cloud/id/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</link>
+      <link>http://localhost:1313/id/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</guid>
+      <guid>http://localhost:1313/id/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</guid>
       <description>Temukan rahasia cerdas untuk pengelolaan anggaran yang efektif, mengelola utang, dan melacak pengeluaran Anda untuk menghemat lebih banyak uang.</description>
     </item>
   </channel>

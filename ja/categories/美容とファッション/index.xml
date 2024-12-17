@@ -2,37 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>美容とファッション on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/categories/%E7%BE%8E%E5%AE%B9%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+    <link>http://localhost:1313/ja/categories/%E7%BE%8E%E5%AE%B9%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</link>
     <description>Recent content in 美容とファッション on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/categories/%E7%BE%8E%E5%AE%B9%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/categories/%E7%BE%8E%E5%AE%B9%E3%81%A8%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ダイヤモンドのカットを選ぶ: その重要性を理解する</title>
+      <link>http://localhost:1313/ja/posts/choosing-diamond-cut/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/choosing-diamond-cut/</guid>
+      <description>完璧なダイヤモンドカットの選び方と、その輝きや価値に影響を与える要因について学びましょう。</description>
+    </item>
+    <item>
+      <title>ダイヤモンドの重量について: カラット、グレイン、CTWを理解する</title>
+      <link>http://localhost:1313/ja/posts/diamond-weights/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/diamond-weights/</guid>
+      <description>ダイヤモンドがどのように測定されるか、カラット重量の歴史、そしてダイヤモンドジュエリーを購入するための重要なヒントを学びましょう。</description>
+    </item>
     <item>
       <title>ダイヤモンドの透明度について：グレードと欠陥を理解する</title>
-      <link>https://www.aixwim.cloud/ja/posts/diamond-clarity-guide/</link>
+      <link>http://localhost:1313/ja/posts/diamond-clarity-guide/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/diamond-clarity-guide/</guid>
+      <guid>http://localhost:1313/ja/posts/diamond-clarity-guide/</guid>
       <description>ダイヤモンドの透明度がどのように評価され、各グレードが何を意味し、透明度がダイヤモンドの価値と外観にどのように影響するかを学びましょう。</description>
     </item>
     <item>
       <title>ダイヤモンド詐欺を回避する方法：知っておくべきこと</title>
-      <link>https://www.aixwim.cloud/ja/posts/avoiding-diamond-scams/</link>
+      <link>http://localhost:1313/ja/posts/avoiding-diamond-scams/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/avoiding-diamond-scams/</guid>
+      <guid>http://localhost:1313/ja/posts/avoiding-diamond-scams/</guid>
       <description>よくあるダイヤモンド詐欺について学び、ダイヤモンド購入時に自分を守る方法を知りましょう。</description>
     </item>
     <item>
       <title>ダイヤモンドは本当に希少？この貴重な宝石の希少性を理解する</title>
-      <link>https://www.aixwim.cloud/ja/posts/are-diamonds-truly-rare/</link>
+      <link>http://localhost:1313/ja/posts/are-diamonds-truly-rare/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/are-diamonds-truly-rare/</guid>
+      <guid>http://localhost:1313/ja/posts/are-diamonds-truly-rare/</guid>
       <description>ダイヤモンドの希少性について、採掘プロセスから市場需要までを探り、ダイヤモンドが特別で価値がある理由を学びましょう。</description>
     </item>
   </channel>

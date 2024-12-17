@@ -2,23 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>家居與園藝 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/categories/%E5%AE%B6%E5%B1%85%E8%88%87%E5%9C%92%E8%97%9D/</link>
+    <link>http://localhost:1313/zh-tw/categories/%E5%AE%B6%E5%B1%85%E8%88%87%E5%9C%92%E8%97%9D/</link>
     <description>Recent content in 家居與園藝 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E5%AE%B6%E5%B1%85%E8%88%87%E5%9C%92%E8%97%9D/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/categories/%E5%AE%B6%E5%B1%85%E8%88%87%E5%9C%92%E8%97%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>簡單的植物照護技巧</title>
+      <link>http://localhost:1313/zh-tw/posts/easy-tips-on-how-to-care-for-your-plants/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/easy-tips-on-how-to-care-for-your-plants/</guid>
+      <description>學習簡單且有效的植物照護技巧，讓您的室內植物全年健康茁壯成長。</description>
+    </item>
     <item>
       <title>孩子種植園藝的好處</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/benefits-of-gardening-for-kids/</link>
+      <link>http://localhost:1313/zh-tw/posts/benefits-of-gardening-for-kids/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/benefits-of-gardening-for-kids/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/benefits-of-gardening-for-kids/</guid>
       <description>了解孩子參與園藝的眾多好處，以及如何通過園藝幫助他們培養重要的生活技能，同時增進家庭關係。</description>
     </item>
   </channel>

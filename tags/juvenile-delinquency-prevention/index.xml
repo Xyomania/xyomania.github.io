@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Juvenile Delinquency Prevention on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/juvenile-delinquency-prevention/</link>
+    <link>http://localhost:1313/tags/juvenile-delinquency-prevention/</link>
     <description>Recent content in Juvenile Delinquency Prevention on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/juvenile-delinquency-prevention/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/juvenile-delinquency-prevention/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Potentials of After-School Programs: Benefits for Children</title>
-      <link>https://www.aixwim.cloud/posts/potentials-of-after-school-programs/</link>
+      <link>http://localhost:1313/posts/potentials-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/potentials-of-after-school-programs/</guid>
+      <guid>http://localhost:1313/posts/potentials-of-after-school-programs/</guid>
       <description>After-school programs offer numerous benefits, from improving academic performance to preventing risky behaviors. Learn why these programs are essential for children&amp;#39;s growth.</description>
     </item>
   </channel>

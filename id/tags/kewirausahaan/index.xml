@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kewirausahaan on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/tags/kewirausahaan/</link>
+    <link>http://localhost:1313/id/tags/kewirausahaan/</link>
     <description>Recent content in Kewirausahaan on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/tags/kewirausahaan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/tags/kewirausahaan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogging Untuk Pemilik Bisnis</title>
-      <link>https://www.aixwim.cloud/id/posts/blogging-for-business-owners/</link>
+      <link>http://localhost:1313/id/posts/blogging-for-business-owners/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/blogging-for-business-owners/</guid>
+      <guid>http://localhost:1313/id/posts/blogging-for-business-owners/</guid>
       <description>Pelajari bagaimana blogging dapat membantu pemilik usaha kecil mempromosikan produk mereka, menginspirasi loyalitas karyawan, dan membawa bisnis mereka ke level berikutnya.</description>
     </item>
   </channel>

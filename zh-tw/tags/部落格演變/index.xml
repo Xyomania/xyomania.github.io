@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>部落格演變 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%BC%94%E8%AE%8A/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%BC%94%E8%AE%8A/</link>
     <description>Recent content in 部落格演變 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%BC%94%E8%AE%8A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%BC%94%E8%AE%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>部落格的定義</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/definition-of-blogging/</link>
+      <link>http://localhost:1313/zh-tw/posts/definition-of-blogging/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/definition-of-blogging/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/definition-of-blogging/</guid>
       <description>部落格的定義隨著時間的推移發生了顯著變化。在本文中，我們將探討新技術如何持續重塑部落格的世界。</description>
     </item>
   </channel>

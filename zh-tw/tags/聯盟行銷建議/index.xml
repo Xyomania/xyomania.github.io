@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>聯盟行銷建議 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7%E5%BB%BA%E8%AD%B0/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7%E5%BB%BA%E8%AD%B0/</link>
     <description>Recent content in 聯盟行銷建議 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7%E5%BB%BA%E8%AD%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7%E5%BB%BA%E8%AD%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何避免三個最常見的聯盟行銷錯誤</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/avoid-affiliate-mistakes/</link>
+      <link>http://localhost:1313/zh-tw/posts/avoid-affiliate-mistakes/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/avoid-affiliate-mistakes/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/avoid-affiliate-mistakes/</guid>
       <description>避免聯盟行銷中最常見的錯誤，提升成功機會。了解許多行銷人員所犯的錯誤，並為成功做好準備。</description>
     </item>
   </channel>

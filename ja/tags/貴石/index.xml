@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>貴石 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E8%B2%B4%E7%9F%B3/</link>
+    <link>http://localhost:1313/ja/tags/%E8%B2%B4%E7%9F%B3/</link>
     <description>Recent content in 貴石 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E8%B2%B4%E7%9F%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E8%B2%B4%E7%9F%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ダイヤモンドは本当に希少？この貴重な宝石の希少性を理解する</title>
-      <link>https://www.aixwim.cloud/ja/posts/are-diamonds-truly-rare/</link>
+      <link>http://localhost:1313/ja/posts/are-diamonds-truly-rare/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/are-diamonds-truly-rare/</guid>
+      <guid>http://localhost:1313/ja/posts/are-diamonds-truly-rare/</guid>
       <description>ダイヤモンドの希少性について、採掘プロセスから市場需要までを探り、ダイヤモンドが特別で価値がある理由を学びましょう。</description>
     </item>
   </channel>

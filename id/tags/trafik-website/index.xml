@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Trafik Website on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/tags/trafik-website/</link>
+    <link>http://localhost:1313/id/tags/trafik-website/</link>
     <description>Recent content in Trafik Website on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/tags/trafik-website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/tags/trafik-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Metode Pemasaran Internet Gratis yang Akan Menyelamatkan Bisnis Online Anda</title>
-      <link>https://www.aixwim.cloud/id/posts/free-internet-marketing-methods/</link>
+      <link>http://localhost:1313/id/posts/free-internet-marketing-methods/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/free-internet-marketing-methods/</guid>
+      <guid>http://localhost:1313/id/posts/free-internet-marketing-methods/</guid>
       <description>Temukan metode pemasaran internet gratis yang dapat meningkatkan trafik situs web Anda dan mengembangkan bisnis tanpa mengeluarkan biaya sepeser pun.</description>
     </item>
     <item>
       <title>Taktik Fantastis: Strategi Lanjutan Mendapatkan Trafik Website dengan Biaya Rendah</title>
-      <link>https://www.aixwim.cloud/id/posts/low-cost-advanced-website-traffic-strategies/</link>
+      <link>http://localhost:1313/id/posts/low-cost-advanced-website-traffic-strategies/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/low-cost-advanced-website-traffic-strategies/</guid>
+      <guid>http://localhost:1313/id/posts/low-cost-advanced-website-traffic-strategies/</guid>
       <description>Temukan taktik lanjutan untuk meningkatkan trafik website dengan biaya rendah yang dapat memberikan hasil signifikan tanpa menguras anggaran Anda.</description>
     </item>
   </channel>

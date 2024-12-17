@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Внеклассные Занятия on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/tags/%D0%B2%D0%BD%D0%B5%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D1%8B%D0%B5-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/</link>
+    <link>http://localhost:1313/ru/tags/%D0%B2%D0%BD%D0%B5%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D1%8B%D0%B5-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/</link>
     <description>Recent content in Внеклассные Занятия on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/tags/%D0%B2%D0%BD%D0%B5%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D1%8B%D0%B5-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/tags/%D0%B2%D0%BD%D0%B5%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D1%8B%D0%B5-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Внеклассные занятия и построение отношений: укрепление связей</title>
-      <link>https://www.aixwim.cloud/ru/posts/after-school-activities-relationship-building/</link>
+      <link>http://localhost:1313/ru/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/after-school-activities-relationship-building/</guid>
+      <guid>http://localhost:1313/ru/posts/after-school-activities-relationship-building/</guid>
       <description>Узнайте, как внеклассные программы способствуют формированию значимых отношений между детьми и наставниками, и почему эти связи важны для роста и успеха.</description>
     </item>
     <item>
       <title>Как избежать выгорания в кружках после школы: руководство для родителей</title>
-      <link>https://www.aixwim.cloud/ru/posts/avoiding-burnout-in-after-school-activities/</link>
+      <link>http://localhost:1313/ru/posts/avoiding-burnout-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <guid>http://localhost:1313/ru/posts/avoiding-burnout-in-after-school-activities/</guid>
       <description>Управление внеклассными занятиями — ключ к счастью и благополучию ребенка. Узнайте, как избежать выгорания, сохраняя интерес и радость у детей.</description>
     </item>
     <item>
       <title>Как поддерживать мотивацию вашего ребенка в послеурочных занятиях</title>
-      <link>https://www.aixwim.cloud/ru/posts/keeping-children-motivated-after-school/</link>
+      <link>http://localhost:1313/ru/posts/keeping-children-motivated-after-school/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/keeping-children-motivated-after-school/</guid>
+      <guid>http://localhost:1313/ru/posts/keeping-children-motivated-after-school/</guid>
       <description>Сложности с мотивацией ребенка в послеурочных занятиях? Вот несколько стратегий, которые помогут сохранить интерес и любовь к обучению и развитию.</description>
     </item>
     <item>
       <title>Почему вашему ребенку может наскучить участие в послеурочных занятиях</title>
-      <link>https://www.aixwim.cloud/ru/posts/boredom-in-after-school-activities/</link>
+      <link>http://localhost:1313/ru/posts/boredom-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/boredom-in-after-school-activities/</guid>
+      <guid>http://localhost:1313/ru/posts/boredom-in-after-school-activities/</guid>
       <description>Узнайте, почему дети иногда теряют интерес к послеурочным занятиям и как помочь им снова заинтересоваться.</description>
     </item>
     <item>
       <title>Сколько слишком много? Руководство по балансировке внеклассных занятий вашего ребенка</title>
-      <link>https://www.aixwim.cloud/ru/posts/how-much-is-too-much-child-activities/</link>
+      <link>http://localhost:1313/ru/posts/how-much-is-too-much-child-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/how-much-is-too-much-child-activities/</guid>
+      <guid>http://localhost:1313/ru/posts/how-much-is-too-much-child-activities/</guid>
       <description>Не уверены, сколько внеклассных занятий для вашего ребенка — это слишком много? Вот практическое руководство, которое поможет вам найти оптимальный баланс в зависимости от возраста и потребностей вашего ребенка.</description>
     </item>
     <item>
       <title>Внеклассные занятия для гиперактивных детей с ADHD: как занять детей с ADHD</title>
-      <link>https://www.aixwim.cloud/ru/posts/after-school-activities-hyperactive-child/</link>
+      <link>http://localhost:1313/ru/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>http://localhost:1313/ru/posts/after-school-activities-hyperactive-child/</guid>
       <description>Откройте для себя внеклассные занятия, подходящие для детей с ADHD. Изучите спорт, искусство и другие активности, которые помогают направить энергию, улучшить концентрацию и развивать социальные навыки.</description>
     </item>
   </channel>

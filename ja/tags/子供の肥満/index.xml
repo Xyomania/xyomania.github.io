@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>子供の肥満 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E8%82%A5%E6%BA%80/</link>
+    <link>http://localhost:1313/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E8%82%A5%E6%BA%80/</link>
     <description>Recent content in 子供の肥満 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E8%82%A5%E6%BA%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E8%82%A5%E6%BA%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>肥満の子供のための放課後活動：健康的な生活への道</title>
-      <link>https://www.aixwim.cloud/ja/posts/after-school-activities-overweight-kids/</link>
+      <link>http://localhost:1313/ja/posts/after-school-activities-overweight-kids/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/after-school-activities-overweight-kids/</guid>
+      <guid>http://localhost:1313/ja/posts/after-school-activities-overweight-kids/</guid>
       <description>肥満の子供たちが活動的で健康的な生活を維持するために、放課後活動がどれほど重要かを探ります。スポーツやフィジカルトレーニングがどのように役立つかを学びましょう。</description>
     </item>
   </channel>

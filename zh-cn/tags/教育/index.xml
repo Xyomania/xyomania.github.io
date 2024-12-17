@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>教育 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E6%95%99%E8%82%B2/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E6%95%99%E8%82%B2/</link>
     <description>Recent content in 教育 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E6%95%99%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E6%95%99%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>基于学校的课后项目：提升孩子的教育与安全</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/school-based-after-school-programs/</link>
+      <link>http://localhost:1313/zh-cn/posts/school-based-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/school-based-after-school-programs/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/school-based-after-school-programs/</guid>
       <description>探索基于学校的课后项目的重要性，以及它们如何促进孩子们的学术成长、安全和福祉。</description>
     </item>
     <item>
       <title>课后活动对儿童的好处</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</link>
+      <link>http://localhost:1313/zh-cn/posts/benefits-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/benefits-of-after-school-programs/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/benefits-of-after-school-programs/</guid>
       <description>发现一个好的课后活动的众多好处，从提高孩子的技能到促进社交，预防不良习惯。</description>
     </item>
     <item>
       <title>学校太多：关于课后活动的个人反思</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/too-much-of-school-reflection/</link>
+      <link>http://localhost:1313/zh-cn/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/too-much-of-school-reflection/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/too-much-of-school-reflection/</guid>
       <description>从孩子的角度反思课后活动的挑战和发展，讲述个人经历。</description>
     </item>
     <item>
       <title>在课后项目中创建有效的学习环境</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/effective-learning-environment-after-school/</link>
+      <link>http://localhost:1313/zh-cn/posts/effective-learning-environment-after-school/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/effective-learning-environment-after-school/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/effective-learning-environment-after-school/</guid>
       <description>了解如何在课后项目中培养一个引人入胜且有纪律的学习环境，以促进儿童的发展。</description>
     </item>
     <item>
       <title>掌握有效的学习习惯：学业成功的技巧</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/study-habits-tips/</link>
+      <link>http://localhost:1313/zh-cn/posts/study-habits-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/study-habits-tips/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/study-habits-tips/</guid>
       <description>了解如何通过创建无干扰的环境、组织学习材料和掌握集中注意力的技巧来改善学习习惯。</description>
     </item>
   </channel>

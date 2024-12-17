@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>媒体 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E5%AA%92%E4%BD%93/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E5%AA%92%E4%BD%93/</link>
     <description>Recent content in 媒体 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E5%AA%92%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E5%AA%92%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>实时报道博客新闻</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/blogging-news-stories/</link>
+      <link>http://localhost:1313/zh-cn/posts/blogging-news-stories/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/blogging-news-stories/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/blogging-news-stories/</guid>
       <description>探索博客作为实时新闻平台的崛起及其对新闻行业的影响。</description>
     </item>
   </channel>

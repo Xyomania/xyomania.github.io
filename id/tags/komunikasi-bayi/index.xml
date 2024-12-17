@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Komunikasi Bayi on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/tags/komunikasi-bayi/</link>
+    <link>http://localhost:1313/id/tags/komunikasi-bayi/</link>
     <description>Recent content in Komunikasi Bayi on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/tags/komunikasi-bayi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/tags/komunikasi-bayi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tangisan Bayi: Memahami Kebutuhan Si Kecil</title>
-      <link>https://www.aixwim.cloud/id/posts/baby-crying-understanding-communication/</link>
+      <link>http://localhost:1313/id/posts/baby-crying-understanding-communication/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/baby-crying-understanding-communication/</guid>
+      <guid>http://localhost:1313/id/posts/baby-crying-understanding-communication/</guid>
       <description>Tangisan adalah cara bayi berkomunikasi. Pelajari alasan di balik tangisan bayi dan cara merespons berbagai jenis tangisan pada bulan-bulan awal.</description>
     </item>
   </channel>

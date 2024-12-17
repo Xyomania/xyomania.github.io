@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>文章寫作 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E6%96%87%E7%AB%A0%E5%AF%AB%E4%BD%9C/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E6%96%87%E7%AB%A0%E5%AF%AB%E4%BD%9C/</link>
     <description>Recent content in 文章寫作 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E6%96%87%E7%AB%A0%E5%AF%AB%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E6%96%87%E7%AB%A0%E5%AF%AB%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>全球頂尖作家為您寫作 - 外包</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/outsourcing-writing/</link>
+      <link>http://localhost:1313/zh-tw/posts/outsourcing-writing/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/outsourcing-writing/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/outsourcing-writing/</guid>
       <description>了解如何將內容寫作和文章創作外包給全球頂尖作家，幫助提升您網站的流量並改善SEO排名。</description>
     </item>
     <item>
       <title>如何為您的文章建立大綱</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/how-to-create-an-outline-for-your-articles/</link>
+      <link>http://localhost:1313/zh-tw/posts/how-to-create-an-outline-for-your-articles/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/how-to-create-an-outline-for-your-articles/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/how-to-create-an-outline-for-your-articles/</guid>
       <description>學習如何建立文章大綱，簡化寫作流程，幫助您創作結構清晰且吸引人的內容。</description>
     </item>
     <item>
       <title>6 個讓你的文章被閱讀的熱門技巧</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/6-tips-to-get-articles-read/</link>
+      <link>http://localhost:1313/zh-tw/posts/6-tips-to-get-articles-read/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/6-tips-to-get-articles-read/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/6-tips-to-get-articles-read/</guid>
       <description>想讓你的文章被閱讀並獲得讚賞嗎？這裡有 6 個熱門技巧，讓你的寫作更具吸引力、更易讀，並且讓讀者無法抗拒。</description>
     </item>
   </channel>

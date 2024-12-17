@@ -2,44 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Budgeting on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/budgeting/</link>
+    <link>http://localhost:1313/tags/budgeting/</link>
     <description>Recent content in Budgeting on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/budgeting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/budgeting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effective Money Savings Tips</title>
+      <link>http://localhost:1313/posts/effective-money-savings-tips/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/effective-money-savings-tips/</guid>
+      <description>Maximize your financial resources and save effectively with these practical tips for managing your money.</description>
+    </item>
     <item>
       <title>Budget Like Mom</title>
-      <link>https://www.aixwim.cloud/posts/budget-like-mom/</link>
+      <link>http://localhost:1313/posts/budget-like-mom/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/budget-like-mom/</guid>
+      <guid>http://localhost:1313/posts/budget-like-mom/</guid>
       <description>Learn how moms stretch the family budget with ingenuity, practical habits, and smart financial management tips.</description>
     </item>
     <item>
       <title>The Benefits of Using Money Saving Coupons</title>
-      <link>https://www.aixwim.cloud/posts/benefits-of-money-saving-coupons/</link>
+      <link>http://localhost:1313/posts/benefits-of-money-saving-coupons/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/benefits-of-money-saving-coupons/</guid>
+      <guid>http://localhost:1313/posts/benefits-of-money-saving-coupons/</guid>
       <description>Learn how to save money on daily expenses with money-saving coupons and make the most out of available discounts.</description>
     </item>
     <item>
       <title>A Little Goes a Long Way: Smart Secrets to Budgeting</title>
-      <link>https://www.aixwim.cloud/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</link>
+      <link>http://localhost:1313/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</guid>
+      <guid>http://localhost:1313/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</guid>
       <description>Discover smart secrets to effective budgeting, managing debts, and tracking your expenses to save more money.</description>
     </item>
     <item>
       <title>Mastering Money: Budgeting, Saving, and Smart Spending</title>
-      <link>https://www.aixwim.cloud/posts/budgeting-saving-tips/</link>
+      <link>http://localhost:1313/posts/budgeting-saving-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/budgeting-saving-tips/</guid>
+      <guid>http://localhost:1313/posts/budgeting-saving-tips/</guid>
       <description>Learn how to create and maintain a budget, cut spending, and save effectively with practical money management tips.</description>
     </item>
   </channel>

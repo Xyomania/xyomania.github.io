@@ -2,37 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kecantikan Dan Fashion on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/categories/kecantikan-dan-fashion/</link>
+    <link>http://localhost:1313/id/categories/kecantikan-dan-fashion/</link>
     <description>Recent content in Kecantikan Dan Fashion on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/categories/kecantikan-dan-fashion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/id/categories/kecantikan-dan-fashion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memilih Potongan Berlian: Memahami Pentingnya</title>
+      <link>http://localhost:1313/id/posts/choosing-diamond-cut/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/id/posts/choosing-diamond-cut/</guid>
+      <description>Pelajari cara memilih potongan berlian yang sempurna dan pahami faktor-faktor yang memengaruhi kilau dan nilainya.</description>
+    </item>
     <item>
       <title>Semua tentang Kejernihan Berlian: Memahami Kelas dan Cacatnya</title>
-      <link>https://www.aixwim.cloud/id/posts/diamond-clarity-guide/</link>
+      <link>http://localhost:1313/id/posts/diamond-clarity-guide/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/diamond-clarity-guide/</guid>
+      <guid>http://localhost:1313/id/posts/diamond-clarity-guide/</guid>
       <description>Pelajari bagaimana kejernihan berlian dinilai, apa arti dari setiap kelas, dan bagaimana kejernihan memengaruhi nilai dan penampilan berlian.</description>
     </item>
     <item>
       <title>Menghindari Penipuan Berlian: Hal yang Perlu Anda Ketahui</title>
-      <link>https://www.aixwim.cloud/id/posts/avoiding-diamond-scams/</link>
+      <link>http://localhost:1313/id/posts/avoiding-diamond-scams/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/avoiding-diamond-scams/</guid>
+      <guid>http://localhost:1313/id/posts/avoiding-diamond-scams/</guid>
       <description>Pelajari tentang penipuan berlian yang umum terjadi dan cara melindungi diri Anda saat membeli berlian.</description>
     </item>
     <item>
       <title>Apakah Berlian Benar-Benar Langka? Memahami Kelangkaan Batu Mulia Ini</title>
-      <link>https://www.aixwim.cloud/id/posts/are-diamonds-truly-rare/</link>
+      <link>http://localhost:1313/id/posts/are-diamonds-truly-rare/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/are-diamonds-truly-rare/</guid>
+      <guid>http://localhost:1313/id/posts/are-diamonds-truly-rare/</guid>
       <description>Pelajari fakta tentang kelangkaan berlian, mulai dari proses penambangan hingga permintaan pasar, serta alasan mengapa berlian sangat istimewa dan bernilai.</description>
     </item>
   </channel>

@@ -2,44 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Досуг on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/categories/%D0%B4%D0%BE%D1%81%D1%83%D0%B3/</link>
+    <link>http://localhost:1313/ru/categories/%D0%B4%D0%BE%D1%81%D1%83%D0%B3/</link>
     <description>Recent content in Досуг on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/categories/%D0%B4%D0%BE%D1%81%D1%83%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/categories/%D0%B4%D0%BE%D1%81%D1%83%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Правильный и простой способ ловли сомов</title>
+      <link>http://localhost:1313/ru/posts/catfishing-the-right-but-simple-way/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/posts/catfishing-the-right-but-simple-way/</guid>
+      <description>Освойте основы ловли сомов с помощью этих проверенных методов. Узнайте простые техники, советы по насадкам и меры безопасности для успешной рыбалки.</description>
+    </item>
     <item>
       <title>Лучшие приманки для рыбалки</title>
-      <link>https://www.aixwim.cloud/ru/posts/best-fishing-lures/</link>
+      <link>http://localhost:1313/ru/posts/best-fishing-lures/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/best-fishing-lures/</guid>
+      <guid>http://localhost:1313/ru/posts/best-fishing-lures/</guid>
       <description>Изучите лучшие рыболовные приманки и их конкретные применения для ловли различных видов рыб. Узнайте о различных типах приманок и о том, как максимально эффективно их использовать.</description>
     </item>
     <item>
       <title>Основные советы по ловле карпа</title>
-      <link>https://www.aixwim.cloud/ru/posts/basic-carp-fishing-pointers/</link>
+      <link>http://localhost:1313/ru/posts/basic-carp-fishing-pointers/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/basic-carp-fishing-pointers/</guid>
+      <guid>http://localhost:1313/ru/posts/basic-carp-fishing-pointers/</guid>
       <description>Узнайте основные советы и хитрости для успешной ловли карпа. От техник приманки до лучшей оснастки для ловли карпа — все, что вам нужно знать.</description>
     </item>
     <item>
       <title>Факты о ловле басса и многое другое</title>
-      <link>https://www.aixwim.cloud/ru/posts/bass-fishing-facts/</link>
+      <link>http://localhost:1313/ru/posts/bass-fishing-facts/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/bass-fishing-facts/</guid>
+      <guid>http://localhost:1313/ru/posts/bass-fishing-facts/</guid>
       <description>Узнайте увлекательную историю ловли басса, включая важные вехи, популярные виды басса и рост этой отрасли.</description>
     </item>
     <item>
       <title>Аляскинский рыболовный домик: Приют природы</title>
-      <link>https://www.aixwim.cloud/ru/posts/alaska-fishing-lodge-natures-abode/</link>
+      <link>http://localhost:1313/ru/posts/alaska-fishing-lodge-natures-abode/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/alaska-fishing-lodge-natures-abode/</guid>
+      <guid>http://localhost:1313/ru/posts/alaska-fishing-lodge-natures-abode/</guid>
       <description>Откройте для себя идеальный рыболовный опыт в Аляскинском рыболовном домике, где комфорт, доступные цены и разнообразие рыбных видов сочетаются.</description>
     </item>
   </channel>

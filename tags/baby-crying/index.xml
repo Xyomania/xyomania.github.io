@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Baby Crying on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/baby-crying/</link>
+    <link>http://localhost:1313/tags/baby-crying/</link>
     <description>Recent content in Baby Crying on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/baby-crying/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/baby-crying/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baby Crying: Understanding What Your Baby Needs</title>
-      <link>https://www.aixwim.cloud/posts/baby-crying-understanding-communication/</link>
+      <link>http://localhost:1313/posts/baby-crying-understanding-communication/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/baby-crying-understanding-communication/</guid>
+      <guid>http://localhost:1313/posts/baby-crying-understanding-communication/</guid>
       <description>Crying is a baby&amp;#39;s way of communicating. Learn about the reasons behind baby crying and how to respond to different cries in the early months.</description>
     </item>
   </channel>

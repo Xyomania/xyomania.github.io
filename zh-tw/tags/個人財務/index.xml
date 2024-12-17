@@ -2,37 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>個人財務 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/</link>
     <description>Recent content in 個人財務 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>有效的省錢技巧：預算與財務策略</title>
+      <link>http://localhost:1313/zh-tw/posts/effective-tips-on-how-to-save-money/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/effective-tips-on-how-to-save-money/</guid>
+      <description>通過預算、管理必要開支和做出更明智的財務決策，發現有效的省錢技巧。</description>
+    </item>
     <item>
       <title>緊急基金預算</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/budgeting-for-emergency-funds/</link>
+      <link>http://localhost:1313/zh-tw/posts/budgeting-for-emergency-funds/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/budgeting-for-emergency-funds/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/budgeting-for-emergency-funds/</guid>
       <description>了解緊急基金的重要性，以及如何有效地為其進行預算。</description>
     </item>
     <item>
       <title>使用預算軟體的優勢</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/advantages-of-money-budgeting-software/</link>
+      <link>http://localhost:1313/zh-tw/posts/advantages-of-money-budgeting-software/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/advantages-of-money-budgeting-software/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/advantages-of-money-budgeting-software/</guid>
       <description>了解預算軟體如何幫助您管理財務、追蹤支出並創建可持續的預算。</description>
     </item>
     <item>
       <title>部落格寫作、債務整合與新資訊技術</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-consolidation-debt/</link>
+      <link>http://localhost:1313/zh-tw/posts/blogging-consolidation-debt/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-consolidation-debt/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/blogging-consolidation-debt/</guid>
       <description>探索部落客如何討論財務話題，如債務整合、資金管理和投資策略，既能幫助他人又能賺錢。</description>
     </item>
   </channel>

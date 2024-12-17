@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>部落格 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/</link>
     <description>Recent content in 部落格 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>即時報導博客新聞</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-news-stories/</link>
+      <link>http://localhost:1313/zh-tw/posts/blogging-news-stories/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-news-stories/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/blogging-news-stories/</guid>
       <description>探索部落格作為即時新聞平台的崛起及其對新聞行業的影響。</description>
     </item>
     <item>
       <title>青少年部落格</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-teens/</link>
+      <link>http://localhost:1313/zh-tw/posts/blogging-teens/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-teens/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/blogging-teens/</guid>
       <description>探索青少年部落客的崛起以及他們如何透過獨特的觀點塑造部落格世界。</description>
     </item>
     <item>
       <title>部落格：免費的網路行銷方法</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-free-internet-marketing-method/</link>
+      <link>http://localhost:1313/zh-tw/posts/blogging-free-internet-marketing-method/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-free-internet-marketing-method/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/blogging-free-internet-marketing-method/</guid>
       <description>了解如何透過部落格成為一種高效又免費的行銷方式，提升您的網站曝光率。探索使用部落格達成行銷成功的技巧。</description>
     </item>
     <item>
       <title>部落格入門</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-101/</link>
+      <link>http://localhost:1313/zh-tw/posts/blogging-101/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-101/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/blogging-101/</guid>
       <description>了解部落格的基本知識，包括部落格、平台、域名和網頁託管等關鍵術語。</description>
     </item>
     <item>
       <title>如何讓你的部落格網站在2024年脫穎而出</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-tips-2024/</link>
+      <link>http://localhost:1313/zh-tw/posts/blogging-tips-2024/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-tips-2024/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/blogging-tips-2024/</guid>
       <description>在過度飽和的市場中，讓你的部落格網站獨特並成功的完整指南。</description>
     </item>
   </channel>

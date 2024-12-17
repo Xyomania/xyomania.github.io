@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Уход И Питомцы on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/categories/%D1%83%D1%85%D0%BE%D0%B4-%D0%B8-%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D1%86%D1%8B/</link>
+    <link>http://localhost:1313/ru/categories/%D1%83%D1%85%D0%BE%D0%B4-%D0%B8-%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D1%86%D1%8B/</link>
     <description>Recent content in Уход И Питомцы on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/categories/%D1%83%D1%85%D0%BE%D0%B4-%D0%B8-%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D1%86%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/categories/%D1%83%D1%85%D0%BE%D0%B4-%D0%B8-%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D1%86%D1%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Плач ребенка: как понять, что нужно вашему малышу</title>
-      <link>https://www.aixwim.cloud/ru/posts/baby-crying-understanding-communication/</link>
+      <link>http://localhost:1313/ru/posts/baby-crying-understanding-communication/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/baby-crying-understanding-communication/</guid>
+      <guid>http://localhost:1313/ru/posts/baby-crying-understanding-communication/</guid>
       <description>Плач – это способ общения младенца. Узнайте, почему плачут младенцы и как реагировать на различные виды плача в первые месяцы жизни.</description>
     </item>
     <item>
       <title>Дневной сон младенца: советы по установлению здоровых привычек сна</title>
-      <link>https://www.aixwim.cloud/ru/posts/baby-naptime-guide/</link>
+      <link>http://localhost:1313/ru/posts/baby-naptime-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/baby-naptime-guide/</guid>
+      <guid>http://localhost:1313/ru/posts/baby-naptime-guide/</guid>
       <description>Руководство для родителей, помогающее младенцу установить здоровые привычки дневного сна и режим сна.</description>
     </item>
   </channel>

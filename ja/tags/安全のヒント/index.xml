@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>安全のヒント on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E5%AE%89%E5%85%A8%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
+    <link>http://localhost:1313/ja/tags/%E5%AE%89%E5%85%A8%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
     <description>Recent content in 安全のヒント on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%AE%89%E5%85%A8%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E5%AE%89%E5%85%A8%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>放課後の安全：親のための重要なヒントと注意点</title>
-      <link>https://www.aixwim.cloud/ja/posts/after-school-safety-tips-for-parents/</link>
+      <link>http://localhost:1313/ja/posts/after-school-safety-tips-for-parents/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/after-school-safety-tips-for-parents/</guid>
+      <guid>http://localhost:1313/ja/posts/after-school-safety-tips-for-parents/</guid>
       <description>放課後の安全を確保するための実践的なヒント。緊急時の準備から危険ゾーンの特定まで、子供を安全に守る方法をご紹介します。</description>
     </item>
   </channel>

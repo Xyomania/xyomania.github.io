@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Diamonds on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/diamonds/</link>
+    <link>http://localhost:1313/tags/diamonds/</link>
     <description>Recent content in Diamonds on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/diamonds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/diamonds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All About Diamond Clarity: Understanding Grades and Imperfections</title>
-      <link>https://www.aixwim.cloud/posts/diamond-clarity-guide/</link>
+      <link>http://localhost:1313/posts/diamond-clarity-guide/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/diamond-clarity-guide/</guid>
+      <guid>http://localhost:1313/posts/diamond-clarity-guide/</guid>
       <description>Learn how diamond clarity is graded, what the grades mean, and how clarity impacts a diamond&amp;#39;s value and appearance.</description>
+    </item>
+    <item>
+      <title>Understanding Diamond Weights: Carats, Grains, and CTW</title>
+      <link>http://localhost:1313/posts/diamond-weights/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/diamond-weights/</guid>
+      <description>Learn how diamonds are measured, the history behind carat weights, and essential tips for buying diamond jewelry.</description>
     </item>
   </channel>
 </rss>

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ウェブサイト最適化 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E6%9C%80%E9%81%A9%E5%8C%96/</link>
+    <link>http://localhost:1313/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E6%9C%80%E9%81%A9%E5%8C%96/</link>
     <description>Recent content in ウェブサイト最適化 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E6%9C%80%E9%81%A9%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E6%9C%80%E9%81%A9%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>コストを抑えた効果的なSEO</title>
-      <link>https://www.aixwim.cloud/ja/posts/effective-cheap-seo-strategies/</link>
+      <link>http://localhost:1313/ja/posts/effective-cheap-seo-strategies/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/effective-cheap-seo-strategies/</guid>
+      <guid>http://localhost:1313/ja/posts/effective-cheap-seo-strategies/</guid>
       <description>予算を抑えながら、ウェブサイトのトラフィックを向上させるための手頃なSEO手法をご紹介します。検索エンジンランキングを向上させる実用的な戦略を学びましょう。</description>
     </item>
     <item>
       <title>効果的なSEOは低コストで実現できる</title>
-      <link>https://www.aixwim.cloud/ja/posts/effective-seo-comes-cheap/</link>
+      <link>http://localhost:1313/ja/posts/effective-seo-comes-cheap/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/effective-seo-comes-cheap/</guid>
+      <guid>http://localhost:1313/ja/posts/effective-seo-comes-cheap/</guid>
       <description>予算を大きく使わずにウェブサイトへのトラフィックを増やすための手頃なSEO戦略を発見しましょう。低コストの方法で検索エンジンランキングを改善する方法を学びましょう。</description>
     </item>
     <item>
       <title>アグレッシブなインターネットマーケティング実現：成功のための低コスト戦略</title>
-      <link>https://www.aixwim.cloud/ja/posts/aggressive-internet-marketing-low-cost/</link>
+      <link>http://localhost:1313/ja/posts/aggressive-internet-marketing-low-cost/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/aggressive-internet-marketing-low-cost/</guid>
+      <guid>http://localhost:1313/ja/posts/aggressive-internet-marketing-low-cost/</guid>
       <description>低コストで効果的なアグレッシブなインターネットマーケティング戦略の実践方法を学びましょう。低コストのデジタルマーケティングプランを選ぶ前に問うべき重要な質問を発見しましょう。</description>
     </item>
   </channel>

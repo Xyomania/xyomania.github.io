@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ウェブホスティング on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%9B%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+    <link>http://localhost:1313/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%9B%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
     <description>Recent content in ウェブホスティング on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%9B%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%9B%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ニッチ市場でスーパーフィリエイトになる方法</title>
-      <link>https://www.aixwim.cloud/ja/posts/super-affiliate-niche-markets/</link>
+      <link>http://localhost:1313/ja/posts/super-affiliate-niche-markets/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/super-affiliate-niche-markets/</guid>
+      <guid>http://localhost:1313/ja/posts/super-affiliate-niche-markets/</guid>
       <description>ニッチ市場、特にウェブホスティングで成功するスーパーフィリエイトになる方法を学び、利益を上げるためのアフィリエイトプログラムの選び方と安定した収入を得るための主要な戦略を紹介します。</description>
     </item>
   </channel>

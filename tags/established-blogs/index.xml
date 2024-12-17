@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Established Blogs on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/established-blogs/</link>
+    <link>http://localhost:1313/tags/established-blogs/</link>
     <description>Recent content in Established Blogs on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/established-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/established-blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>To Join a Blogging Site or Not to Join</title>
-      <link>https://www.aixwim.cloud/posts/to-join-blogging-site-or-not/</link>
+      <link>http://localhost:1313/posts/to-join-blogging-site-or-not/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/to-join-blogging-site-or-not/</guid>
+      <guid>http://localhost:1313/posts/to-join-blogging-site-or-not/</guid>
       <description>Should you join an established blogging site or create your own? Learn the pros and cons of both options.</description>
     </item>
   </channel>

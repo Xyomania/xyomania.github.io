@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>激進的網路行銷 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E6%BF%80%E9%80%B2%E7%9A%84%E7%B6%B2%E8%B7%AF%E8%A1%8C%E9%8A%B7/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E6%BF%80%E9%80%B2%E7%9A%84%E7%B6%B2%E8%B7%AF%E8%A1%8C%E9%8A%B7/</link>
     <description>Recent content in 激進的網路行銷 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E6%BF%80%E9%80%B2%E7%9A%84%E7%B6%B2%E8%B7%AF%E8%A1%8C%E9%8A%B7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E6%BF%80%E9%80%B2%E7%9A%84%E7%B6%B2%E8%B7%AF%E8%A1%8C%E9%8A%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>實現激進的網路行銷：低成本成功策略</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/aggressive-internet-marketing-low-cost/</link>
+      <link>http://localhost:1313/zh-tw/posts/aggressive-internet-marketing-low-cost/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/aggressive-internet-marketing-low-cost/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/aggressive-internet-marketing-low-cost/</guid>
       <description>了解如何實施既實惠又有效的激進網路行銷策略。發現選擇低成本數位行銷方案前需要問的關鍵問題。</description>
     </item>
   </channel>

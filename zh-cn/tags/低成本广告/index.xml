@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>低成本广告 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E4%BD%8E%E6%88%90%E6%9C%AC%E5%B9%BF%E5%91%8A/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E4%BD%8E%E6%88%90%E6%9C%AC%E5%B9%BF%E5%91%8A/</link>
     <description>Recent content in 低成本广告 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E4%BD%8E%E6%88%90%E6%9C%AC%E5%B9%BF%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E4%BD%8E%E6%88%90%E6%9C%AC%E5%B9%BF%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>低成本广告与网络骗局</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/low-cost-advertising-internet-scams/</link>
+      <link>http://localhost:1313/zh-cn/posts/low-cost-advertising-internet-scams/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/low-cost-advertising-internet-scams/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/low-cost-advertising-internet-scams/</guid>
       <description>了解如何保护您的企业免受在线广告骗局的侵害，并发现能够带来效果的低成本广告策略。</description>
     </item>
     <item>
       <title>通过低成本互联网广告最大化曝光率</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/maximize-exposure-low-cost-internet-advertising/</link>
+      <link>http://localhost:1313/zh-cn/posts/maximize-exposure-low-cost-internet-advertising/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/maximize-exposure-low-cost-internet-advertising/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/maximize-exposure-low-cost-internet-advertising/</guid>
       <description>了解如何通过低成本的互联网广告方法最大化曝光率。发现在线广告的优缺点，并学习如何充分利用它们来推广您的业务。</description>
     </item>
   </channel>

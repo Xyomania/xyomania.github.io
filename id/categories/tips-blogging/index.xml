@@ -2,107 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tips Blogging on AIXWIM</title>
-    <link>https://www.aixwim.cloud/id/categories/tips-blogging/</link>
+    <link>http://localhost:1313/id/categories/tips-blogging/</link>
     <description>Recent content in Tips Blogging on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/id/categories/tips-blogging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/id/categories/tips-blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogging Pribadi, Dokumenter, dan Sejarah</title>
-      <link>https://www.aixwim.cloud/id/posts/personal-blogging-documentary-history/</link>
+      <link>http://localhost:1313/id/posts/personal-blogging-documentary-history/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/personal-blogging-documentary-history/</guid>
+      <guid>http://localhost:1313/id/posts/personal-blogging-documentary-history/</guid>
       <description>Jelajahi pertemuan antara blogging pribadi, dokumenter, dan memoar, serta bagaimana blog modern membentuk narasi sejarah zaman kita.</description>
     </item>
     <item>
       <title>Photo Blogging Mungkin Merupakan Puncak Teknologi Modern</title>
-      <link>https://www.aixwim.cloud/id/posts/photo-blogging-pinnacle-modern-technology/</link>
+      <link>http://localhost:1313/id/posts/photo-blogging-pinnacle-modern-technology/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/photo-blogging-pinnacle-modern-technology/</guid>
+      <guid>http://localhost:1313/id/posts/photo-blogging-pinnacle-modern-technology/</guid>
       <description>Photo blogging menggabungkan kekuatan gambar dengan jangkauan internet, menawarkan pengalaman emosional dan estetika bagi pembuat dan pemirsa.</description>
     </item>
     <item>
       <title>Belajar Cara Menghasilkan Uang dari Blogging</title>
-      <link>https://www.aixwim.cloud/id/posts/make-money-blogging/</link>
+      <link>http://localhost:1313/id/posts/make-money-blogging/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/make-money-blogging/</guid>
+      <guid>http://localhost:1313/id/posts/make-money-blogging/</guid>
       <description>Jelajahi dua cara utama yang bisa digunakan pengusaha untuk memonetisasi blog mereka: menjual iklan atau bekerja sama dengan perusahaan untuk meningkatkan citra merek mereka.</description>
     </item>
     <item>
       <title>Cara Belajar Perangkat Lunak Blogging</title>
-      <link>https://www.aixwim.cloud/id/posts/how-to-learn-blogging-software/</link>
+      <link>http://localhost:1313/id/posts/how-to-learn-blogging-software/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/how-to-learn-blogging-software/</guid>
+      <guid>http://localhost:1313/id/posts/how-to-learn-blogging-software/</guid>
       <description>Pelajari pendekatan terbaik untuk menguasai perangkat lunak blogging dan hindari rasa kewalahan dalam prosesnya.</description>
     </item>
     <item>
       <title>Mobile Blogging Ada di Ujung Pisau Teknologi</title>
-      <link>https://www.aixwim.cloud/id/posts/mobile-blogging-cutting-edge/</link>
+      <link>http://localhost:1313/id/posts/mobile-blogging-cutting-edge/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/mobile-blogging-cutting-edge/</guid>
+      <guid>http://localhost:1313/id/posts/mobile-blogging-cutting-edge/</guid>
       <description>Temukan fenomena yang berkembang dari mobile blogging (moblogging) dan bagaimana hal ini merevolusi komunikasi secara real-time di dunia blog.</description>
     </item>
     <item>
       <title>Blogging Berita Secara Langsung Saat Terjadi</title>
-      <link>https://www.aixwim.cloud/id/posts/blogging-news-stories/</link>
+      <link>http://localhost:1313/id/posts/blogging-news-stories/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/blogging-news-stories/</guid>
+      <guid>http://localhost:1313/id/posts/blogging-news-stories/</guid>
       <description>Pelajari bagaimana blogging menjadi platform berita real-time dan dampaknya terhadap dunia jurnalisme.</description>
     </item>
     <item>
       <title>Blogging Remaja</title>
-      <link>https://www.aixwim.cloud/id/posts/blogging-teens/</link>
+      <link>http://localhost:1313/id/posts/blogging-teens/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/blogging-teens/</guid>
+      <guid>http://localhost:1313/id/posts/blogging-teens/</guid>
       <description>Jelajahi kebangkitan blogger remaja dan bagaimana mereka membentuk dunia blogging dengan perspektif unik mereka.</description>
     </item>
     <item>
       <title>Blogging untuk Keuntungan Dimulai dengan Rencana Jangka Panjang</title>
-      <link>https://www.aixwim.cloud/id/posts/blogging-for-profit-plan/</link>
+      <link>http://localhost:1313/id/posts/blogging-for-profit-plan/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/blogging-for-profit-plan/</guid>
+      <guid>http://localhost:1313/id/posts/blogging-for-profit-plan/</guid>
       <description>Temukan strategi kunci untuk mengubah blogging menjadi usaha yang menguntungkan. Keberhasilan dimulai dengan rencana jangka panjang yang solid.</description>
     </item>
     <item>
       <title>Blogging Untuk Pemilik Bisnis</title>
-      <link>https://www.aixwim.cloud/id/posts/blogging-for-business-owners/</link>
+      <link>http://localhost:1313/id/posts/blogging-for-business-owners/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/blogging-for-business-owners/</guid>
+      <guid>http://localhost:1313/id/posts/blogging-for-business-owners/</guid>
       <description>Pelajari bagaimana blogging dapat membantu pemilik usaha kecil mempromosikan produk mereka, menginspirasi loyalitas karyawan, dan membawa bisnis mereka ke level berikutnya.</description>
     </item>
     <item>
       <title>Jika Anda Sudah Blogging, Uang Bisa Datang Hanya dengan Satu Klik</title>
-      <link>https://www.aixwim.cloud/id/posts/blogging-money-click-away/</link>
+      <link>http://localhost:1313/id/posts/blogging-money-click-away/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/blogging-money-click-away/</guid>
+      <guid>http://localhost:1313/id/posts/blogging-money-click-away/</guid>
       <description>Pelajari cara memonetisasi blog Anda setelah memiliki pembaca yang konsisten, dan ubah hobi Anda menjadi sumber penghasilan.</description>
     </item>
     <item>
       <title>Konsolidasi Blog, Utang, dan Teknologi Informasi Baru</title>
-      <link>https://www.aixwim.cloud/id/posts/blogging-consolidation-debt/</link>
+      <link>http://localhost:1313/id/posts/blogging-consolidation-debt/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/blogging-consolidation-debt/</guid>
+      <guid>http://localhost:1313/id/posts/blogging-consolidation-debt/</guid>
       <description>Jelajahi bagaimana blogger dapat membahas topik keuangan seperti konsolidasi utang, manajemen uang, dan strategi investasi untuk membantu orang lain sambil menghasilkan uang.</description>
     </item>
     <item>
       <title>Memilih Alat Blogging Gratis yang Tepat</title>
-      <link>https://www.aixwim.cloud/id/posts/choosing-right-free-blogging-tools/</link>
+      <link>http://localhost:1313/id/posts/choosing-right-free-blogging-tools/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/choosing-right-free-blogging-tools/</guid>
+      <guid>http://localhost:1313/id/posts/choosing-right-free-blogging-tools/</guid>
       <description>Cara memilih alat blogging gratis yang tepat tanpa membebani blog Anda dengan fitur yang tidak perlu.</description>
     </item>
     <item>
       <title>Memilih Situs Blogging Gratis Terbaik</title>
-      <link>https://www.aixwim.cloud/id/posts/choosing-best-free-blogging-site/</link>
+      <link>http://localhost:1313/id/posts/choosing-best-free-blogging-site/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/posts/choosing-best-free-blogging-site/</guid>
+      <guid>http://localhost:1313/id/posts/choosing-best-free-blogging-site/</guid>
       <description>Memilih situs blogging gratis yang tepat bisa sangat membingungkan. Berikut adalah panduan untuk membantu Anda memilih platform terbaik berdasarkan prioritas Anda.</description>
     </item>
   </channel>

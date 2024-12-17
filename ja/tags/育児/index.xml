@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>育児 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/tags/%E8%82%B2%E5%85%90/</link>
+    <link>http://localhost:1313/ja/tags/%E8%82%B2%E5%85%90/</link>
     <description>Recent content in 育児 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/tags/%E8%82%B2%E5%85%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/%E8%82%B2%E5%85%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>学校が多すぎる：放課後プログラムについての個人的な反省</title>
-      <link>https://www.aixwim.cloud/ja/posts/too-much-of-school-reflection/</link>
+      <link>http://localhost:1313/ja/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/too-much-of-school-reflection/</guid>
+      <guid>http://localhost:1313/ja/posts/too-much-of-school-reflection/</guid>
       <description>子供の視点から、放課後プログラムの課題と進化について反省した個人的なストーリー。</description>
     </item>
     <item>
       <title>新しい親への必須アドバイス</title>
-      <link>https://www.aixwim.cloud/ja/posts/essential-tips-for-new-parents/</link>
+      <link>http://localhost:1313/ja/posts/essential-tips-for-new-parents/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/essential-tips-for-new-parents/</guid>
+      <guid>http://localhost:1313/ja/posts/essential-tips-for-new-parents/</guid>
       <description>新しい親が新生児のケアの課題を乗り越えるための役立つガイド。</description>
     </item>
     <item>
       <title>赤ちゃんの昼寝: 健康的な睡眠習慣を作るためのヒント</title>
-      <link>https://www.aixwim.cloud/ja/posts/baby-naptime-guide/</link>
+      <link>http://localhost:1313/ja/posts/baby-naptime-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/baby-naptime-guide/</guid>
+      <guid>http://localhost:1313/ja/posts/baby-naptime-guide/</guid>
       <description>赤ちゃんが健康的な昼寝のルーチンと睡眠パターンを確立できるよう、親向けのガイド。</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Программное Обеспечение Для Блогов on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ru/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2/</link>
+    <link>http://localhost:1313/ru/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2/</link>
     <description>Recent content in Программное Обеспечение Для Блогов on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ru/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Почему Hugo - лучшая платформа для блогеров-разработчиков в 2024 году</title>
-      <link>https://www.aixwim.cloud/ru/posts/best-hugo-blogging-software/</link>
+      <link>http://localhost:1313/ru/posts/best-hugo-blogging-software/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ru/posts/best-hugo-blogging-software/</guid>
+      <guid>http://localhost:1313/ru/posts/best-hugo-blogging-software/</guid>
       <description>Узнайте, почему Hugo является одним из самых быстрых и гибких генераторов статических сайтов для блогов в 2024 году. Узнайте о его функциях, производительности и о том, почему это идеально подходит для разработчиков.</description>
     </item>
   </channel>

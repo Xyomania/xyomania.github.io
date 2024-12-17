@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Education on AIXWIM</title>
-    <link>https://www.aixwim.cloud/tags/education/</link>
+    <link>http://localhost:1313/tags/education/</link>
     <description>Recent content in Education on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating an Effective Learning Environment in After-School Programs</title>
-      <link>https://www.aixwim.cloud/posts/effective-learning-environment-after-school/</link>
+      <link>http://localhost:1313/posts/effective-learning-environment-after-school/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/effective-learning-environment-after-school/</guid>
+      <guid>http://localhost:1313/posts/effective-learning-environment-after-school/</guid>
       <description>Learn how to foster an engaging and disciplined learning environment in after-school programs that enhances children&amp;#39;s development.</description>
     </item>
     <item>
       <title>Mastering Effective Study Habits: Tips for Academic Success</title>
-      <link>https://www.aixwim.cloud/posts/study-habits-tips/</link>
+      <link>http://localhost:1313/posts/study-habits-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/study-habits-tips/</guid>
+      <guid>http://localhost:1313/posts/study-habits-tips/</guid>
       <description>Learn how to improve your study habits by creating a distraction-free environment, organizing supplies, and mastering concentration techniques.</description>
     </item>
     <item>
       <title>School-Based After-School Programs: Enhancing Education and Safety for Children</title>
-      <link>https://www.aixwim.cloud/posts/school-based-after-school-programs/</link>
+      <link>http://localhost:1313/posts/school-based-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/school-based-after-school-programs/</guid>
+      <guid>http://localhost:1313/posts/school-based-after-school-programs/</guid>
       <description>Explore the importance of school-based after-school programs and how they contribute to children&amp;#39;s academic growth, safety, and well-being.</description>
     </item>
     <item>
       <title>The Benefits of a Good After-School Program for Children</title>
-      <link>https://www.aixwim.cloud/posts/benefits-of-after-school-programs/</link>
+      <link>http://localhost:1313/posts/benefits-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/benefits-of-after-school-programs/</guid>
+      <guid>http://localhost:1313/posts/benefits-of-after-school-programs/</guid>
       <description>Discover the numerous benefits of a good after-school program, from enhancing your child&amp;#39;s skills to promoting socialization and preventing destructive habits.</description>
     </item>
     <item>
       <title>Too Much of School: A Personal Reflection on After-School Programs</title>
-      <link>https://www.aixwim.cloud/posts/too-much-of-school-reflection/</link>
+      <link>http://localhost:1313/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/posts/too-much-of-school-reflection/</guid>
+      <guid>http://localhost:1313/posts/too-much-of-school-reflection/</guid>
       <description>A personal story reflecting on the challenges and evolution of after-school programs from a child&amp;#39;s perspective.</description>
     </item>
   </channel>

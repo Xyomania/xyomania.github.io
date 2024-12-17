@@ -2,30 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>テクノロジー on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</link>
+    <link>http://localhost:1313/ja/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</link>
     <description>Recent content in テクノロジー on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canonデジタルカメラ: エクスプレス、撮影、シェア</title>
+      <link>http://localhost:1313/ja/posts/canon-digital-camera-express-shoot-and-share/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/canon-digital-camera-express-shoot-and-share/</guid>
+      <description>Canonの最新デジタルカメラ、PowerShot S2 ISおよびSD500の機能を探索し、優れた画質と簡単なシェアの方法を学びましょう。</description>
+    </item>
+    <item>
+      <title>デジタルカメラ: カメラの未来</title>
+      <link>http://localhost:1313/ja/posts/digital-camera-future/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/digital-camera-future/</guid>
+      <description>デジタルカメラの技術、仕組み、購入時に注目すべきポイントについて探ります。イメージセンサーの進化とデジタル写真の未来を学びましょう。</description>
+    </item>
     <item>
       <title>ブログの基本</title>
-      <link>https://www.aixwim.cloud/ja/posts/blogging-101/</link>
+      <link>http://localhost:1313/ja/posts/blogging-101/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/blogging-101/</guid>
+      <guid>http://localhost:1313/ja/posts/blogging-101/</guid>
       <description>ブログの基本を学びましょう。ブログ、プラットフォーム、ドメイン、ウェブホストなどの重要な用語を解説します。</description>
     </item>
     <item>
       <title>2024年に開発者向けの最適なブログプラットフォームはHugo</title>
-      <link>https://www.aixwim.cloud/ja/posts/best-hugo-blogging-software/</link>
+      <link>http://localhost:1313/ja/posts/best-hugo-blogging-software/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/best-hugo-blogging-software/</guid>
+      <guid>http://localhost:1313/ja/posts/best-hugo-blogging-software/</guid>
       <description>2024年にHugoが最も速く柔軟な静的サイトジェネレーターの一つとして選ばれる理由を探り、その機能、パフォーマンス、開発者にとって最適な理由を学びましょう。</description>
     </item>
   </channel>

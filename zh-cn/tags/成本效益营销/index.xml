@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>成本效益营销 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/tags/%E6%88%90%E6%9C%AC%E6%95%88%E7%9B%8A%E8%90%A5%E9%94%80/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E6%88%90%E6%9C%AC%E6%95%88%E7%9B%8A%E8%90%A5%E9%94%80/</link>
     <description>Recent content in 成本效益营销 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E6%88%90%E6%9C%AC%E6%95%88%E7%9B%8A%E8%90%A5%E9%94%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E6%88%90%E6%9C%AC%E6%95%88%E7%9B%8A%E8%90%A5%E9%94%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>按点击付费广告活动：花更少的钱赚更多</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/pay-per-click-ad-campaign-earn-more/</link>
+      <link>http://localhost:1313/zh-cn/posts/pay-per-click-ad-campaign-earn-more/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/pay-per-click-ad-campaign-earn-more/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/pay-per-click-ad-campaign-earn-more/</guid>
       <description>了解按点击付费广告如何帮助您在花费更少的情况下赚取更多。发现这种高效的广告策略如何提高您的在线可见性并驱动流量到您的网站。</description>
     </item>
     <item>
       <title>如何选择优质且低成本的按点击付费（PPC）广告服务</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/low-cost-pay-per-click-advertising/</link>
+      <link>http://localhost:1313/zh-cn/posts/low-cost-pay-per-click-advertising/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/low-cost-pay-per-click-advertising/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/low-cost-pay-per-click-advertising/</guid>
       <description>了解如何选择优质且低成本的按点击付费（PPC）广告服务，提升您的网站流量。发现有效PPC广告活动的关键策略。</description>
     </item>
   </channel>

@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ブログのコツ on AIXWIM</title>
-    <link>https://www.aixwim.cloud/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%82%B3%E3%83%84/</link>
+    <link>http://localhost:1313/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%82%B3%E3%83%84/</link>
     <description>Recent content in ブログのコツ on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%82%B3%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%82%B3%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ブログソフトウェアの学び方</title>
-      <link>https://www.aixwim.cloud/ja/posts/how-to-learn-blogging-software/</link>
+      <link>http://localhost:1313/ja/posts/how-to-learn-blogging-software/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/how-to-learn-blogging-software/</guid>
+      <guid>http://localhost:1313/ja/posts/how-to-learn-blogging-software/</guid>
       <description>ブログソフトウェアを効果的に学び、プロセスで圧倒されない方法を学びましょう。</description>
     </item>
     <item>
       <title>すでにブログを書いているなら、収益はクリック一つで手に入るかも</title>
-      <link>https://www.aixwim.cloud/ja/posts/blogging-money-click-away/</link>
+      <link>http://localhost:1313/ja/posts/blogging-money-click-away/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/blogging-money-click-away/</guid>
+      <guid>http://localhost:1313/ja/posts/blogging-money-click-away/</guid>
       <description>定期的な読者を持つブログを収益化する方法を学び、趣味を収入源に変えましょう。</description>
     </item>
     <item>
       <title>ブログの統合、借金、そして新しい情報技術</title>
-      <link>https://www.aixwim.cloud/ja/posts/blogging-consolidation-debt/</link>
+      <link>http://localhost:1313/ja/posts/blogging-consolidation-debt/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/blogging-consolidation-debt/</guid>
+      <guid>http://localhost:1313/ja/posts/blogging-consolidation-debt/</guid>
       <description>ブログで借金の統合、マネーマネジメント、投資戦略などの金融に関するトピックを取り上げて他の人を助け、収益を得る方法を探ります。</description>
     </item>
     <item>
       <title>最適な無料ブログサイトの選び方</title>
-      <link>https://www.aixwim.cloud/ja/posts/choosing-best-free-blogging-site/</link>
+      <link>http://localhost:1313/ja/posts/choosing-best-free-blogging-site/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/choosing-best-free-blogging-site/</guid>
+      <guid>http://localhost:1313/ja/posts/choosing-best-free-blogging-site/</guid>
       <description>最適な無料ブログサイトの選び方は難しいことがあります。あなたの優先事項に基づいて最適なプラットフォームを選ぶためのガイドです。</description>
     </item>
     <item>
       <title>利益のためのブログは長期的な計画から始まる</title>
-      <link>https://www.aixwim.cloud/ja/posts/blogging-for-profit-plan/</link>
+      <link>http://localhost:1313/ja/posts/blogging-for-profit-plan/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/posts/blogging-for-profit-plan/</guid>
+      <guid>http://localhost:1313/ja/posts/blogging-for-profit-plan/</guid>
       <description>ブログを利益のあるビジネスに変えるための重要な戦略を発見しましょう。成功は堅実な長期計画から始まります。</description>
     </item>
   </channel>

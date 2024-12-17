@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>債務管理 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%82%B5%E5%8B%99%E7%AE%A1%E7%90%86/</link>
+    <link>http://localhost:1313/zh-tw/tags/%E5%82%B5%E5%8B%99%E7%AE%A1%E7%90%86/</link>
     <description>Recent content in 債務管理 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%82%B5%E5%8B%99%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E5%82%B5%E5%8B%99%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>少量投入大成效：聰明預算管理秘訣</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</link>
+      <link>http://localhost:1313/zh-tw/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</guid>
       <description>發現有效的預算管理、債務管理及追蹤支出的聰明秘訣，幫助你存更多錢。</description>
     </item>
     <item>
       <title>部落格寫作、債務整合與新資訊技術</title>
-      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-consolidation-debt/</link>
+      <link>http://localhost:1313/zh-tw/posts/blogging-consolidation-debt/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-consolidation-debt/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/blogging-consolidation-debt/</guid>
       <description>探索部落客如何討論財務話題，如債務整合、資金管理和投資策略，既能幫助他人又能賺錢。</description>
     </item>
   </channel>

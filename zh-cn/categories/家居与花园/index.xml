@@ -2,30 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>家居与花园 on AIXWIM</title>
-    <link>https://www.aixwim.cloud/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E8%8A%B1%E5%9B%AD/</link>
+    <link>http://localhost:1313/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E8%8A%B1%E5%9B%AD/</link>
     <description>Recent content in 家居与花园 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>https://www.aixwim.cloud/images/</url>
-      <link>https://www.aixwim.cloud/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aixwim.cloud/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E8%8A%B1%E5%9B%AD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E8%8A%B1%E5%9B%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>花园护理</title>
+      <link>http://localhost:1313/zh-cn/posts/care-of-the-flower-garden/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-cn/posts/care-of-the-flower-garden/</guid>
+      <description>了解照顾花园的基本技巧，确保花朵在整个季节中保持健康和生机勃勃。</description>
+    </item>
     <item>
       <title>蝴蝶花园</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/butterfly-gardening/</link>
+      <link>http://localhost:1313/zh-cn/posts/butterfly-gardening/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/butterfly-gardening/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/butterfly-gardening/</guid>
       <description>了解如何设计一个蝴蝶花园，不仅吸引美丽的蝴蝶，还为它们创造一个安全的栖息地。</description>
     </item>
     <item>
       <title>寻找最佳园艺工具</title>
-      <link>https://www.aixwim.cloud/zh-cn/posts/best-gardening-tools-guide/</link>
+      <link>http://localhost:1313/zh-cn/posts/best-gardening-tools-guide/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/posts/best-gardening-tools-guide/</guid>
+      <guid>http://localhost:1313/zh-cn/posts/best-gardening-tools-guide/</guid>
       <description>了解如何选择适合您需求的园艺工具，无论是小花园还是大花园。学习高效和愉快园艺的必要工具。</description>
     </item>
   </channel>
