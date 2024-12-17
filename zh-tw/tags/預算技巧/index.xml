@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>預算技巧 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/tags/%E9%A0%90%E7%AE%97%E6%8A%80%E5%B7%A7/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E9%A0%90%E7%AE%97%E6%8A%80%E5%B7%A7/</link>
     <description>Recent content in 預算技巧 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/tags/%E9%A0%90%E7%AE%97%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E9%A0%90%E7%AE%97%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>緊急基金預算</title>
-      <link>http://localhost:1313/zh-tw/posts/budgeting-for-emergency-funds/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/budgeting-for-emergency-funds/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/budgeting-for-emergency-funds/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/budgeting-for-emergency-funds/</guid>
       <description>了解緊急基金的重要性，以及如何有效地為其進行預算。</description>
     </item>
   </channel>

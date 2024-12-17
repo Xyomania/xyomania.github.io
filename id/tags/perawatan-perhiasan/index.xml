@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Perawatan Perhiasan on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/perawatan-perhiasan/</link>
+    <link>https://www.aixwim.cloud/id/tags/perawatan-perhiasan/</link>
     <description>Recent content in Perawatan Perhiasan on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/perawatan-perhiasan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/perawatan-perhiasan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Berlian Kotor: Memahami Berlian Kasar dan Kotor</title>
-      <link>http://localhost:1313/id/posts/dirty-diamonds/</link>
+      <link>https://www.aixwim.cloud/id/posts/dirty-diamonds/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/dirty-diamonds/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/dirty-diamonds/</guid>
       <description>Pelajari tentang berlian kotor—apa itu, bagaimana mereka bisa kotor, dan cara menjaga perhiasan berlian tetap berkilau. Temukan perbedaan antara berlian kasar dan berlian yang sudah dipoles serta metode pembersihan yang efektif.</description>
     </item>
   </channel>

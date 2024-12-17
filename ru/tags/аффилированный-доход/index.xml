@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Аффилированный Доход on AIXWIM</title>
-    <link>http://localhost:1313/ru/tags/%D0%B0%D1%84%D1%84%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BE%D1%85%D0%BE%D0%B4/</link>
+    <link>https://www.aixwim.cloud/ru/tags/%D0%B0%D1%84%D1%84%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BE%D1%85%D0%BE%D0%B4/</link>
     <description>Recent content in Аффилированный Доход on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ru/tags/%D0%B0%D1%84%D1%84%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BE%D1%85%D0%BE%D0%B4/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ru/tags/%D0%B0%D1%84%D1%84%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BE%D1%85%D0%BE%D0%B4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Использование рекомендаций продуктов для увеличения прибыли</title>
-      <link>http://localhost:1313/ru/posts/product-recommendations-boost-sales/</link>
+      <link>https://www.aixwim.cloud/ru/posts/product-recommendations-boost-sales/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/posts/product-recommendations-boost-sales/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/product-recommendations-boost-sales/</guid>
       <description>Узнайте, как рекомендации продуктов могут увеличить ваш доход от аффилированного маркетинга. Откройте для себя стратегии, которые помогут установить доверие, предложить ценные идеи и укрепить репутацию.</description>
     </item>
   </channel>

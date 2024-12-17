@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Family on AIXWIM</title>
-    <link>http://localhost:1313/categories/family/</link>
+    <link>https://www.aixwim.cloud/categories/family/</link>
     <description>Recent content in Family on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/family/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/categories/family/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Way with Baby Names</title>
-      <link>http://localhost:1313/posts/the-way-with-baby-names/</link>
+      <link>https://www.aixwim.cloud/posts/the-way-with-baby-names/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-way-with-baby-names/</guid>
+      <guid>https://www.aixwim.cloud/posts/the-way-with-baby-names/</guid>
       <description>Choosing the right name for your baby is more than just a decision—it shapes their identity. Here are essential tips for picking the perfect baby name.</description>
     </item>
     <item>
       <title>After-School Activities and Relationship Building: Strengthening Connections</title>
-      <link>http://localhost:1313/posts/after-school-activities-relationship-building/</link>
+      <link>https://www.aixwim.cloud/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/after-school-activities-relationship-building/</guid>
+      <guid>https://www.aixwim.cloud/posts/after-school-activities-relationship-building/</guid>
       <description>Discover how after-school programs foster meaningful relationships between children and mentors, and why these connections are vital for growth and success.</description>
     </item>
     <item>
       <title>Avoiding Burnout in After-School Activities: A Parent’s Guide</title>
-      <link>http://localhost:1313/posts/avoiding-burnout-in-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/posts/avoiding-burnout-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/posts/avoiding-burnout-in-after-school-activities/</guid>
       <description>Managing after-school activities is key to a child&amp;#39;s happiness and well-being. Learn how to avoid burnout while keeping your child engaged and fulfilled.</description>
     </item>
   </channel>

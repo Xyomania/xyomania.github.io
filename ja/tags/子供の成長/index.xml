@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>子供の成長 on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E6%88%90%E9%95%B7/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E6%88%90%E9%95%B7/</link>
     <description>Recent content in 子供の成長 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E6%88%90%E9%95%B7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E6%88%90%E9%95%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>お子さんの放課後活動を見つける方法</title>
-      <link>http://localhost:1313/ja/posts/how-to-find-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/ja/posts/how-to-find-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/how-to-find-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/how-to-find-after-school-activities/</guid>
       <description>お子さんに最適な放課後活動をお探しですか？お子さんの興味やご家族のスケジュールに合った課外活動プログラムを見つけるためのステップバイステップガイドをご紹介します。</description>
     </item>
     <item>
       <title>自宅での放課後プログラムを作成する方法：親向けのヒント</title>
-      <link>http://localhost:1313/ja/posts/home-after-school-program/</link>
+      <link>https://www.aixwim.cloud/ja/posts/home-after-school-program/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/home-after-school-program/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/home-after-school-program/</guid>
       <description>学校に課外活動がない場合でも心配無用！お子様の学業、身体的、社会的な成長を支える自宅での放課後プログラムを作る方法をご紹介します。</description>
     </item>
   </channel>

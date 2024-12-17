@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PowerShot S2 IS on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/powershot-s2-is/</link>
+    <link>https://www.aixwim.cloud/ja/tags/powershot-s2-is/</link>
     <description>Recent content in PowerShot S2 IS on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/powershot-s2-is/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/powershot-s2-is/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Canonデジタルカメラ: エクスプレス、撮影、シェア</title>
-      <link>http://localhost:1313/ja/posts/canon-digital-camera-express-shoot-and-share/</link>
+      <link>https://www.aixwim.cloud/ja/posts/canon-digital-camera-express-shoot-and-share/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/canon-digital-camera-express-shoot-and-share/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/canon-digital-camera-express-shoot-and-share/</guid>
       <description>Canonの最新デジタルカメラ、PowerShot S2 ISおよびSD500の機能を探索し、優れた画質と簡単なシェアの方法を学びましょう。</description>
     </item>
   </channel>

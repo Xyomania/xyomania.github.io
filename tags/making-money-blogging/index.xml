@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Making Money Blogging on AIXWIM</title>
-    <link>http://localhost:1313/tags/making-money-blogging/</link>
+    <link>https://www.aixwim.cloud/tags/making-money-blogging/</link>
     <description>Recent content in Making Money Blogging on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/making-money-blogging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/making-money-blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>If You Are Already Blogging, Money May Be Just a Click Away</title>
-      <link>http://localhost:1313/posts/blogging-money-click-away/</link>
+      <link>https://www.aixwim.cloud/posts/blogging-money-click-away/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/blogging-money-click-away/</guid>
+      <guid>https://www.aixwim.cloud/posts/blogging-money-click-away/</guid>
       <description>Learn how to monetize your blog once you have an established readership, turning your hobby into a source of income.</description>
     </item>
   </channel>

@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>内容营销 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E5%86%85%E5%AE%B9%E8%90%A5%E9%94%80/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E5%86%85%E5%AE%B9%E8%90%A5%E9%94%80/</link>
     <description>Recent content in 内容营销 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E5%86%85%E5%AE%B9%E8%90%A5%E9%94%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E5%86%85%E5%AE%B9%E8%90%A5%E9%94%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>创建文章的最简单方法 - 公共领域内容</title>
-      <link>http://localhost:1313/zh-cn/posts/public-domain-articles-for-content/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/public-domain-articles-for-content/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/public-domain-articles-for-content/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/public-domain-articles-for-content/</guid>
       <description>了解如何使用公共领域文章轻松创建您网站、博客或新闻稿的内容。节省时间、金钱，避免版权问题。</description>
     </item>
     <item>
       <title>如何写出吸引点击的资源框</title>
-      <link>http://localhost:1313/zh-cn/posts/resource-box-clicks/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/resource-box-clicks/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/resource-box-clicks/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/resource-box-clicks/</guid>
       <description>了解如何为您的文章写一个吸引人的资源框，吸引注意力并为您的网站带来流量。</description>
     </item>
     <item>
       <title>三种不花一分钱的流量策略</title>
-      <link>http://localhost:1313/zh-cn/posts/three-free-traffic-tactics/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/three-free-traffic-tactics/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/three-free-traffic-tactics/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/three-free-traffic-tactics/</guid>
       <description>了解三种有效的零成本流量策略，提升您的网站流量并增加曝光度。非常适合预算有限的站长。</description>
     </item>
     <item>
       <title>写文章作为一种经济实惠的互联网营销方法</title>
-      <link>http://localhost:1313/zh-cn/posts/writing-articles-affordable-marketing/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/writing-articles-affordable-marketing/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/writing-articles-affordable-marketing/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/writing-articles-affordable-marketing/</guid>
       <description>了解如何通过写文章作为一种经济实惠的互联网营销策略。通过这种强大的方法提高SEO、获得反向链接并吸引免费流量。</description>
     </item>
     <item>
       <title>提交文章到目录之前必须采取的3个关键步骤</title>
-      <link>http://localhost:1313/zh-cn/posts/3-steps-before-article-submission/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/3-steps-before-article-submission/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/3-steps-before-article-submission/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/3-steps-before-article-submission/</guid>
       <description>学习在提交文章到文章目录之前必须做的三件事，以提高流量、SEO和转化率。</description>
     </item>
     <item>
       <title>文章：通往客户钱包的最快捷方式</title>
-      <link>http://localhost:1313/zh-cn/posts/articles-quickest-way-to-customers-wallet/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/articles-quickest-way-to-customers-wallet/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/articles-quickest-way-to-customers-wallet/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/articles-quickest-way-to-customers-wallet/</guid>
       <description>了解如何通过撰写和提交文章，成为一种强大的、零成本的方式来推广您的网站，增加流量并提高销售额。</description>
     </item>
   </channel>

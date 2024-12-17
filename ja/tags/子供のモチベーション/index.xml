@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>子供のモチベーション on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E3%83%A2%E3%83%81%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E3%83%A2%E3%83%81%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
     <description>Recent content in 子供のモチベーション on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E3%83%A2%E3%83%81%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%AD%90%E4%BE%9B%E3%81%AE%E3%83%A2%E3%83%81%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>放課後の活動で子供のモチベーションを維持する方法</title>
-      <link>http://localhost:1313/ja/posts/keeping-children-motivated-after-school/</link>
+      <link>https://www.aixwim.cloud/ja/posts/keeping-children-motivated-after-school/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/keeping-children-motivated-after-school/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/keeping-children-motivated-after-school/</guid>
       <description>放課後の活動で子供のモチベーションを維持するのに苦労していますか？ここでは、学びと成長への愛を育みながら、子供の熱意を保つための戦略をご紹介します。</description>
     </item>
   </channel>

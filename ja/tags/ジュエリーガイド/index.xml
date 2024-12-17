@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ジュエリーガイド on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC%E3%82%AC%E3%82%A4%E3%83%89/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC%E3%82%AC%E3%82%A4%E3%83%89/</link>
     <description>Recent content in ジュエリーガイド on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC%E3%82%AC%E3%82%A4%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC%E3%82%AC%E3%82%A4%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ダイヤモンドの透明度について：グレードと欠陥を理解する</title>
-      <link>http://localhost:1313/ja/posts/diamond-clarity-guide/</link>
+      <link>https://www.aixwim.cloud/ja/posts/diamond-clarity-guide/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/diamond-clarity-guide/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/diamond-clarity-guide/</guid>
       <description>ダイヤモンドの透明度がどのように評価され、各グレードが何を意味し、透明度がダイヤモンドの価値と外観にどのように影響するかを学びましょう。</description>
     </item>
   </channel>

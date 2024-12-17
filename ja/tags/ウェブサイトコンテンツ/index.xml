@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ウェブサイトコンテンツ on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/</link>
     <description>Recent content in ウェブサイトコンテンツ on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>世界中のトップライターがあなたのために書きます – アウトソーシング</title>
-      <link>http://localhost:1313/ja/posts/outsourcing-writing/</link>
+      <link>https://www.aixwim.cloud/ja/posts/outsourcing-writing/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/outsourcing-writing/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/outsourcing-writing/</guid>
       <description>世界中のトップライターにコンテンツライティングや記事作成をアウトソーシングすることで、あなたのウェブサイトのトラフィックを増加させ、SEOランキングを改善する方法を発見しましょう。</description>
     </item>
   </channel>

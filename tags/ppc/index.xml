@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PPC on AIXWIM</title>
-    <link>http://localhost:1313/tags/ppc/</link>
+    <link>https://www.aixwim.cloud/tags/ppc/</link>
     <description>Recent content in PPC on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ppc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/ppc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy Profits Using PPC In Your Affiliate Marketing Business</title>
-      <link>http://localhost:1313/posts/ppc-affiliate-marketing/</link>
+      <link>https://www.aixwim.cloud/posts/ppc-affiliate-marketing/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ppc-affiliate-marketing/</guid>
+      <guid>https://www.aixwim.cloud/posts/ppc-affiliate-marketing/</guid>
       <description>Learn how to maximize profits in your affiliate marketing business by using PPC (Pay Per Click) advertising. Find out how this cost-effective strategy can boost your earnings.</description>
     </item>
   </channel>

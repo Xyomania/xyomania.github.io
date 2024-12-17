@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>初學者釣魚 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/tags/%E5%88%9D%E5%AD%B8%E8%80%85%E9%87%A3%E9%AD%9A/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%88%9D%E5%AD%B8%E8%80%85%E9%87%A3%E9%AD%9A/</link>
     <description>Recent content in 初學者釣魚 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/tags/%E5%88%9D%E5%AD%B8%E8%80%85%E9%87%A3%E9%AD%9A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%88%9D%E5%AD%B8%E8%80%85%E9%87%A3%E9%AD%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>每位釣魚者必備的基本釣魚裝備</title>
-      <link>http://localhost:1313/zh-tw/posts/basic-fishing-supplies/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/basic-fishing-supplies/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/basic-fishing-supplies/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/basic-fishing-supplies/</guid>
       <description>了解您在成功釣魚之旅中所需的基本釣魚裝備，從魚鉤到釣具，應有盡有。</description>
     </item>
   </channel>

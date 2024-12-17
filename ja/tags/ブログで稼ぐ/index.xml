@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ブログで稼ぐ on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%A7%E7%A8%BC%E3%81%90/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%A7%E7%A8%BC%E3%81%90/</link>
     <description>Recent content in ブログで稼ぐ on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%A7%E7%A8%BC%E3%81%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%A7%E7%A8%BC%E3%81%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>すでにブログを書いているなら、収益はクリック一つで手に入るかも</title>
-      <link>http://localhost:1313/ja/posts/blogging-money-click-away/</link>
+      <link>https://www.aixwim.cloud/ja/posts/blogging-money-click-away/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/blogging-money-click-away/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/blogging-money-click-away/</guid>
       <description>定期的な読者を持つブログを収益化する方法を学び、趣味を収入源に変えましょう。</description>
     </item>
   </channel>

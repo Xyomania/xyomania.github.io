@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Marketing Mistakes on AIXWIM</title>
-    <link>http://localhost:1313/tags/marketing-mistakes/</link>
+    <link>https://www.aixwim.cloud/tags/marketing-mistakes/</link>
     <description>Recent content in Marketing Mistakes on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/marketing-mistakes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/marketing-mistakes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Avoid The 3 Most Common Affiliate Mistakes</title>
-      <link>http://localhost:1313/posts/avoid-affiliate-mistakes/</link>
+      <link>https://www.aixwim.cloud/posts/avoid-affiliate-mistakes/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/avoid-affiliate-mistakes/</guid>
+      <guid>https://www.aixwim.cloud/posts/avoid-affiliate-mistakes/</guid>
       <description>Avoid the most common mistakes in affiliate marketing and boost your chances of success. Learn from the pitfalls that many marketers fall into and set yourself up for success.</description>
     </item>
   </channel>

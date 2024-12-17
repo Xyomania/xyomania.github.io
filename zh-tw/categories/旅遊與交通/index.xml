@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>旅遊與交通 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/categories/%E6%97%85%E9%81%8A%E8%88%87%E4%BA%A4%E9%80%9A/</link>
+    <link>https://www.aixwim.cloud/zh-tw/categories/%E6%97%85%E9%81%8A%E8%88%87%E4%BA%A4%E9%80%9A/</link>
     <description>Recent content in 旅遊與交通 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/categories/%E6%97%85%E9%81%8A%E8%88%87%E4%BA%A4%E9%80%9A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E6%97%85%E9%81%8A%E8%88%87%E4%BA%A4%E9%80%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>阿拉斯加釣魚小屋：大自然的家</title>
-      <link>http://localhost:1313/zh-tw/posts/alaska-fishing-lodge-natures-abode/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/alaska-fishing-lodge-natures-abode/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/alaska-fishing-lodge-natures-abode/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/alaska-fishing-lodge-natures-abode/</guid>
       <description>探索阿拉斯加釣魚小屋的終極釣魚體驗，這裡結合了舒適、實惠與豐富的魚種。</description>
     </item>
   </channel>

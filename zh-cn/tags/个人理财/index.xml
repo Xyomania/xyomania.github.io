@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>个人理财 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2/</link>
     <description>Recent content in 个人理财 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>有效的省钱技巧</title>
-      <link>http://localhost:1313/zh-cn/posts/effective-money-savings-tips/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/effective-money-savings-tips/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/effective-money-savings-tips/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/effective-money-savings-tips/</guid>
       <description>通过这些实用的理财技巧，最大化您的财务资源并有效储蓄。</description>
     </item>
     <item>
       <title>使用省钱优惠券的好处</title>
-      <link>http://localhost:1313/zh-cn/posts/benefits-of-money-saving-coupons/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/benefits-of-money-saving-coupons/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/benefits-of-money-saving-coupons/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/benefits-of-money-saving-coupons/</guid>
       <description>了解如何通过省钱优惠券节省日常开支，并充分利用可用的折扣机会。</description>
     </item>
     <item>
       <title>如何摆脱信用卡债务并避免再次陷入：实用指南</title>
-      <link>http://localhost:1313/zh-cn/posts/credit-card-debt-guide/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/credit-card-debt-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/credit-card-debt-guide/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/credit-card-debt-guide/</guid>
       <description>发现摆脱信用卡债务并建立健康财务未来的策略。学习如何管理支出、坚持偿还计划并避免未来的债务。</description>
     </item>
     <item>
       <title>掌握财务：预算、储蓄与聪明消费</title>
-      <link>http://localhost:1313/zh-cn/posts/budgeting-saving-tips/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/budgeting-saving-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/budgeting-saving-tips/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/budgeting-saving-tips/</guid>
       <description>学习如何制定并维护预算，减少开支，有效储蓄，掌握实用的理财技巧。</description>
     </item>
   </channel>

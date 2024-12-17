@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rumah Dan Taman on AIXWIM</title>
-    <link>http://localhost:1313/id/categories/rumah-dan-taman/</link>
+    <link>https://www.aixwim.cloud/id/categories/rumah-dan-taman/</link>
     <description>Recent content in Rumah Dan Taman on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/categories/rumah-dan-taman/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/categories/rumah-dan-taman/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memilih Tanaman Terbaik untuk Taman Anda</title>
-      <link>http://localhost:1313/id/posts/choosing-best-plants-for-garden/</link>
+      <link>https://www.aixwim.cloud/id/posts/choosing-best-plants-for-garden/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/choosing-best-plants-for-garden/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/choosing-best-plants-for-garden/</guid>
       <description>Pelajari cara memilih tanaman terbaik untuk taman Anda dengan mempertimbangkan tanah, sinar matahari, dan desain untuk menciptakan ruang luar yang harmonis.</description>
     </item>
     <item>
       <title>Perawatan Taman Bunga</title>
-      <link>http://localhost:1313/id/posts/care-of-the-flower-garden/</link>
+      <link>https://www.aixwim.cloud/id/posts/care-of-the-flower-garden/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/care-of-the-flower-garden/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/care-of-the-flower-garden/</guid>
       <description>Pelajari tips dan trik penting untuk merawat taman bunga Anda agar tetap sehat dan berbunga indah sepanjang musim.</description>
     </item>
     <item>
       <title>Tips Mudah Merawat Tanaman Anda</title>
-      <link>http://localhost:1313/id/posts/easy-tips-on-how-to-care-for-your-plants/</link>
+      <link>https://www.aixwim.cloud/id/posts/easy-tips-on-how-to-care-for-your-plants/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/easy-tips-on-how-to-care-for-your-plants/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/easy-tips-on-how-to-care-for-your-plants/</guid>
       <description>Pelajari cara mudah dan efektif merawat tanaman dalam ruangan agar tetap subur sepanjang tahun.</description>
     </item>
     <item>
       <title>Berkebun untuk Menarik Kupu-Kupu</title>
-      <link>http://localhost:1313/id/posts/butterfly-gardening/</link>
+      <link>https://www.aixwim.cloud/id/posts/butterfly-gardening/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/butterfly-gardening/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/butterfly-gardening/</guid>
       <description>Pelajari cara mendesain taman kupu-kupu yang menarik dan menciptakan habitat aman bagi kupu-kupu.</description>
     </item>
     <item>
       <title>Mencari Alat Berkebun Terbaik</title>
-      <link>http://localhost:1313/id/posts/best-gardening-tools-guide/</link>
+      <link>https://www.aixwim.cloud/id/posts/best-gardening-tools-guide/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/best-gardening-tools-guide/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/best-gardening-tools-guide/</guid>
       <description>Temukan cara memilih alat berkebun yang tepat sesuai kebutuhan Anda, baik untuk taman kecil maupun besar. Pelajari alat-alat penting untuk berkebun yang efisien dan menyenangkan.</description>
     </item>
     <item>
       <title>Manfaat Berkebun untuk Anak-anak</title>
-      <link>http://localhost:1313/id/posts/benefits-of-gardening-for-kids/</link>
+      <link>https://www.aixwim.cloud/id/posts/benefits-of-gardening-for-kids/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/benefits-of-gardening-for-kids/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/benefits-of-gardening-for-kids/</guid>
       <description>Temukan banyak manfaat berkebun untuk anak-anak dan bagaimana kegiatan ini dapat membantu mereka mengembangkan keterampilan hidup penting sambil membangun ikatan dengan keluarga.</description>
     </item>
   </channel>

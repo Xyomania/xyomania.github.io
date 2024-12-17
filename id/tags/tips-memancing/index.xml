@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tips Memancing on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/tips-memancing/</link>
+    <link>https://www.aixwim.cloud/id/tags/tips-memancing/</link>
     <description>Recent content in Tips Memancing on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/tips-memancing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/tips-memancing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Catfishing dengan Cara yang Tepat dan Sederhana</title>
-      <link>http://localhost:1313/id/posts/catfishing-the-right-but-simple-way/</link>
+      <link>https://www.aixwim.cloud/id/posts/catfishing-the-right-but-simple-way/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/catfishing-the-right-but-simple-way/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/catfishing-the-right-but-simple-way/</guid>
       <description>Kuasi dasar-dasar catfishing dengan metode yang terbukti efektif. Pelajari teknik sederhana, tips pemberian umpan, dan praktik keselamatan untuk petualangan memancing yang sukses.</description>
     </item>
     <item>
       <title>Tips Memancing di Laut Dalam</title>
-      <link>http://localhost:1313/id/posts/deep-sea-fishing-tips/</link>
+      <link>https://www.aixwim.cloud/id/posts/deep-sea-fishing-tips/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/deep-sea-fishing-tips/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/deep-sea-fishing-tips/</guid>
       <description>Tingkatkan pengalaman memancing laut dalam Anda dengan tips penting untuk petualangan yang sukses dan menyenangkan.</description>
     </item>
     <item>
       <title>Tips Dasar Memancing Ikan Mas</title>
-      <link>http://localhost:1313/id/posts/basic-carp-fishing-pointers/</link>
+      <link>https://www.aixwim.cloud/id/posts/basic-carp-fishing-pointers/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/basic-carp-fishing-pointers/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/basic-carp-fishing-pointers/</guid>
       <description>Pelajari tips dan trik penting untuk sukses memancing ikan mas. Mulai dari teknik umpan hingga pengaturan peralatan terbaik untuk menangkap ikan mas, temukan semua yang perlu Anda ketahui.</description>
     </item>
     <item>
       <title>5 Tips Berguna untuk Memancing Ikan Trout</title>
-      <link>http://localhost:1313/id/posts/5-tips-trout-fishing/</link>
+      <link>https://www.aixwim.cloud/id/posts/5-tips-trout-fishing/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/5-tips-trout-fishing/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/5-tips-trout-fishing/</guid>
       <description>Tips penting untuk memancing ikan trout dengan sukses, berfokus pada teknik, habitat, dan strategi.</description>
     </item>
   </channel>

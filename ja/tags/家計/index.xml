@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>家計 on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E5%AE%B6%E8%A8%88/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E5%AE%B6%E8%A8%88/</link>
     <description>Recent content in 家計 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E5%AE%B6%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%AE%B6%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>お母さんのように予算を立てる</title>
-      <link>http://localhost:1313/ja/posts/budget-like-mom/</link>
+      <link>https://www.aixwim.cloud/ja/posts/budget-like-mom/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/budget-like-mom/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/budget-like-mom/</guid>
       <description>お母さんたちがどのように家計を工夫し、実践的な習慣と賢い財務管理のコツでお金をやりくりしているのかを学びましょう。</description>
     </item>
   </channel>

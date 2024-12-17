@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogging on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/blogging/</link>
+    <link>https://www.aixwim.cloud/id/tags/blogging/</link>
     <description>Recent content in Blogging on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogging Berita Secara Langsung Saat Terjadi</title>
-      <link>http://localhost:1313/id/posts/blogging-news-stories/</link>
+      <link>https://www.aixwim.cloud/id/posts/blogging-news-stories/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/blogging-news-stories/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/blogging-news-stories/</guid>
       <description>Pelajari bagaimana blogging menjadi platform berita real-time dan dampaknya terhadap dunia jurnalisme.</description>
     </item>
     <item>
       <title>Blogging Remaja</title>
-      <link>http://localhost:1313/id/posts/blogging-teens/</link>
+      <link>https://www.aixwim.cloud/id/posts/blogging-teens/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/blogging-teens/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/blogging-teens/</guid>
       <description>Jelajahi kebangkitan blogger remaja dan bagaimana mereka membentuk dunia blogging dengan perspektif unik mereka.</description>
     </item>
     <item>
       <title>Blogging: Metode Pemasaran Internet Gratis</title>
-      <link>http://localhost:1313/id/posts/blogging-free-internet-marketing-method/</link>
+      <link>https://www.aixwim.cloud/id/posts/blogging-free-internet-marketing-method/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/blogging-free-internet-marketing-method/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/blogging-free-internet-marketing-method/</guid>
       <description>Pelajari bagaimana blogging bisa menjadi cara yang efektif biaya untuk memasarkan bisnis Anda dan meningkatkan visibilitas situs web Anda secara online. Temukan tips tentang menggunakan blog untuk kesuksesan pemasaran.</description>
     </item>
     <item>
       <title>Dasar-Dasar Blogging</title>
-      <link>http://localhost:1313/id/posts/blogging-101/</link>
+      <link>https://www.aixwim.cloud/id/posts/blogging-101/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/blogging-101/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/blogging-101/</guid>
       <description>Pelajari dasar-dasar blogging, termasuk istilah penting seperti blog, platform, domain, dan web host.</description>
     </item>
     <item>
       <title>Konsolidasi Blog, Utang, dan Teknologi Informasi Baru</title>
-      <link>http://localhost:1313/id/posts/blogging-consolidation-debt/</link>
+      <link>https://www.aixwim.cloud/id/posts/blogging-consolidation-debt/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/blogging-consolidation-debt/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/blogging-consolidation-debt/</guid>
       <description>Jelajahi bagaimana blogger dapat membahas topik keuangan seperti konsolidasi utang, manajemen uang, dan strategi investasi untuk membantu orang lain sambil menghasilkan uang.</description>
     </item>
     <item>
       <title>6 Tips Ampuh Agar Artikel Anda Dibaca</title>
-      <link>http://localhost:1313/id/posts/6-tips-to-get-articles-read/</link>
+      <link>https://www.aixwim.cloud/id/posts/6-tips-to-get-articles-read/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/6-tips-to-get-articles-read/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/6-tips-to-get-articles-read/</guid>
       <description>Ingin artikel Anda dibaca dan dihargai? Berikut 6 tips ampuh yang akan membuat tulisan Anda lebih menarik, mudah dibaca, dan tidak bisa ditolak oleh pembaca.</description>
     </item>
     <item>
       <title>Cara Membuat Website Blogging Anda Menonjol di 2024</title>
-      <link>http://localhost:1313/id/posts/blogging-tips-2024/</link>
+      <link>https://www.aixwim.cloud/id/posts/blogging-tips-2024/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/blogging-tips-2024/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/blogging-tips-2024/</guid>
       <description>Panduan lengkap untuk membuat website blogging Anda unik dan sukses di pasar yang jenuh.</description>
     </item>
   </channel>

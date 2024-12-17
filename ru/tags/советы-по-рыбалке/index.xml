@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Советы По Рыбалке on AIXWIM</title>
-    <link>http://localhost:1313/ru/tags/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B5/</link>
+    <link>https://www.aixwim.cloud/ru/tags/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B5/</link>
     <description>Recent content in Советы По Рыбалке on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ru/tags/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ru/tags/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Правильный и простой способ ловли сомов</title>
-      <link>http://localhost:1313/ru/posts/catfishing-the-right-but-simple-way/</link>
+      <link>https://www.aixwim.cloud/ru/posts/catfishing-the-right-but-simple-way/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/posts/catfishing-the-right-but-simple-way/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/catfishing-the-right-but-simple-way/</guid>
       <description>Освойте основы ловли сомов с помощью этих проверенных методов. Узнайте простые техники, советы по насадкам и меры безопасности для успешной рыбалки.</description>
     </item>
     <item>
       <title>Советы по глубоководной рыбалке</title>
-      <link>http://localhost:1313/ru/posts/deep-sea-fishing-tips/</link>
+      <link>https://www.aixwim.cloud/ru/posts/deep-sea-fishing-tips/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/posts/deep-sea-fishing-tips/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/deep-sea-fishing-tips/</guid>
       <description>Улучшите свой опыт глубоководной рыбалки с помощью этих полезных советов для успешного и увлекательного приключения.</description>
     </item>
     <item>
       <title>5 полезных советов по ловле форели</title>
-      <link>http://localhost:1313/ru/posts/5-tips-trout-fishing/</link>
+      <link>https://www.aixwim.cloud/ru/posts/5-tips-trout-fishing/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/posts/5-tips-trout-fishing/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/5-tips-trout-fishing/</guid>
       <description>Основные советы для успешной ловли форели, с акцентом на технику, среду обитания и стратегию.</description>
     </item>
   </channel>

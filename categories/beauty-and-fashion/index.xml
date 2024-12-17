@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Beauty and Fashion on AIXWIM</title>
-    <link>http://localhost:1313/categories/beauty-and-fashion/</link>
+    <link>https://www.aixwim.cloud/categories/beauty-and-fashion/</link>
     <description>Recent content in Beauty and Fashion on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/beauty-and-fashion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/categories/beauty-and-fashion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buying Diamonds Online: Tips for Safe and Smart Purchases</title>
-      <link>http://localhost:1313/posts/buying-diamonds-online/</link>
+      <link>https://www.aixwim.cloud/posts/buying-diamonds-online/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/buying-diamonds-online/</guid>
+      <guid>https://www.aixwim.cloud/posts/buying-diamonds-online/</guid>
       <description>Learn how to buy diamonds online safely with expert tips on identifying scams, comparing prices, and securing your purchase.</description>
     </item>
     <item>
       <title>Choosing the Cut of a Diamond: Understanding Its Importance</title>
-      <link>http://localhost:1313/posts/choosing-diamond-cut/</link>
+      <link>https://www.aixwim.cloud/posts/choosing-diamond-cut/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/choosing-diamond-cut/</guid>
+      <guid>https://www.aixwim.cloud/posts/choosing-diamond-cut/</guid>
       <description>Learn how to choose the perfect diamond cut and understand the factors affecting its brilliance and value.</description>
     </item>
     <item>
       <title>All About Diamond Clarity: Understanding Grades and Imperfections</title>
-      <link>http://localhost:1313/posts/diamond-clarity-guide/</link>
+      <link>https://www.aixwim.cloud/posts/diamond-clarity-guide/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/diamond-clarity-guide/</guid>
+      <guid>https://www.aixwim.cloud/posts/diamond-clarity-guide/</guid>
       <description>Learn how diamond clarity is graded, what the grades mean, and how clarity impacts a diamond&amp;#39;s value and appearance.</description>
     </item>
     <item>
       <title>Understanding Diamond Weights: Carats, Grains, and CTW</title>
-      <link>http://localhost:1313/posts/diamond-weights/</link>
+      <link>https://www.aixwim.cloud/posts/diamond-weights/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/diamond-weights/</guid>
+      <guid>https://www.aixwim.cloud/posts/diamond-weights/</guid>
       <description>Learn how diamonds are measured, the history behind carat weights, and essential tips for buying diamond jewelry.</description>
     </item>
     <item>
       <title>Avoiding Diamond Scams: What You Need to Know</title>
-      <link>http://localhost:1313/posts/avoiding-diamond-scams/</link>
+      <link>https://www.aixwim.cloud/posts/avoiding-diamond-scams/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/avoiding-diamond-scams/</guid>
+      <guid>https://www.aixwim.cloud/posts/avoiding-diamond-scams/</guid>
       <description>Learn about common diamond scams and how to protect yourself when purchasing diamonds.</description>
     </item>
     <item>
       <title>Are Diamonds Really Rare? Understanding the Rarity of These Precious Stones</title>
-      <link>http://localhost:1313/posts/are-diamonds-truly-rare/</link>
+      <link>https://www.aixwim.cloud/posts/are-diamonds-truly-rare/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/are-diamonds-truly-rare/</guid>
+      <guid>https://www.aixwim.cloud/posts/are-diamonds-truly-rare/</guid>
       <description>Explore the truth about diamond rarity, from the mining process to market demand, and learn why diamonds are truly special and valuable.</description>
     </item>
   </channel>

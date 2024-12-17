@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/hugo/</link>
+    <link>https://www.aixwim.cloud/ja/tags/hugo/</link>
     <description>Recent content in Hugo on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024年に開発者向けの最適なブログプラットフォームはHugo</title>
-      <link>http://localhost:1313/ja/posts/best-hugo-blogging-software/</link>
+      <link>https://www.aixwim.cloud/ja/posts/best-hugo-blogging-software/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/best-hugo-blogging-software/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/best-hugo-blogging-software/</guid>
       <description>2024年にHugoが最も速く柔軟な静的サイトジェネレーターの一つとして選ばれる理由を探り、その機能、パフォーマンス、開発者にとって最適な理由を学びましょう。</description>
     </item>
   </channel>

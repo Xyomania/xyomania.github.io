@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Seimbang Sekolah on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/seimbang-sekolah/</link>
+    <link>https://www.aixwim.cloud/id/tags/seimbang-sekolah/</link>
     <description>Recent content in Seimbang Sekolah on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/seimbang-sekolah/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/seimbang-sekolah/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seberapa Banyak Terlalu Banyak? Panduan Menyeimbangkan Kegiatan Anak Setelah Sekolah</title>
-      <link>http://localhost:1313/id/posts/how-much-is-too-much-child-activities/</link>
+      <link>https://www.aixwim.cloud/id/posts/how-much-is-too-much-child-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/how-much-is-too-much-child-activities/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/how-much-is-too-much-child-activities/</guid>
       <description>Tidak yakin berapa banyak kegiatan ekstrakurikuler yang terlalu banyak untuk anak Anda? Berikut panduan praktis untuk membantu Anda menemukan keseimbangan yang tepat berdasarkan usia dan kebutuhan mereka.</description>
     </item>
   </channel>

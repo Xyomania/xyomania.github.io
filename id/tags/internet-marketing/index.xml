@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Internet Marketing on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/internet-marketing/</link>
+    <link>https://www.aixwim.cloud/id/tags/internet-marketing/</link>
     <description>Recent content in Internet Marketing on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/internet-marketing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/internet-marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menulis Resource Box Agar Membuat Orang Mengklik</title>
-      <link>http://localhost:1313/id/posts/resource-box-clicks/</link>
+      <link>https://www.aixwim.cloud/id/posts/resource-box-clicks/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/resource-box-clicks/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/resource-box-clicks/</guid>
       <description>Pelajari cara menulis resource box yang menarik perhatian dan mendorong pengunjung untuk mengklik ke situs web Anda.</description>
     </item>
     <item>
       <title>Solusi Internet Marketing Terbaik Tanpa Mengeluarkan Banyak Biaya</title>
-      <link>http://localhost:1313/id/posts/best-internet-marketing-solutions-without-overspending/</link>
+      <link>https://www.aixwim.cloud/id/posts/best-internet-marketing-solutions-without-overspending/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/best-internet-marketing-solutions-without-overspending/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/best-internet-marketing-solutions-without-overspending/</guid>
       <description>Jelajahi solusi internet marketing yang hemat biaya untuk membantu Anda memperluas jangkauan tanpa mengeluarkan banyak biaya. Pelajari tentang email marketing, SEO, dan lainnya.</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Aktivitas Fisik on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/aktivitas-fisik/</link>
+    <link>https://www.aixwim.cloud/id/tags/aktivitas-fisik/</link>
     <description>Recent content in Aktivitas Fisik on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/aktivitas-fisik/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/aktivitas-fisik/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Program Rekreasi Setelah Sekolah: Manfaat untuk Anak Anda</title>
-      <link>http://localhost:1313/id/posts/recreational-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/id/posts/recreational-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/recreational-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/recreational-after-school-programs/</guid>
       <description>Program rekreasi setelah sekolah memberikan anak kesempatan untuk beraktivitas fisik, bersosialisasi, dan mengembangkan keterampilan hidup yang penting. Temukan manfaat dari program-program ini.</description>
     </item>
   </channel>

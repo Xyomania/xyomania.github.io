@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>子育てのコツ on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E5%AD%90%E8%82%B2%E3%81%A6%E3%81%AE%E3%82%B3%E3%83%84/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E5%AD%90%E8%82%B2%E3%81%A6%E3%81%AE%E3%82%B3%E3%83%84/</link>
     <description>Recent content in 子育てのコツ on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E5%AD%90%E8%82%B2%E3%81%A6%E3%81%AE%E3%82%B3%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%AD%90%E8%82%B2%E3%81%A6%E3%81%AE%E3%82%B3%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>なぜお子さんは放課後の活動に退屈を感じるのか</title>
-      <link>http://localhost:1313/ja/posts/boredom-in-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/ja/posts/boredom-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/boredom-in-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/boredom-in-after-school-activities/</guid>
       <description>お子さんが放課後の活動に興味を失う理由と、関心を取り戻すための方法を学びましょう。</description>
     </item>
   </channel>

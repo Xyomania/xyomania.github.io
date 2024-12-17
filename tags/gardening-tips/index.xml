@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gardening Tips on AIXWIM</title>
-    <link>http://localhost:1313/tags/gardening-tips/</link>
+    <link>https://www.aixwim.cloud/tags/gardening-tips/</link>
     <description>Recent content in Gardening Tips on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gardening-tips/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/gardening-tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Choosing the Best Plants for Your Garden</title>
-      <link>http://localhost:1313/posts/choosing-best-plants-for-garden/</link>
+      <link>https://www.aixwim.cloud/posts/choosing-best-plants-for-garden/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/choosing-best-plants-for-garden/</guid>
+      <guid>https://www.aixwim.cloud/posts/choosing-best-plants-for-garden/</guid>
       <description>Learn how to select the best plants for your garden by considering soil, sunlight, and design to create a harmonious outdoor space.</description>
     </item>
     <item>
       <title>Easy Tips on How to Care for Your Plants</title>
-      <link>http://localhost:1313/posts/easy-tips-on-how-to-care-for-your-plants/</link>
+      <link>https://www.aixwim.cloud/posts/easy-tips-on-how-to-care-for-your-plants/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/easy-tips-on-how-to-care-for-your-plants/</guid>
+      <guid>https://www.aixwim.cloud/posts/easy-tips-on-how-to-care-for-your-plants/</guid>
       <description>Learn simple and effective tips to care for your indoor plants and keep them thriving all year round.</description>
     </item>
     <item>
       <title>In Search of the Best Gardening Tools</title>
-      <link>http://localhost:1313/posts/best-gardening-tools-guide/</link>
+      <link>https://www.aixwim.cloud/posts/best-gardening-tools-guide/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/best-gardening-tools-guide/</guid>
+      <guid>https://www.aixwim.cloud/posts/best-gardening-tools-guide/</guid>
       <description>Discover how to choose the right gardening tools for your needs, whether you have a small garden or a large one. Learn the essentials for efficient and enjoyable gardening.</description>
     </item>
     <item>
       <title>More About Butterfly Gardening</title>
-      <link>http://localhost:1313/posts/butterfly-gardening-tips/</link>
+      <link>https://www.aixwim.cloud/posts/butterfly-gardening-tips/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/butterfly-gardening-tips/</guid>
+      <guid>https://www.aixwim.cloud/posts/butterfly-gardening-tips/</guid>
       <description>Learn how to design a beautiful butterfly garden that attracts local butterfly species while creating a tranquil outdoor retreat.</description>
     </item>
   </channel>

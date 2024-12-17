@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Teknologi on AIXWIM</title>
-    <link>http://localhost:1313/id/categories/teknologi/</link>
+    <link>https://www.aixwim.cloud/id/categories/teknologi/</link>
     <description>Recent content in Teknologi on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/categories/teknologi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/categories/teknologi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kamera Digital Canon: Ekspres, Potret, dan Bagikan</title>
-      <link>http://localhost:1313/id/posts/canon-digital-camera-express-shoot-and-share/</link>
+      <link>https://www.aixwim.cloud/id/posts/canon-digital-camera-express-shoot-and-share/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/canon-digital-camera-express-shoot-and-share/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/canon-digital-camera-express-shoot-and-share/</guid>
       <description>Jelajahi fitur-fitur kamera digital Canon terbaru, termasuk PowerShot S2 IS dan SD500, yang dirancang untuk memberikan kualitas gambar terbaik dan kemudahan berbagi.</description>
     </item>
     <item>
       <title>Kamera Digital: Masa Depan Fotografi</title>
-      <link>http://localhost:1313/id/posts/digital-camera-future/</link>
+      <link>https://www.aixwim.cloud/id/posts/digital-camera-future/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/digital-camera-future/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/digital-camera-future/</guid>
       <description>Jelajahi teknologi di balik kamera digital, cara kerjanya, dan hal-hal yang perlu diperhatikan saat membelinya. Pelajari evolusi sensor gambar dan masa depan fotografi digital.</description>
     </item>
     <item>
       <title>Dasar-Dasar Blogging</title>
-      <link>http://localhost:1313/id/posts/blogging-101/</link>
+      <link>https://www.aixwim.cloud/id/posts/blogging-101/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/blogging-101/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/blogging-101/</guid>
       <description>Pelajari dasar-dasar blogging, termasuk istilah penting seperti blog, platform, domain, dan web host.</description>
     </item>
     <item>
       <title>Mengapa Hugo adalah Platform Blogging Terbaik untuk Developer di 2024</title>
-      <link>http://localhost:1313/id/posts/best-hugo-blogging-software/</link>
+      <link>https://www.aixwim.cloud/id/posts/best-hugo-blogging-software/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/best-hugo-blogging-software/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/best-hugo-blogging-software/</guid>
       <description>Cari tahu mengapa Hugo adalah salah satu generator situs statis tercepat dan paling fleksibel untuk blogging di 2024. Pelajari tentang fitur, kinerja, dan mengapa ini sempurna untuk developer.</description>
     </item>
   </channel>

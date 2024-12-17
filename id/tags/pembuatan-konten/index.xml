@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pembuatan Konten on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/pembuatan-konten/</link>
+    <link>https://www.aixwim.cloud/id/tags/pembuatan-konten/</link>
     <description>Recent content in Pembuatan Konten on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/pembuatan-konten/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/pembuatan-konten/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara Termudah untuk Membuat Artikel – Konten Domain Publik</title>
-      <link>http://localhost:1313/id/posts/public-domain-articles-for-content/</link>
+      <link>https://www.aixwim.cloud/id/posts/public-domain-articles-for-content/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/public-domain-articles-for-content/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/public-domain-articles-for-content/</guid>
       <description>Pelajari cara menggunakan artikel domain publik untuk dengan mudah membuat konten untuk situs web, blog, atau buletin Anda. Hemat waktu, uang, dan hindari masalah hak cipta.</description>
     </item>
     <item>
       <title>Cara Membuat Kerangka Artikel</title>
-      <link>http://localhost:1313/id/posts/how-to-create-an-outline-for-your-articles/</link>
+      <link>https://www.aixwim.cloud/id/posts/how-to-create-an-outline-for-your-articles/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/how-to-create-an-outline-for-your-articles/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/how-to-create-an-outline-for-your-articles/</guid>
       <description>Pelajari cara membuat kerangka artikel yang mempermudah proses menulis dan membantu Anda menghasilkan konten yang terorganisir dan menarik.</description>
     </item>
     <item>
       <title>Saya Benci Menulis Artikel – Bukankah Ada Cara yang Lebih Mudah?!</title>
-      <link>http://localhost:1313/id/posts/hate-writing-articles-easier-way/</link>
+      <link>https://www.aixwim.cloud/id/posts/hate-writing-articles-easier-way/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/hate-writing-articles-easier-way/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/hate-writing-articles-easier-way/</guid>
       <description>Benci menulis artikel? Temukan alternatif sederhana untuk menghasilkan konten untuk situs Anda tanpa kerepotan. Pelajari cara menggunakan artikel gratis, konten domain publik, dan freelancer untuk meningkatkan bisnis Anda.</description>
     </item>
     <item>
       <title>Cara Membuat Website Blogging Anda Menonjol di 2024</title>
-      <link>http://localhost:1313/id/posts/blogging-tips-2024/</link>
+      <link>https://www.aixwim.cloud/id/posts/blogging-tips-2024/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/blogging-tips-2024/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/blogging-tips-2024/</guid>
       <description>Panduan lengkap untuk membuat website blogging Anda unik dan sukses di pasar yang jenuh.</description>
     </item>
   </channel>

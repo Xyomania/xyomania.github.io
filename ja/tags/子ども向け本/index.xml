@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>子ども向け本 on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91%E6%9C%AC/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91%E6%9C%AC/</link>
     <description>Recent content in 子ども向け本 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>読書活動：お子様に読書の楽しさを育む方法</title>
-      <link>http://localhost:1313/ja/posts/reading-activities-for-kids/</link>
+      <link>https://www.aixwim.cloud/ja/posts/reading-activities-for-kids/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/reading-activities-for-kids/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/reading-activities-for-kids/</guid>
       <description>画面に支配された世界で、子どもたちに読書の楽しさを育むことはこれまで以上に重要です。お子様が読書に興奮するための楽しくて創造的な方法を見つけましょう。</description>
     </item>
   </channel>

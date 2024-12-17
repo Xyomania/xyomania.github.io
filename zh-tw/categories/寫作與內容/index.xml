@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>寫作與內容 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/categories/%E5%AF%AB%E4%BD%9C%E8%88%87%E5%85%A7%E5%AE%B9/</link>
+    <link>https://www.aixwim.cloud/zh-tw/categories/%E5%AF%AB%E4%BD%9C%E8%88%87%E5%85%A7%E5%AE%B9/</link>
     <description>Recent content in 寫作與內容 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/categories/%E5%AF%AB%E4%BD%9C%E8%88%87%E5%85%A7%E5%AE%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E5%AF%AB%E4%BD%9C%E8%88%87%E5%85%A7%E5%AE%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何為您的文章建立大綱</title>
-      <link>http://localhost:1313/zh-tw/posts/how-to-create-an-outline-for-your-articles/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/how-to-create-an-outline-for-your-articles/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/how-to-create-an-outline-for-your-articles/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/how-to-create-an-outline-for-your-articles/</guid>
       <description>學習如何建立文章大綱，簡化寫作流程，幫助您創作結構清晰且吸引人的內容。</description>
     </item>
   </channel>

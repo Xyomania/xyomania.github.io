@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>流量生成 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E6%B5%81%E9%87%8F%E7%94%9F%E6%88%90/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E6%B5%81%E9%87%8F%E7%94%9F%E6%88%90/</link>
     <description>Recent content in 流量生成 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E6%B5%81%E9%87%8F%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E6%B5%81%E9%87%8F%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何写出吸引点击的资源框</title>
-      <link>http://localhost:1313/zh-cn/posts/resource-box-clicks/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/resource-box-clicks/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/resource-box-clicks/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/resource-box-clicks/</guid>
       <description>了解如何为您的文章写一个吸引人的资源框，吸引注意力并为您的网站带来流量。</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>食品与饮料 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/categories/%E9%A3%9F%E5%93%81%E4%B8%8E%E9%A5%AE%E6%96%99/</link>
+    <link>https://www.aixwim.cloud/zh-cn/categories/%E9%A3%9F%E5%93%81%E4%B8%8E%E9%A5%AE%E6%96%99/</link>
     <description>Recent content in 食品与饮料 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/categories/%E9%A3%9F%E5%93%81%E4%B8%8E%E9%A5%AE%E6%96%99/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/categories/%E9%A3%9F%E5%93%81%E4%B8%8E%E9%A5%AE%E6%96%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>最佳方法烹饪新鲜捕获的鱼</title>
-      <link>http://localhost:1313/zh-cn/posts/best-way-to-cook-fresh-fish/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/best-way-to-cook-fresh-fish/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/best-way-to-cook-fresh-fish/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/best-way-to-cook-fresh-fish/</guid>
       <description>了解如何烹饪新鲜捕获的鱼，从煎炸到烧烤和烘烤，享受美味的餐点。</description>
     </item>
   </channel>

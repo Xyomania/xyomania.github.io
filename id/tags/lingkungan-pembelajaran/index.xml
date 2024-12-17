@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lingkungan Pembelajaran on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/lingkungan-pembelajaran/</link>
+    <link>https://www.aixwim.cloud/id/tags/lingkungan-pembelajaran/</link>
     <description>Recent content in Lingkungan Pembelajaran on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/lingkungan-pembelajaran/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/lingkungan-pembelajaran/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menciptakan Lingkungan Pembelajaran yang Efektif dalam Program Setelah Sekolah</title>
-      <link>http://localhost:1313/id/posts/effective-learning-environment-after-school/</link>
+      <link>https://www.aixwim.cloud/id/posts/effective-learning-environment-after-school/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/effective-learning-environment-after-school/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/effective-learning-environment-after-school/</guid>
       <description>Pelajari bagaimana menciptakan lingkungan pembelajaran yang menarik dan disiplin dalam program setelah sekolah yang dapat meningkatkan perkembangan anak.</description>
     </item>
   </channel>

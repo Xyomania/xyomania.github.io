@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>學業成功 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/tags/%E5%AD%B8%E6%A5%AD%E6%88%90%E5%8A%9F/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%AD%B8%E6%A5%AD%E6%88%90%E5%8A%9F/</link>
     <description>Recent content in 學業成功 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/tags/%E5%AD%B8%E6%A5%AD%E6%88%90%E5%8A%9F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%AD%B8%E6%A5%AD%E6%88%90%E5%8A%9F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>掌握有效的學習習慣：學業成功的技巧</title>
-      <link>http://localhost:1313/zh-tw/posts/study-habits-tips/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/study-habits-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/study-habits-tips/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/study-habits-tips/</guid>
       <description>了解如何透過創造無干擾的環境、整理學習材料並掌握專注技巧來改善學習習慣。</description>
     </item>
     <item>
       <title>課後計劃的潛力：對孩子的好處</title>
-      <link>http://localhost:1313/zh-tw/posts/potentials-of-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/potentials-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/potentials-of-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/potentials-of-after-school-programs/</guid>
       <description>課後計劃提供了多種好處，從提升學業成績到預防風險行為。了解這些計劃為什麼對孩子的成長至關重要。</description>
     </item>
   </channel>

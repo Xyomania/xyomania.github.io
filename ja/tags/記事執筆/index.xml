@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>記事執筆 on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E8%A8%98%E4%BA%8B%E5%9F%B7%E7%AD%86/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E8%A8%98%E4%BA%8B%E5%9F%B7%E7%AD%86/</link>
     <description>Recent content in 記事執筆 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E8%A8%98%E4%BA%8B%E5%9F%B7%E7%AD%86/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E8%A8%98%E4%BA%8B%E5%9F%B7%E7%AD%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>記事作成の最も簡単な方法 – パブリックドメインコンテンツ</title>
-      <link>http://localhost:1313/ja/posts/public-domain-articles-for-content/</link>
+      <link>https://www.aixwim.cloud/ja/posts/public-domain-articles-for-content/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/public-domain-articles-for-content/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/public-domain-articles-for-content/</guid>
       <description>パブリックドメインの記事を使用して、ウェブサイト、ブログ、ニュースレター用のコンテンツを簡単に作成する方法を学びましょう。時間とお金を節約し、著作権の問題を避ける方法をご紹介します。</description>
     </item>
     <item>
       <title>記事のアウトラインを作成する方法</title>
-      <link>http://localhost:1313/ja/posts/how-to-create-an-outline-for-your-articles/</link>
+      <link>https://www.aixwim.cloud/ja/posts/how-to-create-an-outline-for-your-articles/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/how-to-create-an-outline-for-your-articles/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/how-to-create-an-outline-for-your-articles/</guid>
       <description>執筆プロセスを効率化し、構造化された魅力的なコンテンツを作成するためのアウトラインの作り方を学びましょう。</description>
     </item>
     <item>
       <title>世界中のトップライターがあなたのために書きます – アウトソーシング</title>
-      <link>http://localhost:1313/ja/posts/outsourcing-writing/</link>
+      <link>https://www.aixwim.cloud/ja/posts/outsourcing-writing/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/outsourcing-writing/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/outsourcing-writing/</guid>
       <description>世界中のトップライターにコンテンツライティングや記事作成をアウトソーシングすることで、あなたのウェブサイトのトラフィックを増加させ、SEOランキングを改善する方法を発見しましょう。</description>
     </item>
   </channel>

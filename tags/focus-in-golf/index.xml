@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Focus in Golf on AIXWIM</title>
-    <link>http://localhost:1313/tags/focus-in-golf/</link>
+    <link>https://www.aixwim.cloud/tags/focus-in-golf/</link>
     <description>Recent content in Focus in Golf on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/focus-in-golf/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/focus-in-golf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Power of Focus: Why Watching the Ball is Key in Golf</title>
-      <link>http://localhost:1313/posts/watching-the-ball-golf/</link>
+      <link>https://www.aixwim.cloud/posts/watching-the-ball-golf/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/watching-the-ball-golf/</guid>
+      <guid>https://www.aixwim.cloud/posts/watching-the-ball-golf/</guid>
       <description>Learn how keeping your focus on the ball can improve your golf game. Discover why watching the ball throughout your swing is essential for accuracy and success on the course.</description>
     </item>
   </channel>

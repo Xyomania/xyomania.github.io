@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Keluarga on AIXWIM</title>
-    <link>http://localhost:1313/id/categories/keluarga/</link>
+    <link>https://www.aixwim.cloud/id/categories/keluarga/</link>
     <description>Recent content in Keluarga on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/categories/keluarga/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/categories/keluarga/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kegiatan Setelah Sekolah dan Membangun Hubungan: Memperkuat Koneksi</title>
-      <link>http://localhost:1313/id/posts/after-school-activities-relationship-building/</link>
+      <link>https://www.aixwim.cloud/id/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/after-school-activities-relationship-building/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/after-school-activities-relationship-building/</guid>
       <description>Temukan bagaimana program setelah sekolah mendorong hubungan bermakna antara anak-anak dan mentor, serta mengapa hubungan ini sangat penting untuk pertumbuhan dan kesuksesan.</description>
     </item>
     <item>
       <title>Menghindari Kelelahan dalam Kegiatan Setelah Sekolah: Panduan untuk Orang Tua</title>
-      <link>http://localhost:1313/id/posts/avoiding-burnout-in-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/id/posts/avoiding-burnout-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/avoiding-burnout-in-after-school-activities/</guid>
       <description>Mengelola kegiatan setelah sekolah adalah kunci kebahagiaan dan kesejahteraan anak. Pelajari cara menghindari kelelahan sambil menjaga anak tetap terlibat dan terpenuhi.</description>
     </item>
   </channel>

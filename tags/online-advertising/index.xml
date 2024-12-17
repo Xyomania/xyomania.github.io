@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Online Advertising on AIXWIM</title>
-    <link>http://localhost:1313/tags/online-advertising/</link>
+    <link>https://www.aixwim.cloud/tags/online-advertising/</link>
     <description>Recent content in Online Advertising on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/online-advertising/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/online-advertising/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pay-Per-Click Ad Campaign: Earn More by Spending Less</title>
-      <link>http://localhost:1313/posts/pay-per-click-ad-campaign-earn-more/</link>
+      <link>https://www.aixwim.cloud/posts/pay-per-click-ad-campaign-earn-more/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pay-per-click-ad-campaign-earn-more/</guid>
+      <guid>https://www.aixwim.cloud/posts/pay-per-click-ad-campaign-earn-more/</guid>
       <description>Learn how Pay-Per-Click advertising can help you earn more while spending less. Discover how this cost-effective advertising strategy can boost your online visibility and drive traffic to your website.</description>
     </item>
     <item>
       <title>Affiliate Marketing: Why It&#39;s One of the Most Cost-Effective Ways to Advertise Your Business</title>
-      <link>http://localhost:1313/posts/affiliate-marketing-cost-effective/</link>
+      <link>https://www.aixwim.cloud/posts/affiliate-marketing-cost-effective/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/affiliate-marketing-cost-effective/</guid>
+      <guid>https://www.aixwim.cloud/posts/affiliate-marketing-cost-effective/</guid>
       <description>Affiliate marketing offers one of the most cost-effective ways to advertise your business online. Learn why this model is so popular among digital marketers and how it can help you grow your business.</description>
     </item>
   </channel>

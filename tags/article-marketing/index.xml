@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Article Marketing on AIXWIM</title>
-    <link>http://localhost:1313/tags/article-marketing/</link>
+    <link>https://www.aixwim.cloud/tags/article-marketing/</link>
     <description>Recent content in Article Marketing on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/article-marketing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/article-marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing the Resource Box So It Makes People Click</title>
-      <link>http://localhost:1313/posts/resource-box-clicks/</link>
+      <link>https://www.aixwim.cloud/posts/resource-box-clicks/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/resource-box-clicks/</guid>
+      <guid>https://www.aixwim.cloud/posts/resource-box-clicks/</guid>
       <description>Learn how to write a compelling resource box for your articles that grabs attention and drives traffic to your website.</description>
     </item>
     <item>
       <title>3 Essential Steps to Take Before Submitting Your Articles to Directories</title>
-      <link>http://localhost:1313/posts/3-steps-before-article-submission/</link>
+      <link>https://www.aixwim.cloud/posts/3-steps-before-article-submission/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/3-steps-before-article-submission/</guid>
+      <guid>https://www.aixwim.cloud/posts/3-steps-before-article-submission/</guid>
       <description>Learn the top three things you must do before submitting your articles to article directories to boost traffic, SEO, and conversions.</description>
     </item>
     <item>
       <title>Article: The Fastest Way to Your Customer’s Wallet</title>
-      <link>http://localhost:1313/posts/articles-quickest-way-to-customers-wallet/</link>
+      <link>https://www.aixwim.cloud/posts/articles-quickest-way-to-customers-wallet/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/articles-quickest-way-to-customers-wallet/</guid>
+      <guid>https://www.aixwim.cloud/posts/articles-quickest-way-to-customers-wallet/</guid>
       <description>Learn how writing and submitting articles can be a powerful and cost-free way to promote your website, increase traffic, and boost sales.</description>
     </item>
   </channel>

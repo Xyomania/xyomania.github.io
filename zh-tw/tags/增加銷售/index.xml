@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>增加銷售 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/tags/%E5%A2%9E%E5%8A%A0%E9%8A%B7%E5%94%AE/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%A2%9E%E5%8A%A0%E9%8A%B7%E5%94%AE/</link>
     <description>Recent content in 增加銷售 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/tags/%E5%A2%9E%E5%8A%A0%E9%8A%B7%E5%94%AE/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%A2%9E%E5%8A%A0%E9%8A%B7%E5%94%AE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>利用產品推薦來提高您的利潤</title>
-      <link>http://localhost:1313/zh-tw/posts/product-recommendations-boost-sales/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/product-recommendations-boost-sales/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/product-recommendations-boost-sales/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/product-recommendations-boost-sales/</guid>
       <description>了解如何透過產品推薦來增加您的聯盟行銷收入。探索建立信任、提供有價值見解和建立信譽的策略。</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>高爾夫平衡 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/tags/%E9%AB%98%E7%88%BE%E5%A4%AB%E5%B9%B3%E8%A1%A1/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E9%AB%98%E7%88%BE%E5%A4%AB%E5%B9%B3%E8%A1%A1/</link>
     <description>Recent content in 高爾夫平衡 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/tags/%E9%AB%98%E7%88%BE%E5%A4%AB%E5%B9%B3%E8%A1%A1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E9%AB%98%E7%88%BE%E5%A4%AB%E5%B9%B3%E8%A1%A1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>高爾夫提升技巧：掌握平衡與揮桿技術</title>
-      <link>http://localhost:1313/zh-tw/posts/golf-balance-and-technique/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/golf-balance-and-technique/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/golf-balance-and-technique/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/golf-balance-and-technique/</guid>
       <description>透過專注於平衡、放鬆和正確的技巧，解鎖更好的高爾夫遊戲秘訣。學習如何改善你的揮桿並更享受這項運動。</description>
     </item>
   </channel>

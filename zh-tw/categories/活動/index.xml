@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>活動 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/categories/%E6%B4%BB%E5%8B%95/</link>
+    <link>https://www.aixwim.cloud/zh-tw/categories/%E6%B4%BB%E5%8B%95/</link>
     <description>Recent content in 活動 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/categories/%E6%B4%BB%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E6%B4%BB%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>寶寶派對即將開始!!!!</title>
-      <link>http://localhost:1313/zh-tw/posts/one-baby-bash-coming-up/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/one-baby-bash-coming-up/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/one-baby-bash-coming-up/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/one-baby-bash-coming-up/</guid>
       <description>正在規劃一個難忘的寶寶派對嗎？這裡有一些必備的技巧，幫助您讓寶寶的生日派對變得既有趣又難忘！</description>
     </item>
   </channel>

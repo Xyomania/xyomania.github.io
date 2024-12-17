@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ブログのヒント on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
     <description>Recent content in ブログのヒント on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>正しい無料ブログツールの選び方</title>
-      <link>http://localhost:1313/ja/posts/choosing-right-free-blogging-tools/</link>
+      <link>https://www.aixwim.cloud/ja/posts/choosing-right-free-blogging-tools/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/choosing-right-free-blogging-tools/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/choosing-right-free-blogging-tools/</guid>
       <description>ブログに不要な機能で圧倒されることなく、正しい無料ブログツールを選ぶ方法。</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>娱乐 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/categories/%E5%A8%B1%E4%B9%90/</link>
+    <link>https://www.aixwim.cloud/zh-cn/categories/%E5%A8%B1%E4%B9%90/</link>
     <description>Recent content in 娱乐 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/categories/%E5%A8%B1%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/categories/%E5%A8%B1%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>宝宝豆豆：永恒的宝宝玩具？</title>
-      <link>http://localhost:1313/zh-cn/posts/baby-beanies-toy-of-all-time/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/baby-beanies-toy-of-all-time/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/baby-beanies-toy-of-all-time/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/baby-beanies-toy-of-all-time/</guid>
       <description>了解宝宝豆豆（豆豆宝宝）的历史，从1994年首次推出到它们对玩具收藏家的影响，以及这些柔软、逼真的宝宝玩具持久的吸引力。</description>
     </item>
   </channel>

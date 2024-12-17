@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>科技 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/categories/%E7%A7%91%E6%8A%80/</link>
+    <link>https://www.aixwim.cloud/zh-tw/categories/%E7%A7%91%E6%8A%80/</link>
     <description>Recent content in 科技 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/categories/%E7%A7%91%E6%8A%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E7%A7%91%E6%8A%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>佳能數位相機：快速拍攝與分享</title>
-      <link>http://localhost:1313/zh-tw/posts/canon-digital-camera-express-shoot-and-share/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/canon-digital-camera-express-shoot-and-share/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/canon-digital-camera-express-shoot-and-share/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/canon-digital-camera-express-shoot-and-share/</guid>
       <description>探索最新佳能數位相機的功能，包括PowerShot S2 IS和SD500，旨在提供卓越的影像品質和便捷的分享體驗。</description>
     </item>
     <item>
       <title>數位相機：相機的未來</title>
-      <link>http://localhost:1313/zh-tw/posts/digital-camera-future/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/digital-camera-future/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/digital-camera-future/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/digital-camera-future/</guid>
       <description>探索數位相機背後的技術、其運作原理以及購買時需要注意的事項。了解影像感測器的演變和數位攝影的未來。</description>
     </item>
   </channel>

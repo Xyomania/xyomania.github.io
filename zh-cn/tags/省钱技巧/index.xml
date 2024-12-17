@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>省钱技巧 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7/</link>
     <description>Recent content in 省钱技巧 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>有效的省钱技巧：预算和财务策略</title>
-      <link>http://localhost:1313/zh-cn/posts/effective-tips-on-how-to-save-money/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/effective-tips-on-how-to-save-money/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/effective-tips-on-how-to-save-money/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/effective-tips-on-how-to-save-money/</guid>
       <description>通过预算、管理必要开支和做出更明智的财务决策，发现有效的省钱技巧。</description>
     </item>
     <item>
       <title>掌握财务：预算、储蓄与聪明消费</title>
-      <link>http://localhost:1313/zh-cn/posts/budgeting-saving-tips/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/budgeting-saving-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/budgeting-saving-tips/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/budgeting-saving-tips/</guid>
       <description>学习如何制定并维护预算，减少开支，有效储蓄，掌握实用的理财技巧。</description>
     </item>
   </channel>

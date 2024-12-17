@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>花卉护理 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E8%8A%B1%E5%8D%89%E6%8A%A4%E7%90%86/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E8%8A%B1%E5%8D%89%E6%8A%A4%E7%90%86/</link>
     <description>Recent content in 花卉护理 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E8%8A%B1%E5%8D%89%E6%8A%A4%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E8%8A%B1%E5%8D%89%E6%8A%A4%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>花园护理</title>
-      <link>http://localhost:1313/zh-cn/posts/care-of-the-flower-garden/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/care-of-the-flower-garden/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/care-of-the-flower-garden/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/care-of-the-flower-garden/</guid>
       <description>了解照顾花园的基本技巧，确保花朵在整个季节中保持健康和生机勃勃。</description>
     </item>
   </channel>

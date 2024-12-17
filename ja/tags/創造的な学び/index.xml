@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>創造的な学び on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E5%89%B5%E9%80%A0%E7%9A%84%E3%81%AA%E5%AD%A6%E3%81%B3/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E5%89%B5%E9%80%A0%E7%9A%84%E3%81%AA%E5%AD%A6%E3%81%B3/</link>
     <description>Recent content in 創造的な学び on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E5%89%B5%E9%80%A0%E7%9A%84%E3%81%AA%E5%AD%A6%E3%81%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%89%B5%E9%80%A0%E7%9A%84%E3%81%AA%E5%AD%A6%E3%81%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ユニークなアフタースクールプログラム：子供たちを引き込む活動</title>
-      <link>http://localhost:1313/ja/posts/quirky-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/ja/posts/quirky-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/quirky-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/quirky-after-school-programs/</guid>
       <description>調査的思考や水産学などのスキルを育むユニークなアフタースクールプログラムを探求しましょう。これらのプログラムは教育を冒険に変えています。</description>
     </item>
   </channel>

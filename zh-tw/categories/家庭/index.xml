@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>家庭 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/categories/%E5%AE%B6%E5%BA%AD/</link>
+    <link>https://www.aixwim.cloud/zh-tw/categories/%E5%AE%B6%E5%BA%AD/</link>
     <description>Recent content in 家庭 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/categories/%E5%AE%B6%E5%BA%AD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E5%AE%B6%E5%BA%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Way with Baby Names</title>
-      <link>http://localhost:1313/zh-tw/posts/the-way-with-baby-names/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/the-way-with-baby-names/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/the-way-with-baby-names/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/the-way-with-baby-names/</guid>
       <description>為寶寶選擇合適的名字不僅是一個決定，它會塑造他們的身份。這裡有一些選擇完美寶寶名字的關鍵建議。</description>
     </item>
     <item>
       <title>如何避免課後活動過度疲憊：家長指南</title>
-      <link>http://localhost:1313/zh-tw/posts/avoiding-burnout-in-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/avoiding-burnout-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/avoiding-burnout-in-after-school-activities/</guid>
       <description>管理課後活動是孩子幸福與健康的關鍵。學習如何在保持孩子興趣與滿足感的同時，避免過度疲憊。</description>
     </item>
     <item>
       <title>課後活動與關係建設：加強聯繫</title>
-      <link>http://localhost:1313/zh-tw/posts/after-school-activities-relationship-building/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/after-school-activities-relationship-building/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-relationship-building/</guid>
       <description>了解課後項目如何促進孩子與導師之間的有意義關係，以及為何這些關係對成長與成功至關重要。</description>
     </item>
   </channel>

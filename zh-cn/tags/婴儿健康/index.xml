@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>婴儿健康 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E5%A9%B4%E5%84%BF%E5%81%A5%E5%BA%B7/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E5%A9%B4%E5%84%BF%E5%81%A5%E5%BA%B7/</link>
     <description>Recent content in 婴儿健康 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E5%A9%B4%E5%84%BF%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E5%A9%B4%E5%84%BF%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>新父母的基本建议</title>
-      <link>http://localhost:1313/zh-cn/posts/essential-tips-for-new-parents/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/essential-tips-for-new-parents/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/essential-tips-for-new-parents/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/essential-tips-for-new-parents/</guid>
       <description>为新父母提供有用的指南，帮助他们应对照顾新生儿的挑战。</description>
     </item>
   </channel>

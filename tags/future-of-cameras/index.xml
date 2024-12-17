@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Future of Cameras on AIXWIM</title>
-    <link>http://localhost:1313/tags/future-of-cameras/</link>
+    <link>https://www.aixwim.cloud/tags/future-of-cameras/</link>
     <description>Recent content in Future of Cameras on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/future-of-cameras/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/future-of-cameras/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Camera: The Future of Cameras</title>
-      <link>http://localhost:1313/posts/digital-camera-future/</link>
+      <link>https://www.aixwim.cloud/posts/digital-camera-future/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/digital-camera-future/</guid>
+      <guid>https://www.aixwim.cloud/posts/digital-camera-future/</guid>
       <description>Explore the technology behind digital cameras, how they work, and what to look for when purchasing one. Learn about the evolution of image sensors and the future of digital photography.</description>
     </item>
   </channel>

@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>园艺技巧 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E5%9B%AD%E8%89%BA%E6%8A%80%E5%B7%A7/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E5%9B%AD%E8%89%BA%E6%8A%80%E5%B7%A7/</link>
     <description>Recent content in 园艺技巧 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E5%9B%AD%E8%89%BA%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E5%9B%AD%E8%89%BA%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>花园护理</title>
-      <link>http://localhost:1313/zh-cn/posts/care-of-the-flower-garden/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/care-of-the-flower-garden/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/care-of-the-flower-garden/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/care-of-the-flower-garden/</guid>
       <description>了解照顾花园的基本技巧，确保花朵在整个季节中保持健康和生机勃勃。</description>
     </item>
     <item>
       <title>为您的花园选择最佳植物</title>
-      <link>http://localhost:1313/zh-cn/posts/choosing-best-plants-for-garden/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/choosing-best-plants-for-garden/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/choosing-best-plants-for-garden/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/choosing-best-plants-for-garden/</guid>
       <description>通过考虑土壤、阳光和设计，学习如何为您的花园选择最佳植物，创造一个和谐的户外空间。</description>
     </item>
     <item>
       <title>照顾植物的简单技巧</title>
-      <link>http://localhost:1313/zh-cn/posts/easy-tips-on-how-to-care-for-your-plants/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/easy-tips-on-how-to-care-for-your-plants/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/easy-tips-on-how-to-care-for-your-plants/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/easy-tips-on-how-to-care-for-your-plants/</guid>
       <description>学习简单而有效的植物护理技巧，让您的室内植物全年健康茁壮成长。</description>
     </item>
     <item>
       <title>更多关于蝴蝶花园</title>
-      <link>http://localhost:1313/zh-cn/posts/butterfly-gardening-tips/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/butterfly-gardening-tips/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/butterfly-gardening-tips/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/butterfly-gardening-tips/</guid>
       <description>了解如何设计一个美丽的蝴蝶花园，不仅吸引本地蝴蝶物种，还能打造一个宁静的户外休憩之地。</description>
     </item>
     <item>
       <title>寻找最佳园艺工具</title>
-      <link>http://localhost:1313/zh-cn/posts/best-gardening-tools-guide/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/best-gardening-tools-guide/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/best-gardening-tools-guide/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/best-gardening-tools-guide/</guid>
       <description>了解如何选择适合您需求的园艺工具，无论是小花园还是大花园。学习高效和愉快园艺的必要工具。</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>野生動物の庭 on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E3%81%AE%E5%BA%AD/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E3%81%AE%E5%BA%AD/</link>
     <description>Recent content in 野生動物の庭 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E3%81%AE%E5%BA%AD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E3%81%AE%E5%BA%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>蝶の庭についてもっと知ろう</title>
-      <link>http://localhost:1313/ja/posts/butterfly-gardening-tips/</link>
+      <link>https://www.aixwim.cloud/ja/posts/butterfly-gardening-tips/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/butterfly-gardening-tips/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/butterfly-gardening-tips/</guid>
       <description>地元の蝶を引き寄せる美しい庭をデザインし、穏やかな屋外の憩いの場を作りましょう。</description>
     </item>
   </channel>

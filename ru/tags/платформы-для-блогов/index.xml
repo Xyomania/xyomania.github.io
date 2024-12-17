@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Платформы Для Блогов on AIXWIM</title>
-    <link>http://localhost:1313/ru/tags/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2/</link>
+    <link>https://www.aixwim.cloud/ru/tags/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2/</link>
     <description>Recent content in Платформы Для Блогов on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ru/tags/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ru/tags/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Использование бесплатного блога</title>
-      <link>http://localhost:1313/ru/posts/using-a-free-blogging-website/</link>
+      <link>https://www.aixwim.cloud/ru/posts/using-a-free-blogging-website/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/posts/using-a-free-blogging-website/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/using-a-free-blogging-website/</guid>
       <description>Узнайте, как начать блог на бесплатных платформах, таких как Blogger и Eponym. Идеально для новичков, которые хотят исследовать блогосферу без затрат.</description>
     </item>
     <item>
       <title>Правильная платформа для блога в зависимости от ваших потребностей</title>
-      <link>http://localhost:1313/ru/posts/right-blogging-platform-for-needs/</link>
+      <link>https://www.aixwim.cloud/ru/posts/right-blogging-platform-for-needs/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/posts/right-blogging-platform-for-needs/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/right-blogging-platform-for-needs/</guid>
       <description>Выбор правильной платформы для блога имеет решающее значение для вашего успеха в блоггинге. Это руководство поможет вам выбрать между простотой использования и возможностью настройки.</description>
     </item>
   </channel>

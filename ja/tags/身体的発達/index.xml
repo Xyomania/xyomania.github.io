@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>身体的発達 on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E8%BA%AB%E4%BD%93%E7%9A%84%E7%99%BA%E9%81%94/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E8%BA%AB%E4%BD%93%E7%9A%84%E7%99%BA%E9%81%94/</link>
     <description>Recent content in 身体的発達 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E8%BA%AB%E4%BD%93%E7%9A%84%E7%99%BA%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E8%BA%AB%E4%BD%93%E7%9A%84%E7%99%BA%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>放課後プログラムの発達支援：成長の各段階をサポートする方法</title>
-      <link>http://localhost:1313/ja/posts/developmental-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/ja/posts/developmental-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/developmental-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/developmental-after-school-programs/</guid>
       <description>放課後プログラムが、子どもの成長の各段階で身体的、感情的、社会的、知的な発達をどうサポートできるかを探ります。</description>
     </item>
   </channel>

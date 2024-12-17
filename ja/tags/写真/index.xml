@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>写真 on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E5%86%99%E7%9C%9F/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E5%86%99%E7%9C%9F/</link>
     <description>Recent content in 写真 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E5%86%99%E7%9C%9F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%86%99%E7%9C%9F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>フォトブログ：現代技術の頂点</title>
-      <link>http://localhost:1313/ja/posts/photo-blogging-pinnacle-modern-technology/</link>
+      <link>https://www.aixwim.cloud/ja/posts/photo-blogging-pinnacle-modern-technology/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/photo-blogging-pinnacle-modern-technology/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/photo-blogging-pinnacle-modern-technology/</guid>
       <description>フォトブログは、画像の力とインターネットの広がりを組み合わせ、作成者と視聴者の両方に感情的に魅力的で美的な体験を提供します。</description>
     </item>
   </channel>

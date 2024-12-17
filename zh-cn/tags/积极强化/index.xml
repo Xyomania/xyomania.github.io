@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>积极强化 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E7%A7%AF%E6%9E%81%E5%BC%BA%E5%8C%96/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E7%A7%AF%E6%9E%81%E5%BC%BA%E5%8C%96/</link>
     <description>Recent content in 积极强化 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E7%A7%AF%E6%9E%81%E5%BC%BA%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E7%A7%AF%E6%9E%81%E5%BC%BA%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何保持孩子在课外活动中的动力</title>
-      <link>http://localhost:1313/zh-cn/posts/keeping-children-motivated-after-school/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/keeping-children-motivated-after-school/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/keeping-children-motivated-after-school/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/keeping-children-motivated-after-school/</guid>
       <description>难以保持孩子在课外活动中的动力？这里有一些策略，帮助您维持他们的热情，培养对学习和成长的兴趣。</description>
     </item>
   </channel>

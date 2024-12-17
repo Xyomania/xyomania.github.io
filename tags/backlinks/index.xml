@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Backlinks on AIXWIM</title>
-    <link>http://localhost:1313/tags/backlinks/</link>
+    <link>https://www.aixwim.cloud/tags/backlinks/</link>
     <description>Recent content in Backlinks on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/backlinks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/backlinks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing Articles as an Affordable Internet Marketing Method</title>
-      <link>http://localhost:1313/posts/writing-articles-affordable-marketing/</link>
+      <link>https://www.aixwim.cloud/posts/writing-articles-affordable-marketing/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/writing-articles-affordable-marketing/</guid>
+      <guid>https://www.aixwim.cloud/posts/writing-articles-affordable-marketing/</guid>
       <description>Discover how article writing can serve as a cost-effective internet marketing strategy. Boost your SEO, gain backlinks, and attract free traffic with this powerful method.</description>
     </item>
   </channel>

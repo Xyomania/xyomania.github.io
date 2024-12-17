@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>财务建议 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E8%B4%A2%E5%8A%A1%E5%BB%BA%E8%AE%AE/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E8%B4%A2%E5%8A%A1%E5%BB%BA%E8%AE%AE/</link>
     <description>Recent content in 财务建议 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E8%B4%A2%E5%8A%A1%E5%BB%BA%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E8%B4%A2%E5%8A%A1%E5%BB%BA%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>有效的省钱技巧</title>
-      <link>http://localhost:1313/zh-cn/posts/effective-money-savings-tips/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/effective-money-savings-tips/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/effective-money-savings-tips/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/effective-money-savings-tips/</guid>
       <description>通过这些实用的理财技巧，最大化您的财务资源并有效储蓄。</description>
     </item>
     <item>
       <title>博客写作、债务合并与新信息技术</title>
-      <link>http://localhost:1313/zh-cn/posts/blogging-consolidation-debt/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/blogging-consolidation-debt/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/blogging-consolidation-debt/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/blogging-consolidation-debt/</guid>
       <description>探索博客作者如何讨论财务话题，如债务合并、资金管理和投资策略，既帮助他人又能盈利。</description>
     </item>
     <item>
       <title>申请信用卡的必要技巧：一步一步的指南</title>
-      <link>http://localhost:1313/zh-cn/posts/credit-card-application-tips/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/credit-card-application-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/credit-card-application-tips/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/credit-card-application-tips/</guid>
       <description>了解申请信用卡的必要技巧和步骤，特别是如果你有不良信用记录。学习如何选择合适的信用卡并确保能够负责任地管理你的还款。</description>
     </item>
   </channel>

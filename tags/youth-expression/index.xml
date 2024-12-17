@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Youth Expression on AIXWIM</title>
-    <link>http://localhost:1313/tags/youth-expression/</link>
+    <link>https://www.aixwim.cloud/tags/youth-expression/</link>
     <description>Recent content in Youth Expression on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/youth-expression/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/youth-expression/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogging Teens</title>
-      <link>http://localhost:1313/posts/blogging-teens/</link>
+      <link>https://www.aixwim.cloud/posts/blogging-teens/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/blogging-teens/</guid>
+      <guid>https://www.aixwim.cloud/posts/blogging-teens/</guid>
       <description>Explore the rise of teen bloggers and how they’re shaping the blogging world with their unique perspectives.</description>
     </item>
   </channel>

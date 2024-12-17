@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Email Marketing on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/email-marketing/</link>
+    <link>https://www.aixwim.cloud/id/tags/email-marketing/</link>
     <description>Recent content in Email Marketing on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/email-marketing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/email-marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Email Marketing: Teknik Pemasaran Internet yang Terjangkau</title>
-      <link>http://localhost:1313/id/posts/email-marketing-affordable-internet-marketing/</link>
+      <link>https://www.aixwim.cloud/id/posts/email-marketing-affordable-internet-marketing/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/email-marketing-affordable-internet-marketing/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/email-marketing-affordable-internet-marketing/</guid>
       <description>Pelajari cara menggunakan email marketing secara efektif sebagai strategi dengan biaya rendah untuk menarik traffic, melibatkan pelanggan, dan meningkatkan penjualan bisnis Anda.</description>
     </item>
     <item>
       <title>Solusi Internet Marketing Terbaik Tanpa Mengeluarkan Banyak Biaya</title>
-      <link>http://localhost:1313/id/posts/best-internet-marketing-solutions-without-overspending/</link>
+      <link>https://www.aixwim.cloud/id/posts/best-internet-marketing-solutions-without-overspending/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/best-internet-marketing-solutions-without-overspending/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/best-internet-marketing-solutions-without-overspending/</guid>
       <description>Jelajahi solusi internet marketing yang hemat biaya untuk membantu Anda memperluas jangkauan tanpa mengeluarkan banyak biaya. Pelajari tentang email marketing, SEO, dan lainnya.</description>
     </item>
   </channel>

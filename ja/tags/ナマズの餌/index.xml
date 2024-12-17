@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ナマズの餌 on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E3%83%8A%E3%83%9E%E3%82%BA%E3%81%AE%E9%A4%8C/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%83%8A%E3%83%9E%E3%82%BA%E3%81%AE%E9%A4%8C/</link>
     <description>Recent content in ナマズの餌 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E3%83%8A%E3%83%9E%E3%82%BA%E3%81%AE%E9%A4%8C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%83%8A%E3%83%9E%E3%82%BA%E3%81%AE%E9%A4%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>シンプルで正しいキャットフィッシングの方法</title>
-      <link>http://localhost:1313/ja/posts/catfishing-the-right-but-simple-way/</link>
+      <link>https://www.aixwim.cloud/ja/posts/catfishing-the-right-but-simple-way/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/catfishing-the-right-but-simple-way/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/catfishing-the-right-but-simple-way/</guid>
       <description>証明された方法でキャットフィッシングの基本をマスターしましょう。シンプルなテクニック、餌の使い方、安全対策を学び、成功する釣りの冒険を楽しみましょう。</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>实惠SEO on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E5%AE%9E%E6%83%A0seo/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E5%AE%9E%E6%83%A0seo/</link>
     <description>Recent content in 实惠SEO on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E5%AE%9E%E6%83%A0seo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E5%AE%9E%E6%83%A0seo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>有效的SEO也能便宜</title>
-      <link>http://localhost:1313/zh-cn/posts/effective-seo-comes-cheap/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/effective-seo-comes-cheap/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/effective-seo-comes-cheap/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/effective-seo-comes-cheap/</guid>
       <description>发现实惠的SEO策略，帮助你在不花大钱的情况下增加网站流量。了解如何通过低成本方法提升搜索引擎排名。</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ビデオブログ on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E3%83%93%E3%83%87%E3%82%AA%E3%83%96%E3%83%AD%E3%82%B0/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%83%93%E3%83%87%E3%82%AA%E3%83%96%E3%83%AD%E3%82%B0/</link>
     <description>Recent content in ビデオブログ on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E3%83%93%E3%83%87%E3%82%AA%E3%83%96%E3%83%AD%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%83%93%E3%83%87%E3%82%AA%E3%83%96%E3%83%AD%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ビデオブログの利点と欠点</title>
-      <link>http://localhost:1313/ja/posts/pros-cons-video-blogging/</link>
+      <link>https://www.aixwim.cloud/ja/posts/pros-cons-video-blogging/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/pros-cons-video-blogging/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/pros-cons-video-blogging/</guid>
       <description>ビデオブログはダイナミックで魅力的なコンテンツを提供しますが、いくつかの課題もあります。この記事では、ビデオブログの利点と欠点を探ります。</description>
     </item>
   </channel>

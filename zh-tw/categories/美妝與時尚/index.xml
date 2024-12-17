@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>美妝與時尚 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/categories/%E7%BE%8E%E5%A6%9D%E8%88%87%E6%99%82%E5%B0%9A/</link>
+    <link>https://www.aixwim.cloud/zh-tw/categories/%E7%BE%8E%E5%A6%9D%E8%88%87%E6%99%82%E5%B0%9A/</link>
     <description>Recent content in 美妝與時尚 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/categories/%E7%BE%8E%E5%A6%9D%E8%88%87%E6%99%82%E5%B0%9A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E7%BE%8E%E5%A6%9D%E8%88%87%E6%99%82%E5%B0%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>選擇鑽石切工：了解其重要性</title>
-      <link>http://localhost:1313/zh-tw/posts/choosing-diamond-cut/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/choosing-diamond-cut/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/choosing-diamond-cut/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/choosing-diamond-cut/</guid>
       <description>了解如何選擇完美的鑽石切工，並認識影響其光芒和價值的關鍵因素。</description>
     </item>
     <item>
       <title>了解鑽石重量：克拉、穀粒和CTW</title>
-      <link>http://localhost:1313/zh-tw/posts/diamond-weights/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/diamond-weights/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/diamond-weights/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/diamond-weights/</guid>
       <description>了解鑽石的測量方式、克拉重量的歷史以及購買鑽石飾品的實用技巧。</description>
     </item>
     <item>
       <title>避免鑽石詐騙：您需要知道的事</title>
-      <link>http://localhost:1313/zh-tw/posts/avoiding-diamond-scams/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/avoiding-diamond-scams/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/avoiding-diamond-scams/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/avoiding-diamond-scams/</guid>
       <description>了解常見的鑽石詐騙以及如何在購買鑽石時保護自己。</description>
     </item>
   </channel>

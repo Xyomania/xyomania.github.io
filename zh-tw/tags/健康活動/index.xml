@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>健康活動 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/tags/%E5%81%A5%E5%BA%B7%E6%B4%BB%E5%8B%95/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%81%A5%E5%BA%B7%E6%B4%BB%E5%8B%95/</link>
     <description>Recent content in 健康活動 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/tags/%E5%81%A5%E5%BA%B7%E6%B4%BB%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%81%A5%E5%BA%B7%E6%B4%BB%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何避免課後活動過度疲憊：家長指南</title>
-      <link>http://localhost:1313/zh-tw/posts/avoiding-burnout-in-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/avoiding-burnout-in-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/avoiding-burnout-in-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/avoiding-burnout-in-after-school-activities/</guid>
       <description>管理課後活動是孩子幸福與健康的關鍵。學習如何在保持孩子興趣與滿足感的同時，避免過度疲憊。</description>
     </item>
   </channel>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>低成本SEO on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/tags/%E4%BD%8E%E6%88%90%E6%9C%ACseo/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E4%BD%8E%E6%88%90%E6%9C%ACseo/</link>
     <description>Recent content in 低成本SEO on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/tags/%E4%BD%8E%E6%88%90%E6%9C%ACseo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E4%BD%8E%E6%88%90%E6%9C%ACseo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>有效的SEO也能便宜</title>
-      <link>http://localhost:1313/zh-tw/posts/effective-seo-comes-cheap/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/effective-seo-comes-cheap/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/effective-seo-comes-cheap/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/effective-seo-comes-cheap/</guid>
       <description>發現實惠的SEO策略，幫助你在不花大錢的情況下增加網站流量。了解如何通過低成本方法提升搜尋引擎排名。</description>
     </item>
     <item>
       <title>高效且經濟的SEO</title>
-      <link>http://localhost:1313/zh-tw/posts/effective-cheap-seo-strategies/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/effective-cheap-seo-strategies/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/effective-cheap-seo-strategies/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/effective-cheap-seo-strategies/</guid>
       <description>探索經濟實惠的SEO方法，提升網站流量而不需高額投入。學習實用的策略來改善搜尋引擎排名。</description>
     </item>
   </channel>

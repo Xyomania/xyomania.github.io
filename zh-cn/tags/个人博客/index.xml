@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>个人博客 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 个人博客 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>个人博客、纪录片与历史</title>
-      <link>http://localhost:1313/zh-cn/posts/personal-blogging-documentary-history/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/personal-blogging-documentary-history/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/personal-blogging-documentary-history/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/personal-blogging-documentary-history/</guid>
       <description>探索个人博客、纪录片和回忆录的交汇点，了解现代博客如何塑造我们时代的历史叙事。</description>
     </item>
     <item>
       <title>关于我</title>
-      <link>http://localhost:1313/zh-cn/about/</link>
+      <link>https://www.aixwim.cloud/zh-cn/about/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/about/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/about/</guid>
       <description>关于我以及我在博客中讨论的主题的页面。</description>
     </item>
   </channel>

@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Родительство on AIXWIM</title>
-    <link>http://localhost:1313/ru/categories/%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE/</link>
+    <link>https://www.aixwim.cloud/ru/categories/%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE/</link>
     <description>Recent content in Родительство on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ru</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ru/categories/%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ru/categories/%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Преимущества садоводства для детей</title>
-      <link>http://localhost:1313/ru/posts/benefits-of-gardening-for-kids/</link>
+      <link>https://www.aixwim.cloud/ru/posts/benefits-of-gardening-for-kids/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/posts/benefits-of-gardening-for-kids/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/benefits-of-gardening-for-kids/</guid>
       <description>Узнайте о многочисленных преимуществах садоводства для детей и о том, как оно помогает развивать важные жизненные навыки, укрепляя семейные узы.</description>
     </item>
     <item>
       <title>Плач ребенка: как понять, что нужно вашему малышу</title>
-      <link>http://localhost:1313/ru/posts/baby-crying-understanding-communication/</link>
+      <link>https://www.aixwim.cloud/ru/posts/baby-crying-understanding-communication/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/posts/baby-crying-understanding-communication/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/baby-crying-understanding-communication/</guid>
       <description>Плач – это способ общения младенца. Узнайте, почему плачут младенцы и как реагировать на различные виды плача в первые месяцы жизни.</description>
     </item>
     <item>
       <title>Внеклассные мероприятия для детей с избыточным весом: путь к более здоровой жизни</title>
-      <link>http://localhost:1313/ru/posts/after-school-activities-overweight-kids/</link>
+      <link>https://www.aixwim.cloud/ru/posts/after-school-activities-overweight-kids/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/posts/after-school-activities-overweight-kids/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/after-school-activities-overweight-kids/</guid>
       <description>Изучите важность внеклассных мероприятий для борьбы с детским ожирением. Узнайте, как спорт и физические упражнения помогают детям с избыточным весом оставаться активными и здоровыми.</description>
     </item>
     <item>
       <title>Преимущества хорошей программы после школы для детей</title>
-      <link>http://localhost:1313/ru/posts/benefits-of-after-school-programs/</link>
+      <link>https://www.aixwim.cloud/ru/posts/benefits-of-after-school-programs/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/posts/benefits-of-after-school-programs/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/benefits-of-after-school-programs/</guid>
       <description>Откройте для себя многочисленные преимущества хорошей программы после школы, от развития навыков вашего ребенка до поощрения социализации и предотвращения разрушительных привычек.</description>
     </item>
     <item>
       <title>Слишком много школы: личное размышление о послеурочных программах</title>
-      <link>http://localhost:1313/ru/posts/too-much-of-school-reflection/</link>
+      <link>https://www.aixwim.cloud/ru/posts/too-much-of-school-reflection/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/posts/too-much-of-school-reflection/</guid>
+      <guid>https://www.aixwim.cloud/ru/posts/too-much-of-school-reflection/</guid>
       <description>Личное воспоминание, отражающее трудности и эволюцию послеурочных программ с точки зрения ребенка.</description>
     </item>
   </channel>

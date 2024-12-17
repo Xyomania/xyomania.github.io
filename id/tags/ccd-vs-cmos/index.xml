@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CCD vs CMOS on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/ccd-vs-cmos/</link>
+    <link>https://www.aixwim.cloud/id/tags/ccd-vs-cmos/</link>
     <description>Recent content in CCD vs CMOS on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/ccd-vs-cmos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/ccd-vs-cmos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kamera Digital: Masa Depan Fotografi</title>
-      <link>http://localhost:1313/id/posts/digital-camera-future/</link>
+      <link>https://www.aixwim.cloud/id/posts/digital-camera-future/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/digital-camera-future/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/digital-camera-future/</guid>
       <description>Jelajahi teknologi di balik kamera digital, cara kerjanya, dan hal-hal yang perlu diperhatikan saat membelinya. Pelajari evolusi sensor gambar dan masa depan fotografi digital.</description>
     </item>
   </channel>

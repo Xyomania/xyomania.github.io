@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ジュエリーのヒント on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
     <description>Recent content in ジュエリーのヒント on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ダイヤモンドの重量について: カラット、グレイン、CTWを理解する</title>
-      <link>http://localhost:1313/ja/posts/diamond-weights/</link>
+      <link>https://www.aixwim.cloud/ja/posts/diamond-weights/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/diamond-weights/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/diamond-weights/</guid>
       <description>ダイヤモンドがどのように測定されるか、カラット重量の歴史、そしてダイヤモンドジュエリーを購入するための重要なヒントを学びましょう。</description>
     </item>
     <item>
       <title>ダイヤモンド詐欺を回避する方法：知っておくべきこと</title>
-      <link>http://localhost:1313/ja/posts/avoiding-diamond-scams/</link>
+      <link>https://www.aixwim.cloud/ja/posts/avoiding-diamond-scams/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/avoiding-diamond-scams/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/avoiding-diamond-scams/</guid>
       <description>よくあるダイヤモンド詐欺について学び、ダイヤモンド購入時に自分を守る方法を知りましょう。</description>
     </item>
   </channel>

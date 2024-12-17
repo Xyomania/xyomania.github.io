@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>個人財務 on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/</link>
     <description>Recent content in 個人財務 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>効果的なお金の節約方法</title>
-      <link>http://localhost:1313/ja/posts/effective-money-savings-tips/</link>
+      <link>https://www.aixwim.cloud/ja/posts/effective-money-savings-tips/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/effective-money-savings-tips/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/effective-money-savings-tips/</guid>
       <description>実用的なお金の管理方法で、効果的に貯金を最大化する方法を学びましょう。</description>
     </item>
     <item>
       <title>緊急資金の予算編成</title>
-      <link>http://localhost:1313/ja/posts/budgeting-for-emergency-funds/</link>
+      <link>https://www.aixwim.cloud/ja/posts/budgeting-for-emergency-funds/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/budgeting-for-emergency-funds/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/budgeting-for-emergency-funds/</guid>
       <description>緊急資金の重要性と、それに効果的に予算を立てる方法を学びましょう。</description>
     </item>
     <item>
       <title>ブログの統合、借金、そして新しい情報技術</title>
-      <link>http://localhost:1313/ja/posts/blogging-consolidation-debt/</link>
+      <link>https://www.aixwim.cloud/ja/posts/blogging-consolidation-debt/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/blogging-consolidation-debt/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/blogging-consolidation-debt/</guid>
       <description>ブログで借金の統合、マネーマネジメント、投資戦略などの金融に関するトピックを取り上げて他の人を助け、収益を得る方法を探ります。</description>
     </item>
     <item>
       <title>お金の管理：予算立て、貯金、賢い支出</title>
-      <link>http://localhost:1313/ja/posts/budgeting-saving-tips/</link>
+      <link>https://www.aixwim.cloud/ja/posts/budgeting-saving-tips/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/budgeting-saving-tips/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/budgeting-saving-tips/</guid>
       <description>実践的なマネーマネジメントのコツで、予算作成、支出削減、貯金を効果的に行う方法を学びましょう。</description>
     </item>
   </channel>

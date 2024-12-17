@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ドキュメンタリー on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/</link>
     <description>Recent content in ドキュメンタリー on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>個人ブログ、ドキュメンタリー、歴史</title>
-      <link>http://localhost:1313/ja/posts/personal-blogging-documentary-history/</link>
+      <link>https://www.aixwim.cloud/ja/posts/personal-blogging-documentary-history/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/personal-blogging-documentary-history/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/personal-blogging-documentary-history/</guid>
       <description>個人ブログ、ドキュメンタリー、回顧録の交差点について探求し、現代のブログが私たちの時代の歴史的な物語をどのように形成しているかを学びましょう。</description>
     </item>
   </channel>

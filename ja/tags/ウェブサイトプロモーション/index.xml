@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ウェブサイトプロモーション on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
     <description>Recent content in ウェブサイトプロモーション on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>費用をかけずにできる3つのトラフィック戦略</title>
-      <link>http://localhost:1313/ja/posts/three-free-traffic-tactics/</link>
+      <link>https://www.aixwim.cloud/ja/posts/three-free-traffic-tactics/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/three-free-traffic-tactics/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/three-free-traffic-tactics/</guid>
       <description>ウェブサイトのトラフィックを増やし、視認性を向上させるための3つの効果的で費用のかからない戦略を学びましょう。予算に敏感なウェブサイトオーナーに最適です。</description>
     </item>
     <item>
       <title>Tool Talk: インターネットマーケティングツールについて</title>
-      <link>http://localhost:1313/ja/posts/internet-marketing-tools/</link>
+      <link>https://www.aixwim.cloud/ja/posts/internet-marketing-tools/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/internet-marketing-tools/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/internet-marketing-tools/</guid>
       <description>ウェブサイトのパフォーマンスを向上させ、トラフィックを増加させるための手頃なインターネットマーケティングツールを探る。メールマーケティング、SEO、その他の低コストソリューションについて学ぶ。</description>
     </item>
     <item>
       <title>低コストのウェブサイトプロモーションの2つの基本要素</title>
-      <link>http://localhost:1313/ja/posts/low-cost-website-promotion/</link>
+      <link>https://www.aixwim.cloud/ja/posts/low-cost-website-promotion/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/low-cost-website-promotion/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/low-cost-website-promotion/</guid>
       <description>効果的な低コストのウェブサイトプロモーションの2つの基本要素、検索エンジンへの送信とランク付けについて学び、それらがウェブサイトのトラフィックをどのように増加させるかを理解しましょう。</description>
     </item>
     <item>
       <title>予算を抑えたベストなインターネットマーケティングソリューション</title>
-      <link>http://localhost:1313/ja/posts/best-internet-marketing-solutions-without-overspending/</link>
+      <link>https://www.aixwim.cloud/ja/posts/best-internet-marketing-solutions-without-overspending/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/best-internet-marketing-solutions-without-overspending/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/best-internet-marketing-solutions-without-overspending/</guid>
       <description>予算を抑えながらリーチを拡大できる費用対効果の高いインターネットマーケティングソリューションをご紹介します。メールマーケティングやSEOについて学びましょう。</description>
     </item>
   </channel>

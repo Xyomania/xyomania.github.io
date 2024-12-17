@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Article Writing Tips on AIXWIM</title>
-    <link>http://localhost:1313/tags/article-writing-tips/</link>
+    <link>https://www.aixwim.cloud/tags/article-writing-tips/</link>
     <description>Recent content in Article Writing Tips on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/article-writing-tips/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/article-writing-tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Hate Writing Articles – Isn&#39;t There an Easier Way?!</title>
-      <link>http://localhost:1313/posts/hate-writing-articles-easier-way/</link>
+      <link>https://www.aixwim.cloud/posts/hate-writing-articles-easier-way/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hate-writing-articles-easier-way/</guid>
+      <guid>https://www.aixwim.cloud/posts/hate-writing-articles-easier-way/</guid>
       <description>Hate writing articles? Discover simple alternatives to generate content for your site without the hassle. Learn how to use free articles, public domain content, and freelancers to boost your business.</description>
     </item>
   </channel>

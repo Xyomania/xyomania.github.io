@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>コンテンツ作成 on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E4%BD%9C%E6%88%90/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E4%BD%9C%E6%88%90/</link>
     <description>Recent content in コンテンツ作成 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E4%BD%9C%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E4%BD%9C%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>記事作成の最も簡単な方法 – パブリックドメインコンテンツ</title>
-      <link>http://localhost:1313/ja/posts/public-domain-articles-for-content/</link>
+      <link>https://www.aixwim.cloud/ja/posts/public-domain-articles-for-content/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/public-domain-articles-for-content/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/public-domain-articles-for-content/</guid>
       <description>パブリックドメインの記事を使用して、ウェブサイト、ブログ、ニュースレター用のコンテンツを簡単に作成する方法を学びましょう。時間とお金を節約し、著作権の問題を避ける方法をご紹介します。</description>
     </item>
     <item>
       <title>創造力を引き出すための5つの簡単な方法</title>
-      <link>http://localhost:1313/ja/posts/ways-to-get-creative-juices-flowing/</link>
+      <link>https://www.aixwim.cloud/ja/posts/ways-to-get-creative-juices-flowing/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/ways-to-get-creative-juices-flowing/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/ways-to-get-creative-juices-flowing/</guid>
       <description>作家のブロックや創造力の停滞に悩んでいますか？こちらでは、創造力を再点火し、アイデアを再び流れさせるための5つのシンプルで効果的な戦略をご紹介します。</description>
     </item>
     <item>
       <title>記事のアウトラインを作成する方法</title>
-      <link>http://localhost:1313/ja/posts/how-to-create-an-outline-for-your-articles/</link>
+      <link>https://www.aixwim.cloud/ja/posts/how-to-create-an-outline-for-your-articles/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/how-to-create-an-outline-for-your-articles/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/how-to-create-an-outline-for-your-articles/</guid>
       <description>執筆プロセスを効率化し、構造化された魅力的なコンテンツを作成するためのアウトラインの作り方を学びましょう。</description>
     </item>
     <item>
       <title>記事を書くのが嫌い – もっと簡単な方法はないの？！</title>
-      <link>http://localhost:1313/ja/posts/hate-writing-articles-easier-way/</link>
+      <link>https://www.aixwim.cloud/ja/posts/hate-writing-articles-easier-way/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/hate-writing-articles-easier-way/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/hate-writing-articles-easier-way/</guid>
       <description>記事を書くのが嫌いですか？面倒なくサイトのコンテンツを生成する簡単な代替手段を発見しましょう。無料の記事、パブリックドメインのコンテンツ、フリーランサーを活用してビジネスを成長させる方法を学びましょう。</description>
     </item>
     <item>
       <title>記事が読まれるための6つの熱いヒント</title>
-      <link>http://localhost:1313/ja/posts/6-tips-to-get-articles-read/</link>
+      <link>https://www.aixwim.cloud/ja/posts/6-tips-to-get-articles-read/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/6-tips-to-get-articles-read/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/6-tips-to-get-articles-read/</guid>
       <description>記事を読んでもらいたいですか？ ここでは、あなたの文章を魅力的で読みやすく、読者にとって魅力的にする6つのヒントを紹介します。</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>奢侈品 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/tags/%E5%A5%A2%E4%BE%88%E5%93%81/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%A5%A2%E4%BE%88%E5%93%81/</link>
     <description>Recent content in 奢侈品 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/tags/%E5%A5%A2%E4%BE%88%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%A5%A2%E4%BE%88%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>鑽石真的稀有嗎？了解這些珍貴寶石的稀有性</title>
-      <link>http://localhost:1313/zh-tw/posts/are-diamonds-truly-rare/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/are-diamonds-truly-rare/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/are-diamonds-truly-rare/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/are-diamonds-truly-rare/</guid>
       <description>探索鑽石稀有性的真相，從開採過程到市場需求，了解為什麼鑽石如此特別且珍貴。</description>
     </item>
   </channel>

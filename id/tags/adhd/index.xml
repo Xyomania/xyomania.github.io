@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ADHD on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/adhd/</link>
+    <link>https://www.aixwim.cloud/id/tags/adhd/</link>
     <description>Recent content in ADHD on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 07 Dec 2024 11:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/adhd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/adhd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kegiatan Setelah Sekolah untuk Anak Hiperaktif: Menarik Perhatian Anak ADHD</title>
-      <link>http://localhost:1313/id/posts/after-school-activities-hyperactive-child/</link>
+      <link>https://www.aixwim.cloud/id/posts/after-school-activities-hyperactive-child/</link>
       <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/after-school-activities-hyperactive-child/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/after-school-activities-hyperactive-child/</guid>
       <description>Temukan kegiatan setelah sekolah yang efektif untuk anak dengan ADHD. Jelajahi olahraga, seni, dan kegiatan lainnya yang membantu menyalurkan energi, meningkatkan fokus, dan mengembangkan keterampilan sosial.</description>
     </item>
   </channel>

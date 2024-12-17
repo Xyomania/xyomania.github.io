@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>選擇平台 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/tags/%E9%81%B8%E6%93%87%E5%B9%B3%E5%8F%B0/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E9%81%B8%E6%93%87%E5%B9%B3%E5%8F%B0/</link>
     <description>Recent content in 選擇平台 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/tags/%E9%81%B8%E6%93%87%E5%B9%B3%E5%8F%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E9%81%B8%E6%93%87%E5%B9%B3%E5%8F%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>為您的需求選擇正確的部落格平台</title>
-      <link>http://localhost:1313/zh-tw/posts/right-blogging-platform-for-needs/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/right-blogging-platform-for-needs/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/right-blogging-platform-for-needs/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/right-blogging-platform-for-needs/</guid>
       <description>選擇正確的部落格平台對於您作為部落客的成功至關重要。本指南將幫助您在易用性與自定義之間做出選擇。</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Konsolidasi on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/konsolidasi/</link>
+    <link>https://www.aixwim.cloud/id/tags/konsolidasi/</link>
     <description>Recent content in Konsolidasi on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/konsolidasi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/konsolidasi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Konsolidasi Blog, Utang, dan Teknologi Informasi Baru</title>
-      <link>http://localhost:1313/id/posts/blogging-consolidation-debt/</link>
+      <link>https://www.aixwim.cloud/id/posts/blogging-consolidation-debt/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/blogging-consolidation-debt/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/blogging-consolidation-debt/</guid>
       <description>Jelajahi bagaimana blogger dapat membahas topik keuangan seperti konsolidasi utang, manajemen uang, dan strategi investasi untuk membantu orang lain sambil menghasilkan uang.</description>
     </item>
   </channel>

@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ブログのヒント on AIXWIM</title>
-    <link>http://localhost:1313/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
+    <link>https://www.aixwim.cloud/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
     <description>Recent content in ブログのヒント on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/categories/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>フォトブログ：現代技術の頂点</title>
-      <link>http://localhost:1313/ja/posts/photo-blogging-pinnacle-modern-technology/</link>
+      <link>https://www.aixwim.cloud/ja/posts/photo-blogging-pinnacle-modern-technology/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/photo-blogging-pinnacle-modern-technology/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/photo-blogging-pinnacle-modern-technology/</guid>
       <description>フォトブログは、画像の力とインターネットの広がりを組み合わせ、作成者と視聴者の両方に感情的に魅力的で美的な体験を提供します。</description>
     </item>
     <item>
       <title>個人ブログ、ドキュメンタリー、歴史</title>
-      <link>http://localhost:1313/ja/posts/personal-blogging-documentary-history/</link>
+      <link>https://www.aixwim.cloud/ja/posts/personal-blogging-documentary-history/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/personal-blogging-documentary-history/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/personal-blogging-documentary-history/</guid>
       <description>個人ブログ、ドキュメンタリー、回顧録の交差点について探求し、現代のブログが私たちの時代の歴史的な物語をどのように形成しているかを学びましょう。</description>
     </item>
     <item>
       <title>ブログでお金を稼ぐ方法を学ぶ</title>
-      <link>http://localhost:1313/ja/posts/make-money-blogging/</link>
+      <link>https://www.aixwim.cloud/ja/posts/make-money-blogging/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/make-money-blogging/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/make-money-blogging/</guid>
       <description>企業が自分のブログをマネタイズする2つの主要な方法、広告の販売と企業との提携によってブランドイメージを向上させる方法について学びます。</description>
     </item>
     <item>
       <title>モバイルブログは最前線にあります</title>
-      <link>http://localhost:1313/ja/posts/mobile-blogging-cutting-edge/</link>
+      <link>https://www.aixwim.cloud/ja/posts/mobile-blogging-cutting-edge/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/mobile-blogging-cutting-edge/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/mobile-blogging-cutting-edge/</guid>
       <description>モバイルブログ（モブログ）の成長する現象と、それがブログ界でリアルタイムのコミュニケーションをどのように革命的に変えているのかを発見しましょう。</description>
     </item>
     <item>
       <title>ティーンのブログ</title>
-      <link>http://localhost:1313/ja/posts/blogging-teens/</link>
+      <link>https://www.aixwim.cloud/ja/posts/blogging-teens/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/blogging-teens/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/blogging-teens/</guid>
       <description>ティーンブロガーの台頭と、彼らが独自の視点でブログの世界をどのように形作っているかを探る。</description>
     </item>
     <item>
       <title>ビジネスオーナーのためのブログ</title>
-      <link>http://localhost:1313/ja/posts/blogging-for-business-owners/</link>
+      <link>https://www.aixwim.cloud/ja/posts/blogging-for-business-owners/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/blogging-for-business-owners/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/blogging-for-business-owners/</guid>
       <description>ブログがどのようにして小規模企業のオーナーが製品を宣伝し、従業員の忠誠心を高め、ビジネスを次のレベルへと引き上げる手助けになるかを学びましょう。</description>
     </item>
     <item>
       <title>正しい無料ブログツールの選び方</title>
-      <link>http://localhost:1313/ja/posts/choosing-right-free-blogging-tools/</link>
+      <link>https://www.aixwim.cloud/ja/posts/choosing-right-free-blogging-tools/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/choosing-right-free-blogging-tools/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/choosing-right-free-blogging-tools/</guid>
       <description>ブログに不要な機能で圧倒されることなく、正しい無料ブログツールを選ぶ方法。</description>
     </item>
     <item>
       <title>発生した時にブログでニュースを伝える</title>
-      <link>http://localhost:1313/ja/posts/blogging-news-stories/</link>
+      <link>https://www.aixwim.cloud/ja/posts/blogging-news-stories/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/blogging-news-stories/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/blogging-news-stories/</guid>
       <description>ブログがリアルタイムのニュースプラットフォームとして登場し、そのジャーナリズム業界への影響を探ります。</description>
     </item>
   </channel>

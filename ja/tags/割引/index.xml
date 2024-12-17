@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>割引 on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E5%89%B2%E5%BC%95/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E5%89%B2%E5%BC%95/</link>
     <description>Recent content in 割引 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E5%89%B2%E5%BC%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%89%B2%E5%BC%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>お金を節約するクーポンの利点</title>
-      <link>http://localhost:1313/ja/posts/benefits-of-money-saving-coupons/</link>
+      <link>https://www.aixwim.cloud/ja/posts/benefits-of-money-saving-coupons/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/benefits-of-money-saving-coupons/</guid>
+      <guid>https://www.aixwim.cloud/ja/posts/benefits-of-money-saving-coupons/</guid>
       <description>日常の支出を節約する方法として、お金を節約するクーポンの使用方法と割引を最大限に活用する方法を学びましょう。</description>
     </item>
   </channel>

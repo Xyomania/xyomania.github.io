@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>爱好与休闲 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E4%BC%91%E9%97%B2/</link>
+    <link>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E4%BC%91%E9%97%B2/</link>
     <description>Recent content in 爱好与休闲 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E4%BC%91%E9%97%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E4%BC%91%E9%97%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>花园护理</title>
-      <link>http://localhost:1313/zh-cn/posts/care-of-the-flower-garden/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/care-of-the-flower-garden/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/care-of-the-flower-garden/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/care-of-the-flower-garden/</guid>
       <description>了解照顾花园的基本技巧，确保花朵在整个季节中保持健康和生机勃勃。</description>
     </item>
     <item>
       <title>深海垂钓技巧</title>
-      <link>http://localhost:1313/zh-cn/posts/deep-sea-fishing-tips/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/deep-sea-fishing-tips/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/deep-sea-fishing-tips/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/deep-sea-fishing-tips/</guid>
       <description>通过这些实用技巧，提升您的深海垂钓体验，享受成功而愉快的冒险。</description>
     </item>
   </channel>

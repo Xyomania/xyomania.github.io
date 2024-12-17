@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Photo Blogging on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/photo-blogging/</link>
+    <link>https://www.aixwim.cloud/id/tags/photo-blogging/</link>
     <description>Recent content in Photo Blogging on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/photo-blogging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/photo-blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photo Blogging Mungkin Merupakan Puncak Teknologi Modern</title>
-      <link>http://localhost:1313/id/posts/photo-blogging-pinnacle-modern-technology/</link>
+      <link>https://www.aixwim.cloud/id/posts/photo-blogging-pinnacle-modern-technology/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/photo-blogging-pinnacle-modern-technology/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/photo-blogging-pinnacle-modern-technology/</guid>
       <description>Photo blogging menggabungkan kekuatan gambar dengan jangkauan internet, menawarkan pengalaman emosional dan estetika bagi pembuat dan pemirsa.</description>
     </item>
   </channel>

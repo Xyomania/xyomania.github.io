@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lalu Lintas Situs Web on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/lalu-lintas-situs-web/</link>
+    <link>https://www.aixwim.cloud/id/tags/lalu-lintas-situs-web/</link>
     <description>Recent content in Lalu Lintas Situs Web on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/lalu-lintas-situs-web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/lalu-lintas-situs-web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tiga Taktik Lalu Lintas yang Tidak Memerlukan Biaya</title>
-      <link>http://localhost:1313/id/posts/three-free-traffic-tactics/</link>
+      <link>https://www.aixwim.cloud/id/posts/three-free-traffic-tactics/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/three-free-traffic-tactics/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/three-free-traffic-tactics/</guid>
       <description>Pelajari tiga taktik lalu lintas efektif tanpa biaya untuk meningkatkan lalu lintas situs web dan meningkatkan visibilitas. Sempurna untuk pemilik situs web yang sadar anggaran.</description>
     </item>
   </channel>

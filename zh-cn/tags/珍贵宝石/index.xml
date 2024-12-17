@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>珍贵宝石 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E7%8F%8D%E8%B4%B5%E5%AE%9D%E7%9F%B3/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E7%8F%8D%E8%B4%B5%E5%AE%9D%E7%9F%B3/</link>
     <description>Recent content in 珍贵宝石 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E7%8F%8D%E8%B4%B5%E5%AE%9D%E7%9F%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E7%8F%8D%E8%B4%B5%E5%AE%9D%E7%9F%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>钻石真的稀有吗？了解这些珍贵宝石的稀有性</title>
-      <link>http://localhost:1313/zh-cn/posts/are-diamonds-truly-rare/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/are-diamonds-truly-rare/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/are-diamonds-truly-rare/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/are-diamonds-truly-rare/</guid>
       <description>探索关于钻石稀有性的真相，从开采过程到市场需求，了解为什么钻石如此独特而珍贵。</description>
     </item>
   </channel>

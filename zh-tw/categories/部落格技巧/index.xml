@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>部落格技巧 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/categories/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%8A%80%E5%B7%A7/</link>
+    <link>https://www.aixwim.cloud/zh-tw/categories/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%8A%80%E5%B7%A7/</link>
     <description>Recent content in 部落格技巧 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/categories/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>個人部落格、紀錄片與歷史</title>
-      <link>http://localhost:1313/zh-tw/posts/personal-blogging-documentary-history/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/personal-blogging-documentary-history/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/personal-blogging-documentary-history/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/personal-blogging-documentary-history/</guid>
       <description>探索個人部落格、紀錄片與回憶錄的交集，了解現代部落格如何塑造我們時代的歷史敘事。</description>
     </item>
     <item>
       <title>照片部落格：現代科技的巔峰</title>
-      <link>http://localhost:1313/zh-tw/posts/photo-blogging-pinnacle-modern-technology/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/photo-blogging-pinnacle-modern-technology/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/photo-blogging-pinnacle-modern-technology/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/photo-blogging-pinnacle-modern-technology/</guid>
       <description>照片部落格結合了影像的力量與互聯網的廣泛影響，為創作者和觀眾提供情感共鳴和美學體驗。</description>
     </item>
     <item>
       <title>如何從部落格賺錢</title>
-      <link>http://localhost:1313/zh-tw/posts/make-money-blogging/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/make-money-blogging/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/make-money-blogging/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/make-money-blogging/</guid>
       <description>了解如何通過兩種主要方式將部落格貨幣化：銷售廣告或與公司合作提升品牌形象。</description>
     </item>
     <item>
       <title>如果你已經在經營部落格，賺錢可能近在咫尺</title>
-      <link>http://localhost:1313/zh-tw/posts/blogging-money-click-away/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-money-click-away/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/blogging-money-click-away/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-money-click-away/</guid>
       <description>了解如何透過擁有固定讀者的部落格來實現盈利，將你的興趣變成收入來源。</description>
     </item>
     <item>
       <title>即時報導博客新聞</title>
-      <link>http://localhost:1313/zh-tw/posts/blogging-news-stories/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-news-stories/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/blogging-news-stories/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-news-stories/</guid>
       <description>探索部落格作為即時新聞平台的崛起及其對新聞行業的影響。</description>
     </item>
     <item>
       <title>青少年部落格</title>
-      <link>http://localhost:1313/zh-tw/posts/blogging-teens/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-teens/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/blogging-teens/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-teens/</guid>
       <description>探索青少年部落客的崛起以及他們如何透過獨特的觀點塑造部落格世界。</description>
     </item>
     <item>
       <title>透過長期計劃開始賺錢的部落格</title>
-      <link>http://localhost:1313/zh-tw/posts/blogging-for-profit-plan/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-for-profit-plan/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/blogging-for-profit-plan/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-for-profit-plan/</guid>
       <description>探索將部落格轉型為獲利事業的關鍵策略。成功從堅實的長期計劃開始。</description>
     </item>
     <item>
       <title>選擇正確的免費部落格工具</title>
-      <link>http://localhost:1313/zh-tw/posts/choosing-right-free-blogging-tools/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/choosing-right-free-blogging-tools/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/choosing-right-free-blogging-tools/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/choosing-right-free-blogging-tools/</guid>
       <description>如何選擇正確的免費部落格工具，而不讓部落格被不必要的功能過度負擔。</description>
     </item>
     <item>
       <title>選擇最佳免費部落格網站</title>
-      <link>http://localhost:1313/zh-tw/posts/choosing-best-free-blogging-site/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/choosing-best-free-blogging-site/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/choosing-best-free-blogging-site/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/choosing-best-free-blogging-site/</guid>
       <description>選擇合適的免費部落格網站可能讓人感到困惑。這裡有一份指南，幫助你根據優先事項選擇最佳平台。</description>
     </item>
   </channel>

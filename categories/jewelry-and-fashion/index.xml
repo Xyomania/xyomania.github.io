@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jewelry and Fashion on AIXWIM</title>
-    <link>http://localhost:1313/categories/jewelry-and-fashion/</link>
+    <link>https://www.aixwim.cloud/categories/jewelry-and-fashion/</link>
     <description>Recent content in Jewelry and Fashion on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/jewelry-and-fashion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/categories/jewelry-and-fashion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dirty Diamonds: Understanding Rough and Unclean Diamonds</title>
-      <link>http://localhost:1313/posts/dirty-diamonds/</link>
+      <link>https://www.aixwim.cloud/posts/dirty-diamonds/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dirty-diamonds/</guid>
+      <guid>https://www.aixwim.cloud/posts/dirty-diamonds/</guid>
       <description>Learn about dirty diamonds—what they are, how they get dirty, and how to keep your diamond jewelry sparkling. Discover the difference between rough and polished diamonds and effective cleaning methods.</description>
     </item>
   </channel>

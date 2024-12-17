@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>数码相机 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA/</link>
     <description>Recent content in 数码相机 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>数码相机：相机的未来</title>
-      <link>http://localhost:1313/zh-cn/posts/digital-camera-future/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/digital-camera-future/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/digital-camera-future/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/digital-camera-future/</guid>
       <description>探索数码相机背后的技术、其工作原理以及购买时需要注意的事项。了解图像传感器的演变和数码摄影的未来。</description>
     </item>
   </channel>

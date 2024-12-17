@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SEO工具 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/seo%E5%B7%A5%E5%85%B7/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/seo%E5%B7%A5%E5%85%B7/</link>
     <description>Recent content in SEO工具 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/seo%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/seo%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tool Talk: 所有关于互联网营销工具</title>
-      <link>http://localhost:1313/zh-cn/posts/internet-marketing-tools/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/internet-marketing-tools/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/internet-marketing-tools/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/internet-marketing-tools/</guid>
       <description>探索负担得起的互联网营销工具，帮助提高你的网站表现并增加流量。了解低成本的电子邮件营销、SEO等解决方案。</description>
     </item>
     <item>
       <title>拯救您的互联网业务的免费互联网营销方法</title>
-      <link>http://localhost:1313/zh-cn/posts/free-internet-marketing-methods/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/free-internet-marketing-methods/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/free-internet-marketing-methods/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/free-internet-marketing-methods/</guid>
       <description>探索免费互联网营销方法，通过这些方式提升您的网站流量并发展业务，而无需花费一分钱。</description>
     </item>
   </channel>

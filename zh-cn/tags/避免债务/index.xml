@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>避免债务 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E9%81%BF%E5%85%8D%E5%80%BA%E5%8A%A1/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E9%81%BF%E5%85%8D%E5%80%BA%E5%8A%A1/</link>
     <description>Recent content in 避免债务 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E9%81%BF%E5%85%8D%E5%80%BA%E5%8A%A1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E9%81%BF%E5%85%8D%E5%80%BA%E5%8A%A1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何摆脱信用卡债务并避免再次陷入：实用指南</title>
-      <link>http://localhost:1313/zh-cn/posts/credit-card-debt-guide/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/credit-card-debt-guide/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/credit-card-debt-guide/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/credit-card-debt-guide/</guid>
       <description>发现摆脱信用卡债务并建立健康财务未来的策略。学习如何管理支出、坚持偿还计划并避免未来的债务。</description>
     </item>
   </channel>

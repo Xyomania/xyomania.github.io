@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>折扣 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E6%8A%98%E6%89%A3/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E6%8A%98%E6%89%A3/</link>
     <description>Recent content in 折扣 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E6%8A%98%E6%89%A3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E6%8A%98%E6%89%A3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用省钱优惠券的好处</title>
-      <link>http://localhost:1313/zh-cn/posts/benefits-of-money-saving-coupons/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/benefits-of-money-saving-coupons/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/benefits-of-money-saving-coupons/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/benefits-of-money-saving-coupons/</guid>
       <description>了解如何通过省钱优惠券节省日常开支，并充分利用可用的折扣机会。</description>
     </item>
   </channel>

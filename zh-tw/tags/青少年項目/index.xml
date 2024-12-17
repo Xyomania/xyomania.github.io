@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>青少年項目 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/tags/%E9%9D%92%E5%B0%91%E5%B9%B4%E9%A0%85%E7%9B%AE/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E9%9D%92%E5%B0%91%E5%B9%B4%E9%A0%85%E7%9B%AE/</link>
     <description>Recent content in 青少年項目 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/tags/%E9%9D%92%E5%B0%91%E5%B9%B4%E9%A0%85%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E9%9D%92%E5%B0%91%E5%B9%B4%E9%A0%85%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>課後活動與關係建設：加強聯繫</title>
-      <link>http://localhost:1313/zh-tw/posts/after-school-activities-relationship-building/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-relationship-building/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/after-school-activities-relationship-building/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/after-school-activities-relationship-building/</guid>
       <description>了解課後項目如何促進孩子與導師之間的有意義關係，以及為何這些關係對成長與成功至關重要。</description>
     </item>
   </channel>

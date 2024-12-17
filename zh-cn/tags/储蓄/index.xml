@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>储蓄 on AIXWIM</title>
-    <link>http://localhost:1313/zh-cn/tags/%E5%82%A8%E8%93%84/</link>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E5%82%A8%E8%93%84/</link>
     <description>Recent content in 储蓄 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E5%82%A8%E8%93%84/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E5%82%A8%E8%93%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>像妈妈一样制定预算</title>
-      <link>http://localhost:1313/zh-cn/posts/budget-like-mom/</link>
+      <link>https://www.aixwim.cloud/zh-cn/posts/budget-like-mom/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/budget-like-mom/</guid>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/budget-like-mom/</guid>
       <description>了解妈妈们如何通过聪明才智、实用习惯和理财技巧来精打细算家庭预算。</description>
     </item>
   </channel>

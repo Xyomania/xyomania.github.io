@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Platform Blogging on AIXWIM</title>
-    <link>http://localhost:1313/id/tags/platform-blogging/</link>
+    <link>https://www.aixwim.cloud/id/tags/platform-blogging/</link>
     <description>Recent content in Platform Blogging on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/tags/platform-blogging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/id/tags/platform-blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bergabung dengan Situs Blogging atau Tidak</title>
-      <link>http://localhost:1313/id/posts/to-join-blogging-site-or-not/</link>
+      <link>https://www.aixwim.cloud/id/posts/to-join-blogging-site-or-not/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/to-join-blogging-site-or-not/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/to-join-blogging-site-or-not/</guid>
       <description>Haruskah Anda bergabung dengan situs blogging yang sudah ada atau membuat blog Anda sendiri? Pelajari kelebihan dan kekurangan dari kedua opsi ini.</description>
     </item>
     <item>
       <title>Menggunakan Situs Blogging Gratis</title>
-      <link>http://localhost:1313/id/posts/using-a-free-blogging-website/</link>
+      <link>https://www.aixwim.cloud/id/posts/using-a-free-blogging-website/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/using-a-free-blogging-website/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/using-a-free-blogging-website/</guid>
       <description>Pelajari cara memulai blog menggunakan platform gratis seperti Blogger dan Eponym. Sempurna untuk pemula yang ingin menjelajahi blogging tanpa biaya awal.</description>
     </item>
     <item>
       <title>Platform Blogging yang Tepat Untuk Kebutuhan Anda</title>
-      <link>http://localhost:1313/id/posts/right-blogging-platform-for-needs/</link>
+      <link>https://www.aixwim.cloud/id/posts/right-blogging-platform-for-needs/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/id/posts/right-blogging-platform-for-needs/</guid>
+      <guid>https://www.aixwim.cloud/id/posts/right-blogging-platform-for-needs/</guid>
       <description>Memilih platform blogging yang tepat sangat penting untuk kesuksesan Anda sebagai blogger. Panduan ini membantu Anda menavigasi keputusan antara kemudahan penggunaan dan kustomisasi.</description>
     </item>
   </channel>

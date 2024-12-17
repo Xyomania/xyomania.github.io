@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>賺錢部落格 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/tags/%E8%B3%BA%E9%8C%A2%E9%83%A8%E8%90%BD%E6%A0%BC/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E8%B3%BA%E9%8C%A2%E9%83%A8%E8%90%BD%E6%A0%BC/</link>
     <description>Recent content in 賺錢部落格 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/tags/%E8%B3%BA%E9%8C%A2%E9%83%A8%E8%90%BD%E6%A0%BC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E8%B3%BA%E9%8C%A2%E9%83%A8%E8%90%BD%E6%A0%BC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>專業部落格的激動人心新領域</title>
-      <link>http://localhost:1313/zh-tw/posts/professional-blogging-new-frontier/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/professional-blogging-new-frontier/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/professional-blogging-new-frontier/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/professional-blogging-new-frontier/</guid>
       <description>專業部落格是個充滿潛力的新興領域。本文探討了部落格如何成為一個可行的職業，以及專業部落客未來的發展機會。</description>
     </item>
     <item>
       <title>透過長期計劃開始賺錢的部落格</title>
-      <link>http://localhost:1313/zh-tw/posts/blogging-for-profit-plan/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/blogging-for-profit-plan/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/blogging-for-profit-plan/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/blogging-for-profit-plan/</guid>
       <description>探索將部落格轉型為獲利事業的關鍵策略。成功從堅實的長期計劃開始。</description>
     </item>
   </channel>

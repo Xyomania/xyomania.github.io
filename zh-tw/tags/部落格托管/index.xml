@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>部落格托管 on AIXWIM</title>
-    <link>http://localhost:1313/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%89%98%E7%AE%A1/</link>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%89%98%E7%AE%A1/</link>
     <description>Recent content in 部落格托管 on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-tw</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%89%98%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%89%98%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>選擇最佳免費部落格網站</title>
-      <link>http://localhost:1313/zh-tw/posts/choosing-best-free-blogging-site/</link>
+      <link>https://www.aixwim.cloud/zh-tw/posts/choosing-best-free-blogging-site/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/choosing-best-free-blogging-site/</guid>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/choosing-best-free-blogging-site/</guid>
       <description>選擇合適的免費部落格網站可能讓人感到困惑。這裡有一份指南，幫助你根據優先事項選擇最佳平台。</description>
     </item>
   </channel>

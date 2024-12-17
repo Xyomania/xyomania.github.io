@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Effective Learning on AIXWIM</title>
-    <link>http://localhost:1313/tags/effective-learning/</link>
+    <link>https://www.aixwim.cloud/tags/effective-learning/</link>
     <description>Recent content in Effective Learning on AIXWIM</description>
     <image>
       <title>AIXWIM</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
     </image>
     <generator>Hugo -- 0.139.5</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/effective-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aixwim.cloud/tags/effective-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Effective After-School Activities: Key Features and Considerations</title>
-      <link>http://localhost:1313/posts/effective-after-school-activities/</link>
+      <link>https://www.aixwim.cloud/posts/effective-after-school-activities/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/effective-after-school-activities/</guid>
+      <guid>https://www.aixwim.cloud/posts/effective-after-school-activities/</guid>
       <description>Discover the essential characteristics of effective after-school activities that balance learning, development, and fun for your child.</description>
     </item>
   </channel>
