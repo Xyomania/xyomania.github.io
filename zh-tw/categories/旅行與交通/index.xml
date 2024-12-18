@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>旅行與交通 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/zh-tw/categories/%E6%97%85%E8%A1%8C%E8%88%87%E4%BA%A4%E9%80%9A/</link>
+    <description>Recent content in 旅行與交通 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/zh-tw/categories/%E6%97%85%E8%A1%8C%E8%88%87%E4%BA%A4%E9%80%9A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>德州釣魚：技巧與指南</title>
+      <link>https://www.aixwim.cloud/zh-tw/posts/fishing-in-texas/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/fishing-in-texas/</guid>
+      <description>全面指南：在德州釣魚，包括許可證要求和成功出行的技巧。</description>
+    </item>
+  </channel>
+</rss>
