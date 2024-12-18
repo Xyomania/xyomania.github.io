@@ -2,33 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>子育てのヒント on AIXWIM</title>
-    <link>http://localhost:1313/ja/tags/%E5%AD%90%E8%82%B2%E3%81%A6%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
+    <link>https://www.aixwim.cloud/ja/tags/%E5%AD%90%E8%82%B2%E3%81%A6%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</link>
     <description>Recent content in 子育てのヒント on AIXWIM</description>
-    <generator>Hugo -- 0.139.3</generator>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
     <language>ja</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ja/tags/%E5%AD%90%E8%82%B2%E3%81%A6%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E5%AD%90%E8%82%B2%E3%81%A6%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>子供の放課後活動を見つける方法</title>
-      <link>http://localhost:1313/ja/posts/how-to-find-after-school-activities/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/how-to-find-after-school-activities/</guid>
-      <description>お子様に最適な放課後の活動をお探しですか？お子様の興味やスケジュールに合った課外プログラムを見つけるためのステップバイステップガイドを紹介します。</description>
-    </item>
-    <item>
-      <title>放課後プログラムと規律：ルールの重要性</title>
-      <link>http://localhost:1313/ja/posts/importance-of-discipline-in-after-school-programs/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/importance-of-discipline-in-after-school-programs/</guid>
-      <description>放課後プログラムでは、規律が重要な役割を果たします。明確なルールを設定し、不適切な行動に対処することが、子どもの成長にとってなぜ重要なのかを学びましょう。</description>
-    </item>
-    <item>
-      <title>多動性の子供向け放課後の活動: ADHDの子供をサポートする方法</title>
-      <link>http://localhost:1313/ja/posts/after-school-activities-hyperactive-child/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/after-school-activities-hyperactive-child/</guid>
-      <description>ADHDの子供に適した放課後の活動を紹介します。スポーツや芸術などの活動を通じてエネルギーを発散させ、集中力を高め、社会的スキルを向上させる方法を探りましょう。</description>
+      <title>子供の教育費を削減する方法</title>
+      <link>https://www.aixwim.cloud/ja/posts/cutting-kids-schooling-costs/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ja/posts/cutting-kids-schooling-costs/</guid>
+      <description>子供の教育費を削減し、必要な学校用品とサポートを確保するための実践的なヒント。</description>
     </item>
   </channel>
 </rss>

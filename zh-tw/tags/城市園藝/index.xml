@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>城市園藝 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E5%9F%8E%E5%B8%82%E5%9C%92%E8%97%9D/</link>
+    <description>Recent content in 城市園藝 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E5%9F%8E%E5%B8%82%E5%9C%92%E8%97%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新手容器園藝指南</title>
+      <link>https://www.aixwim.cloud/zh-tw/posts/container-gardening-tips-for-newbies/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/container-gardening-tips-for-newbies/</guid>
+      <description>學習如何打造迷人的容器花園，適合小空間、城市居家與露台。</description>
+    </item>
+  </channel>
+</rss>
