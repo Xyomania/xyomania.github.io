@@ -12,8 +12,50 @@
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hobi</title>
+      <link>https://www.aixwim.cloud/id/categories/hobi/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/hobi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobi Dan Waktu</title>
+      <link>https://www.aixwim.cloud/id/categories/hobi-dan-waktu/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/hobi-dan-waktu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobi Dan Waktu Luang</title>
+      <link>https://www.aixwim.cloud/id/categories/hobi-dan-waktu-luang/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/hobi-dan-waktu-luang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Olahraga</title>
+      <link>https://www.aixwim.cloud/id/categories/olahraga/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/olahraga/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perjalanan Dan Transportasi</title>
+      <link>https://www.aixwim.cloud/id/categories/perjalanan-dan-transportasi/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/perjalanan-dan-transportasi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Waktu Luang</title>
+      <link>https://www.aixwim.cloud/id/categories/waktu-luang/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/waktu-luang/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Bisnis Dan Keuangan</title>
       <link>https://www.aixwim.cloud/id/categories/bisnis-dan-keuangan/</link>
@@ -26,20 +68,6 @@
       <link>https://www.aixwim.cloud/id/categories/hiburan/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/hiburan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hobi</title>
-      <link>https://www.aixwim.cloud/id/categories/hobi/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/hobi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hobi Dan Waktu</title>
-      <link>https://www.aixwim.cloud/id/categories/hobi-dan-waktu/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/hobi-dan-waktu/</guid>
       <description></description>
     </item>
     <item>
@@ -71,24 +99,10 @@
       <description></description>
     </item>
     <item>
-      <title>Olahraga</title>
-      <link>https://www.aixwim.cloud/id/categories/olahraga/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/olahraga/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Parenting</title>
       <link>https://www.aixwim.cloud/id/categories/parenting/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/parenting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Perjalanan Dan Transportasi</title>
-      <link>https://www.aixwim.cloud/id/categories/perjalanan-dan-transportasi/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/perjalanan-dan-transportasi/</guid>
       <description></description>
     </item>
     <item>
@@ -117,13 +131,6 @@
       <link>https://www.aixwim.cloud/id/categories/hidup-mahasiswa/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/hidup-mahasiswa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hobi Dan Waktu Luang</title>
-      <link>https://www.aixwim.cloud/id/categories/hobi-dan-waktu-luang/</link>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/hobi-dan-waktu-luang/</guid>
       <description></description>
     </item>
     <item>
@@ -187,13 +194,6 @@
       <link>https://www.aixwim.cloud/id/categories/pengasuhan/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/pengasuhan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Waktu Luang</title>
-      <link>https://www.aixwim.cloud/id/categories/waktu-luang/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/waktu-luang/</guid>
       <description></description>
     </item>
     <item>

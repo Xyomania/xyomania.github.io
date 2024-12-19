@@ -12,13 +12,41 @@
     <generator>Hugo -- 0.139.5</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>爱好与时间</title>
       <link>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E6%97%B6%E9%97%B4/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E6%97%B6%E9%97%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>爱好与娱乐</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E5%A8%B1%E4%B9%90/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E5%A8%B1%E4%B9%90/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>旅行与交通</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E6%97%85%E8%A1%8C%E4%B8%8E%E4%BA%A4%E9%80%9A/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E6%97%85%E8%A1%8C%E4%B8%8E%E4%BA%A4%E9%80%9A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>体育</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E4%BD%93%E8%82%B2/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E4%BD%93%E8%82%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>休闲</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E4%BC%91%E9%97%B2/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E4%BC%91%E9%97%B2/</guid>
       <description></description>
     </item>
     <item>
@@ -50,13 +78,6 @@
       <description></description>
     </item>
     <item>
-      <title>旅行与交通</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E6%97%85%E8%A1%8C%E4%B8%8E%E4%BA%A4%E9%80%9A/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E6%97%85%E8%A1%8C%E4%B8%8E%E4%BA%A4%E9%80%9A/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>旅游与交通</title>
       <link>https://www.aixwim.cloud/zh-cn/categories/%E6%97%85%E6%B8%B8%E4%B8%8E%E4%BA%A4%E9%80%9A/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
@@ -71,24 +92,10 @@
       <description></description>
     </item>
     <item>
-      <title>体育</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E4%BD%93%E8%82%B2/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E4%BD%93%E8%82%B2/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>心理健康</title>
       <link>https://www.aixwim.cloud/zh-cn/categories/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>休闲</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E4%BC%91%E9%97%B2/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E4%BC%91%E9%97%B2/</guid>
       <description></description>
     </item>
     <item>
