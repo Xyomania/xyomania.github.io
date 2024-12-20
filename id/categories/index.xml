@@ -12,8 +12,15 @@
     <generator>Hugo -- 0.139.5</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Olahraga</title>
+      <link>https://www.aixwim.cloud/id/categories/olahraga/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/olahraga/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hobi</title>
       <link>https://www.aixwim.cloud/id/categories/hobi/</link>
@@ -33,13 +40,6 @@
       <link>https://www.aixwim.cloud/id/categories/hobi-dan-waktu-luang/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/hobi-dan-waktu-luang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Olahraga</title>
-      <link>https://www.aixwim.cloud/id/categories/olahraga/</link>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/olahraga/</guid>
       <description></description>
     </item>
     <item>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.aixwim.cloud/ja/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,7 +36,7 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/ja/posts/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -66,6 +66,264 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://www.aixwim.cloud/ja/posts/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/categories/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/categories/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/categories/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%A4%8C%E9%87%A3%E3%82%8A/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E5%AE%B6%E6%97%8F%E3%81%A7%E9%87%A3%E3%82%8A/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/posts/fishing-pole/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/fishing-pole/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/fishing-pole/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/fishing-pole/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/fishing-pole/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/fishing-pole/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/fishing-pole/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/posts/fishing-tips-for-beginners/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/fishing-tips-for-beginners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/fishing-tips-for-beginners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/fishing-tips-for-beginners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/fishing-tips-for-beginners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/fishing-tips-for-beginners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/fishing-tips-for-beginners/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E9%87%A3%E3%82%8A/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/posts/fishing-tackle-guidelines/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/fishing-tackle-guidelines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/fishing-tackle-guidelines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/fishing-tackle-guidelines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/fishing-tackle-guidelines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/fishing-tackle-guidelines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/fishing-tackle-guidelines/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E5%88%9D%E5%BF%83%E8%80%85%E7%94%A8%E9%87%A3%E3%82%8A%E5%85%B7/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E3%82%B3%E3%83%84/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%B3/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E5%AE%89%E5%85%A8/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E7%A8%AE%E9%A1%9E/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E7%AB%BF/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E5%85%B7/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E5%85%B7%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E9%81%93%E5%85%B7/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E7%94%A8%E5%93%81/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E6%97%85%E8%A1%8C/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/posts/fishing-trip-tips/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/fishing-trip-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/fishing-trip-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/fishing-trip-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/fishing-trip-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/fishing-trip-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/fishing-trip-tips/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/posts/fishing-with-the-right-line/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/fishing-with-the-right-line/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/fishing-with-the-right-line/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/fishing-with-the-right-line/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/fishing-with-the-right-line/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/fishing-with-the-right-line/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/fishing-with-the-right-line/"
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/ja/tags/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3/</loc>
@@ -108,42 +366,6 @@
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ja/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/ja/categories/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aixwim.cloud/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aixwim.cloud/id/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.aixwim.cloud/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.aixwim.cloud/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.aixwim.cloud/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.aixwim.cloud/ja/categories/"
-                />
-  </url><url>
-    <loc>https://www.aixwim.cloud/ja/categories/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ja/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0/</loc>
@@ -207,9 +429,6 @@
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ja/tags/%E6%B7%A1%E6%B0%B4%E9%87%A3%E3%82%8A/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88/</loc>
@@ -870,18 +1089,6 @@
                 href="https://www.aixwim.cloud/ja/posts/fishing-game-natures-playground/"
                 />
   </url><url>
-    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E3%82%B3%E3%83%84/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E7%AB%BF/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E9%81%93%E5%85%B7/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.aixwim.cloud/ja/posts/fishing-gear-basics/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -914,9 +1121,6 @@
                 hreflang="ja"
                 href="https://www.aixwim.cloud/ja/posts/fishing-gear-basics/"
                 />
-  </url><url>
-    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E6%97%85%E8%A1%8C/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ja/tags/%E9%83%BD%E5%B8%82%E3%82%AC%E3%83%BC%E3%83%87%E3%83%8B%E3%83%B3%E3%82%B0/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
@@ -1117,9 +1321,6 @@
                 hreflang="ja"
                 href="https://www.aixwim.cloud/ja/tags/powershot-sd500/"
                 />
-  </url><url>
-    <loc>https://www.aixwim.cloud/ja/tags/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC/</loc>
-    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ja/tags/%E3%83%91%E3%83%BC%E3%83%88%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%AE%E4%BB%95%E4%BA%8B/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
@@ -1828,9 +2029,6 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E7%AB%BF%E3%81%AE%E7%A8%AE%E9%A1%9E/</loc>
-    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E5%85%B7/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E4%BD%93%E9%A8%93/</loc>
@@ -2667,9 +2865,6 @@
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E3%83%AB%E3%82%A2%E3%83%BC/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E7%94%A8%E5%93%81/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ja/tags/%E5%BF%85%E9%A0%88%E9%87%A3%E3%82%8A%E9%81%93%E5%85%B7/</loc>
