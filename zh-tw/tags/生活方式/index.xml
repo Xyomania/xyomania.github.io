@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>生活方式 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/</link>
+    <description>Recent content in 生活方式 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>節儉的生活方式</title>
+      <link>https://www.aixwim.cloud/zh-tw/posts/frugal-lifestyle/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/frugal-lifestyle/</guid>
+      <description>探索如何通過節儉的生活方式省錢，同時不犧牲生活品質和幸福感的技巧與策略。</description>
+    </item>
+  </channel>
+</rss>

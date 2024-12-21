@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>烹饪鱼 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/zh-cn/tags/%E7%83%B9%E9%A5%AA%E9%B1%BC/</link>
+    <description>Recent content in 烹饪鱼 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>zh-cn</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/zh-cn/tags/%E7%83%B9%E9%A5%AA%E9%B1%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新鲜捕获鱼的烹饪准备</title>
+      <link>https://www.aixwim.cloud/zh-cn/posts/fresh-caught-fish-preparation/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/fresh-caught-fish-preparation/</guid>
+      <description>了解如何处理、储存和准备新鲜捕获的鱼，以保留其风味和品质。</description>
+    </item>
+  </channel>
+</rss>

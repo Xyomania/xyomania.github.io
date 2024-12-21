@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>淡水魚 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/ja/tags/%E6%B7%A1%E6%B0%B4%E9%AD%9A/</link>
+    <description>Recent content in 淡水魚 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>ja</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E6%B7%A1%E6%B0%B4%E9%AD%9A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新鮮な魚の調理準備</title>
+      <link>https://www.aixwim.cloud/ja/posts/fresh-caught-fish-preparation/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ja/posts/fresh-caught-fish-preparation/</guid>
+      <description>新鮮な魚の風味と品質を保つための取り扱い、保存、調理方法を学びましょう。</description>
+    </item>
+  </channel>
+</rss>
