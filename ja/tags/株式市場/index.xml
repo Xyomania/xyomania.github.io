@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>株式市場 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/ja/tags/%E6%A0%AA%E5%BC%8F%E5%B8%82%E5%A0%B4/</link>
+    <description>Recent content in 株式市場 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>ja</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E6%A0%AA%E5%BC%8F%E5%B8%82%E5%A0%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>外国為替市場と株式市場: 主な違い</title>
+      <link>https://www.aixwim.cloud/ja/posts/foreign-exchange-vs-stock-market/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ja/posts/foreign-exchange-vs-stock-market/</guid>
+      <description>外国為替（FX）市場と株式市場の主な違いを理解し、取引時間、流動性、FXのグローバルな特性について詳しく学びましょう。</description>
+    </item>
+  </channel>
+</rss>

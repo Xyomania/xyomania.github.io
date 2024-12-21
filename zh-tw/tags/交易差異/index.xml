@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>交易差異 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E4%BA%A4%E6%98%93%E5%B7%AE%E7%95%B0/</link>
+    <description>Recent content in 交易差異 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.139.5</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E4%BA%A4%E6%98%93%E5%B7%AE%E7%95%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>外匯市場與股票市場：主要差異</title>
+      <link>https://www.aixwim.cloud/zh-tw/posts/foreign-exchange-vs-stock-market/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/foreign-exchange-vs-stock-market/</guid>
+      <description>了解外匯市場與股票市場之間的主要差異，包括交易時間、流動性以及外匯市場的全球特性。</description>
+    </item>
+  </channel>
+</rss>
