@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>爱好与时光 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E6%97%B6%E5%85%89/</link>
+    <description>Recent content in 爱好与时光 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>zh-cn</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E6%97%B6%E5%85%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>园艺杂志 - 最佳推荐</title>
+      <link>https://www.aixwim.cloud/zh-cn/posts/gardening-magazines-best/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/posts/gardening-magazines-best/</guid>
+      <description>发现一些最优秀的园艺杂志，这些杂志为不同层次的园艺爱好者提供专家建议、美丽的园艺设计灵感和实用技巧。</description>
+    </item>
+  </channel>
+</rss>

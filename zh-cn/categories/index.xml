@@ -9,11 +9,32 @@
       <url>https://www.aixwim.cloud/images/</url>
       <link>https://www.aixwim.cloud/images/</link>
     </image>
-    <generator>Hugo -- 0.139.5</generator>
+    <generator>Hugo -- 0.140.0</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>爱好与时光</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E6%97%B6%E5%85%89/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E6%97%B6%E5%85%89/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>家居与园艺</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E5%9B%AD%E8%89%BA/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E5%9B%AD%E8%89%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>可持续发展</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95/</guid>
+      <description></description>
+    </item>
     <item>
       <title>健康</title>
       <link>https://www.aixwim.cloud/zh-cn/categories/%E5%81%A5%E5%BA%B7/</link>
@@ -145,13 +166,6 @@
       <link>https://www.aixwim.cloud/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E8%8A%B1%E5%9B%AD/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E8%8A%B1%E5%9B%AD/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>家居与园艺</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E5%9B%AD%E8%89%BA/</link>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E5%9B%AD%E8%89%BA/</guid>
       <description></description>
     </item>
     <item>
