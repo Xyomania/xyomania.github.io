@@ -12,20 +12,34 @@
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Finance</title>
-      <link>https://www.aixwim.cloud/categories/finance/</link>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/finance/</guid>
+      <title>Health</title>
+      <link>https://www.aixwim.cloud/categories/health/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/health/</guid>
       <description></description>
     </item>
     <item>
       <title>Hobbies and Time</title>
       <link>https://www.aixwim.cloud/categories/hobbies-and-time/</link>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/hobbies-and-time/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>https://www.aixwim.cloud/categories/mental-health/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/mental-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>https://www.aixwim.cloud/categories/finance/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/finance/</guid>
       <description></description>
     </item>
     <item>
@@ -78,24 +92,10 @@
       <description></description>
     </item>
     <item>
-      <title>Health</title>
-      <link>https://www.aixwim.cloud/categories/health/</link>
-      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/health/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Leisure</title>
       <link>https://www.aixwim.cloud/categories/leisure/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/leisure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mental Health</title>
-      <link>https://www.aixwim.cloud/categories/mental-health/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/mental-health/</guid>
       <description></description>
     </item>
     <item>
