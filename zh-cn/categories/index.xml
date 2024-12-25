@@ -9,11 +9,53 @@
       <url>https://www.aixwim.cloud/images/</url>
       <link>https://www.aixwim.cloud/images/</link>
     </image>
-    <generator>Hugo -- 0.140.0</generator>
+    <generator>Hugo -- 0.140.1</generator>
     <language>zh-cn</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>财务</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E8%B4%A2%E5%8A%A1/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E8%B4%A2%E5%8A%A1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>关系</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E5%85%B3%E7%B3%BB/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E5%85%B3%E7%B3%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>技术</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>科学</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E7%A7%91%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>美容与时尚</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E7%BE%8E%E5%AE%B9%E4%B8%8E%E6%97%B6%E5%B0%9A/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E7%BE%8E%E5%AE%B9%E4%B8%8E%E6%97%B6%E5%B0%9A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>生活方式</title>
+      <link>https://www.aixwim.cloud/zh-cn/categories/%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-cn/categories/%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/</guid>
+      <description></description>
+    </item>
     <item>
       <title>爱好与时间</title>
       <link>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E6%97%B6%E9%97%B4/</link>
@@ -40,13 +82,6 @@
       <link>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E4%BC%91%E9%97%B2/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/zh-cn/categories/%E7%88%B1%E5%A5%BD%E4%B8%8E%E4%BC%91%E9%97%B2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>财务</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E8%B4%A2%E5%8A%A1/</link>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E8%B4%A2%E5%8A%A1/</guid>
       <description></description>
     </item>
     <item>
@@ -162,13 +197,6 @@
       <description></description>
     </item>
     <item>
-      <title>技术</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E6%8A%80%E6%9C%AF/</link>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E6%8A%80%E6%9C%AF/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>家居与花园</title>
       <link>https://www.aixwim.cloud/zh-cn/categories/%E5%AE%B6%E5%B1%85%E4%B8%8E%E8%8A%B1%E5%9B%AD/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
@@ -180,13 +208,6 @@
       <link>https://www.aixwim.cloud/zh-cn/categories/%E7%A7%91%E6%8A%80/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/zh-cn/categories/%E7%A7%91%E6%8A%80/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>美容与时尚</title>
-      <link>https://www.aixwim.cloud/zh-cn/categories/%E7%BE%8E%E5%AE%B9%E4%B8%8E%E6%97%B6%E5%B0%9A/</link>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/zh-cn/categories/%E7%BE%8E%E5%AE%B9%E4%B8%8E%E6%97%B6%E5%B0%9A/</guid>
       <description></description>
     </item>
     <item>

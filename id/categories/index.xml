@@ -9,11 +9,60 @@
       <url>https://www.aixwim.cloud/images/</url>
       <link>https://www.aixwim.cloud/images/</link>
     </image>
-    <generator>Hugo -- 0.140.0</generator>
+    <generator>Hugo -- 0.140.1</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gaya Hidup</title>
+      <link>https://www.aixwim.cloud/id/categories/gaya-hidup/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/gaya-hidup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hubungan</title>
+      <link>https://www.aixwim.cloud/id/categories/hubungan/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/hubungan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ilmu Pengetahuan</title>
+      <link>https://www.aixwim.cloud/id/categories/ilmu-pengetahuan/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/ilmu-pengetahuan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kecantikan Dan Fashion</title>
+      <link>https://www.aixwim.cloud/id/categories/kecantikan-dan-fashion/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/kecantikan-dan-fashion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kecantikan Dan Mode</title>
+      <link>https://www.aixwim.cloud/id/categories/kecantikan-dan-mode/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/kecantikan-dan-mode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keuangan</title>
+      <link>https://www.aixwim.cloud/id/categories/keuangan/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/keuangan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teknologi</title>
+      <link>https://www.aixwim.cloud/id/categories/teknologi/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/teknologi/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hobi Dan Waktu</title>
       <link>https://www.aixwim.cloud/id/categories/hobi-dan-waktu/</link>
@@ -40,13 +89,6 @@
       <link>https://www.aixwim.cloud/id/categories/hobi-dan-waktu-luang/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/hobi-dan-waktu-luang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Keuangan</title>
-      <link>https://www.aixwim.cloud/id/categories/keuangan/</link>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/keuangan/</guid>
       <description></description>
     </item>
     <item>
@@ -162,31 +204,10 @@
       <description></description>
     </item>
     <item>
-      <title>Kecantikan Dan Fashion</title>
-      <link>https://www.aixwim.cloud/id/categories/kecantikan-dan-fashion/</link>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/kecantikan-dan-fashion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kecantikan Dan Mode</title>
-      <link>https://www.aixwim.cloud/id/categories/kecantikan-dan-mode/</link>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/kecantikan-dan-mode/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Perhiasan Dan Fashion</title>
       <link>https://www.aixwim.cloud/id/categories/perhiasan-dan-fashion/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/perhiasan-dan-fashion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teknologi</title>
-      <link>https://www.aixwim.cloud/id/categories/teknologi/</link>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/teknologi/</guid>
       <description></description>
     </item>
     <item>
