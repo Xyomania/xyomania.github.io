@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>水耕 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E6%B0%B4%E8%80%95/</link>
+    <description>Recent content in 水耕 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E6%B0%B4%E8%80%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>水耕園藝</title>
+      <link>https://www.aixwim.cloud/zh-tw/posts/hydroponics-gardening/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/hydroponics-gardening/</guid>
+      <description>了解水耕園藝的運作原理，以及如何使用營養液在沒有土壤的情況下在室內種植植物。</description>
+    </item>
+  </channel>
+</rss>

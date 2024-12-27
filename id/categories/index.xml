@@ -12,13 +12,48 @@
     <generator>Hugo -- 0.140.1</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/id/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gaya Hidup</title>
       <link>https://www.aixwim.cloud/id/categories/gaya-hidup/</link>
-      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/gaya-hidup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hiburan</title>
+      <link>https://www.aixwim.cloud/id/categories/hiburan/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/hiburan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobi Dan Waktu</title>
+      <link>https://www.aixwim.cloud/id/categories/hobi-dan-waktu/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/hobi-dan-waktu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kecantikan Dan Mode</title>
+      <link>https://www.aixwim.cloud/id/categories/kecantikan-dan-mode/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/kecantikan-dan-mode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Olahraga</title>
+      <link>https://www.aixwim.cloud/id/categories/olahraga/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/olahraga/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rumah Dan Taman</title>
+      <link>https://www.aixwim.cloud/id/categories/rumah-dan-taman/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/categories/rumah-dan-taman/</guid>
       <description></description>
     </item>
     <item>
@@ -43,13 +78,6 @@
       <description></description>
     </item>
     <item>
-      <title>Kecantikan Dan Mode</title>
-      <link>https://www.aixwim.cloud/id/categories/kecantikan-dan-mode/</link>
-      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/kecantikan-dan-mode/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Keuangan</title>
       <link>https://www.aixwim.cloud/id/categories/keuangan/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
@@ -61,13 +89,6 @@
       <link>https://www.aixwim.cloud/id/categories/teknologi/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/teknologi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hobi Dan Waktu</title>
-      <link>https://www.aixwim.cloud/id/categories/hobi-dan-waktu/</link>
-      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/hobi-dan-waktu/</guid>
       <description></description>
     </item>
     <item>
@@ -96,20 +117,6 @@
       <link>https://www.aixwim.cloud/id/categories/keuangan-pribadi/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/keuangan-pribadi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Olahraga</title>
-      <link>https://www.aixwim.cloud/id/categories/olahraga/</link>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/olahraga/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rumah Dan Taman</title>
-      <link>https://www.aixwim.cloud/id/categories/rumah-dan-taman/</link>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/rumah-dan-taman/</guid>
       <description></description>
     </item>
     <item>
@@ -166,13 +173,6 @@
       <link>https://www.aixwim.cloud/id/categories/waktu-luang/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/categories/waktu-luang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hiburan</title>
-      <link>https://www.aixwim.cloud/id/categories/hiburan/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/categories/hiburan/</guid>
       <description></description>
     </item>
     <item>
