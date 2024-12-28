@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>金融 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/ja/categories/%E9%87%91%E8%9E%8D/</link>
+    <description>Recent content in 金融 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>ja</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/ja/categories/%E9%87%91%E8%9E%8D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>簡単に管理：効果的な予算管理ツール</title>
+      <link>https://www.aixwim.cloud/ja/posts/keep-them-handy-budgeting-tools-that-work/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ja/posts/keep-them-handy-budgeting-tools-that-work/</guid>
+      <description>お金を効率的に管理し、もっと貯金するためのさまざまな予算管理ツールを探りましょう。</description>
+    </item>
+  </channel>
+</rss>
