@@ -38,6 +38,19 @@
     <loc>https://www.aixwim.cloud/categories/beauty-and-fashion/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.aixwim.cloud/tags/beginner-fishing/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/tags/beginner-fishing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/tags/beginner-fishing/"
+                />
+  </url><url>
     <loc>https://www.aixwim.cloud/tags/beginner-kayak-fishing/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -279,6 +292,9 @@
                 href="https://www.aixwim.cloud/posts/keep-them-handy-budgeting-tools-that-work/"
                 />
   </url><url>
+    <loc>https://www.aixwim.cloud/tags/lake-fishing/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.aixwim.cloud/categories/leisure/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -293,6 +309,9 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/tags/money-management/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/outdoor-recreation/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/personal-finance/</loc>
@@ -417,6 +436,39 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.aixwim.cloud/posts/kayak-fishing-tips/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/posts/lake-fishing-tips/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/lake-fishing-tips/"
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/tags/diamond-appraisal/</loc>
@@ -1920,19 +1972,6 @@
   </url><url>
     <loc>https://www.aixwim.cloud/tags/bait-fishing/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/beginner-fishing/</loc>
-    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aixwim.cloud/id/tags/beginner-fishing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aixwim.cloud/tags/beginner-fishing/"
-                />
   </url><url>
     <loc>https://www.aixwim.cloud/tags/beginner-fishing-gear/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
@@ -4721,9 +4760,6 @@
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/mental-illness/</loc>
-    <lastmod>2024-12-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/outdoor-recreation/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/precious-gems/</loc>

@@ -104,6 +104,9 @@
                 href="https://www.aixwim.cloud/zh-tw/categories/"
                 />
   </url><url>
+    <loc>https://www.aixwim.cloud/zh-tw/tags/%E6%88%B6%E5%A4%96%E4%BC%91%E9%96%92/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/tags/%E7%9A%AE%E5%88%92%E8%89%87%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -191,6 +194,9 @@
                 hreflang="zh-tw"
                 href="https://www.aixwim.cloud/zh-tw/posts/indoor-gardening-tips/"
                 />
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-tw/tags/%E5%88%9D%E5%AD%B8%E8%80%85%E9%87%A3%E9%AD%9A/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/tags/%E4%BF%9D%E9%9A%AA%E9%A1%9E%E5%9E%8B/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
@@ -312,6 +318,42 @@
   </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/tags/%E6%A4%8D%E7%89%A9%E8%AD%B7%E7%90%86/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-tw/tags/%E6%B9%96%E6%B3%8A%E9%87%A3%E9%AD%9A/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-tw/posts/lake-fishing-tips/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/lake-fishing-tips/"
+                />
   </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/tags/%E6%96%B0%E6%89%8B%E9%87%A3%E9%AD%9A/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
@@ -2185,9 +2227,6 @@
                 hreflang="zh-tw"
                 href="https://www.aixwim.cloud/zh-tw/posts/fishing-tackle-guidelines/"
                 />
-  </url><url>
-    <loc>https://www.aixwim.cloud/zh-tw/tags/%E5%88%9D%E5%AD%B8%E8%80%85%E9%87%A3%E9%AD%9A/</loc>
-    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/posts/fishing-tips-for-beginners/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>

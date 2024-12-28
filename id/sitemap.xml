@@ -146,10 +146,29 @@
     <loc>https://www.aixwim.cloud/id/categories/keuangan-pribadi/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.aixwim.cloud/id/categories/leisure/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/categories/leisure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/categories/leisure/"
+                />
+  </url><url>
     <loc>https://www.aixwim.cloud/id/tags/manajemen-uang/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/id/tags/memancing-dengan-kayak/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/id/tags/memancing-di-danau/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/id/tags/memancing-untuk-pemula/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/id/tags/menabung/</loc>
@@ -308,6 +327,9 @@
                 href="https://www.aixwim.cloud/id/posts/"
                 />
   </url><url>
+    <loc>https://www.aixwim.cloud/id/tags/rekreasi-luar-ruangan/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.aixwim.cloud/id/tags/sertifikasi-gia/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -390,6 +412,39 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://www.aixwim.cloud/id/posts/kayak-fishing-tips/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/id/posts/lake-fishing-tips/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/lake-fishing-tips/"
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/id/tags/tips-perhiasan/</loc>
@@ -2434,19 +2489,6 @@
   </url><url>
     <loc>https://www.aixwim.cloud/id/tags/kegiatan-keluarga/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/id/categories/leisure/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aixwim.cloud/categories/leisure/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aixwim.cloud/id/categories/leisure/"
-                />
   </url><url>
     <loc>https://www.aixwim.cloud/id/tags/liburan-memancing/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
@@ -4732,9 +4774,6 @@
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/id/tags/psikiatri/</loc>
-    <lastmod>2024-12-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/id/tags/rekreasi-luar-ruangan/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/id/posts/a-little-goes-a-long-way-smart-secrets-to-budgeting/</loc>

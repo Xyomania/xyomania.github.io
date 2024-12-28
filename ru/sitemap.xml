@@ -272,6 +272,12 @@
     <loc>https://www.aixwim.cloud/ru/tags/%D0%BD%D0%B0%D0%BA%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.aixwim.cloud/ru/categories/%D0%BE%D1%82%D0%B4%D1%8B%D1%85/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ru/tags/%D0%BE%D1%82%D0%B4%D1%8B%D1%85-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B5/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.aixwim.cloud/ru/tags/%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B0-%D0%B1%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -279,6 +285,9 @@
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ru/tags/%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0-%D0%BD%D0%B0-%D0%BA%D0%B0%D1%8F%D0%BA%D0%B5/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ru/tags/%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0-%D0%BD%D0%B0-%D0%BE%D0%B7%D0%B5%D1%80%D0%B5/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ru/tags/%D1%81%D0%B0%D0%B4%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B2-%D0%B4%D0%BE%D0%BC%D0%B5/</loc>
@@ -324,6 +333,39 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.aixwim.cloud/ru/posts/kayak-fishing-tips/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/ru/posts/lake-fishing-tips/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/lake-fishing-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/lake-fishing-tips/"
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/ru/tags/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D1%8E%D0%B2%D0%B5%D0%BB%D0%B8%D1%80%D0%BD%D1%8B%D0%BC-%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D1%8F%D0%BC/</loc>
@@ -537,9 +579,6 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/ru/categories/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</loc>
-    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/ru/categories/%D0%BE%D1%82%D0%B4%D1%8B%D1%85/</loc>
     <lastmod>2024-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ru/tags/%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0-%D0%B1%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2/</loc>
