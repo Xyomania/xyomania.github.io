@@ -15,6 +15,13 @@
     <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/ja/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>スポーツ</title>
+      <link>https://www.aixwim.cloud/ja/categories/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ja/categories/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>ビジネスと金融</title>
       <link>https://www.aixwim.cloud/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E9%87%91%E8%9E%8D/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
@@ -22,10 +29,31 @@
       <description></description>
     </item>
     <item>
-      <title>スポーツ</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</link>
-      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</guid>
+      <title>レジャー</title>
+      <link>https://www.aixwim.cloud/ja/categories/%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>家族</title>
+      <link>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E6%97%8F/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E6%97%8F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>家庭と庭</title>
+      <link>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E5%BA%AD%E3%81%A8%E5%BA%AD/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E5%BA%AD%E3%81%A8%E5%BA%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>財務</title>
+      <link>https://www.aixwim.cloud/ja/categories/%E8%B2%A1%E5%8B%99/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ja/categories/%E8%B2%A1%E5%8B%99/</guid>
       <description></description>
     </item>
     <item>
@@ -99,13 +127,6 @@
       <description></description>
     </item>
     <item>
-      <title>レジャー</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC/</link>
-      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>個人財務</title>
       <link>https://www.aixwim.cloud/ja/categories/%E5%80%8B%E4%BA%BA%E8%B2%A1%E5%8B%99/</link>
       <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
@@ -155,13 +176,6 @@
       <description></description>
     </item>
     <item>
-      <title>財務</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E8%B2%A1%E5%8B%99/</link>
-      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E8%B2%A1%E5%8B%99/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>人間関係</title>
       <link>https://www.aixwim.cloud/ja/categories/%E4%BA%BA%E9%96%93%E9%96%A2%E4%BF%82/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
@@ -201,13 +215,6 @@
       <link>https://www.aixwim.cloud/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E8%B2%A1%E5%8B%99/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E8%B2%A1%E5%8B%99/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>家庭と庭</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E5%BA%AD%E3%81%A8%E5%BA%AD/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E5%BA%AD%E3%81%A8%E5%BA%AD/</guid>
       <description></description>
     </item>
     <item>
@@ -285,13 +292,6 @@
       <link>https://www.aixwim.cloud/ja/categories/%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/ja/categories/%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>家族</title>
-      <link>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E6%97%8F/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/ja/categories/%E5%AE%B6%E6%97%8F/</guid>
       <description></description>
     </item>
     <item>
