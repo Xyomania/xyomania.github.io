@@ -2,6 +2,166 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.aixwim.cloud/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/budgeting/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/categories/business-and-finance/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/categories/business-and-finance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/categories/business-and-finance/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/categories/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/categories/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/eating-out-tips/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/food-expenses/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/grocery-tips/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/money-saving/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/posts/money-savings-on-food/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/money-savings-on-food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/money-savings-on-food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/money-savings-on-food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/money-savings-on-food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/money-savings-on-food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/money-savings-on-food/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/posts/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/"
+                />
+  </url><url>
     <loc>https://www.aixwim.cloud/posts/landscaping-your-garden/</loc>
     <lastmod>2024-12-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -35,39 +195,6 @@
                 href="https://www.aixwim.cloud/posts/landscaping-your-garden/"
                 />
   </url><url>
-    <loc>https://www.aixwim.cloud/</loc>
-    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aixwim.cloud/id/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.aixwim.cloud/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.aixwim.cloud/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.aixwim.cloud/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.aixwim.cloud/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aixwim.cloud/"
-                />
-  </url><url>
     <loc>https://www.aixwim.cloud/tags/anxiety-depression/</loc>
     <lastmod>2024-12-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -82,52 +209,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.aixwim.cloud/tags/beginner-fishing/"
-                />
-  </url><url>
-    <loc>https://www.aixwim.cloud/categories/business-and-finance/</loc>
-    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aixwim.cloud/id/categories/business-and-finance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aixwim.cloud/categories/business-and-finance/"
-                />
-  </url><url>
-    <loc>https://www.aixwim.cloud/categories/</loc>
-    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aixwim.cloud/id/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.aixwim.cloud/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.aixwim.cloud/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.aixwim.cloud/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.aixwim.cloud/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aixwim.cloud/categories/"
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/tags/conservation/</loc>
@@ -467,39 +548,6 @@
   </url><url>
     <loc>https://www.aixwim.cloud/categories/personal-finance/</loc>
     <lastmod>2024-12-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/posts/</loc>
-    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aixwim.cloud/id/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.aixwim.cloud/ja/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.aixwim.cloud/ru/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.aixwim.cloud/zh-cn/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.aixwim.cloud/zh-tw/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aixwim.cloud/posts/"
-                />
   </url><url>
     <loc>https://www.aixwim.cloud/categories/recreation/</loc>
     <lastmod>2024-12-29T00:00:00+00:00</lastmod>
@@ -1487,9 +1535,6 @@
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/boat-fishing/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/budgeting/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/custom-golf-clubs/</loc>
@@ -2558,9 +2603,6 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/tags/frugal-living/</loc>
-    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/money-saving/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/outdoor-adventure/</loc>

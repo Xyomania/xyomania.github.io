@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.aixwim.cloud/ja/</loc>
-    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,7 +36,7 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/ja/posts/</loc>
-    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,6 +67,90 @@
                 hreflang="ja"
                 href="https://www.aixwim.cloud/ja/posts/"
                 />
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/categories/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/categories/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E9%87%91%E8%9E%8D/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E5%A4%96%E9%A3%9F%E3%81%AE%E3%82%B3%E3%83%84/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E9%A3%9F%E8%B2%BB/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/posts/money-savings-on-food/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/money-savings-on-food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/money-savings-on-food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/money-savings-on-food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/money-savings-on-food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/money-savings-on-food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/money-savings-on-food/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E7%AF%80%E7%B4%84/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E8%B2%B7%E3%81%84%E7%89%A9%E3%81%AE%E3%82%B3%E3%83%84/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ja/tags/%E4%BA%88%E7%AE%97%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ja/tags/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2%E6%B4%BB%E5%8B%95/</loc>
     <lastmod>2024-12-29T00:00:00+00:00</lastmod>
@@ -111,39 +195,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://www.aixwim.cloud/ja/posts/methods-of-saving-money/"
-                />
-  </url><url>
-    <loc>https://www.aixwim.cloud/ja/categories/</loc>
-    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aixwim.cloud/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aixwim.cloud/id/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.aixwim.cloud/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.aixwim.cloud/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.aixwim.cloud/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.aixwim.cloud/ja/categories/"
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/ja/categories/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</loc>
@@ -659,9 +710,6 @@
                 hreflang="ja"
                 href="https://www.aixwim.cloud/ja/posts/insuring-your-diamonds/"
                 />
-  </url><url>
-    <loc>https://www.aixwim.cloud/ja/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A8%E9%87%91%E8%9E%8D/</loc>
-    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ja/categories/%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
@@ -1809,9 +1857,6 @@
     <loc>https://www.aixwim.cloud/ja/tags/%E9%87%A3%E3%82%8A%E6%97%85%E8%A1%8C/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aixwim.cloud/ja/tags/%E4%BA%88%E7%AE%97%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.aixwim.cloud/ja/categories/%E6%97%85%E8%A1%8C%E3%81%A8%E4%BA%A4%E9%80%9A/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -2370,9 +2415,6 @@
                 hreflang="ja"
                 href="https://www.aixwim.cloud/ja/posts/fresh-caught-fish-preparation/"
                 />
-  </url><url>
-    <loc>https://www.aixwim.cloud/ja/tags/%E7%AF%80%E7%B4%84/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ja/posts/frugal-lifestyle/</loc>
     <lastmod>2024-12-21T00:00:00+00:00</lastmod>
