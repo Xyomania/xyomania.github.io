@@ -9,16 +9,44 @@
       <url>https://www.aixwim.cloud/images/</url>
       <link>https://www.aixwim.cloud/images/</link>
     </image>
-    <generator>Hugo -- 0.140.1</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business and Finance</title>
       <link>https://www.aixwim.cloud/categories/business-and-finance/</link>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/business-and-finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobbies and Time</title>
+      <link>https://www.aixwim.cloud/categories/hobbies-and-time/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/hobbies-and-time/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home and Garden</title>
+      <link>https://www.aixwim.cloud/categories/home-and-garden/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/home-and-garden/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leisure</title>
+      <link>https://www.aixwim.cloud/categories/leisure/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/leisure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sports</title>
+      <link>https://www.aixwim.cloud/categories/sports/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/sports/</guid>
       <description></description>
     </item>
     <item>
@@ -36,38 +64,10 @@
       <description></description>
     </item>
     <item>
-      <title>Home and Garden</title>
-      <link>https://www.aixwim.cloud/categories/home-and-garden/</link>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/home-and-garden/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Leisure</title>
-      <link>https://www.aixwim.cloud/categories/leisure/</link>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/leisure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sports</title>
-      <link>https://www.aixwim.cloud/categories/sports/</link>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/sports/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Health</title>
       <link>https://www.aixwim.cloud/categories/health/</link>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/health/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hobbies and Time</title>
-      <link>https://www.aixwim.cloud/categories/hobbies-and-time/</link>
-      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/hobbies-and-time/</guid>
       <description></description>
     </item>
     <item>
