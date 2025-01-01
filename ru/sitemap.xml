@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.aixwim.cloud/ru/</loc>
-    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,7 +36,7 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/ru/posts/</loc>
-    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,6 +67,87 @@
                 hreflang="ru"
                 href="https://www.aixwim.cloud/ru/posts/"
                 />
+  </url><url>
+    <loc>https://www.aixwim.cloud/ru/categories/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B8-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ru/posts/save-money-on-groceries/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/save-money-on-groceries/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/save-money-on-groceries/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/save-money-on-groceries/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/save-money-on-groceries/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/save-money-on-groceries/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/save-money-on-groceries/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/ru/categories/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/categories/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/ru/tags/%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%B0/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ru/tags/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%B8/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ru/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B0%D0%BC%D0%B8/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/ru/tags/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0%D1%85/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ru/tags/seo/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
@@ -108,9 +189,6 @@
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ru/tags/%D0%B1%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BB%D0%BE%D0%B4%D0%BA%D0%B8/</loc>
-    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/ru/categories/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B8-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ru/tags/%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
@@ -231,39 +309,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.aixwim.cloud/ru/posts/save-money-by-defining-expenses/"
-                />
-  </url><url>
-    <loc>https://www.aixwim.cloud/ru/categories/</loc>
-    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aixwim.cloud/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aixwim.cloud/id/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.aixwim.cloud/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.aixwim.cloud/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.aixwim.cloud/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.aixwim.cloud/ru/categories/"
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/ru/tags/%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C-%D0%B7%D0%B0-%D0%B2%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC%D0%B8/</loc>
@@ -624,9 +669,6 @@
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ru/tags/%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5-%D1%81%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D0%B8/</loc>
-    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/ru/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B0%D0%BC%D0%B8/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ru/tags/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%BE%D0%B5-%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D0%B5/</loc>
@@ -2022,9 +2064,6 @@
     <lastmod>2024-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ru/tags/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%83-%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%B0/</loc>
-    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/ru/tags/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BF%D0%BE-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%B8/</loc>
     <lastmod>2024-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/ru/tags/%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C-%D0%B0%D0%BB%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2/</loc>
