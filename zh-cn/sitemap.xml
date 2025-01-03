@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.aixwim.cloud/zh-cn/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,7 +36,7 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/zh-cn/posts/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,7 +69,7 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/zh-cn/categories/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -100,6 +100,82 @@
                 hreflang="zh-cn"
                 href="https://www.aixwim.cloud/zh-cn/categories/"
                 />
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-cn/tags/%E4%BA%A4%E9%80%9A/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/tags/%E4%BA%A4%E9%80%9A/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/tags/%E4%BA%A4%E9%80%9A/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/tags/%E4%BA%A4%E9%80%9A/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-cn/posts/save-money-on-transportation/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/save-money-on-transportation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/save-money-on-transportation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/save-money-on-transportation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/save-money-on-transportation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/save-money-on-transportation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/save-money-on-transportation/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-cn/tags/%E6%B1%BD%E8%BD%A6%E4%BF%9D%E5%85%BB/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-cn/tags/%E7%87%83%E6%B2%B9%E6%95%88%E7%8E%87/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/tags/%E7%87%83%E6%B2%B9%E6%95%88%E7%8E%87/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/tags/%E7%87%83%E6%B2%B9%E6%95%88%E7%8E%87/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-cn/categories/%E5%95%86%E4%B8%9A%E4%B8%8E%E9%87%91%E8%9E%8D/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-cn/tags/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-cn/tags/%E9%A2%84%E7%AE%97%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/zh-cn/posts/save-money-on-groceries/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
@@ -133,9 +209,6 @@
                 hreflang="zh-cn"
                 href="https://www.aixwim.cloud/zh-cn/posts/save-money-on-groceries/"
                 />
-  </url><url>
-    <loc>https://www.aixwim.cloud/zh-cn/categories/%E5%95%86%E4%B8%9A%E4%B8%8E%E9%87%91%E8%9E%8D/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/zh-cn/tags/%E7%9C%81%E9%92%B1%E8%B4%AD%E7%89%A9/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
@@ -643,9 +716,6 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/zh-cn/tags/%E6%B8%94%E8%88%B9/</loc>
-    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/zh-cn/tags/%E9%A2%84%E7%AE%97%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/zh-cn/tags/%E5%9B%AD%E8%89%BA%E6%8A%80%E5%B7%A7/</loc>
@@ -2079,9 +2149,6 @@
                 hreflang="zh-cn"
                 href="https://www.aixwim.cloud/zh-cn/posts/how-to-find-the-best-digital-camera/"
                 />
-  </url><url>
-    <loc>https://www.aixwim.cloud/zh-cn/tags/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/zh-cn/tags/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA/</loc>
     <lastmod>2024-12-25T00:00:00+00:00</lastmod>
