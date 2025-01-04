@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>エコフレンドリー on AIXWIM</title>
+    <link>https://www.aixwim.cloud/ja/tags/%E3%82%A8%E3%82%B3%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC/</link>
+    <description>Recent content in エコフレンドリー on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>ja</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/ja/tags/%E3%82%A8%E3%82%B3%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>お金を節約し、世界を守る方法</title>
+      <link>https://www.aixwim.cloud/ja/posts/save-money-save-world/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/ja/posts/save-money-save-world/</guid>
+      <description>お金を節約しながら持続可能な未来に貢献する実践的な方法を見つけましょう。日々の習慣の小さな変化が、どのようにして大きな節約と環境への影響をもたらすかを学びます。</description>
+    </item>
+  </channel>
+</rss>

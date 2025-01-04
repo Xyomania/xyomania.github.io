@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>節能 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E7%AF%80%E8%83%BD/</link>
+    <description>Recent content in 節能 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E7%AF%80%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>省錢並拯救地球</title>
+      <link>https://www.aixwim.cloud/zh-tw/posts/save-money-save-world/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/save-money-save-world/</guid>
+      <description>發現節省金錢的實用方法，同時為可持續的未來做出貢獻。了解如何通過日常習慣中的小變化來節省開支並減少對環境的影響。</description>
+    </item>
+  </channel>
+</rss>
