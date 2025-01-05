@@ -12,8 +12,57 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>id</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anggaran</title>
+      <link>https://www.aixwim.cloud/id/tags/anggaran/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/tags/anggaran/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keuangan Pribadi</title>
+      <link>https://www.aixwim.cloud/id/tags/keuangan-pribadi/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/tags/keuangan-pribadi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kurangi Pengeluaran</title>
+      <link>https://www.aixwim.cloud/id/tags/kurangi-pengeluaran/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/tags/kurangi-pengeluaran/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips Hemat Energi</title>
+      <link>https://www.aixwim.cloud/id/tags/tips-hemat-energi/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/tags/tips-hemat-energi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips Hemat Uang</title>
+      <link>https://www.aixwim.cloud/id/tags/tips-hemat-uang/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/tags/tips-hemat-uang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biaya Kuliah</title>
+      <link>https://www.aixwim.cloud/id/tags/biaya-kuliah/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/tags/biaya-kuliah/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dana Pendidikan</title>
+      <link>https://www.aixwim.cloud/id/tags/dana-pendidikan/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/tags/dana-pendidikan/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Gaya Hidup Berkelanjutan</title>
       <link>https://www.aixwim.cloud/id/tags/gaya-hidup-berkelanjutan/</link>
@@ -36,10 +85,10 @@
       <description></description>
     </item>
     <item>
-      <title>Keuangan Pribadi</title>
-      <link>https://www.aixwim.cloud/id/tags/keuangan-pribadi/</link>
+      <title>Perencanaan Keuangan</title>
+      <link>https://www.aixwim.cloud/id/tags/perencanaan-keuangan/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/tags/keuangan-pribadi/</guid>
+      <guid>https://www.aixwim.cloud/id/tags/perencanaan-keuangan/</guid>
       <description></description>
     </item>
     <item>
@@ -50,10 +99,17 @@
       <description></description>
     </item>
     <item>
-      <title>Anggaran</title>
-      <link>https://www.aixwim.cloud/id/tags/anggaran/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/tags/anggaran/</guid>
+      <title>Tabungan Pendidikan</title>
+      <link>https://www.aixwim.cloud/id/tags/tabungan-pendidikan/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/tags/tabungan-pendidikan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips Parenting</title>
+      <link>https://www.aixwim.cloud/id/tags/tips-parenting/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/id/tags/tips-parenting/</guid>
       <description></description>
     </item>
     <item>
@@ -68,13 +124,6 @@
       <link>https://www.aixwim.cloud/id/tags/perawatan-mobil/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/tags/perawatan-mobil/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips Hemat Uang</title>
-      <link>https://www.aixwim.cloud/id/tags/tips-hemat-uang/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/tags/tips-hemat-uang/</guid>
       <description></description>
     </item>
     <item>
@@ -341,13 +390,6 @@
       <link>https://www.aixwim.cloud/id/tags/perahu-memancing/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/tags/perahu-memancing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Perencanaan Keuangan</title>
-      <link>https://www.aixwim.cloud/id/tags/perencanaan-keuangan/</link>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/tags/perencanaan-keuangan/</guid>
       <description></description>
     </item>
     <item>
@@ -2035,13 +2077,6 @@
       <link>https://www.aixwim.cloud/id/tags/tips-kesehatan/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/id/tags/tips-kesehatan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips Parenting</title>
-      <link>https://www.aixwim.cloud/id/tags/tips-parenting/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/id/tags/tips-parenting/</guid>
       <description></description>
     </item>
     <item>

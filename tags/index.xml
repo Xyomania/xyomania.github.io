@@ -12,13 +12,62 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Budgeting</title>
+      <link>https://www.aixwim.cloud/tags/budgeting/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/tags/budgeting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energy-Saving Tips</title>
+      <link>https://www.aixwim.cloud/tags/energy-saving-tips/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/tags/energy-saving-tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Money-Saving Tips</title>
+      <link>https://www.aixwim.cloud/tags/money-saving-tips/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/tags/money-saving-tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Finance</title>
+      <link>https://www.aixwim.cloud/tags/personal-finance/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/tags/personal-finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reduce Expenses</title>
+      <link>https://www.aixwim.cloud/tags/reduce-expenses/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/tags/reduce-expenses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>College Savings</title>
+      <link>https://www.aixwim.cloud/tags/college-savings/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/tags/college-savings/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Eco-Friendly</title>
       <link>https://www.aixwim.cloud/tags/eco-friendly/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/tags/eco-friendly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education Fund</title>
+      <link>https://www.aixwim.cloud/tags/education-fund/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/tags/education-fund/</guid>
       <description></description>
     </item>
     <item>
@@ -29,6 +78,13 @@
       <description></description>
     </item>
     <item>
+      <title>Financial Planning</title>
+      <link>https://www.aixwim.cloud/tags/financial-planning/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/tags/financial-planning/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Money Saving</title>
       <link>https://www.aixwim.cloud/tags/money-saving/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
@@ -36,10 +92,10 @@
       <description></description>
     </item>
     <item>
-      <title>Personal Finance</title>
-      <link>https://www.aixwim.cloud/tags/personal-finance/</link>
+      <title>Parenting Tips</title>
+      <link>https://www.aixwim.cloud/tags/parenting-tips/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/tags/personal-finance/</guid>
+      <guid>https://www.aixwim.cloud/tags/parenting-tips/</guid>
       <description></description>
     </item>
     <item>
@@ -50,10 +106,10 @@
       <description></description>
     </item>
     <item>
-      <title>Budgeting</title>
-      <link>https://www.aixwim.cloud/tags/budgeting/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/tags/budgeting/</guid>
+      <title>Tuition Fees</title>
+      <link>https://www.aixwim.cloud/tags/tuition-fees/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/tags/tuition-fees/</guid>
       <description></description>
     </item>
     <item>
@@ -68,13 +124,6 @@
       <link>https://www.aixwim.cloud/tags/fuel-efficiency/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/tags/fuel-efficiency/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Money-Saving Tips</title>
-      <link>https://www.aixwim.cloud/tags/money-saving-tips/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/tags/money-saving-tips/</guid>
       <description></description>
     </item>
     <item>
@@ -229,13 +278,6 @@
       <link>https://www.aixwim.cloud/tags/financial-health/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/tags/financial-health/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Financial Planning</title>
-      <link>https://www.aixwim.cloud/tags/financial-planning/</link>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/tags/financial-planning/</guid>
       <description></description>
     </item>
     <item>
@@ -1923,13 +1965,6 @@
       <link>https://www.aixwim.cloud/tags/offshore-fishing/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/tags/offshore-fishing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Parenting Tips</title>
-      <link>https://www.aixwim.cloud/tags/parenting-tips/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/tags/parenting-tips/</guid>
       <description></description>
     </item>
     <item>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.aixwim.cloud/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -35,8 +35,11 @@
                 href="https://www.aixwim.cloud/"
                 />
   </url><url>
+    <loc>https://www.aixwim.cloud/tags/budgeting/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.aixwim.cloud/categories/business-and-finance/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -49,7 +52,7 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/categories/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -81,20 +84,17 @@
                 href="https://www.aixwim.cloud/categories/"
                 />
   </url><url>
-    <loc>https://www.aixwim.cloud/tags/eco-friendly/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <loc>https://www.aixwim.cloud/tags/energy-saving-tips/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aixwim.cloud/tags/energy-saving/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/money-saving/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <loc>https://www.aixwim.cloud/tags/money-saving-tips/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/personal-finance/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/posts/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -125,6 +125,115 @@
                 hreflang="en"
                 href="https://www.aixwim.cloud/posts/"
                 />
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/reduce-expenses/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/posts/saving-money-and-bills/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/saving-money-and-bills/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/saving-money-and-bills/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/saving-money-and-bills/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/saving-money-and-bills/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/saving-money-and-bills/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/saving-money-and-bills/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/college-savings/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/eco-friendly/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/categories/education/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/education-fund/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/energy-saving/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/categories/finance/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/financial-planning/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/posts/save-money-tuition-fees/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/save-money-tuition-fees/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/save-money-tuition-fees/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/save-money-tuition-fees/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/save-money-tuition-fees/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/save-money-tuition-fees/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/save-money-tuition-fees/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/money-saving/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/categories/parenting/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/categories/parenting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/categories/parenting/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/parenting-tips/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/posts/save-money-save-world/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
@@ -162,16 +271,13 @@
     <loc>https://www.aixwim.cloud/tags/sustainable-living/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aixwim.cloud/tags/budgeting/</loc>
-    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+    <loc>https://www.aixwim.cloud/tags/tuition-fees/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/car-maintenance/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/fuel-efficiency/</loc>
-    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/money-saving-tips/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/posts/save-money-on-transportation/</loc>
@@ -347,9 +453,6 @@
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/financial-health/</loc>
-    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/financial-planning/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/fishing-boats/</loc>
@@ -944,9 +1047,6 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/tags/family-budget/</loc>
-    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/categories/finance/</loc>
     <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/fishing-regulations/</loc>
@@ -4082,22 +4182,6 @@
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/offshore-fishing/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/categories/parenting/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aixwim.cloud/id/categories/parenting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aixwim.cloud/categories/parenting/"
-                />
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/parenting-tips/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/psychotherapy/</loc>
@@ -9204,9 +9288,6 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/tags/education/</loc>
-    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/categories/education/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/posts/effective-after-school-activities/</loc>
