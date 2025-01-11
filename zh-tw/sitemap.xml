@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.aixwim.cloud/zh-tw/tags/4c/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/tags/4c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/tags/4c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/tags/4c/"
+                />
+  </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,7 +54,7 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/posts/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,7 +87,7 @@
                 />
   </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/categories/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -100,6 +118,54 @@
                 hreflang="zh-tw"
                 href="https://www.aixwim.cloud/zh-tw/categories/"
                 />
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-tw/tags/%E6%8C%91%E9%81%B8%E9%91%BD%E7%9F%B3/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-tw/posts/selecting-diamonds/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/selecting-diamonds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/selecting-diamonds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/selecting-diamonds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/selecting-diamonds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/selecting-diamonds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/selecting-diamonds/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-tw/categories/%E7%BE%8E%E5%AE%B9%E8%88%87%E6%99%82%E5%B0%9A/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-tw/tags/%E8%B3%BC%E8%B2%B7%E9%91%BD%E7%9F%B3/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-tw/tags/%E9%91%BD%E7%9F%B3/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/zh-tw/tags/%E9%91%BD%E7%9F%B3%E8%A9%95%E7%B4%9A/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/categories/%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
@@ -307,9 +373,6 @@
     <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/tags/%E6%9C%8D%E8%A3%9D%E8%B3%BC%E7%89%A9/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/zh-tw/categories/%E7%BE%8E%E5%AE%B9%E8%88%87%E6%99%82%E5%B0%9A/</loc>
     <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/posts/saving-money-on-clothes/</loc>
@@ -2667,9 +2730,6 @@
     <lastmod>2024-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/tags/%E5%AF%B6%E7%9F%B3%E5%AE%9A%E5%83%B9/</loc>
-    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/zh-tw/tags/%E9%91%BD%E7%9F%B3/</loc>
     <lastmod>2024-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/tags/%E9%91%BD%E7%9F%B3%E5%88%87%E5%89%B2/</loc>
@@ -5575,9 +5635,6 @@
                 hreflang="zh-tw"
                 href="https://www.aixwim.cloud/zh-tw/posts/choosing-diamond-cut/"
                 />
-  </url><url>
-    <loc>https://www.aixwim.cloud/zh-tw/tags/%E8%B3%BC%E8%B2%B7%E9%91%BD%E7%9F%B3/</loc>
-    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/zh-tw/posts/easy-tips-on-how-to-care-for-your-plants/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>

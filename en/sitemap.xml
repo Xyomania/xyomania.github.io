@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.aixwim.cloud/tags/4-cs/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.aixwim.cloud/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -35,11 +38,14 @@
                 href="https://www.aixwim.cloud/"
                 />
   </url><url>
-    <loc>https://www.aixwim.cloud/tags/budgeting-tips/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <loc>https://www.aixwim.cloud/categories/beauty-and-fashion/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/buying-diamonds/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/categories/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -71,39 +77,17 @@
                 href="https://www.aixwim.cloud/categories/"
                 />
   </url><url>
-    <loc>https://www.aixwim.cloud/tags/cost-of-living/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <loc>https://www.aixwim.cloud/tags/diamond-grading/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aixwim.cloud/categories/family/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aixwim.cloud/id/categories/family/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aixwim.cloud/categories/family/"
-                />
+    <loc>https://www.aixwim.cloud/tags/diamond-selection/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aixwim.cloud/tags/family-budget/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/categories/finance/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/financial-planning/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/categories/lifestyle/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/personal-finance/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <loc>https://www.aixwim.cloud/tags/diamonds/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/posts/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -134,6 +118,73 @@
                 hreflang="en"
                 href="https://www.aixwim.cloud/posts/"
                 />
+  </url><url>
+    <loc>https://www.aixwim.cloud/posts/selecting-diamonds/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/posts/selecting-diamonds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.aixwim.cloud/ja/posts/selecting-diamonds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.aixwim.cloud/ru/posts/selecting-diamonds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.aixwim.cloud/zh-cn/posts/selecting-diamonds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.aixwim.cloud/zh-tw/posts/selecting-diamonds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/posts/selecting-diamonds/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/budgeting-tips/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/cost-of-living/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/categories/family/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aixwim.cloud/id/categories/family/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aixwim.cloud/categories/family/"
+                />
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/family-budget/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/categories/finance/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/financial-planning/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/categories/lifestyle/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aixwim.cloud/tags/personal-finance/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/posts/secrets-keeping-family-budget/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
@@ -292,9 +343,6 @@
   </url><url>
     <loc>https://www.aixwim.cloud/tags/sustainable-living/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/categories/beauty-and-fashion/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/budget-fashion/</loc>
     <lastmod>2025-01-07T00:00:00+00:00</lastmod>
@@ -1797,9 +1845,6 @@
     <loc>https://www.aixwim.cloud/tags/diamond-certificates/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aixwim.cloud/tags/diamond-grading/</loc>
-    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.aixwim.cloud/tags/diamond-insurance/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -2305,9 +2350,6 @@
     <lastmod>2024-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/diamond-value/</loc>
-    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/diamonds/</loc>
     <lastmod>2024-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/digital-camera/</loc>
@@ -4496,9 +4538,6 @@
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/tags/budgeting-strategies/</loc>
-    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aixwim.cloud/tags/buying-diamonds/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.aixwim.cloud/posts/buying-diamonds-online/</loc>
