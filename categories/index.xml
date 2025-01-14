@@ -12,8 +12,29 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>Aixwim</copyright>
-    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.aixwim.cloud/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home and Garden</title>
+      <link>https://www.aixwim.cloud/categories/home-and-garden/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/home-and-garden/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>https://www.aixwim.cloud/categories/finance/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Development</title>
+      <link>https://www.aixwim.cloud/categories/personal-development/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/categories/personal-development/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Beauty and Fashion</title>
       <link>https://www.aixwim.cloud/categories/beauty-and-fashion/</link>
@@ -26,13 +47,6 @@
       <link>https://www.aixwim.cloud/categories/family/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/family/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Finance</title>
-      <link>https://www.aixwim.cloud/categories/finance/</link>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/finance/</guid>
       <description></description>
     </item>
     <item>
@@ -54,13 +68,6 @@
       <link>https://www.aixwim.cloud/categories/shopping/</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/shopping/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Home and Garden</title>
-      <link>https://www.aixwim.cloud/categories/home-and-garden/</link>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/home-and-garden/</guid>
       <description></description>
     </item>
     <item>
@@ -201,13 +208,6 @@
       <link>https://www.aixwim.cloud/categories/marketing/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.aixwim.cloud/categories/marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Personal Development</title>
-      <link>https://www.aixwim.cloud/categories/personal-development/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.aixwim.cloud/categories/personal-development/</guid>
       <description></description>
     </item>
     <item>

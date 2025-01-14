@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Small Gardens on AIXWIM</title>
+    <link>https://www.aixwim.cloud/tags/small-gardens/</link>
+    <description>Recent content in Small Gardens on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/tags/small-gardens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seven Gardening By the Yard Tips</title>
+      <link>https://www.aixwim.cloud/posts/seven-gardening-by-the-yard-tips/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/posts/seven-gardening-by-the-yard-tips/</guid>
+      <description>Transform your small yard into a beautiful garden with these seven simple and effective gardening tips.</description>
+    </item>
+  </channel>
+</rss>

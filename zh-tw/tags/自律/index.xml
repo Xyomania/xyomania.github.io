@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>自律 on AIXWIM</title>
+    <link>https://www.aixwim.cloud/zh-tw/tags/%E8%87%AA%E5%BE%8B/</link>
+    <description>Recent content in 自律 on AIXWIM</description>
+    <image>
+      <title>AIXWIM</title>
+      <url>https://www.aixwim.cloud/images/</url>
+      <link>https://www.aixwim.cloud/images/</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>zh-tw</language>
+    <copyright>Aixwim</copyright>
+    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.aixwim.cloud/zh-tw/tags/%E8%87%AA%E5%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自律與存錢</title>
+      <link>https://www.aixwim.cloud/zh-tw/posts/self-discipline-saving-money/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aixwim.cloud/zh-tw/posts/self-discipline-saving-money/</guid>
+      <description>學習如何透過自律來改善您的財務狀況，幫助您為更加安全的未來儲蓄資金。</description>
+    </item>
+  </channel>
+</rss>
